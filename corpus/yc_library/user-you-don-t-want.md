@@ -3,56 +3,33 @@ title: User you don't want
 source: https://www.ycombinator.com/library/67-user-you-don-t-want
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-User you don't want
-User you don't want
-by Michael Seibel
-38K views
-Over 1 year ago
-Chapters
-0:00
-Users You Don’t Want
-1:30
-The spectrum of how users are using your product
-3:00
-Users that take a lot of customer support time
-5:50
-Don’t let the hijack users control the product roadmap
-
 When you’re just getting started, many startups will take every user they can get. They have a strong idea of a problem and they want to attract as many users with that problem as possible. Unfortunately, when you open up the barn doors you get all sorts of people with all sorts of problems. Some of them will try to hijack your product to solve a problem you didn’t intend to solve. By and large, these hijackers are users you don’t want.
 
 For example, say I’m starting Uber for babysitters. Our target customers are parents with kids from around the age 4 to 12. These kids we can service with committed babysitters who don’t have special training therefore allowing us to provide our service at a reasonable price point to a wide variety of users. Now, what happens if someone with an infant or developmentally challenged teenager signs up? Their needs present an entirely new set of problems, problems that could be solved by a startup but not necessarily by ours. Remember you don’t have to pivot your business because a customer needs something that you don’t offer.
 
-Why Not Solve Their Problem, Too? Sometimes you should. Sometimes the hijacker users are actually showing you where there’s an even more acute need, an even bigger problem. But, in other cases, they are leading you into a trap where you are solving a problem for a smaller group of users or in the worst case just them. This is a consulting business and if you are doing a tech startup - you don’t want to be in the business of solving one off problems for users.
+**Why Not Solve Their Problem, Too?**
+Sometimes you should. Sometimes the hijacker users are actually showing you where there’s an even more acute need, an even bigger problem. But, in other cases, they are leading you into a trap where you are solving a problem for a smaller group of users or in the worst case just them. This is a consulting business and if you are doing a tech startup - you don’t want to be in the business of solving one off problems for users.
 
 So what should you do? Well, there is no right answer but before diving into this new problem have this conversation with your co-founders. Should you explore switching the problem you are trying to solve? Does this user represent a larger group? Are the economics of your business different or broken if you serve this user or others like them? Does this user represent an even better opportunity for you to grow your business?
 
-In the case of Justin.tv, pivoting to serve video gamers was the right move. Our video game broadcasters always represented a small but consistent group of users. It tooks us 4-5 years to realize how important they were. Serving them didn’t change the costs of the business too much: our major costs were salaries and bandwidth and we didn’t care what video was being streamed as long as people were watching and chatting. Also it opened up monetization avenues that were very interesting: online video advertisers would prefer to advertise against video gameplay than general UGC content.
+In the case of [Justin.tv](http://Justin.tv), pivoting to serve video gamers was the right move. Our video game broadcasters always represented a small but consistent group of users. It tooks us 4-5 years to realize how important they were. Serving them didn’t change the costs of the business too much: our major costs were salaries and bandwidth and we didn’t care what video was being streamed as long as people were watching and chatting. Also it opened up monetization avenues that were very interesting: online video advertisers would prefer to advertise against video gameplay than general UGC content.
 
-Saying No If you decide you don't want to serve this customer that is okay! Remember that being good at customer service doesn’t mean serving every potential customer. You should always be courteous with people you can’t serve but you shouldn’t feel bad telling them that you’re focused on solving another problem. They’ll survive and you’ll be much more likely to serve your target customers better. Also, focusing in on a specific problem will help you find product/market fit.
+**Saying No**
+If you decide you don't want to serve this customer that is okay! Remember that being good at customer service doesn’t mean serving every potential customer. You should always be courteous with people you can’t serve but you shouldn’t feel bad telling them that you’re focused on solving another problem. They’ll survive and you’ll be much more likely to serve your target customers better. Also, focusing in on a specific problem will help you find product/market fit.
 
 In the early days, by focusing on solving one problem really well, you’re betting on making a small amount of people very happy. If you let any user that walks in the door steer the product roadmap you’re going to end up doing a shitty job at half-solving a lot of problems.
 
-Transcript
+## Transcript
 
 Michael Seibel: Users you don't want. And this one was Stannis. Yeah, this was fun. Yeah, when you're just getting started, many startups will take every user they can get. They have a strong idea of a problem and they want to attract as many users with that problem as possible. Unfortunately, when you open up the barn doors, you get all sorts of people with all sorts of problems. Some of them will try to hijack your product to solve a problem you didn't intend to solve. By and large, these hijackers are users you do not want.
 
 Host: When is this happen to you?
 
-Michael Seibel: I mean, Justin.tv was by definition hijacked. Yeah, like we built a product to allow people to livestream their lives, and within a year it was being used to stream copper and content around the world. Absolutely hijacked from. And, and, and what's interesting is that I'm a little afraid of my phrasing here. I, I wish I didn't say that these hijack users are not, are not users you want. Because it turns out that, like, sometimes they are. Yeah, it turns out that, like, you know, the reason why we even had an inkling to do Twitch was because some percentage of the hijack users were video gamers. And like, it turns out that that could have been a much bigger community if we, if we helped it. And then eventually became one. So this kind of, like, users using your product for a whole variety of things. I like to think about it more like on a spectrum.
+Michael Seibel: I mean, [Justin.tv](http://Justin.tv) was by definition hijacked. Yeah, like we built a product to allow people to livestream their lives, and within a year it was being used to stream copper and content around the world. Absolutely hijacked from. And, and, and what's interesting is that I'm a little afraid of my phrasing here. I, I wish I didn't say that these hijack users are not, are not users you want. Because it turns out that, like, sometimes they are. Yeah, it turns out that, like, you know, the reason why we even had an inkling to do Twitch was because some percentage of the hijack users were video gamers. And like, it turns out that that could have been a much bigger community if we, if we helped it. And then eventually became one. So this kind of, like, users using your product for a whole variety of things. I like to think about it more like on a spectrum.
 
 Host: Mm-hmm.
 
-Michael Seibel: Like, there's the user who's using your product as intended. Yeah, great, makes feel good. Maybe there's a business there, maybe there's. Right. There's the user who's using your product in interesting ways with potential. Yeah, right. Study those users. Those users are very important. Video gamers are Justin.tv. There are users who are using your product with ways that it's extremely clear to you that there isn't long-term value, even if there is short-term value, right? I'd argue that those were the copper and streamers on Justin.tv. There's a short-term value because we can monetize with ads, and so once over the long term, we weren't really creating value. And then they're like hijack users. I'd argue, like, those are users who are using your product and they're creating no value, and they're probably actively—do you like—decreasing your value? They're there. They're harming your network, right? And, like, for us, you know, that would be people like, you know, some people's dreams, like, pretty horrible things on Justin.tv, right? Like, that was, that was not good. And so, um, what's interesting is that now when I talk to startups at YC, they don't know how to recognize these hijack users and just kick them out.
+Michael Seibel: Like, there's the user who's using your product as intended. Yeah, great, makes feel good. Maybe there's a business there, maybe there's. Right. There's the user who's using your product in interesting ways with potential. Yeah, right. Study those users. Those users are very important. Video gamers are [Justin.tv](http://Justin.tv). There are users who are using your product with ways that it's extremely clear to you that there isn't long-term value, even if there is short-term value, right? I'd argue that those were the copper and streamers on [Justin.tv](http://Justin.tv). There's a short-term value because we can monetize with ads, and so once over the long term, we weren't really creating value. And then they're like hijack users. I'd argue, like, those are users who are using your product and they're creating no value, and they're probably actively—do you like—decreasing your value? They're there. They're harming your network, right? And, like, for us, you know, that would be people like, you know, some people's dreams, like, pretty horrible things on [Justin.tv](http://Justin.tv), right? Like, that was, that was not good. And so, um, what's interesting is that now when I talk to startups at YC, they don't know how to recognize these hijack users and just kick them out.
 
 Host: Mmm.
 
@@ -81,88 +58,3 @@ Michael Seibel: Then it's a totally okay to explore, to experiment, so and so fo
 Host: I mean, this is sort of the mentality. It's like, at the end of the day, you have to have some opinion about your product. You can't just be like, "I don't know if the market's gonna take it wherever the customers take it wherever."
 
 Michael Seibel: Yes, it's been really hard to build product without some opinion. Yeah.
-
-Related
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-6:21
-How to get and test ideas
-360K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-4:00
-Founder FAQ: How did you get your first customer?
-191K views
-Over 1 year ago
-8:21
-How to build product as a small startup
-181K views
-Over 1 year ago
-19:50
-How to launch (again and again)
-172K views
-Over 1 year ago
-6:20
-How pitching investors is different than pitching customers
-119K views
-Over 1 year ago
-2:30
-Why do startups fail?
-27K views
-Over 1 year ago
-Guide to product development
-Michael Seibel
-This is a guide to running your product development process. This will help you rapidly iterate, measure, test, and improve your product while fully engaging your team.
-How to prioritize features
-Emmett Shear
-Emmet Shear shares his mental frameworks for prioritizing building features that work to figure out what to build next on your product, drawing from his experience building Justin.tv and Twitch.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

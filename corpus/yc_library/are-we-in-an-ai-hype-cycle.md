@@ -3,30 +3,11 @@ title: Are We In An AI Hype Cycle?
 source: https://www.ycombinator.com/library/LR-are-we-in-an-ai-hype-cycle
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Are We In An AI Hype Cycle?
-LIGHTCONE
-Are We In An AI Hype Cycle?
-by Y Combinator
-73K views
-Over 1 year ago
-
 Is the latest excitement around AI just another round of dot-com or crypto style hype? The Lightcone hosts discuss where AI might be if the hype cycle is real and what may remain once the buzz wears off.
 
-Transcript
+## Transcript
 
-Gary Tan: Hey everyone, I have some pretty crazy news to share with you today. YC is doing the first ever fall batch. Applications are due August 27th, and we fund you for $500,000. All you have to do is apply on ycombinator.com. Slash app. Now let's get on with the episode.
+Gary Tan: Hey everyone, I have some pretty crazy news to share with you today. YC is doing the first ever fall batch. Applications are due August 27th, and we fund you for $500,000. All you have to do is apply on [ycombinator.com](http://ycombinator.com). Slash app. Now let's get on with the episode.
 
 Nvidia became the most valuable company in the world. Who would have thought? There's been a lot of concerns with the different articles online that are saying AI is overinvestment.
 
@@ -149,66 +130,3 @@ Gary Tan: Yeah, I think ultimately that's what's playing out here. I mean, it's 
 And then on the flip side, like, in the long run though, ultimately the value of every company is discounted cash flows from the future. You know, you need your customers to actually have a problem solved. People pay them, and then, you know, your customers stick with you forever. That's why when you look at Google or Meta or, you know, any of the Magnificent Seven, those companies are the most valuable companies in the world because people feel that those companies may well make money forever, right? And there's safety in that. That's sort of like what people, you know, believe now. And then the public markets ultimately are, you know, they themselves are both totally crazy voting machines as well, but they eventually resemble weighing machines. Like, ultimately you actually have to make money. Ultimately you actually have to have customers. And at that point, you need to have made something of actual heft and weight that actually works well.
 
 That's all we have time for today. We'll see you guys next time.
-
-Up next from Lightcone Podcast
-48:44
-Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
-67K views
-Over 1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-38:24
-10 People + AI = Billion Dollar Company?
-216K views
-Over 1 year ago
-41:07
-Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
-86K views
-Over 1 year ago
-48:44
-Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
-67K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

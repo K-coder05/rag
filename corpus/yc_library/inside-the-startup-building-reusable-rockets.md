@@ -3,51 +3,9 @@ title: Inside The Startup Building Reusable Rockets
 source: https://www.ycombinator.com/library/NC-inside-the-startup-building-reusable-rockets
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Hard Tech
-›
-Inside The Startup Building Reusable Rockets
-HARD TECH
-Inside The Startup Building Reusable Rockets
-by Y Combinator
-41K views
-7 months ago
-Chapters
-0:00
-— Intro
-1:16
-— Stoke Space’s mission: Rapid reusability
-2:18
-— Why Second Stage capsules fail reentry
-3:34
-— Stoke Space’s stage 2 solution
-5:30
-— Reusability-First Design Philosophy
-7:25
-— Early Engine Development & Test Strategy
-10:48
-— Vertical Integration & Manufacturing
-11:21
-— Iteration Speed as a Competitive Advantage
-12:29
-— Software as Core Infrastructure
-14:00
-— Path to Orbit & Launch Operations
-15:04
-— How This Could Change The World
-
 Stoke Space is racing to build the world's first fully reusable rockets that can launch, survive reentry, and fly again and again. In this episode of Hard Tech, YC’s Aaron Epstein sits down with Stoke Space co-founders Andy Lapsa and Tom Feldman to find out why they chose to take on one of the hardest problems in rocket science, how an obsession with efficiency gives them an edge, and what full reusability could unlock for the future of spaceflight.
 
-Transcript
+## Transcript
 
 Host: The team at Stoke Space is going after the holy grail of rocket science. Stoke is building fully and rapidly reusable rockets with aircraft-like reusability. Today, only this section of rockets can be reused. But Stoke Space is focused on the entire rocket, including a stage 2 capsule that will finally be able to survive the brutal re-entry to Earth. This could open the door to all kinds of new opportunities in space. I think if you have something that can go up and come back to the place where you want it to go when you want it to go, I think it is like the iPhone app store moment. People are going to come up with like absolutely crazy ideas for how to take advantage of that.
 
@@ -134,66 +92,3 @@ Host: What was the moment that you guys actually started to believe that you cou
 Speaker: The very beginning was convincing ourselves that this was an idea worth pursuing. I got to the level of conviction in the idea that I said we owe it to the world to try.
 
 Speaker: This idea. Whether or not it succeeds, this idea is good enough. It has to be tried.
-
-Up next from Hard Tech
-12:56
-Inside The Startup Launching AI Into Space
-327K views
-9 months ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-12:56
-Inside The Startup Launching AI Into Space
-327K views
-9 months ago
-8:08
-Fusion Energy Is Tech's Next Big Unlock
-57K views
-1 year ago
-12:47
-The World's First Commercial Mobile Carbon Capture Device
-50K views
-10 months ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

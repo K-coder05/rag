@@ -3,28 +3,10 @@ title: Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers
 source: https://www.ycombinator.com/library/Pa-tokenmaxxing-how-top-builders-use-ai-to-do-the-work-of-400-engineers
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers
-LIGHTCONE
-Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers
-by Y Combinator
-97K views
-3 months ago
+We're entering a new era of software where a single person, working with AI agents, can build products that previously required entire teams.
+In this episode of Lightcone, the hosts break down the rise of AI coding agents, "tokenmaxxing", and the emerging workflows behind tools like Claude Code and OpenClaw. They discuss why AI systems today feel less like productivity tools and more like collaborators, why the future of AI should be personal and user-controlled, and how founders are starting to build software in completely new ways.
 
-We're entering a new era of software where a single person, working with AI agents, can build products that previously required entire teams. In this episode of Lightcone, the hosts break down the rise of AI coding agents, "tokenmaxxing", and the emerging workflows behind tools like Claude Code and OpenClaw. They discuss why AI systems today feel less like productivity tools and more like collaborators, why the future of AI should be personal and user-controlled, and how founders are starting to build software in completely new ways.
-
-Transcript
+## Transcript
 
 Gary Tan (host): I think that's like the defining question. Like will you have control over your own tools or will your tools have control over you? Using OpenClaw these days is like driving a Ferrari and it's like exhilarating. It's insane. Like you get to do things like it figures things out you would never think a machine could figure out and it does it so quickly, but then it's also like a Ferrari and that you better be a mechanic. Like it's a Ferrari that will break down on the side of the road, you know, when you most need it, and you need to get out with your wrench and pop the hood and like fi fix it. You know, you're gonna have to fix it yourself. And so this is a very exciting time in uh computer science and technology.
 
@@ -34,7 +16,7 @@ If you follow us on Twitter, you'll know that after a multi-year hiatus to becom
 
 And uh that's what a mass social movement is. And I said, okay, well, why don't I just make a website where we start doing that? And it would just start with um, why don't I start writing about the issues that I'm worried about? It's like I want children in school, you know, people watching this from all around the world might find it very, very strange, like I find it strange. that uh it was not possible and still very, very hard for a seventh grader or eighth grader in middle school in San Francisco public schools to be able to take algebra. And that was, you know, a math education thing. Like I, you know, if I didn't get to do that when I was in public schools in the East Bay of the Bay Area, there's no way I would have studied engineering at Stanford. I never would have written code. I never would have been able to do any of these things. So it was close to my heart and I realized like, Hey, it's time to write code and I ended up building Posterous, my first YC startup from two thousand eight. What what was Posterous for people who don't remember it?
 
-Yeah, Posterous was uh Dead Simple blogs by email. It grew to be a top two hundred website on the internet and then Twitter ended up buying it for about twenty million dollars. So that was sort of like my first bag really. I actually built it again uh as post haven when Twitter um you know bought it for the amazing people that we had hired and uh they shut down the startup. It would have cost a couple million dollars to buy it back from Twitter. And at the time I had no money in the world. So the next best thing was why don't I write it again? And then uh in January of this year, I ended up writing it a third time. Um only, you know, the first time it took about, you know, four million dollars and, you know, six or seven people and about a year and a half. And then the second time it, you know, took about, I don't know, a hundred grand and two people, me and my co-founder Brett Gibson, who now runs initialized, um, and maybe like three months or so And then in this case it took about $200, which was my Claude Code Max account, and probably five days. Full featured blog platform, does everything you want. And then on top of that, like full rag, full um agentic retrieval, like be able to you know, sort of go out and read all of the internet, like every tweet I've ever done, recursive crawl, deep research of any topic. The algebra thing is just one of a whole lot of different issues that we really, really care about. And to be able to go ingest the internet, you know, see all the arguments for and against, and then to craft incredibly detailed um reports on the back end about Um, what are all the quotables? Like I think people who are big followers of the light cone might remember one of our first episodes about agentic uh systems with Jake Heller, actually. So Jake created case text and he described exactly what I ended up building for basically journalistic uh long form articles about any, you know, sort of issue or uh you know piece of news that was happening. And so, you know, anyone can go to Gary's list.org today and You know, we do about two or three relatively, you know, researched, all fully sourced um articles about what's going on in California and San Francisco and LA and like how do we build a better government? This is the thing I feel like people missed about Gary's little don't fully get is that it's like the classic thing we've been talking about here, which is like Software was you build software to let people use it. So it was like you build a blogging platform and people like write blogs and maybe like they'd start their own sub stacks eventually or they like write articles. But Gary's list is both blogging platform, but it actually does the work of a high-quality investigative journalist. It's not just something that a journalist uses to publish their articles. Yeah. I mean basically the for the equivalent of like five or ten dollars of Opus calls. I mean, I would estimate that it does the work of like
+Yeah, Posterous was uh Dead Simple blogs by email. It grew to be a top two hundred website on the internet and then Twitter ended up buying it for about twenty million dollars. So that was sort of like my first bag really. I actually built it again uh as post haven when Twitter um you know bought it for the amazing people that we had hired and uh they shut down the startup. It would have cost a couple million dollars to buy it back from Twitter. And at the time I had no money in the world. So the next best thing was why don't I write it again? And then uh in January of this year, I ended up writing it a third time. Um only, you know, the first time it took about, you know, four million dollars and, you know, six or seven people and about a year and a half. And then the second time it, you know, took about, I don't know, a hundred grand and two people, me and my co-founder Brett Gibson, who now runs initialized, um, and maybe like three months or so And then in this case it took about $200, which was my Claude Code Max account, and probably five days. Full featured blog platform, does everything you want. And then on top of that, like full rag, full um agentic retrieval, like be able to you know, sort of go out and read all of the internet, like every tweet I've ever done, recursive crawl, deep research of any topic. The algebra thing is just one of a whole lot of different issues that we really, really care about. And to be able to go ingest the internet, you know, see all the arguments for and against, and then to craft incredibly detailed um reports on the back end about Um, what are all the quotables? Like I think people who are big followers of the light cone might remember one of our first episodes about agentic uh systems with Jake Heller, actually. So Jake created case text and he described exactly what I ended up building for basically journalistic uh long form articles about any, you know, sort of issue or uh you know piece of news that was happening. And so, you know, anyone can go to Gary's [list.org](http://list.org) today and You know, we do about two or three relatively, you know, researched, all fully sourced um articles about what's going on in California and San Francisco and LA and like how do we build a better government? This is the thing I feel like people missed about Gary's little don't fully get is that it's like the classic thing we've been talking about here, which is like Software was you build software to let people use it. So it was like you build a blogging platform and people like write blogs and maybe like they'd start their own sub stacks eventually or they like write articles. But Gary's list is both blogging platform, but it actually does the work of a high-quality investigative journalist. It's not just something that a journalist uses to publish their articles. Yeah. I mean basically the for the equivalent of like five or ten dollars of Opus calls. I mean, I would estimate that it does the work of like
 
 Gary Tan (host): you know, a real human being that would have to like go painstaking through dozens of articles, read entire books about certain subjects, uh, annotate them. I mean, going back to the case text example, like the thing that Jake taught me was that you need to think about what a human would do with the context given. Like what would it retrieve? Like, does it go to the library? What kind of book would it look for? What does it search on for search, you know, on the web? I mean, the great thing now is like You don't have to just do that. Like you can get Perplexities API and you can do deep research there. You have X's API, you can do deep research there. You know, Grok's API, if you need to like do research on X using the Grok API, is actually very, very good. And you can just grab all of the context. This is sort of going back to the philosophy of uh boil the ocean, which is one of my essays. It's like particularly when building agentix software now. You don't have to settle for um what we did when we were humans writing the code. Like, and that goes for research as well. What if you absolutely boil the ocean? Like, what is you know the total completionist? Like, if you were a human, this would take you about a month to do this research. You can just, you know, zap the rocks harder. Uh, you know, it you pay more money and you might be token maxing. but you should token max. Like basically if there is incremental work that makes something more complete, more awesome, more you know, in the case of um this type of writing, like we want it to be more representative of reality. Like you know, we don't just settle for one source when we can get twenty sources and we can cross reference them. We can figure out like, well, these thirteen sources say this and the seven sources disagree with that and then, you know, you want to feed all of that context into like your core prompt and then you can basically make a better decision than what you would like just, you know, a human being clicking on a link, reading a headline, and that's all you understand. And I think if you token max, like that's actually the coolest thing you can do now. And it's not just in, you know, generating articles. It's not, you know, it's clearly in uh writing code, right? I think now it's it's going to permeate every part of society, like every thing that we would call knowledge work could be token maxed. And um I don't think that it means that we're gonna get rid of people. I think it means that people need to s still supply uh the agency. Like I need this. Like I'm the one who's sitting here caring about algebra. Like I want kids like me who couldn't afford private school. You know, San Francisco is the one city in the world that has the highest rate of private school attendance, um, probably in the entire country, actually. And that's not okay. Like you shouldn't have to be rich to have a good education. And, you know, I don't know why that's controversial. And so for me it's like this, you know, mass sort of shift in technology was happening. And then uh I had a need and a want and a desire and it was a burning desire. Like I it hurts me and pains me to think about ten, twelve, thirteen year old kids who don't know algebra and like could have But uh some bureaucrat or, you know, some virtue signaling person in power says, like, actually I don't want that kid who wants to learn algebra to learn it. So I think in this process of basically solving your own pain and need from the young Gary and building Gary's list, you sort of discover a lot of patterns on token maxing and this new way of building that led you to the next project, which was uh G Stack. Like I actually did not plan to make G Stack. All I did was like I uh realized that I was doing the same things over and over again. And then I got sick of typing the same thing. So I went into my Apple notes. I typed in all the things that I found myself writing over and over again into Cloud Code. And it was pretty simple stuff. It's like here's the plan review. One of the things I started doing is I really love asking Claude to make ASCII art diagrams. One of the things I discovered is um sometimes Claude would just get confused and like write bugs or not be complete. But once I started saying, actually before you start your work, make an ASCII diagram of all the data flows, all the inputs and outputs, what are the user flows, what are the error messages? And you can see this. It's like data flow, state machines, dependency graphs, processing pipelines, decision trees. Once it did that, it loaded all of the context in and then it just did the work more completely. Like it boiled the ocean better. And it broke down into a bunch of different sections. Like here's architecture review, code quality, test. I mean, one of the things I learned building Gary's list was that when I was writing the code myself, I would always do the minimum amount of testing. 'Cause it's just like not very fun. I knew I needed to have it, but I'm here to write, you know, fun new code. I, you know, did not like write to write tests. And then honestly, like I hit all the things that everyone else hits when they start vibecoding, which is like, this is slop, it's not working that well. Like it works fine for the 80% case, but If any users actually touch it, it starts falling over. And then that's when I realized, oh, I can get to a hundred percent test coverage. I've since learned that a hundred percent is probably too much. Like hitting eighty to ninety percent is usually the best practice at this point. Um, but yeah, this this is basically the first version of plan dash eng dash review. I know uh everyone knows the office hour skill, uh, which is you know what people can use and I still use when I'm trying to make a brand new product or a brand new feature. It uh simulates what uh what we do when we're working with a company. It's like, how do you know that people want this? You know, who's it for? What does it do? And what's the impact, right? But this is like the proto skill. Like this is, I didn't even know skills existed. And I posted this and it went viral. Like, you know, 200,000 people saw that. And then I made another version of it that was a mu much more ex uh expansive version. I called it the mega plan. And then I ended up um renaming it to the CEO plan. We've probably talked about meta prompting before. I used meta prompting here. I took the other review plan that we had and then uh I said, Okay, well let's do a version of this, but like imagine Brian Chesky sitting with you, right? Like Brian Chesky has this great line about
 
@@ -121,66 +103,3 @@ to look at, you know, spending five hundred dollars in a single day on tokens an
 Uh, I'm gonna do that. Gary, I have a weird question. Do you think that in some ways the fact that you tried to build all of this while also being the CEO of Y Combinator actually helped you? Because like your time is so scarce, you had to like try to figure out how to write hundreds of thousands of lines of code with just like spare minutes in between meetings. Yeah. Unlike a prof a full time software engineer.
 
 Gary Tan (host): that could, you know, just take the time to like open the website and like click around it, like just hit test it. Like those minutes were like insanely scarce for you. And so you were constantly pushing yourself to figure out how to like automate everything. Yeah, I I envy time billionaires. You know, sometimes look at I mean, I'm look at my kids and it's like, these kids are time billionaires right now, man. Like, you know, you could just like do th you know, you know, we run across people at startup school all the time and it's like You're a time billionaire right now. Like this is incredible. Like you could just do anything. You like learn about anything. This is so great. So yeah, I'm, you know, personally, like, I think my philosophy is I am in a crazy rush. In my brain, I'm like probably live 10 billion lifetimes to live in this body right now, and I need every single moment to count. Uh and then if you can token max, it's like, I mean, you could buy millions of years of consciousness, of machine consciousness. Now I can be a time billionaire. It's not, you know, my own time. It's the time of a machine like doing work for me and like the human entities that I care about working on the causes that I care about, right? I care about Y C. I care about builders being able to build. Even in a lot of our internal meetings last year, remember in our offsites, we would talk about like how do we teach the next generation how to use these tools? And so, you know, I'd like to s I wish that I could say like that was a all a part of the grand plan and that's how it started. It's not like, but you know, subconsciously I actually think it was like I think subconsciously from doing Lycone and like talking about this stuff, like sitting side by side with uh Boris Cherny right here. was a very powerful moment for me because I realized like he's he started saying things that like I could do myself. It's like he said, our team doesn't write a single line of code. I'm like, oh, actually like I can do that. And like the people who are watching right now, it's like you and I are not different, right? We're the same. Like we started in the same place. I don't think of myself as like you know, in the sky yet, even though people seem to talk like I am, you know, like I'm just a person trying to do a thing. And if I sit next to Boris, I'm like, you know, this guy is one of the best engineers I've ever met. But also like If I just open a prompt, we have the same prompt. We have the same MacBook Pro. And, you know, there's nothing that stands between like me or you or any of us from like drawing on millions of years potentially of like tokens to like serve humanity. Well, Gary, I think that was a beautiful quote. That should be retweetable. It says you could have infinite time by borrowing the time from the machines. Yeah, what a time to be alive. That's a beautiful thought to end on. Thanks, Gary, for showing us the future. Thanks, guys. All right. Thanks for watching and we'll see you on the next episode of the Light Code.
-
-Up next from Lightcone Podcast
-49:27
-Robots Are Finally Starting to Work
-77K views
-4 months ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-49:27
-Robots Are Finally Starting to Work
-77K views
-4 months ago
-39:33
-Agents For Non-Technical Users
-49K views
-5 months ago
-57:24
-François Chollet: ARC-AGI-3, Beyond Deep Learning & A New Approach To ML
-45K views
-5 months ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

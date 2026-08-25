@@ -3,53 +3,9 @@ title: How AI Is Changing Enterprise
 source: https://www.ycombinator.com/library/MB-how-ai-is-changing-enterprise
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-How AI Is Changing Enterprise
-LIGHTCONE
-How AI Is Changing Enterprise
-by Y Combinator
-132K views
-1 year ago
-Chapters
-0:00
-Intro
-1:15
-Why the GPT wrapper was a bad meme
-4:44
-Enterprise users just care about getting workflow done
-8:38
-What does it mean for startups as intelligence becomes a commodity?
-12:47
-Do Fortune 500’s have any interest in underlying models?
-20:19
-What are enterprise execs thinking about AI right now?
-27:04
-Is Box investing in internal AI tools?
-28:17
-What will enterprises build internally and what will they buy solutions for?
-34:50
-Is enterprise concerned with third-parties and security?
-36:16
-Shout-outs to Aaron!
-39:46
-The transition from cloud to AI
-48:38
-Outro
-
 The Lightcone hosts sit down with Aaron Levie, the co-founder & CEO of Box, to hear reports from the front of how large enterprise and Fortune 500 companies are adapting to the AI age.
 
-Transcript
+## Transcript
 
 Gary Tan: Wait a second. If we could use AI to automate more, we can build more. If we could build more, we can lower the cost of things. If we can lower the cost of things, then we can actually lift up anybody's lifestyle. Right now, I think that we're in the middle of the revolution, and the revolution does not have to be Black Mirror. It could be something that is driven by Jevons' Paradox, driven by abundance for everyone, and that's certainly the timeline we want to be on. So that's the future I'm betting on.
 
@@ -184,66 +140,3 @@ Aon Levy: Thank you. Thank you so much for being with us.
 Host: Great. I think that's a great place to end just because, you know, to be continued. Like, you know, I think that we're in the middle of the revolution, and the revolution does not have to be Black Mirror. It could be something that is driven by Jevons Paradox, driven by abundance for everyone. And that's certainly the timeline we want to be on. So let's do it.
 
 Aon Levy: That's the future I'm betting on.
-
-Up next from Lightcone Podcast
-43:49
-How To Get AI Startup Ideas
-284K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-43:49
-How To Get AI Startup Ideas
-284K views
-1 year ago
-39:33
-AI Revolution: Why This Is The Best Time To Start A Startup
-192K views
-1 year ago
-7:03
-The Lightcone 2025 Forecast
-51K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

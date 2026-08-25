@@ -3,27 +3,9 @@ title: The Untold Stories of Y Combinator with Co-Founder Jessica Livingston
 source: https://www.ycombinator.com/library/L6-the-untold-stories-of-y-combinator-with-co-founder-jessica-livingston
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-The Untold Stories of Y Combinator with Co-Founder Jessica Livingston
-The Untold Stories of Y Combinator with Co-Founder Jessica Livingston
-by Garry Tan
-14K views
-Over 1 year ago
-
 Come hear the untold stories of Y Combinator with Co-Founder Jessica Livingston, and learn how she got started in her incredible career in startups.
 
-Transcript
+## Transcript
 
 Gary: Jessica, thanks for coming on the show.
 
@@ -218,64 +200,3 @@ Jessica Livingston: Well, I'll tell you what—one thing that's interesting, and
 Host: Jessica, that's perfect place to end. Thank you so much. This is awesome.
 
 Jessica Livingston: You're welcome.
-
-Up next from Garry Tan's Channel
-13:17
-Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch
-48K views
-Over 1 year ago
-Related
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-13:17
-Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch
-48K views
-Over 1 year ago
-12:31
-The Secrets of Y Combinator’s Early Success (with YC Co-Founder Jessica Livingston)
-26K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

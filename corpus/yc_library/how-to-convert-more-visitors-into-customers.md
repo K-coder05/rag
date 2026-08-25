@@ -3,47 +3,11 @@ title: How to convert more visitors into customers
 source: https://www.ycombinator.com/library/KD-how-to-convert-more-visitors-into-customers
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design Review
-›
-How to convert more visitors into customers
-DESIGN REVIEW
-How to convert more visitors into customers
-by Aaron Epstein
-46K views
-Over 1 year ago
-Chapters
-0:00
-Intro: Converting clicks to customers
-0:28
-Optimizely
-0:57
-Conversion funnel or Conversion flow
-1:44
-Rivet
-5:57
-Decoherence
-13:23
-Solve Intelligence
-18:04
-InEvent
-23:23
-Outro
+Getting people to visit your startup’s website is just step one. Getting them to actually sign up, buy something, or even just care to learn more is a whole different challenge — and it’s one where good design is *crucial.*
 
-Getting people to visit your startup’s website is just step one. Getting them to actually sign up, buy something, or even just care to learn more is a whole different challenge — and it’s one where good design is crucial.
+For this episode of [Design Review](https://www.ycombinator.com/library/carousel/Design%20Review), Aaron Epstein is joined by YC’s [newest Group Partner](https://www.ycombinator.com/blog/meet-ycs-newest-group-partner-and-visiting-group-partners), Pete Koomen, to cover some of the seemingly small things in a page’s design that can ultimately have huge impacts. Pete knows a thing or two about this subject; before joining YC, he was a co-founder of [Optimizely](https://www.ycombinator.com/companies/optimizely), which helps thousands of companies run tests to figure out which potential design changes work best.
 
-For this episode of Design Review, Aaron Epstein is joined by YC’s newest Group Partner, Pete Koomen, to cover some of the seemingly small things in a page’s design that can ultimately have huge impacts. Pete knows a thing or two about this subject; before joining YC, he was a co-founder of Optimizely, which helps thousands of companies run tests to figure out which potential design changes work best.
-
-Transcript
+## Transcript
 
 Host: It's one thing to get somebody to your website. It's another to actually get them to sign up or convert. So today we're going to look specifically at how well your sites convert clicks to customers. Welcome to another episode of Design Review. Today we are lucky to be joined by my colleague Pete Koomen. Thank you for joining, Pete.
 
@@ -198,67 +162,3 @@ Pete Koomen: Yes. Yeah. For example, instead of "go beyond live events," just "e
 Host: Yep. Awesome. Nice work, Inevent. All right, that does it for this episode. Pete, thank you for joining us. It was awesome.
 
 Pete Koomen: Yeah, it was great to have you. You really appreciate it. And thank you to all the founders for submitting your websites. And uh, definitely let us know down in the comments if there are any uh tips or reviews that you found especially helpful. It will definitely help shape future episodes. Thanks for watching, and we will see you on the next design review.
-
-Up next from Design Review
-24:03
-Building a better mobile app
-132K views
-Over 1 year ago
-Related
-24:01
-Critiquing AI startup websites with YC President Garry Tan
-147K views
-Over 1 year ago
-24:03
-Building a better mobile app
-132K views
-Over 1 year ago
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-93K views
-1 year ago
-24:10
-Critiquing startup websites with Webflow CEO Vlad Magdalin
-66K views
-Over 1 year ago
-33:38
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-61K views
-1 year ago
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

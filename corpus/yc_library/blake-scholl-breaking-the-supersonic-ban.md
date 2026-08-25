@@ -3,65 +3,13 @@ title: Blake Scholl: Breaking the Supersonic Ban
 source: https://www.ycombinator.com/library/VR-blake-scholl-breaking-the-supersonic-ban
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School 2026
-›
-Blake Scholl: Breaking the Supersonic Ban
-STARTUP SCHOOL
-Blake Scholl: Breaking the Supersonic Ban
-by Y Combinator
-9,221 views
-28 days ago
-Chapters
-0:00
-— Intro
-0:08
-— Why the Future Stopped Moving Faster
-3:14
-— Why I Started Boom Supersonic
-5:57
-— Building a Supersonic Jet From Scratch
-8:33
-— The Worst Day and the Best Day
-10:14
-— How We Changed US Law
-11:36
-— How 50 People Built a Supersonic Jet
-15:05
-— Designing Hardware Like Software
-17:54
-— Financing a Multi-Billion-Dollar Startup
-19:30
-— Great Ideas Are Hiding in Plain Sight
-24:05
-— How AI Is Changing Hardware
-27:16
-— Working With Regulators
-30:55
-— Build Something You Love
-36:27
-— How to Build Confidence
-39:35
-— Learning Hard Things From First Principles
-44:17
-— When Should You Start a Company?
-
 In 1969, we landed on the moon and flew Concorde. Half a century later, we could do neither.
 
 Blake Scholl founded Boom Supersonic (YC W16), the startup building America’s first supersonic airliner, to change that. At Startup School 2026, he shares how a cardboard mockup with Office Depot seats became XB-1, the first independently developed jet to break the sound barrier, and why founders have to build for both the worst day and the best day.
 
 He also answers founder questions about teaching yourself hard things, breaking into hardware without the right resume, and finding work-life harmony while building something ambitious.
 
-Transcript
+## Transcript
 
 Blake Scholl: I want to start by saying, Houston, we have a problem. In 1969, we landed on the moon for the first time. And the same year we flew Concorde, the faster than the speed of sound airliner. The future was supposed to be faster and better. We were supposed to look forward to innovation in air and in space. And yet, half a century later, we can't go to the moon and we can't fly faster than the speed of sound. And not only have we lost the ability to go fast, we've lost the ability to do things even at any kind of reasonable speed. This was the Wall Street Journal just a couple weeks ago. It now takes Lockheed more than two years to build a new Patriot missile interceptor. This is crazy. This is no way to build the future, and this is no way to win a war. If we look back at history, this is the Boeing 707. This is the airliner that brought us into the jet age. But if we fast forward half a century, this is the 787, their latest airliner, which by the way was launched more than 20 years ago. You can't spot the difference. It doesn't fly any faster. It doesn't make the world any more accessible. Prior to Boom, the closest the America ever got to a supersonic airliner was a mock-up. But I guess it's all okay because flying's really great, right?
 
@@ -235,69 +183,6 @@ Blake Scholl: Uh, do I recommend starting a company or working at a company earl
 
 Blake Scholl: Okay, do uh do founders need to move to San Francisco? Uh no. This founder moved from San Francisco to start Boom. Uh you know, we we uh we we I left San Francisco and moved to Denver uh to put Boom uh to put Boom there because it it did not seem feasible to build uh uh in the physical world affordably uh at scale in the Bay Area. Uh that said, I do think there's enormous benefit in uh being surrounded by other ambitious people. And there is there is no ecosystem uh uh better than that than what exists you know here in San Francisco. So unless there let me put it this way, uh unless there is a specific reason why the the uh you you should not be in an ecosystem, you should be in an ecosystem. Like think San Francisco, uh LA, Austin, uh be around other people that will inspire you. What would I look for in a freshman or sophomore in college who doesn't have work experience yet?
 
-Blake Scholl: Side projects. When I was something like 15, I got my first real software job at what was probably the only software company in Cincinnati where I grew up. Because I think because I did okay in an interview and I'd built some things on the side, and they felt like they just kind of had to give me a chance. And uh at at at Boom we will um we will hire people early career uh with no work experience, but they have to have done something else that demonstrates having been extraordinary. So so if you if you want, for example, to come work at Boom, uh go to Boom Supersonic.com slash careers, and there is a there's a job opening, it's called your dream job. And it's basically go create whatever you want to go do. But in in in doing that, you have to tell us something extraordinary about yourself, something that makes you really stand out. And uh if you don't have work experience yet, uh just show the most impressive thing that you've built on the side and show it with pictures. And that's how you can bootstrap yourself. And I I find this is true of a lot of good good people. They they find a way to do things at abnormal young ages. And you know, so this notion of like, oh, you have to be like a junior in college to get an internship. Nope, that's baloney. Uh all the best people have gotten internships way earlier than that, and you can do it too. Okay, does work-life balance matter? Uh I think um I believe in work-life harmony. Like this notion that like there's like life and work and there's somehow an opposition. Uh it doesn't make any doesn't make any sense to me. If you have meaningful work, it is a big part of your life and the meaning of your life. And you know, I I believe we spend so much of our, you know, so much of our energy doing our work that we should find work that we love, that that is meaningful, that is not just punching in and punching out. Um and I've I've I've never um I've I've never found that.
+Blake Scholl: Side projects. When I was something like 15, I got my first real software job at what was probably the only software company in Cincinnati where I grew up. Because I think because I did okay in an interview and I'd built some things on the side, and they felt like they just kind of had to give me a chance. And uh at at at Boom we will um we will hire people early career uh with no work experience, but they have to have done something else that demonstrates having been extraordinary. So so if you if you want, for example, to come work at Boom, uh go to Boom [Supersonic.com](http://Supersonic.com) slash careers, and there is a there's a job opening, it's called your dream job. And it's basically go create whatever you want to go do. But in in in doing that, you have to tell us something extraordinary about yourself, something that makes you really stand out. And uh if you don't have work experience yet, uh just show the most impressive thing that you've built on the side and show it with pictures. And that's how you can bootstrap yourself. And I I find this is true of a lot of good good people. They they find a way to do things at abnormal young ages. And you know, so this notion of like, oh, you have to be like a junior in college to get an internship. Nope, that's baloney. Uh all the best people have gotten internships way earlier than that, and you can do it too. Okay, does work-life balance matter? Uh I think um I believe in work-life harmony. Like this notion that like there's like life and work and there's somehow an opposition. Uh it doesn't make any doesn't make any sense to me. If you have meaningful work, it is a big part of your life and the meaning of your life. And you know, I I believe we spend so much of our, you know, so much of our energy doing our work that we should find work that we love, that that is meaningful, that is not just punching in and punching out. Um and I've I've I've never um I've I've never found that.
 
 Blake Scholl: when there was one more thing I wanted to like add to my life, but I couldn't find a way to do it. When I when I started Boom, um I had three kids under the age of two. And uh and you know, that wasn't easy, but I but I'm but I made it work. And uh you can have a family and be a good dad and be a good CEO too. Uh it's not easy, but it can be figured out. And uh in fact I find that like doing, you know, being being a parent and being a good CEO is very synergistic. Sometimes I take a parenting lesson and uh uh and bring it uh bring it to work and find it's the exact same leadership lesson at the office that was part of what help helped me with the kids. It's it cross-pollinates all the time. Just do things in your life that you love. Don't let detritus into your life. Uh, don't let things that are not meaningful soak up your time and energy and passion. Okay, we are done. All right. Well, I thank you all very much uh for coming. And if I leave you with just one thing, go build something you love, go build something that should exist in the world. Leave this planet better than you found it. Thank you all very much.
-
-Up next from Startup School 2026
-32:10
-Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”
-205K views
-26 days ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-32:10
-Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”
-205K views
-26 days ago
-57:07
-Jeff Dean: The 1% Rule for Building in AI
-159K views
-25 days ago
-31:00
-Patrick Collison: "What If You Succeed?"
-53K views
-25 days ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

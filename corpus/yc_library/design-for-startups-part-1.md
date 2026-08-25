@@ -3,31 +3,15 @@ title: Design for startups (part 1)
 source: https://www.ycombinator.com/library/7G-design-for-startups-part-1
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design for startups (part 1)
-Design for startups (part 1)
-by Garry Tan
-172K views
-Over 1 year ago
-
 Former YC Partner Garry Tan, the Co-founder of Initialized Capital and a design expert describes how to effectively integrate design into a product development process.
 
-Transcript
+## Transcript
 
 Moderator: Welcome to week four of my Accelerator Startup School. This is going to be a great session. We have Gary Tan, who is my good friend, former partner at Y Combinator, the founder of Posterous, the founder of Initialized Capital, which is what he's doing now, and an amazing designer who's going to talk about product design and how to make that an advantage as you're building something people want. And then following Gary, we have Kat Man, yeah, like, who is my current partner at YC, and Craig Cannon to talk about how you can use public relations and content to acquire users and to improve the prospects of your company.
 
-Before we get going, I want to just mention a few rapid administrative matters. If you miss an update—I know everyone's trying to get their updates in so that they can meet the graduation criteria—do not fear. For now, the easiest thing to do is to send your update in an email to startup-school@ycombinator.com. It's okay, don't panic.
+Before we get going, I want to just mention a few rapid administrative matters. If you miss an update—I know everyone's trying to get their updates in so that they can meet the graduation criteria—do not fear. For now, the easiest thing to do is to send your update in an email to [startup-school@ycombinator.com](mailto:startup-school@ycombinator.com). It's okay, don't panic.
 
-Secondly, we have, as many of you know, just done a merge of a number of your groups. Hopefully it goes incredibly smoothly for everyone. Certainly it won't. And if, for example, there's a problem with your group, if there's no moderator, please let us know as soon as you can, again, to startup-school@ycombinator.com. That's the easiest way to do that. If for some reason you think you're in the wrong group, it doesn't work for some reason, let us know and we'll accommodate you to the best extent that we can.
+Secondly, we have, as many of you know, just done a merge of a number of your groups. Hopefully it goes incredibly smoothly for everyone. Certainly it won't. And if, for example, there's a problem with your group, if there's no moderator, please let us know as soon as you can, again, to [startup-school@ycombinator.com](mailto:startup-school@ycombinator.com). That's the easiest way to do that. If for some reason you think you're in the wrong group, it doesn't work for some reason, let us know and we'll accommodate you to the best extent that we can.
 
 If you haven't launched, we recommend that you launch if you at all can. That sounds like a broken record, and it should.
 
@@ -298,55 +282,3 @@ Garry Tan: And so, you know, and design, the designer, the person who actually p
 Garry Tan: And so, you know, you're never done with just one sprint. You're basically in a perpetual cycle of doing this over and over again and you really do need to, you don't need people doing every...
 
 Garry Tan: Single piece of this, but you do need to spend a little bit of time thinking about each piece of this you—
-
-Related
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-19:33
-Design for startups (part 2)
-27K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

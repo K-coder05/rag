@@ -3,44 +3,13 @@ title: Backstory: Tom Blomfield
 source: https://www.ycombinator.com/library/KY-backstory-tom-blomfield
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Backstory: Tom Blomfield
-Backstory: Tom Blomfield
-by Y Combinator
-246K views
-Over 1 year ago
-Chapters
-0:00
-Intro
-2:52
-GoCardless
-5:07
-Starting Monzo
-8:46
-COVID challenges
-10:24
-Stepping away from Monzo
-13:10
-Joining Y Combinator
-13:54
-Outro
+There aren’t a ton of people in the world who can say they founded a billion dollar company. There are far fewer that can say they did it *twice*.
 
-There aren’t a ton of people in the world who can say they founded a billion dollar company. There are far fewer that can say they did it twice.
+YC Group Partner [**Tom Blomfield**](https://www.ycombinator.com/blog/tom-blomfield-of-gocardless-and-monzo-is-our-newest-group-partner) is one of them.
 
-YC Group Partner Tom Blomfield is one of them.
+Each episode of [**our series Backstory**](https://www.ycombinator.com/blog/surbhi-sarna-backstory) introduces you to one of YC’s Group Partners and the path they took to get here. This is Tom’s story.
 
-Each episode of our series Backstory introduces you to one of YC’s Group Partners and the path they took to get here. This is Tom’s story.
-
-Transcript
+## Transcript
 
 Speaker: When you look around you at all of the structures in place—like the physical buildings, the transportation system, the laws and rules for society—all of these things were created by people. And everyone has a choice to either live in that world and merely follow the rules, and that's fine. But I think there's this alternative path where you have the chance to create something, to in some small way have an impact on the world and change the rules, change the structures, and have other people interact with the things that you're building.
 
@@ -117,49 +86,3 @@ And so I joined Y Combinator as a visiting partner. And just this year, I got my
 Rejoining YC felt like coming home. I mean, a lot of the people who were there in 2011—Harj and Gary and others—are back here today. YC's played such a pivotal part in my career. I really couldn't have done it without YC. That it feels amazing to be kind of on the other side, giving back in some small way, helping the next generation of founders.
 
 I think this technological progress is so good for the world. This prosperity, this whole economy, is driven by you building and growing businesses. All of these things were created by people no smarter or harder-working than you or me. You have the chance to create something, to define the rules and make the world feel different.
-
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

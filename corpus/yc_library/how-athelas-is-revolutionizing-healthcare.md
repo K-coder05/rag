@@ -3,32 +3,13 @@ title: How Athelas is revolutionizing healthcare
 source: https://www.ycombinator.com/library/K6-how-athelas-is-revolutionizing-healthcare
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-How Athelas is revolutionizing healthcare
-GARRY'S CHANNEL
-How Athelas is revolutionizing healthcare
-by Garry Tan
-20K views
-Over 1 year ago
+Athelas is doing for healthcare what Rippling did for HR and IT; they’re giving people in specialized roles the modern software they need to *really* do their jobs.
 
-Athelas is doing for healthcare what Rippling did for HR and IT; they’re giving people in specialized roles the modern software they need to really do their jobs.
-
-Just recently it was announced that Athelas will merge with Commure to form an entity worth over $6B, with Athelas co-founder Tanay Tandon helming the new entity as CEO.
+Just recently it was [announced that Athelas will merge with Commure](https://www.athelas.com/insights/athelas-commure-merging-to-create-a-6b-healthcare-infrastructure-company) to form an entity worth over $6B, with Athelas co-founder Tanay Tandon helming the new entity as CEO.
 
 In this video, Garry sits down with Tanay to hear how they did it.
 
-Transcript
+## Transcript
 
 Host: Healthcare has been stuck in a file cabinet and client server software mode for decades. What if I told you there was a way you could get far better care? You could have at-home diagnostics. You could get your parents to take their pills. Doctors and providers didn't have to be stuck with the worst enterprise software and instead get software that actually works. Here's my friend T Tandon of Athelas talking about just one of the crazy things they found along the journey.
 
@@ -73,68 +54,3 @@ T Tandon: We're in the unique place where we've raised capital and not really sp
 I would recommend if you're an engineer at any stage in your career, you should definitely reach out to us. Drop your HH me. We, Deepa, we all review the applications ourselves. We're hiring a ton right now and we're really excited.
 
 Link in the description to apply to Athelas. It's a great place to work and a great place to learn. As always, I'm glad to share the stories of some of the best founders I've ever met. I'll see you next time.
-
-Up next from Garry Tan's Channel
-15:33
-Garry's Channel: Stop chasing money -- Chase wealth
-800K views
-Over 1 year ago
-Related
-15:33
-Garry's Channel: Stop chasing money -- Chase wealth
-800K views
-Over 1 year ago
-8:24
-Garry's Channel: How I turned $300k into $2 billion
-386K views
-Over 1 year ago
-13:57
-Garry's Channel: LEARN, EARN or QUIT | My job/career advice
-371K views
-Over 1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

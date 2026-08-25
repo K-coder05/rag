@@ -3,23 +3,11 @@ title: On starting and scaling aerospace company Boom
 source: https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-On starting and scaling aerospace company Boom
-On starting and scaling aerospace company Boom
-by Blake Scholl
+[Blake Scholl](https://twitter.com/bscholl) is founder and CEO of [Boom Technology](http://boomsupersonic.com/) (YC W16).
 
-Blake Scholl is founder and CEO of Boom Technology (YC W16).
+**Discussed:** Deciding to Start a Supersonic Airplane Company; Innovation in Aviation; Blake's Career Before Boom; Deciding Whether or Not to Do YC; Being a Hard Tech Company in YC; Meeting with Richard Branson; Demo Day; Advice for Other Hard Tech Companies.
 
-Discussed: Deciding to Start a Supersonic Airplane Company; Innovation in Aviation; Blake's Career Before Boom; Deciding Whether or Not to Do YC; Being a Hard Tech Company in YC; Meeting with Richard Branson; Demo Day; Advice for Other Hard Tech Companies.
+---
 
 Craig: Let's start with the most simple question. What does Boom do?
 
@@ -31,9 +19,13 @@ Blake: Well, the idea of supersonic travel isn't new, obviously. I've been a pil
 
 If you look back at the history of entrepreneurship and innovation in aviation, all of the big breakthroughs have come from founder-led companies. The first airplane was created by bicycle entrepreneurs, but also the first practical airliner, the DC-3, and the first jetliner, the De Havilland Comet, were all created by companies that were run by their founders. The last new commercial aircraft company was founded 1921. The last founder retired from the industry in 1958, which, coincidentally or not, was also the year we had the first jetliner.
 
-What is Y Combinator?
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
+
+[Apply](/apply)
 
 Since then the Boeings and Airbuses of the world have been... optimizing. They've been taking the same basic designs and making them more efficient and safer, and in doing so they've completely swapped out the technology stack. They've made the machinery more efficient, but they haven't improved human capability. I believe very strongly that if we want more human capability, we need entrepreneurs, we need founders, and we need new companies.
 
@@ -109,57 +101,10 @@ Blake: Exactly. And we found and bought the one that we were gonna fly. So, it w
 
 Craig: That is an excellent point. Okay, last question. What are your favorite books, movies, podcasts... any type of media, really.
 
-Blake: I mean, far and away my favorite book is Atlas Shrugged, and it's probably not an accident that all the heroes in Atlas Shrugged are also pilots. Not an accident for me, personally, anyway.
+Blake: I mean, far and away my favorite book is [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145), and it's probably not an accident that all the heroes in Atlas Shrugged are also pilots. Not an accident for me, personally, anyway.
 
-Let's see, what else... I love things that give you insight into the basics of a field, even if you're not in it. I like learning about biology on the side. There's a defunct podcast called Futures in Biotech that, if you are not a biologist but you think biotech is cool, look up Futures in Biotech. Listen to all the old episodes, they have amazing guests, and you'll feel like you know enough about biotech to kind of appreciate it. What else? I'm trying to think of what's not a standard recommendation.
+Let's see, what else... I love things that give you insight into the basics of a field, even if you're not in it. I like learning about biology on the side. There's a defunct podcast called [Futures in Biotech](http://futuresinbiotech.com/) that, if you are not a biologist but you think biotech is cool, look up Futures in Biotech. Listen to all the old episodes, they have amazing guests, and you'll feel like you know enough about biotech to kind of appreciate it. What else? I'm trying to think of what's not a standard recommendation.
 
 Craig: It doesn't have to be non-standard.
 
-Blake: In that case, The Hard Thing About Hard Things is good. The Innovator's Dilemma, everyone talks about it, I wonder how many people actually read it. You should actually read it. You should know what disruptive innovation actually means.
-
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+Blake: In that case, [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) is good. [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244), everyone talks about it, I wonder how many people actually read it. You should actually read it. You should know what disruptive innovation actually means.

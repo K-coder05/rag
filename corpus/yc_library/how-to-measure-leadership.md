@@ -3,64 +3,51 @@ title: How to measure leadership
 source: https://www.ycombinator.com/library/3j-how-to-measure-leadership
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Table of Contents
-Three Foundational Characteristics of Great Leaders
-It All Adds Up To Trust
-Home
-›
-How to measure leadership
-How to measure leadership
-by Ali Rowghani
-
 Are you a good leader? How do you know?
 
 In a startup culture that is obsessed with management by metrics, many founders struggle to answer this critical question about themselves. It’s tempting to measure leaders simply by the success of their businesses. But even the most successful founders know how much timing and luck can be confounding factors in this approach. Measuring leadership through bottom-line company performance also fails to provide any clues as to how someone can improve as a leader. So is there a better way?
 
 This essay describes a way to measure leadership that I hope will be helpful to those who seek to improve as leaders. It is based on observations I made when working closely with four leaders that I consider extraordinary: Ed Catmull (Pixar’s founder), Steve Jobs (Pixar’s CEO), John Lasseter (Pixar’s Chief Creative Officer), and Bob Iger (Disney’s CEO). To my surprise, these men could not have been more different in style, temperament, and approach. They did not conform to a single model of leadership. One was an introverted scientist while another was an extroverted artist. One was a college dropout who had founded a company and was infamous for brash behavior while another was a career executive who was exceptionally genteel and diplomatic.
 
-Despite their differences, these men were able to create an extraordinary amount of trust in the people around them. They built trust by doing the same three things exceptionally well, though each in his own way. I believe that these three traits are the foundational traits of great leaders You cannot be a great leader without them because you cannot build trust without them. And the trick to measuring leadership is to measure a leader’s effectiveness along these three dimensions, as detailed in the notes section at the end of this post.
+Despite their differences, these men were able to create an extraordinary amount of trust in the people around them. They built trust by doing the same three things exceptionally well, though each in his own way. I believe that these three traits are the foundational traits of great leaders You cannot be a great leader without them because you cannot build trust without them. And the trick to measuring leadership is to measure a leader’s effectiveness along these three dimensions, as detailed in the notes section [at the end of this post](https://blog.ycombinator.com/how-do-you-measure-leadership/#survey-questions).
 
-Three Foundational Characteristics of Great Leaders
+### Three Foundational Characteristics of Great Leaders
 
 I believe that people of all temperaments, personality types, and personal/professional backgrounds can be great leaders, and that they can lead quite differently and still be successful. But to be trusted and followed as a leader, you must excel in three key areas:
 
-1. Clarity of Thought and Communication
+**1. Clarity of Thought and Communication**
 
-Great leaders think and communicate clearly. They describe a vision of the future that people find compelling to work hard to achieve. If your employees are confused about your mission and strategy, or do not find it motivating or credible, they will not follow you with the focus and determination necessary to succeed.1
+Great leaders think and communicate clearly. They describe a vision of the future that people find compelling to work hard to achieve. If your employees are confused about your mission and strategy, or do not find it motivating or credible, they will not follow you with the focus and determination necessary to succeed.[1](#footnote1)
 
-What is Y Combinator?
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
 
-Clarity of thought always precedes clarity of language. To improve your communication, the best thing you can do is to spend more time thinking about what you believe is truly important for your business. Once you’ve crystallized what’s important for everyone to understand, practice expressing it in simple terms. Simplicity is vital. A great example is the retail strategy that Amazon’s Jeff Bezos communicated to his team years ago. He based it on three simple but enduring customer preferences: lower prices, bigger selection, and faster delivery. To this day, anything Amazon employees do to lower prices, expand selection, and accelerate delivery creates value for the customer and advances the company’s strategy. As Bezos said, “You can build a business strategy around the things that are stable in time....when you have something that you know is true, even over the long-term, you can afford to put a lot of energy into it.”
+[Apply](/apply)
+
+Clarity of thought always precedes clarity of language. To improve your communication, the best thing you can do is to spend more time thinking about what you believe is truly important for your business. Once you’ve crystallized what’s important for everyone to understand, practice expressing it in simple terms. Simplicity is vital. A great example is the retail strategy that Amazon’s Jeff Bezos [communicated](http://www.businessinsider.com/jeff-bezos-brilliant-advice-for-anyone-running-a-business-2015-1) to his team years ago. He based it on three simple but enduring customer preferences: lower prices, bigger selection, and faster delivery. To this day, anything Amazon employees do to lower prices, expand selection, and accelerate delivery creates value for the customer and advances the company’s strategy. As Bezos said, “You can build a business strategy around the things that are stable in time....when you have something that you know is true, even over the long-term, you can afford to put a lot of energy into it.”
 
 Taking time to prepare internal communications becomes increasingly important as your company grows. As you scale, your employee base grows more diverse, and fewer of your employees have a personal relationship with you. Hence, they are much less likely to just “know what you mean” and more likely to be confused and critical if you don’t communicate well.
 
 Great leaders spend hours preparing their internal communications. They don’t just wing it, no matter how naturally talented they are as communicators. As an example, Shopify CEO Tobi Lütke and his senior team spend hundreds of hours preparing for their annual employee Summit. As Tobi says, “We want to be a loosely coupled, highly aligned company. The Summit is the main enabler of this because it is a grand sync. We spend countless hours preparing because if we communicate well at the Summit, we achieve great alignment by the end. We can then use our weekly townhalls to keep us from drifting too far apart until the next Summit.”
 
-2. Judgment about People
+**2. Judgment about People**
 
 Great leaders have great intuition about people, particularly when it comes to selecting people to whom they give power and responsibility. They are able to see hidden potential in people and detect cases where ambition exceeds ability. And when they make hiring or promotion mistakes, which are inevitable, they have the courage to rectify the situation if the employee cannot be coached to improve. Nothing does more damage to an organization or to the standing of a leader than picking the wrong leaders or failing to correct these mistakes when they happen. The judgment around the initial hiring or promotion decision is the most important, as leaders who fire too many of their own also lose a lot of credibility and trust.
 
-Not everyone is naturally gifted when it comes to intuition about people, but everyone can improve. Gathering more data will help you make better people decisions. When looking to hire leaders, try to meet as many of the best people in the field as possible as a way to sharpen your recognition skills. Spend as much time as you can getting to know executives that you are considering hiring. In a 2016 interview, Uber CTO Thuan Pham describes being interviewed by CEO Travis Kalanick for “30 hours straight, one-on-one, over two weeks,” including over Skype when Travis was traveling. “Throughout those 30 hours,” Pham continued, “I actually forgot it was an interview. It was just like a discussion between two colleagues.”
+Not everyone is naturally gifted when it comes to intuition about people, but everyone can improve. Gathering more data will help you make better people decisions. When looking to hire leaders, try to meet as many of the best people in the field as possible as a way to sharpen your recognition skills. Spend as much time as you can getting to know executives that you are considering hiring. In a [2016 interview](http://www.geekwire.com/2016/qa-uber-cto/), Uber CTO Thuan Pham describes being interviewed by CEO Travis Kalanick for “30 hours straight, one-on-one, over two weeks,” including over Skype when Travis was traveling. “Throughout those 30 hours,” Pham continued, “I actually forgot it was an interview. It was just like a discussion between two colleagues.”
 
 It also helps to do extensive reference checks on hires and ask for examples of behavior that shows good judgment and high integrity because these traits are hard to test in an interview. And try to learn from cases when you hire or promote the wrong person and are not able to coach them to improve.
 
-3. Personal Integrity and Commitment
+**3. Personal Integrity and Commitment**
 
 Great leaders have exceptional personal integrity and commitment to their mission. Integrity means standing for something meaningful beyond oneself rather than being motivated by narrow personal interests. It means being able to admit when you have made a mistake rather than acting like you are always right and having the humility to receive critical feedback openly and work to improve. It means avoiding behavior like favoritism, conflicts of interest, inappropriate language, inappropriate work relationships, etc., that erode trust. A useful test is to ask yourself: if your team had full transparency into your private communications and behavior towards employees, would you be embarrassed by anything you have done or said? This is a high bar, but one that great leaders strive to meet.
 
 Beyond putting in the time, great leaders make their work into their core life mission in ways that inspire others. They derive deep personal meaning and fulfillment from leading people to achieve a mission. Their personal commitment translates into high levels of personal productivity and execution, which in turn becomes the foundation for pushing their organizations to do the same.
 
-It All Adds Up To Trust
+### It All Adds Up To Trust
 
 So how do you know you are good leader? You are a good leader if you excel in the three areas described above and thereby earn the trust of the people around you.
 
@@ -72,122 +59,74 @@ Most leaders understand the science of building trust. They understand that they
 
 This, perhaps, is the lesson that great leaders teach everyone else. In difficult times, as you evaluate one course of action versus another, ask yourself which path will generate more trust in you as a person and as a leader. Always try to choose that path.
 
-Thanks to Tobi Lütke, Tyler Bosmeny, Daniel Yanisse, David Rusenko, Sam Altman, Michael Seibel, and the YC Continuity team for reading drafts of this essay.
+*Thanks to Tobi Lütke, Tyler Bosmeny, Daniel Yanisse, David Rusenko, Sam Altman, Michael Seibel, and the YC Continuity team for reading drafts of this essay.*
 
-NOTES:
+---
 
-Survey Questions for Evaluating Leaders
+---
+
+**NOTES:**
+
+**Survey Questions for Evaluating Leaders**
 
 The best approach to measuring leadership is to evaluate a leader’s performance in the three areas in which all great leaders must excel: clarity of thought / communication, judgment about people, and personal integrity / commitment. Measuring leadership in this way requires gathering data from employees, but most startups have never done this in a systematic way.
 
-Eventually, all companies need to develop methods to gather employee sentiment and turn it into structured data. In fact one of the core responsibilities of a good HR team is to gather and document employee sentiment and use it to assess leadership.2 I suggest that startups begin to gather this data systematically once they reach about 50 people in size.
+Eventually, all companies need to develop methods to gather employee sentiment and turn it into structured data. In fact one of the core responsibilities of a good HR team is to gather and document employee sentiment and use it to assess leadership.[2](#footnote2) I suggest that startups begin to gather this data systematically once they reach about 50 people in size.
 
 Whatever set of data gathering techniques is used, it’s critical to ask the right questions to assess leadership performance. These sample questions are meant to serve as a starting point for a more thorough employee survey. These questions are written to evaluate a CEO, but can easily be adapted to any leader in the company. Part of the goal is to see the level of alignment between a CEO’s responses and that of the employees.
 
-1. Clarity of Thought and Communication
+**1. Clarity of Thought and Communication**
 
-Questions for the CEO
+**Questions for the CEO**
 
-Write down your company’s mission, strategy, and key metrics (“mission-to-metrics”) in less than 2 minutes.
-Write down 2-3 themes that you have consistently emphasized in your communications to employees.
+* Write down your company’s mission, strategy, and key metrics (“mission-to-metrics”) in less than 2 minutes.
+* Write down 2-3 themes that you have consistently emphasized in your communications to employees.
 
-Questions for Employees (current and departing)
+**Questions for Employees (current and departing)**
 
-What is the company’s mission and strategy?  
-What are the most important operating metrics that measure the company’s success?
-How does your work contribute to these key success metrics?
-How often has the company’s definition of mission, strategy and metrics changed in the past 24 months?  Or has it been the same over this time?
-What do you think is really important to the CEO?  What does he or she consistently emphasize in communications?
-How effective and clear is the CEO in the following communication methods: written, speaking to a large group, speaking with a small group?  
+* What is the company’s mission and strategy?
+* What are the most important operating metrics that measure the company’s success?
+* How does your work contribute to these key success metrics?
+* How often has the company’s definition of mission, strategy and metrics changed in the past 24 months?  Or has it been the same over this time?
+* What do you think is really important to the CEO?  What does he or she consistently emphasize in communications?
+* How effective and clear is the CEO in the following communication methods: written, speaking to a large group, speaking with a small group?
 
-2. Judgment About People
+**2. Judgment About People**
 
-Questions for the CEO
+**Questions for the CEO**
 
-Rate the effectiveness of each leader you have promoted or hired at the company.
-Write down the name of any leader that you have promoted or hired that you don’t think is actually the right person to lead his/her area.
-Have you exited the right employees?  Or have you made mistakes?
+* Rate the effectiveness of each leader you have promoted or hired at the company.
+* Write down the name of any leader that you have promoted or hired that you don’t think is actually the right person to lead his/her area.
+* Have you exited the right employees?  Or have you made mistakes?
 
-Questions for Employees (current and departing)
+**Questions for Employees (current and departing)**
 
-Has the CEO chosen good leaders at the company?
-Which leaders do you respect and why?
-Are there leaders that you think are weak and why?
-Has the CEO replaced any leaders in the past year?  Were these good decisions, from your perspective?
-What are the strengths and weaknesses of the senior leader (i.e., CEO direct report) who oversees your area?
-Have any high performing members of your team chosen to leave the company in the past year?  Why did they choose to leave?
-Ask departing employees: are they leaving because of concerns about senior leadership?
+* Has the CEO chosen good leaders at the company?
+* Which leaders do you respect and why?
+* Are there leaders that you think are weak and why?
+* Has the CEO replaced any leaders in the past year?  Were these good decisions, from your perspective?
+* What are the strengths and weaknesses of the senior leader (i.e., CEO direct report) who oversees your area?
+* Have any high performing members of your team chosen to leave the company in the past year?  Why did they choose to leave?
+* Ask departing employees: are they leaving because of concerns about senior leadership?
 
-3. Personal Integrity and Commitment
+**3. Personal Integrity and Commitment**
 
-Questions for the CEO
+**Questions for the CEO**
 
-Are there actions you have taken which you feel have diminished the confidence that employees have in your integrity?  What are they?
-Do you ask for feedback about your performance?  Are there examples when you have responded to employee feedback and changed your behavior?
-How do you rate your level of commitment to your job?
-How do you rate the level of commitment of your direct reports?
+* Are there actions you have taken which you feel have diminished the confidence that employees have in your integrity?  What are they?
+* Do you ask for feedback about your performance?  Are there examples when you have responded to employee feedback and changed your behavior?
+* How do you rate your level of commitment to your job?
+* How do you rate the level of commitment of your direct reports?
 
-Questions for Employees (current and departing)
+**Questions for Employees (current and departing)**
 
-How would you rate your CEO’s integrity / moral compass?
-Do you think the CEO listens well and is open to feedback?  Are there examples where feedback has changed the CEO’s behavior in a positive way?
-Have you seen examples of favoritism, inappropriate relationships, inappropriate language, conflicts of interest, or any other unethical behavior in the CEO?
-When asked anonymously, what do employees / direct reports feel motivates the CEO?
-How would you describe the level of personal commitment that the CEO shows to the mission of the company?
-Have you seen examples of lack of commitment from the CEO?
-Have you seen examples of lack of commitment from other leaders or from employees?
+* How would you rate your CEO’s integrity / moral compass?
+* Do you think the CEO listens well and is open to feedback?  Are there examples where feedback has changed the CEO’s behavior in a positive way?
+* Have you seen examples of favoritism, inappropriate relationships, inappropriate language, conflicts of interest, or any other unethical behavior in the CEO?
+* When asked anonymously, what do employees / direct reports feel motivates the CEO?
+* How would you describe the level of personal commitment that the CEO shows to the mission of the company?
+* Have you seen examples of lack of commitment from the CEO?
+* Have you seen examples of lack of commitment from other leaders or from employees?
 
-1 Please see “What’s the Second Job of a Startup CEO” for a more thorough discussion of creating purpose & alignment.↩ 2 Data gathering methods include employee roundtables mediated by the CEO or HR, structured questions asked as part of employee exit interviews, all-hands or team meetings to gather employee feedback, hiring of external consultants to survey or interview employees, and on-line or email surveys of employees.↩
-
-Related
-71:41
-Building an engineering team
-77K views
-Over 1 year ago
-59:54
-How to build and manage teams
-42K views
-Over 1 year ago
-The second job of a startup CEO
-Ali Rowghani
-A CEO's first job is to build a product users love; the second job is to build a company to maximize the opportunity that the product has surfaced. The future of your startup depends on how you transition from phase one to phase two.
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Snapdocs' Aaron King on navigating market cycles
-Lindsay Amos
-Founder & CEO Aaron King expertly built Snapdocs (YC W14) through volatile market conditions and with minimal outside funding into the mortgage industry's leading digital closing platform, valued at $1.5B. This is what he learned about navigating market cycles.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+**1** Please see “[What’s the Second Job of a Startup CEO](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/#creating-purpose-and-alignment)” for a more thorough discussion of creating purpose & alignment.[↩](#footnoteid1)
+**2** Data gathering methods include employee roundtables mediated by the CEO or HR, structured questions asked as part of employee exit interviews, all-hands or team meetings to gather employee feedback, hiring of external consultants to survey or interview employees, and on-line or email surveys of employees.[↩](#footnoteid2)

@@ -3,90 +3,15 @@ title: On starting and scaling Indian shopping site Meesho
 source: https://www.ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-On starting and scaling Indian shopping site Meesho
-On starting and scaling Indian shopping site Meesho
-by Vidit Aatrey
-46K views
-Over 1 year ago
-Chapters
-0:00
-Intro
-0:45
-What is Meesho?
-2:45
-Why not just sell directly to consumers?
-4:30
-What are the macro trends in Meesho's favor in India?
-6:55
-A trust deficit market
-8:20
-How does Meesho help users get online and start selling?
-11:10
-Most impactful user stories
-13:15
-Growth drivers
-15:15
-Balancing growth and quality
-16:50
-What if Facebook copies Meesho?
-18:15
-When did Vidit and his cofounder know they wanted to start a startup?
-20:45
-Their first startup idea and the inspiration for Meesho
-25:05
-When did they know Meesho was working?
-26:45
-How hard was it to pivot the business and how did they manage it?
-29:30
-As a CEO how does he stay in touch with users?
-34:15
-How has Vidit's role changed over time?
-36:20
-How has he learned to be a CEO?
-37:55
-What mistakes have they made?
-39:00
-What was his best decision?
-39:40
-What's a strong opinion he had about running a startup that he's changed since running Meesho?
-41:10
-How has the Indian startup ecosystem evolved?
-42:45
-Big problems worth solving in India
-42:30
-Can foreigners come to India and start a startup?
-44:35
-Best advice for aspiring Indian founders
-45:45
-After Meesho, what's the most exciting startup in India?
-46:45
-Why is Delhi the best IIT?
-47:40
-What's a must read book and why?
-48:35
-What's a startup idea he'd be working on if Meesho didn't happen?
-48:50
-In 100 years, what does he hope Meesho is?
+[Vidit Aatrey](https://twitter.com/viditaatrey) is cofounder and CEO of [Meesho](https://meesho.com/). Meesho is a platform in India that allows people to resell products using their social networks. They were in the Summer 2016 batch of YC and you can check them out at [Meesho.com](https://meesho.com/).
 
-Vidit Aatrey is cofounder and CEO of Meesho. Meesho is a platform in India that allows people to resell products using their social networks. They were in the Summer 2016 batch of YC and you can check them out at Meesho.com.
+[Adora Cheung](https://twitter.com/nolimits) is a Partner at YC. Before working at YC she cofounded Homejoy.
 
-Adora Cheung is a Partner at YC. Before working at YC she cofounded Homejoy.
+You can find Vidit on Twitter [@viditaatrey](https://twitter.com/viditaatrey) and Adora is [@nolimits](https://twitter.com/nolimits).
 
-You can find Vidit on Twitter @viditaatrey and Adora is @nolimits.
+## Transcript
 
-Transcript
-
-Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon, and you're listening to Y Combinator's podcast. Today's episode is with Vidit Aatrey and Adora Cheung. Vidit is co-founder and CEO of Meesho. Meesho is a platform in India that allows people to resell products using their social networks. They were in the Summer 2016 Batch of YC, and you can check them out at Meesho.com. Adora is a partner at YC. Before working at YC, she co-founded Homejoy. You can find Vidit on Twitter @viditaatrey and Adora is @nolimits. All right, here we go.
+Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon, and you're listening to Y Combinator's podcast. Today's episode is with Vidit Aatrey and Adora Cheung. Vidit is co-founder and CEO of Meesho. Meesho is a platform in India that allows people to resell products using their social networks. They were in the Summer 2016 Batch of YC, and you can check them out at [Meesho.com](http://Meesho.com). Adora is a partner at YC. Before working at YC, she co-founded Homejoy. You can find Vidit on Twitter [@viditaatrey](https://twitter.com/viditaatrey) and Adora is [@nolimits](https://twitter.com/nolimits). All right, here we go.
 
 Adora Cheung [00:35] - This is Adora from YC. I'm excited to have Vidit Aatrey, CEO and co-founder of Meesho, which was founded in 2015, and you went through YC in 2016. Yoday, Meesho is probably one of the hottest startups in India, if not the hottest startup. I'm super excited to hear about, for everyone to hear about your entrepreneurial journey, your thoughts and opinions on not just Meesho, but the startup ecosystem here in India. Thank you for being here.
 
@@ -360,7 +285,7 @@ Vidit Aatrey [50:11] - Awesome, thank you so much for having me.
 
 Adora Cheung [50:13] - Yes, cool.
 
-Transcript
+## Transcript
 
 Adora Cheung: This is Adora from YC. I'm excited to have Vidit Aatrey, CEO and co-founder of Meesho, which was founded in 2015, and you went through YC in 2016. So today Meesho is probably one of the hottest startups in India, if not the hottest startup. And I'm super excited to hear about your entrepreneurial journey, your thoughts and opinions on not just Meesho but the startup ecosystem here in India. So thank you for being here.
 
@@ -601,50 +526,3 @@ Adora Cheung: That makes sense. That's a great answer. Cool. Thank you so much.
 Vidit Aatrey: Awesome. Thank you so much for having me.
 
 Adora Cheung: Yes, go.
-
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

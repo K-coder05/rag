@@ -3,28 +3,9 @@ title: Vertical AI Agents Could Be 10X Bigger Than SaaS
 source: https://www.ycombinator.com/library/Lt-vertical-ai-agents-could-be-10x-bigger-than-saas
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Vertical AI Agents Could Be 10X Bigger Than SaaS
-LIGHTCONE
-Vertical AI Agents Could Be 10X Bigger Than SaaS
-by Y Combinator
-994K views
-1 year ago
-
 As AI models continue to rapidly improve and compete with one another, a new business model is coming into view: Vertical AI Agents. In this episode of the Lightcone, the hosts consider what effect vertical AI agents will have on incumbent SaaS companies, what use cases make the most sense, and how there could be 300 billion dollar companies in this category alone.
 
-Transcript
+## Transcript
 
 Gary Tan: Every three months, things have just kept getting progressively better. And now we're at this point where we're talking about full-on vertical AI agents that are going to replace entire teams and functions and enterprises. That progression is still mind-blowing to me.
 
@@ -191,66 +172,3 @@ Um, a company from a recent batch which pivoted into a new idea that's getting g
 So I guess, I mean, in robotics, the classic maxim is that the robots that are going to be profitable and that are going to work are going to be dirty and dangerous jobs. In this case, for vertical SaaS, look for boring butter-passing jobs.
 
 Well, with that, we're out of time for today. We'll catch you on the Lightcone next time.
-
-Up next from Lightcone Podcast
-35:17
-Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
-81K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-37:14
-Now Anyone Can Code: How AI Agents Can Build Your Whole App
-94K views
-1 year ago
-35:17
-Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
-81K views
-1 year ago
-33:45
-The 10 Trillion Parameter AI Model With 300 IQ
-62K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

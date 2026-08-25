@@ -3,47 +3,9 @@ title: Enterprise Sales for Founders
 source: https://www.ycombinator.com/library/LF-enterprise-sales-for-founders
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School
-›
-Enterprise Sales for Founders
-STARTUP SCHOOL
-Enterprise Sales for Founders
-by Pete Koomen
-203K views
-Over 1 year ago
-Chapters
-0:00
-Intro
-3:29
-Prospecting
-5:15
-Outreach
-10:09
-Qualification
-15:00
-Pricing
-18:13
-Closing
-18:58
-Avoid surprises in procurement process
-20:02
-Implement
-22:01
-Outro
-
 Y Combinator Group Partner Pete Koomen led his startup, Optimizely, to $100M ARR. In this video for Startup School, Pete breaks down the enterprise sales funnel and shares his top tips on how a technical founder can start closing real deals for their startup.
 
-Transcript
+## Transcript
 
 Pete Koomen: My name is Pete Koomen. I'm a group partner at YC and a YC alum. I was co-founder and CTO of Optimizely in the Winter 2010 batch. In this talk, I'm going to walk step by step through the process of closing your first enterprise customers. I'm going to do that by focusing on successive steps in the sales funnel: prospecting, outreach, qualification, pricing, closing, and implementation. I'll do my best to include lots of tactical advice and counterintuitive lessons I picked up while I was learning how to sell at Optimizely.
 
@@ -188,56 +150,3 @@ Of course, there's so much more to learn about sales, and the best founders devo
 But like most of the hard things about building a company, the best way to learn is by going out and doing the thing. So if you only remember one thing, it should be this: just get started. You'll make mistakes, but with enough attempts, you'll figure it out, and selling will start to feel natural. Pretty soon, you'll discover that you've acquired a new superpower. You'll find it's useful not only in getting customers and revenue but in fundraising and hiring too.
 
 And soon enough, you'll be the one giving advice like this to new founders. Thanks for watching.
-
-Up next from Startup School
-17:46
-How To Price For B2B
-155K views
-Over 1 year ago
-Related
-17:46
-How To Price For B2B
-155K views
-Over 1 year ago
-32:46
-How To Convert Customers With Cold Emails
-133K views
-1 year ago
-29:23
-How To Improve Cohort Retention
-57K views
-1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,28 +3,9 @@ title: Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
 source: https://www.ycombinator.com/library/Lr-why-the-next-ai-breakthroughs-will-be-in-reasoning-not-scaling
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
-LIGHTCONE
-Why The Next AI Breakthroughs Will Be In Reasoning, Not Scaling
-by Y Combinator
-81K views
-1 year ago
-
 There's an ongoing debate about whether AI scaling laws will hold or hit a wall in the near future. However, what's clear now is today's models already have the power to increase productivity in ways that would have been unimaginable just a few years ago. In this episode of the Lightcone, we dig into the results of a recent o1 hackathon hosted by YC to find out what can be unlocked when founders leverage a SOTA reasoning model.
 
-Transcript
+## Transcript
 
 Gary Tan: I remember about a year ago one of these conversations around are we going to have AGI, what would that look like? One of the arguments for it was that well, like at some point the AI will get good enough to just like design chips better than humans can, and then it will just like eliminate one of its bottlenecks for getting greater intelligence. So it feels like we're on the pathway to that in a way that we just weren't before.
 
@@ -141,66 +122,3 @@ Host: I was going to ask the inverse question, Tyana, which is like each new mod
 Tyana: Connected to Sam's essay is a lot of things that are going to make the atom world, physical world better because it's really good at math and physics. So any startup that's working around mechanical engineering, electrical engineering, chemical engineering, bioengineering—all of these things that really will make our lives better. I think we are really getting an unlock, as we've seen from the demos we highlighted, that's exciting. I mean, it can't just be helping people click a little bit faster. It's got to be things that actually create real world abundance for everyone. And, um, that it might just be a little bit of a race. Like, I think there's sort of the fear of AI out there in society right now, and then, um, it's sort of up to the technologist to try to usher in this age of abundance sooner rather than later. And if we can do that, then, um, abundance will win out over fear.
 
 Gary Tan: So with that, I think we're out of time for this week of the Lightcone. We'll see you guys next time.
-
-Up next from Lightcone Podcast
-33:45
-The 10 Trillion Parameter AI Model With 300 IQ
-62K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-37:06
-Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
-445K views
-1 year ago
-37:14
-Now Anyone Can Code: How AI Agents Can Build Your Whole App
-94K views
-1 year ago
-33:45
-The 10 Trillion Parameter AI Model With 300 IQ
-62K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

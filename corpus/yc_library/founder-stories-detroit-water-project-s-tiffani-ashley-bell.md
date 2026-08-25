@@ -3,33 +3,23 @@ title: Founder Stories: Detroit Water Project's Tiffani Ashley Bell
 source: https://www.ycombinator.com/library/4y-founder-stories-detroit-water-project-s-tiffani-ashley-bell
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Founder Stories: Detroit Water Project's Tiffani Ashley Bell
-Founder Stories: Detroit Water Project's Tiffani Ashley Bell
-by Tiffani Ashley Bell
-
 The co-founder of the Detroit Water Project on creating a non-profit from scratch, coping with government bureaucracy, and how hearing a family’s toilet flush can make it all worthwhile.
 
-YC : The Detroit Water Project has helped more than 950 families keep access to running water since it was founded just 16 months ago. Can you take us back to the beginning? How did this start?
+**YC : [The Detroit Water Project](https://www.detroitwaterproject.org) has helped more than 950 families keep access to running water since it was founded just 16 months ago. Can you take us back to the beginning? How did this start?**
 
-Tiffani Ashley Bell : Last summer in 2014, I was a Code for America fellow, working on software with the City of Atlanta. With government stuff, when you’re working on projects at that level, there is often a lot of downtime as you wait for things to go through.
+**Tiffani Ashley Bell :** Last summer in 2014, I was a Code for America fellow, working on software with the City of Atlanta. With government stuff, when you’re working on projects at that level, there is often a lot of downtime as you wait for things to go through.
 
 Before I get up in the morning, I usually scroll through Twitter on my phone. One morning in July of last year I read an article in the Atlantic about how there were 100,000 people in Detroit who were about to have their water shut off for owing money to the water company. The article said that something like 50 percent of the Detroit Water and Sewerage Department’s customers were behind on their bills. If you were $150 behind for at least 2 months, you were eligible for shut off.
 
-This story really bothered me. It just really bothered me. This was a city-run water company having this issue. I thought it was shady that this was the city’s solution. How is turning off a household’s access to clean water helping people who are already hurting, who are already behind on their bills?
+This story really bothered me. It just *really* bothered me. This was a city-run water company having this issue. I thought it was shady that this was the city’s solution. How is turning off a household’s access to clean water helping people who are already hurting, who are already behind on their bills?
 
-What is Y Combinator?
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
+
+[Apply](/apply)
 
 I ended up not even going into the office that day. I just stayed in the house, in my pajamas, reading more and more about what was going on, taking phone calls, trying to figure out how this was happening and how to help. I talked a lot about the situation on Twitter, posting my thoughts and findings, and reading other people’s reactions and ideas. Kristy Tillman, who became my co-founder, said, “I would pay someone else’s bill if I could pay it directly to the water company.”
 
@@ -37,23 +27,23 @@ Meanwhile, I had been clicking all around on the water company’s website, and 
 
 So we put together a quick site on Heroku that night. In the beginning it was really just an ugly site with a link to a Google Form that basically said, ‘If you need help, sign up here.’ We wanted to connect with the people behind that big list of accounts, with the hopes of eventually being a platform for telling their stories. Then we just started Tweeting that out.
 
-So this whole thing was taking shape in real-time in public, all on Twitter?
+**So this whole thing was taking shape in real-time in public, all on Twitter?**
 
 Yes. My cofounder Kristy and I hadn't even met in person yet at that point! But we had been Twitter contacts for a long time.
 
 I’m just now getting to the point that I’ve met most of the people I've talked to on Twitter in person -- whether at a conference, or travel, or just through work in San Francisco. But there are all these people I’ve talked to and shared thoughts with for years.
 
-What was the response like?
+**What was the response like?**
 
 It was a Thursday that we launched the site, and the response from the press and from donors was just immediate and incredible. We actually ended up then spending the whole weekend trying to find a person in Detroit to help! At the beginning, we had a bunch more people signed up to pledge than we had signed up to receive the money.
 
-How did you end up connecting to the people who needed help?
+**How did you end up connecting to the people who needed help?**
 
 Originally we just did social media promotion, but we quickly saw that was not useful for the folks who needed the help. So we printed out postcards and mailed them to different places in Detroit. The Postal Service has a widget on its website that lets you pick a mail route and see how many houses are on it and how much it would cost to send a postcard to that route. We just picked the most prevalent zip code that we found in that big PDF of accounts.
 
 It took off from there by word of mouth. We helped a few people, and they’d tell a bunch of people. I think if you have something that really works and is honest, word of mouth is the best marketing you can get.
 
-How did this go from being a project, to being a full-time endeavor for you?
+**How did this go from being a project, to being a full-time endeavor for you?**
 
 Soon after we launched, my work at the fellowship in Atlanta also picked up, and before I knew it I was juggling 2 full time jobs!
 
@@ -61,7 +51,7 @@ I just thought, “I have to figure out a way to keep this going, because people
 
 So we applied to YC to take part as a non-profit. It worked out: The Code for America fellowship ended the same weekend we got accepted to Y Combinator.
 
-How has your understanding of the water crisis in Detroit changed since you first read about the issue?
+**How has your understanding of the water crisis in Detroit changed since you first read about the issue?**
 
 Being a Code for America fellow, I was able to basically get access to whoever I wanted in the government in Atlanta. You quickly see that even if the government is not perfect, the people in City Hall are not terrible people. They come to work for the most part because they want to help people. So based on what I knew from Atlanta, I knew that it couldn’t be that there were just terrible people running the water company in Detroit.
 
@@ -69,7 +59,7 @@ It turns out this whole water crisis thing goes back a while. In the City of Det
 
 Once you’re behind on your bill for two months and the water has been turned off, there’s a $30 reconnection fee to turn it back on. If you were already behind on your bill though, there’s a chance you can’t afford that. So there are people who will come around with a crowbar and a pickup truck to turn it back on illegally. But if the water company finds out you did that, they charge a $250 fine. You can see how these things just add up.
 
-Has there been any criticism?
+**Has there been any criticism?**
 
 I remember at first we’d have some people calling this a “Band-Aid solution.” Now, I understand where that comes from. And in a way, I agree with them! Our intention has never been to just pay people’s bills indefinitely. That’s not sustainable, and it doesn’t encourage utility companies to look at their pricing and policies.
 
@@ -79,7 +69,7 @@ Water is an essential thing that we all need. I don’t have this fantasy that e
 
 Our approach was to do what needs to be done to get people’s water turned back on, while also looking further into what causes people to need this help in the first place. We’re stopping the bleeding while also helping treat the underlying wound.
 
-How has the organization itself evolved over the past year?
+**How has the organization itself evolved over the past year?**
 
 A lot of how this has evolved has been in the lean startup model. Our core issue is about water affordability and access. Right now, that’s manifested with this large group of people who can’t pay their water bills. So we started with the smallest possible thing we could do to begin to chip away at the problem: Paying those bills to get the water turned back on.
 
@@ -89,13 +79,13 @@ Now we’re maturing as an organization, and the second phase of building our pl
 
 We’re also adding internal improvements like tracking funds, adding administrative layers, improving customer service, shortening response times to people. But we couldn’t have gotten here at all if we hadn’t started the way that we did.
 
-It sounds like these kinds of issues can’t be unique to Detroit.
+**It sounds like these kinds of issues can’t be unique to Detroit.**
 
 Exactly. This is just one city. We’ve also launched the program in Baltimore, and we’re starting to work with other cities too -- we’re hoping to launch Philadelphia in the spring, for instance.
 
 With each new city, we’re learning about different policies, different criteria for shutoff and fines. There is a lot of policy design that we’re implementing through software.
 
-How have the cities and the water companies responded? I’d imagine it’d have to be quite positive?
+**How have the cities and the water companies responded? I’d imagine it’d have to be quite positive?**
 
 In the beginning, not so much actually. Like I said, at the start, we had a lopsided situation where we had a lot more donors than people we could connect to help. We were frantically trying to reach out to the city to tell them, “We have a ton of money here, if you can just help us connect with the people to give it to, you’ll be doing a great thing.”
 
@@ -109,7 +99,7 @@ Finally, through Jen Pahlka at Code for America, I was put in touch with the CIO
 
 The ideal situation would be for us to have our own portal with the information we need, in every city that we’re in. We’re working toward that now.
 
-Encountering bureaucracy like that for so long, a lot of people would probably have gotten frustrated and just given up. Do you think you’re especially tenacious?
+**Encountering bureaucracy like that for so long, a lot of people would probably have gotten frustrated and just given up. Do you think you’re especially tenacious?**
 
 Well, that’s not quite true. I will quit on some things in a second! [laughs] But not stuff that I care about. I turned 30 this past summer, and I’ve realized that even more as I get older. For things I care about, I really can't let them go.
 
@@ -118,62 +108,3 @@ I was in Detroit over the past year, and I visited this lady's house, one of the
 So no, I don’t think of myself as having a special amount of tenacity. The folks this product is for that aren't the usual affluent 20-somethings living in San Francisco. We cater to someone who is totally different. These are regular, hard-working folks who are going through tough situations: Grandmas, aunts, uncles.
 
 I think about all the other jobs or things I could have been doing as an engineer, and I can’t imagine anything else that I’d want to do more.
-
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-14:26
-What's different about unicorns?
-29K views
-Over 1 year ago
-26:34
-On starting and scaling meal kit company Gobble
-21K views
-Over 1 year ago
-50:02
-On starting and scaling construction startup PlanGrid
-9,107 views
-Over 1 year ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

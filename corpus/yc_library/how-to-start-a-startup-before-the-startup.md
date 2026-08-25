@@ -3,27 +3,9 @@ title: How to Start a Startup: Before the startup
 source: https://www.ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to Start a Startup - A course Y Combinator taught at Stanford
-›
-How to Start a Startup: Before the startup
-How to Start a Startup: Before the startup
-by Paul Graham
-1M views
-Over 1 year ago
-
 Paul Graham delivers an informative (and highly amusing) talk, addressing the counterintuitive parts of starting a startup.
 
-Transcript
+## Transcript
 
 Paul Graham: That short. Like, long introductions are no good. Sam knows. Alright, ready, everybody? I'm not gonna ask if the mic is working like in every talk so far. I'll just assume it's working.
 
@@ -103,7 +85,7 @@ The first time I wrote that paragraph, instead of "learn a lot about things that
 
 So, you don't have to work on technology per se, so long as you work on things that stretch you. What kind of things are those? Now, that is very hard to answer in the general case. History is full of examples of young people who were working on problems that no one else, at the time, thought were important. And in particular that their parents didn't think were important. On the other hand, history is even fuller of examples of parents who thought their kids were wasting their time, and who were right, so.
 
-Host: How do you know if you're working on real stuff? I mean when Twitch TV switched from being Justin.tv to Twitch TV, and they were gonna broadcast people playing video games, I was like "What?" But turned out to be a good business.
+Host: How do you know if you're working on real stuff? I mean when Twitch TV switched from being [Justin.tv](http://Justin.tv) to Twitch TV, and they were gonna broadcast people playing video games, I was like "What?" But turned out to be a good business.
 
 Paul Graham: Well, I know how I know. Real problems are interesting. And I'm self-indulgent. I like—I'm always interested in working on interesting things even if no one else cares about them. And I find it very hard to make myself work on boring things even if they're supposed to be important. My life is full of case after case where I worked on things just cuz I was interested. And they turned out to be useful later in some worldly way. Y Combinator itself is something I only did because it seemed interesting.
 
@@ -276,76 +258,3 @@ Paul Graham: Snapchat? What do I know about Snapchat? We didn't fund them. How a
 Audience Member: You talked about hiring employees you like. But it seems like that could read into a monoculture, and there are a lot of benefits in being a monoculture, but how do you feel about the blind spots that arise?
 
 Paul Graham: Okay, so if you hire people who you like, you might get a monoculture, and how do you deal with the blind spots that arise? Starting a startup is something where many things will be going wrong. You can't expect it to be perfect. And the advantages of hiring people that you know and like are far greater than, you know, the small disadvantages of having some monoculture. You look at it empirically. All the most successful startups, someone just like hires all their pals out of college. All right, you guys, thank you.
-
-Up next from How to Start a Startup - A course Y Combinator taught at Stanford
-52:14
-How to Start a Startup: Getting started, getting press, and doing things that don't scale
-378K views
-Over 1 year ago
-Related
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-48:02
-How to Start a Startup: Building products users love
-409K views
-Over 1 year ago
-52:14
-How to Start a Startup: Getting started, getting press, and doing things that don't scale
-378K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-53:07
-How to Start a Startup: Raising money and succeeding long-term
-69K views
-Over 1 year ago
-Why to not not start a startup
-Paul Graham
-YC's Paul Graham discusses common reasons why people are reluctant to start a company.
-How to Get Startup Ideas
-Paul Graham
-The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing.
-Startup = growth
-Paul Graham
-A startup is a company designed to grow fast. Everything else we associate with startups follows from growth.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

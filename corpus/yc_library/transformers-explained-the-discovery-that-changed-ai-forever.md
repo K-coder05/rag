@@ -3,30 +3,11 @@ title: Transformers Explained: The Discovery That Changed AI Forever
 source: https://www.ycombinator.com/library/N3-transformers-explained-the-discovery-that-changed-ai-forever
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-YC Decoded
-›
-Transformers Explained: The Discovery That Changed AI Forever
-DECODED
-Transformers Explained: The Discovery That Changed AI Forever
-by Ankit Gupta
-102K views
-10 months ago
-
 Nearly every modern AI model, from ChatGPT and Claude to Gemini and Grok, is built on the same foundation: the Transformer.
 
 In this video, YC's Ankit Gupta traces how AI learned to understand language — from early RNNs and LSTMs to attention mechanisms and the breakthrough 2017 paper Attention Is All You Need — the discovery that unlocked the modern AI era.
 
-Transcript
+## Transcript
 
 Speaker: Nearly every state-of-the-art AI system, whether it's ChatGPT, Claude, Gemini, or Grok, is built on the same underlying model architecture, the transformer. But where did the transformer architecture come from? And what can its development teach us about the way breakthroughs in AI happen? Let's dive in.
 
@@ -79,60 +60,3 @@ Speaker: But not that long ago, it wasn't obvious that there might be one model 
 Speaker: Also, at this point, there wasn't really a concept of prompting the models because there was no chat interface. Instead, people interacted with the models through domain-specific inputs. It was only as the lab started to experiment with training autoregressive models on much larger datasets that they began to look and feel more like generally intelligent systems.
 
 Speaker: Hopefully, this history helped contextualize some of what it took to get these models to a place of being able to scale them. In the next video, we'll talk about some of the architectural and engineering innovations it took to actually get them to their current performance levels. Thanks for watching.
-
-Up next from YC Decoded
-12:32
-GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
-33K views
-1 year ago
-Related
-7:54
-Anthropic’s Claude Computer Use Is A Game Changer
-142K views
-1 year ago
-5:42
-How To Get Your First Users
-110K views
-7 months ago
-12:32
-GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
-33K views
-1 year ago
-8:26
-GPT-4.5 = Big Model Energy
-31K views
-1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

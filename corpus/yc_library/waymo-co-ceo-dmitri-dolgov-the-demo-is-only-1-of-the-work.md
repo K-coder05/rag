@@ -3,61 +3,11 @@ title: Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work
 source: https://www.ycombinator.com/library/WV-waymo-co-ceo-dmitri-dolgov-the-demo-is-only-1-of-the-work
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School 2026
-›
-Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work
-STARTUP SCHOOL
-Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work
-by Y Combinator
-34K views
-21 days ago
-Chapters
-0:00
-— Intro
-0:07
-— Seven Lessons From Building Waymo
-2:21
-— Why Physical AI Is Different
-6:52
-— Lesson 1: The Gap Between a Demo and a Product
-11:34
-— Why Reliability Lives on an Exponential Curve
-14:17
-— Lesson 2: Pick the Right Technology Curve
-16:05
-— Why Waymo Uses Cameras, LiDAR, and Radar
-21:07
-— Lesson 3: Ride Every Technology Wave
-24:43
-— Inside the Waymo Foundation Model
-30:09
-— Lesson 4: The Bitter Lesson Still Wins
-36:41
-— Lesson 5: Why Every Physical AI Company Needs a Simulator
-41:36
-— Lesson 6: Build an AI Flywheel
-43:22
-— Lesson 7: Evals Are Your Competitive Advantage
-46:09
-— How Waymo Became 17x Safer Than Human Drivers
-47:59
-— The Next Decade of AI Will Be Physical
-
 Waymo’s first autonomous demo took eighteen months. The product took fifteen years. Today, the Waymo Driver runs 500,000 trips a week — four million fully autonomous miles across fifteen cities, with 17 times fewer serious-injury crashes than human drivers.
 
 At Startup School 2026, Waymo co-CEO Dmitri Dolgov shares the seven lessons behind that journey, from bridging the gap between a demo and a real product to building systems that can safely operate in the physical world.
 
-Transcript
+## Transcript
 
 Good afternoon, everyone. It’s great to be here. We talk a lot about AI that lives on your screen, lives in the digital world. Today I’d like to talk to you about a different kind of AI that we’ve been building at Waymo, AI that lives in the real physical world. How many of you, by the way, have been in a Waymo? Just raise your arms. Wow. Okay. That is impressive, especially since I understand many of you are out of town. For those who are visiting and have not had a chance to check out Waymo, I hope while you’re here in the Bay Area, you’ll give it a try. Since this is a startup school, I structured this presentation as a sequence of lessons—seven lessons that we’ve learned over the years at Waymo around what it takes to build and safely ship today’s most mature application of AI in the physical world, the Waymo Driver.
 
@@ -172,66 +122,3 @@ When you zoom out and look at this playbook as a whole, you realize that none of
 It’s based on over 220 million fully autonomous miles. We’re seeing that in the areas where we operate, the Waymo Driver is about 17 times better than human drivers when it comes to crashes that cause serious injury. That really matters because today, somewhere in the world, every 26 seconds, someone loses their life on a road to a crash event. On the current scale, what that means is that Waymo is preventing a serious injury every eight days. This isn’t just a metric on a dashboard. That means that someone’s loved one got to walk through the front door at the end of the day safe and unharmed. These are just the early safety benefits of AI in the physical world, and they will only grow from there. If you look at the broader landscape, the opportunity here is absolutely massive.
 
 Physical AI right now is where digital AI was a few years ago, and we have all of the right ingredients to go after it. We have generative world models, we have the architectures, we have affordable compute and sensing. We have proven scaling laws, and we have a real product operating at scale. The last decade of AI happened in the digital world. I think the next decade will also happen in the physical world. For those of you who decide to build in this space, good luck, have fun, and remember who you’re building for. Your mission and your customers—that’s what matters. Otherwise, tech is just a science project. At the end of the day, as exciting and exhilarating as the tech is, nothing really beats the joy of making a difference in people’s lives.
-
-Up next from Startup School 2026
-42:08
-Garry Tan: Own Your Intelligence
-86K views
-18 days ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-35:52
-Boris Cherny: Building Claude Code
-252K views
-29 days ago
-49:00
-Jensen Huang: The Mindset That Built NVIDIA
-205K views
-29 days ago
-42:08
-Garry Tan: Own Your Intelligence
-86K views
-18 days ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

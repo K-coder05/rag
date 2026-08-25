@@ -3,49 +3,34 @@ title: How to build product as a small startup
 source: https://www.ycombinator.com/library/62-how-to-build-product-as-a-small-startup
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to build product as a small startup
-How to build product as a small startup
-by Michael Seibel
-181K views
-Over 1 year ago
+Y Combinator CEO and Partner [Michael Seibel](https://twitter.com/mwseibel) shares a process for building product as a small startup.
 
-Y Combinator CEO and Partner Michael Seibel shares a process for building product as a small startup.
+**Topics**
+[00:00](https://youtu.be/kzVvjKLdAbk?t=0s) - Have a process to get product out the door
 
-Topics 00:00 - Have a process to get product out the door
+[1:02](https://youtu.be/kzVvjKLdAbk?t=1m2s) - Decide on a release schedule
 
-1:02 - Decide on a release schedule
+[1:15](https://youtu.be/kzVvjKLdAbk?t=1m15s) - Put someone in charge of product
 
-1:15 - Put someone in charge of product
+[1:34](https://youtu.be/kzVvjKLdAbk?t=1m34s) - Establish KPIs
 
-1:34 - Establish KPIs
+[1:47](https://youtu.be/kzVvjKLdAbk?t=1m47s) - Create a theme for the product cycle based on a KPI
 
-1:47 - Create a theme for the product cycle based on a KPI
+[2:00](https://youtu.be/kzVvjKLdAbk?t=2m) - Product meeting
 
-2:00 - Product meeting
+[2:30](https://youtu.be/kzVvjKLdAbk?t=2m30s) - Brainstorm new features, bugs, and tests
 
-2:30 - Brainstorm new features, bugs, and tests
+[3:35](https://youtu.be/kzVvjKLdAbk?t=3m35s) - Sort each into: easy, medium, or hard
 
-3:35 - Sort each into: easy, medium, or hard
+[4:59](https://youtu.be/kzVvjKLdAbk?t=4m59s) - Pick the hards first
 
-4:59 - Pick the hards first
+[5:30](https://youtu.be/kzVvjKLdAbk?t=5m30s) - Spec the ideas out and assign tasks
 
-5:30 - Spec the ideas out and assign tasks
+[6:00](https://youtu.be/kzVvjKLdAbk?t=6m) - Shut up and get to work
 
-6:00 - Shut up and get to work
+[7:00](https://youtu.be/kzVvjKLdAbk?t=7m) - Testing
 
-7:00 - Testing
-
-Transcript
+## Transcript
 
 Michael Seibel: A lot of the problems that I faced in the early stages of my companies were because I didn't have a process to get product out of the door. Instead, me and my co founders would have long debates, which would often turn into arguments. We wouldn't write clear specs, we wouldn't hit our deadlines, and we would get very discouraged.
 
@@ -80,90 +65,3 @@ Michael Seibel: As the product person, especially a product person who isn't eng
 Michael Seibel: And then we had a saying, everyone tests. As a result, all the engineers and everyone else in the company, we all tested everything on that list. Once we found bugs, we wrote them down, we tried to figure out how to repeat them. And then only after all the testing was done would the bug fixing be done. As a result, everyone sucked up the painful part of testing together.
 
 Michael Seibel: So this was a product development cycle that we created. It worked very well for us. I don't know whether it'll work well for you, but I can recommend that you create some sort of cycle with some sort of cadence as soon as possible. Thank you.
-
-Related
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-19:50
-How to launch (again and again)
-172K views
-Over 1 year ago
-29:13
-Dalton & Michael: Setting smarter goals
-170K views
-Over 1 year ago
-35:46
-Dalton & Michael: Save your startup during an economic downturn
-162K views
-Over 1 year ago
-49:40
-How to Start a Startup: How to get ideas and find what's working
-124K views
-Over 1 year ago
-6:55
-User you don't want
-38K views
-Over 1 year ago
-Advice for companies with less than 1 year of runway
-Dalton Caldwell
-Having low runaway is a tricky spot to be in. Many founders delude themselves into thinking they can raise more money to get out of it. Here we discuss why this is bad and other counter-productive ideas founders have.
-Guide to product development
-Michael Seibel
-This is a guide to running your product development process. This will help you rapidly iterate, measure, test, and improve your product while fully engaging your team.
-How to prioritize features
-Emmett Shear
-Emmet Shear shares his mental frameworks for prioritizing building features that work to figure out what to build next on your product, drawing from his experience building Justin.tv and Twitch.
-How to set up, hire, and scale a growth strategy and team
-Anu Hariharan
-What does a growth team do and why should you set up a growth team? Growth experts share when to invest in growth, what the right growth KPIs are, how to manage growth, building a growth team, and how to get everyone in the company to care about growth.
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

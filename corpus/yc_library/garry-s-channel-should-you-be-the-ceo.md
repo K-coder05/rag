@@ -3,29 +3,11 @@ title: Garry's Channel: Should you be the CEO?
 source: https://www.ycombinator.com/library/Jq-garry-s-channel-should-you-be-the-ceo
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-Garry's Channel: Should you be the CEO?
-Garry's Channel: Should you be the CEO?
-by Garry Tan
-99K views
-Over 1 year ago
-
 We were pitching A16z, with Marc Andreessen and Ben Horowitz. They asked us who was CEO. We said both. It was the wrong answer.
 
 This video is about why people try to do shared leadership, and how you can tell if you should be CEO or not. It might seem like its not important... but it is.
 
-Transcript
+## Transcript
 
 Host: Picture this. It's 2010, and me and my co-founder are pitching on Sand Hill Road. We're sitting in the offices of Andreessen Horowitz, pitching Mark Andreessen and Ben Horowitz. We thought it was going fine, just like the others. Ben turns to us and asks, "So who's the CEO?" I looked at my co-founder Sachin. He looked at me. We said, "Both." And again, guess what? It was the wrong answer. The meeting might as well have ended at that moment. Let me walk you through this mistake so you don't have to make it yourself. And along the way, we'll talk about why we made that mistake and what it means to be CEO. Are you ready? Let's get started.
 
@@ -40,68 +22,3 @@ Host: Look, it doesn't have to be an ego thing. It's just something that you nee
 Host: It becomes extremely important right after product-market fit. Early on, it's all hands on deck. Get a product or service off the ground. Later, there are a few things that only the CEO can do. And you've got to ask yourself, are you willing to drop everything else just to do this? Can you convince people to follow you? Can you hire? Can you manage? Can you fundraise and manage investors? Can you drive the vision of the company? Most importantly, can you be the magic that brings all of those things together to build a great product or service? Being CEO is a very specific skill set. And unless you are signing up to do those things and do them to the best of your ability, don't. Being CEO is not for everyone.
 
 Host: But if you want to be CEO, those are the things you need to do. The other jobs are incredibly important too, but this role is a singular one. Every situation is very different. For some of you watching right now, you may never want to be CEO, and that's fine. For others, you may love doing another thing, but you may need to become CEO to steer the ship. And for some of you, you knew the day you quit your job that you absolutely have to get that authority. Only you can decide for yourself. Don't make my mistakes. Don't delude yourself about whether or not you should be CEO. If you know, you know. Then it's on you to acquire the skills and manifest it. I know you can do it. Thanks for watching my channel. It's been growing really quickly, and I just appreciate all of you spending so much time learning how to create new businesses and maybe a startup. If you like this video, please click subscribe and the bell icon to get notifications for all my next posts. Trying to post every week. By day, I'm actually a venture capitalist trying to fund the next billion-dollar startup. We've actually been able to do that for companies that you've heard of like Instacart, Coinbase, and Flexport. I just want this place to be a good place where you can come for the real lessons, you know, the stuff that actually matters.
-
-Up next from Garry Tan's Channel
-14:36
-Garry's Channel: How To DESIGN EVERYTHING if you don't know ANYTHING
-103K views
-Over 1 year ago
-Related
-37:29
-Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
-251K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-17:15
-Garry's Channel: Why now? The key to million dollar startup ideas
-109K views
-Over 1 year ago
-14:36
-Garry's Channel: How To DESIGN EVERYTHING if you don't know ANYTHING
-103K views
-Over 1 year ago
-9:12
-Garry's Channel: 3 steps for billion dollar startups (How Airbnb & DoorDash succeeded)
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

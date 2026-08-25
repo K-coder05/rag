@@ -3,28 +3,9 @@ title: Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
 source: https://www.ycombinator.com/library/Kj-where-is-the-real-cerebral-valley-lightcone-podcast-ep-3
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
-LIGHTCONE
-Where Is The REAL Cerebral Valley? [Lightcone Podcast Ep. 3]
-by Y Combinator
-87K views
-Over 1 year ago
+On this latest episode of the Lightcone Podcast, Garry, Diana, Harj and Jared talk about “Cerebral Valley” and why San Francisco has become **the** place to build an AI company.
 
-On this latest episode of the Lightcone Podcast, Garry, Diana, Harj and Jared talk about “Cerebral Valley” and why San Francisco has become the place to build an AI company.
-
-Transcript
+## Transcript
 
 Speaker: Why was San Francisco so definitively the center of the tech industry? Why did it all, like, agglomerate here?
 
@@ -54,7 +35,7 @@ Speaker: We actually wanted to be living in the building, but we were rejected.
 
 Speaker: Really?
 
-Speaker: Yeah. We came to submit our application. They told us there were lots of space. Um, and then they told us just go around the corner to the leasing office to get it filled. As I was walking out, I bumped into Justin Khan, who at the time was working on Justin.tv. And so he'd walk around everywhere with a camera on his head. Um, which it turns out the building did not like. So they saw me talking to Justin, and they must have called the leasing office to say, "Reject their application." So by the time I got around, they said, "There's no room left."
+Speaker: Yeah. We came to submit our application. They told us there were lots of space. Um, and then they told us just go around the corner to the leasing office to get it filled. As I was walking out, I bumped into Justin Khan, who at the time was working on [Justin.tv](http://Justin.tv). And so he'd walk around everywhere with a camera on his head. Um, which it turns out the building did not like. So they saw me talking to Justin, and they must have called the leasing office to say, "Reject their application." So by the time I got around, they said, "There's no room left."
 
 Speaker: What? Like, one minute ago you said there was like plenty of room!
 
@@ -159,66 +140,3 @@ Host: One hundred years from now, what does San Francisco look like in tech? I m
 Host: I think that, um, if you take the agglomeration effects of the smartest people in the world, the best builders in the world, and you put them in one place and they create this scene—like this, um, you know, set of people who all run in the same direction, create these companies that matter. And then people stay here, and you know, they make the schools awesome. They build housing. They actually, you know, invest into arts. We actually make the city the kind of the best city in the world. Like, we have all the building blocks to make San Francisco into the best city in the world where, you know, give us your misfits, give us your nerds, give us your autists, give us the people who, you know, just wouldn't fit anywhere else. Like, they have this capability with their hands and with their brain to create something that has never existed before. And we put them all in one city, and they go and create software and hardware and technology and biotech and climate tech for that will touch billions of people. And all of that wealth comes back into this one city, and we make the city more and more awesome. That's what San Francisco is. That is what San Francisco could be, and we will manifest this. The boom loop is happening, guys.
 
 Host: So maybe that's a great place to end. That's it for this week of the Light Cone. We'll see you guys next time.
-
-Up next from Lightcone Podcast
-27:59
-Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
-100K views
-Over 1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-32:27
-The Truth About Building AI Startups Today [Lightcone Podcast Ep. 1]
-550K views
-Over 1 year ago
-27:59
-Apple Vision Pro: Startup Platform Of The Future? [Lightcone Podcast Ep. 2]
-100K views
-Over 1 year ago
-41:07
-Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
-86K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

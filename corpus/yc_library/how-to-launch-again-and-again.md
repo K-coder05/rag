@@ -3,29 +3,14 @@ title: How to launch (again and again)
 source: https://www.ycombinator.com/library/6i-how-to-launch-again-and-again
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to launch (again and again)
-How to launch (again and again)
-by Kat Manalac
-172K views
-Over 1 year ago
-
 YC Partner Kat Manalac presents on how startups should think about launching and why you should do it repeatedly.
 
-Watch this if:
+**Watch this if:**
 
-you haven't launched yet
-you launched, but it didn't go well
-Transcript
+* you haven't launched yet
+* you launched, but it didn't go well
+
+## Transcript
 
 Kat: I'm Kat Mañalac. I'm a partner at Y Combinator, and one of the things I help founders do a lot is prepare to launch. That is what I'm going to talk to you about today. So, I want to change the way you think about launching. So, most people think about launching as something that you get one shot at, but I... So, for example, I just talked to a team that's been preparing to launch for six months. They were lovingly trying to get every pixel perfect on their product before they shared it with everyone, and now they are stressing over every line on their landing page, and, you know, they're trying to line up everything right with timing. But if you're like most startups, you will launch something, no one will care. And if it took you six months to get there, your startup is probably going to be dead before you get another chance to launch. So, in the same sort of spirit, I'd always be shipping. I want you to think about launching as something you can continually do. I want to destroy the idea that launching is just this one moment in time because assuming you do well, and assuming you ship new products and new features, you are never going to be not launching. So, let's talk about all the ways that you can launch. Here are different opportunities to launch that we're going to go through today. I'll go through each of these except press launches. We have done a previous startups lecture on press launches, and I'll share a link to that and some resources after this, but we'll go over most of these. And most of these things are things that you should be doing while you're in Startup School. So, let's talk about first why you want to continuously launch.
 
@@ -49,7 +34,7 @@ And so, of course, there's the new feature or new product line launches. So, two
 
 One last note before we jump into questions is while you're in Startup School, you should start to build your own communities, and you can do this even really pre-product. So, there was one YC founder, Gadi Evron, who is the founder of Cymmetria, and he had a really particularly successful TechCrunch launch. A TechCrunch launch is, you know, a story about what they were doing launched in TechCrunch, and I noticed that they had a ton of shares, a ton of engagement, so I asked them to share, you know, "How did you set this up? What did you do to share and spread the word about your launch?" And he said that over the years, you know, even before launching the product, he started to build his own email list. So, every person he met that he discussed his startup with, even very loosely, he would add them to an email list, and they would get sort of email updates about what he was working on at semi-regular intervals. So, when the TechCrunch article came out, he said he sent that email to the list full of all the people that he'd ever talked to, other startup founders, investors, friends, family, and asked for their help in spreading the news. And he said the response was significant. And he even saw VCs who hadn't invested in them sharing the story from their own personal Twitter accounts. And he said, you know, "You would be really surprised by who comes out of the woodwork to help when you ask for it." So, I would recommend, while you're in Startup School, you have the opportunity to talk to so many people about what you're building and start, and ask them, "Hey, can I add you to my update list?" And over time, you know, you'll get that into the hundreds, maybe even thousands. So, I would definitely recommend that you start doing that now.
 
-And so, to sum up, I want you to stop thinking about launching as this one moment in time. I don't want you to spend all of Startup School getting ready for this one big day, this one big launch day that you're trying to line up all these things for. This is something that is a continuous process that you can do over the course of the next couple of months and into the life cycle of your company. If you didn't catch them the first time, these are all the opportunities that we went over. And I'm Kat. So, if you ever have any questions, Demo Day is coming up, so I might be slightly slower than usual to respond, but you can always reach out, kat@ycombinator.com. And I'm also on Twitter. We have 10 minutes for questions, so does anyone have any questions about launches? Yes. The red shirt.
+And so, to sum up, I want you to stop thinking about launching as this one moment in time. I don't want you to spend all of Startup School getting ready for this one big day, this one big launch day that you're trying to line up all these things for. This is something that is a continuous process that you can do over the course of the next couple of months and into the life cycle of your company. If you didn't catch them the first time, these are all the opportunities that we went over. And I'm Kat. So, if you ever have any questions, Demo Day is coming up, so I might be slightly slower than usual to respond, but you can always reach out, [kat@ycombinator.com](mailto:kat@ycombinator.com). And I'm also on Twitter. We have 10 minutes for questions, so does anyone have any questions about launches? Yes. The red shirt.
 
 Man: What are your thoughts about launch parties? I feel like they've been kind of, you know, people don't think they're as great as they used to be, I was curious to see how you see success.
 
@@ -65,7 +50,7 @@ Kat: Okay. So, I would say this is a case of, like, where it's really important 
 
 Woman 2: First of all, thank you very much for the information you have. It's very, very helpful, especially, and my company started a marketing campaign two weeks ago. We're getting really good results, but we had some challenges also that ... I can relate to ... And I have one question, before, you mentioned about launching at Hacker News. What kind of campaigns have better result there, B2C, B2B? What kind of...?
 
-Kat: Yes. That's a good question. So, the question is, if you were launching on Hacker News, what types of companies are better suited to launch on Hacker News? B2B, consumer, dev tools. So, the Hacker News community is, you know, a lot of very smart technical people, but you would be surprised. So, I would recommend you go to, if you go to news.ycombinator.com/launches, you can see a list, or even Show HN, you'll see a list of all the companies. news.ycombinator.com/launches will show you a list of all the YC companies that have launched, Show HN is all general companies that have sort of shared what they're building on HN. And I think you'd be surprised by which companies get the most upvotes. So, one of the top YC companies of all time that launched on Hacker News in terms of upvotes and engagement was a company called 70 Million Jobs. And it was a solo non-technical founder building a company that would help get people who had criminal records and had previously been in jail, connecting them with jobs. And the community really loved what the founder was building and asked a lot of questions and were really, really engaged. So, when I've asked this question to the Hacker News moderators, they're like...you know. I always thought sort of before I talk to them, that dev tools, right? Like something very technical would do best on Hacker News, and they said, "That's absolutely not true. If you actually look at the numbers, all sorts of companies do well." But what does really well on Hacker News is really leaning into the intellectual curiosity, like is there something really interesting that you've learned from your users that you can share with the community? Is there something surprising or, you know, that they might not have heard elsewhere? And so, that's one recommendation I'd have there is it doesn't matter what industry you are, but really try to speak to the community in a way that will kind of connect with them, and then I would look at previous launches that have done well and see how they've described themselves and how they've kind of teed up the communities to start asking questions.
+Kat: Yes. That's a good question. So, the question is, if you were launching on Hacker News, what types of companies are better suited to launch on Hacker News? B2B, consumer, dev tools. So, the Hacker News community is, you know, a lot of very smart technical people, but you would be surprised. So, I would recommend you go to, if you go to [news.ycombinator.com/launches](http://news.ycombinator.com/launches), you can see a list, or even Show HN, you'll see a list of all the companies. [news.ycombinator.com/launches](http://news.ycombinator.com/launches) will show you a list of all the YC companies that have launched, Show HN is all general companies that have sort of shared what they're building on HN. And I think you'd be surprised by which companies get the most upvotes. So, one of the top YC companies of all time that launched on Hacker News in terms of upvotes and engagement was a company called 70 Million Jobs. And it was a solo non-technical founder building a company that would help get people who had criminal records and had previously been in jail, connecting them with jobs. And the community really loved what the founder was building and asked a lot of questions and were really, really engaged. So, when I've asked this question to the Hacker News moderators, they're like...you know. I always thought sort of before I talk to them, that dev tools, right? Like something very technical would do best on Hacker News, and they said, "That's absolutely not true. If you actually look at the numbers, all sorts of companies do well." But what does really well on Hacker News is really leaning into the intellectual curiosity, like is there something really interesting that you've learned from your users that you can share with the community? Is there something surprising or, you know, that they might not have heard elsewhere? And so, that's one recommendation I'd have there is it doesn't matter what industry you are, but really try to speak to the community in a way that will kind of connect with them, and then I would look at previous launches that have done well and see how they've described themselves and how they've kind of teed up the communities to start asking questions.
 
 Woman 3: About Reddit, what age range usually do you get? I expect....
 
@@ -74,51 +59,3 @@ Kat: Oh, really depends. So, what I would recommend with Reddit is you target a 
 Woman 4: What's your thought about-- what's your advice about launching in that home page with, you know, very short, very straight points, having a long page where you have just..?
 
 Kat: Keep it short. Yeah. I mean, I think for your landing page, you want it to be really clear what it is you're building and who it is you're building for, but once you start getting into too much detail, I think it can get muddied or confusing, and you can certainly add a little bit more detail than just that, but I would keep copy really tight. Like, people's attention spans are really short these days, and I think if you can kind of...and you have a huge community here to help you A/B test that messaging and that, kind of that front page copy. But I would recommend to keep it as short and succinct as possible. Okay.
-
-Related
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

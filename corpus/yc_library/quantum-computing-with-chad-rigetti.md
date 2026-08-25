@@ -3,27 +3,9 @@ title: Quantum computing with Chad Rigetti
 source: https://www.ycombinator.com/library/7S-quantum-computing-with-chad-rigetti
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Founder Stories
-›
-Quantum computing with Chad Rigetti
-Quantum computing with Chad Rigetti
-by Chad Rigetti
-36K views
-Over 1 year ago
-
 Chad Rigetti, founder of Rigetti Quantum Computing (YC S14), talks about quantum computing and Rigetti's founding story.
 
-Transcript
+## Transcript
 
 Host: Everybody, our next speaker is Chad Rigetti from Rigetti Quantum Computing. Rigetti Quantum Computing went through YC in the summer of 2014. At that point, they had nothing. They are now one of the leading quantum computing companies in the world, and next year—well, I don't know exactly when—they are getting close to a quantum supremacy machine. I have a particular love for the startups where they're trying to do something. It's not clear if it's technically possible, but if they do, it changes the world. And it just goes nothing, nothing, nothing, nothing, and then everything is different. These companies are super fun to work with, and I think they're super fun to work on, which is why I'm so excited Chad's here to tell us about Rigetti and also hard technology startups in general. And why it's okay if you don't have a growth graph every week. Sometimes you just work and work and work, and then everything comes together. Chad, come out here because I have a question for you.
 
@@ -70,68 +52,3 @@ Chad Rigetti: One last thing. So one of the special challenges that a hard tech 
 Chad Rigetti: There's a lot of things that this leads you to. One is it tells you who you should hire. Some people create order and clarity in their wake. They create systems, they execute systems, they reinforce systems, they train other people how to use those systems. Other people generate entropy. Know what you're looking for. Hire people who pump entropy out of your vision for your organization. It's incredibly powerful.
 
 Chad Rigetti: So this is one of my favorite pictures I've ever seen. This is a picture of the Control Data Corporation 6600 machine. What I love about it is look at how it is. There's wires hanging out of this thing everywhere. You can see the pumps down in the corner. This machine was—is widely considered the first supercomputer. The United States blocked the export of one of these things to our allies in France. It was incredibly impactful at a geopolitical level. And who built it? A group of thirty-four folks in the woods of Wisconsin. Thirty-four people built the world's most powerful computer. I can't even read the memo—it's too powerful. Ultimately, thirty-four people out-competing a giant behemoth. That is what happens in high-performance computing. That is what happens with a lot of hard tech organizations, and it's an incredible opportunity for you. If this pulls at your heartstrings, thank you very much.
-
-Up next from Founder Stories
-63:29
-Product and design process for remote teams
-9,914 views
-Over 1 year ago
-Related
-28:13
-Tips for technical startup founders
-201K views
-Over 1 year ago
-69:06
-Jeff Dean on building intelligent systems with large scale deep learning
-56K views
-Over 1 year ago
-58:02
-How to invent the future (part 1)
-39K views
-Over 1 year ago
-54:58
-Post-product market fit: people, customers, sales
-25K views
-Over 1 year ago
-46:20
-How Pachama uses tech to tackle climate change
-12K views
-Over 1 year ago
-63:29
-Product and design process for remote teams
-9,914 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

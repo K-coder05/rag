@@ -3,27 +3,9 @@ title: Dalton & Michael: What does it really mean to do things that don't scale?
 source: https://www.ycombinator.com/library/If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Dalton & Michael
-›
-Dalton & Michael: What does it really mean to do things that don't scale?
-Dalton & Michael: What does it really mean to do things that don't scale?
-by Michael Seibel and Dalton Caldwell
-161K views
-Over 1 year ago
-
 Dalton Caldwell and Michael Seibel talk about Paul Graham's essay "Do Things That Don't Scale" and what it really means for founders
 
-Transcript
+## Transcript
 
 Michael Seibel: The moment I remember on my first test radar cruise that I'll never forget is we're driving down 101 and Kyle says, Oh, a shadow. Let's see how the car handles that. And I was like, oh shit, Kyle. Hey, this is Michael Seibel with Dalton Caldwell, and today we're gonna talk about what does it really mean to do things that don't scale? This term was massively popularized in a PGSA from 2013, but it was advice that he'd been giving YC founders for a really long time. But Dalton, it seems like a lot of founders get this confused. Doing
 
@@ -96,91 +78,3 @@ Michael Seibel: To extend that. And if you can get that person to do it again. T
 Dalton Caldwell: that on a test? I didn't I didn't study for that one.
 
 Michael Seibel: It's like, well, okay. All right. That's two things that don't scale. Don't just take our word for it though. The essay's online. You can read it. And trust me, you'll get a lot out of it if you just go read it. So Google search, do things that don't scale, PG, and I'm sure you'll get the link on the top. All right. See you later, Dalton.
-
-Up next from Dalton & Michael
-25:56
-Dalton & Michael: Things that don't scale, the software edition
-192K views
-Over 1 year ago
-Related
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-20:27
-Dalton & Michael: How future billionaires get sh*t done
-729K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-21:19
-Dalton & Michael: Simple products that became big companies
-192K views
-Over 1 year ago
-25:56
-Dalton & Michael: Things that don't scale, the software edition
-192K views
-Over 1 year ago
-19:50
-How to launch (again and again)
-172K views
-Over 1 year ago
-24:22
-Dalton & Michael: The student's guide to becoming a successful startup founder
-125K views
-Over 1 year ago
-9:38
-Dalton & Michael: Understanding investor terms and incentives
-51K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,25 +3,9 @@ title: Fundraising Fundamentals (SUS 2018)
 source: https://www.ycombinator.com/library/7I-fundraising-fundamentals-sus-2018
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Fundraising Fundamentals (SUS 2018)
-Fundraising Fundamentals (SUS 2018)
-by Geoff Ralston
-288K views
-Over 1 year ago
-
 YC Partner Geoff Ralston gives an introduction to the key concepts to keep in mind once you enter a fundraising process.
 
-Transcript
+## Transcript
 
 Geoff Ralston: We're going to have two lectures on fundraising. This one, which is going to be a high-level overview which I'll do, and then next week my partner Kirsty will do a deep dive into the mechanics of fundraising, which are really fun, so you wouldn't want to miss that.
 
@@ -210,52 +194,3 @@ Audience Member: I'm not sure I understand the question. Is something to do with
 Geoff Ralston: You shouldn't make long-term financial projections that are complete and utter. And the vast majority of you who try to make a long-term financial projection pre-product or when you have one or two customers, it's a joke. You can't do that. And if an investor asks you to do that, they're not very smart, or they're not very good investors. However, that doesn't mean you can't talk about your opportunity. You can't talk about the fact that, look, this business opportunity is enormous. We have these customers who have started using our product in a very fundamental, very deep way, and they're gonna be our customers forever. It shows the customer need, and there's many, many, many thousands of those customers. If I just get five percent of that customer base, I'll have a hundred million dollars in revenue, and then I'm a billion dollar company. But that's different than making a financial projection. You're not actually projecting the frame to get to five percent. You're just saying, "Imagine if we got those customers."
 
 Host: Okay, thanks very much, guys. We'll see you next week.
-
-Related
-49:15
-Embark Trucks' (W16) road to IPO
-6,181 views
-Over 1 year ago
-A guide to seed fundraising
-Geoff Ralston
-The most comprehensive guide on why, when, and how to raise money for your startup.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-How to build your seed round pitch deck
-Aaron Harris
-Y Combinator has helped thousands of founders create pitch decks for their seed round fundraising. Here is the YC seed deck template that works.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

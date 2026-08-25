@@ -3,45 +3,9 @@ title: How Do Billion Dollar Startups Start?
 source: https://www.ycombinator.com/library/Li-how-do-billion-dollar-startups-start
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Office Hours
-›
-How Do Billion Dollar Startups Start?
-GROUP OFFICE HOURS
-How Do Billion Dollar Startups Start?
-by Y Combinator
-137K views
-1 year ago
-Chapters
-0:00
-Intro
-1:15
-Solugen
-4:17
-CaptivateIQ
-6:30
-Traits of successful founders
-8:15
-Amplitude
-11:35
-Jeeves
-16:05
-Misconceptions
-17:35
-Nourish
-
 The biggest companies in the world all had to start somewhere. In this episode of Office Hours, the Group Partners explore the humble origins of several top YC companies to try and identify common traits of the most successful founders. They’ll explore what it takes to keep your company alive in the early days, where to focus your energy and how to find product market fit that leads you to mega success.
 
-Transcript
+## Transcript
 
 Host: Every founder looks at Airbnb and just imagines Airbnb in the early days must have been something special. And actually, they kind of all look the same. For founders just starting out, they think that the trajectory and the growth graph of all the successful startups looked like this, you know, just like constantly up and to the right. And they don't see the early, early days.
 
@@ -162,66 +126,3 @@ Host: Yeah, there was no challenge, right? And so when you think of those challe
 Host: I totally agree. One thing that this reminds me of is one of our more successful healthcare companies' recent successes is called Nourish, and they just closed a really meaningful Series A from a brand name investor, and it's all over the news. But they spent the whole batch pivoting. And even after, you know, they pivoted five times before they found the right idea. And now they're taken off, and the team was always promising, the team was always great, but yeah, it wasn't always roses.
 
 Host: Truly legendary startups aren't just born that way. They are forged through difficult decisions, uncertainty, mistakes, and pain. I'm proud to say the group partners at YC are some of the most experienced people in the world at helping founders get to product market fit. We can do it not just because we've been there. We can also do it because we've directly worked with more zero to one startups than anyone on the planet. Thanks for watching, and we'll see you on the next episode of Office Hours.
-
-Up next from Office Hours
-18:18
-Why Startup Founders Should Launch Companies Sooner Than They Think
-113K views
-Over 1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-25:42
-YC's Group Partners Discuss Doing Things That Don't Scale
-225K views
-Over 1 year ago
-16:22
-YC’s Group Partners share productivity tips and advice on actually getting things done
-174K views
-Over 1 year ago
-18:18
-Why Startup Founders Should Launch Companies Sooner Than They Think
-113K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

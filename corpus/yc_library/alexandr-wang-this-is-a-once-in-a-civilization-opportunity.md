@@ -3,55 +3,11 @@ title: Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”
 source: https://www.ycombinator.com/library/VS-alexandr-wang-this-is-a-once-in-a-civilization-opportunity
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School 2026
-›
-Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”
-STARTUP SCHOOL
-Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”
-by Y Combinator
-205K views
-26 days ago
-Chapters
-0:00
-— Intro
-0:07
-— How Alexandr Wang Started Scale AI
-3:25
-— Pivoting to the Right Idea
-6:23
-— Conviction Before Consensus
-9:06
-— Why This Is the Best Time to Start a Company
-11:27
-— What Personal Superintelligence Looks Like
-13:10
-— Building a Frontier AI Lab
-16:36
-— Why AI Models Need to Be Cheap
-20:01
-— Vision Will Matter More Than Intelligence
-24:06
-— Systems Thinking in the AI Era
-26:51
-— The Biggest Opportunity in AI Today
-29:25
-— Advice to My 18-Year-Old Self
-
 Alexandr Wang's advice to his 18-year-old self: develop your own internal compass for how the future will unfold, and hold conviction in it against the noise.
 
 At Startup School 2026, the Scale AI (YC S16) founder — now leading Meta's Superintelligence Labs — talks with Garry Tan about rebuilding a frontier lab from scratch, why talent density compounds, and how to spot the exponential worth betting your twenties on.
 
-Transcript
+## Transcript
 
 Host (interviewer): All right, full rock star treatment for Alexander Wang, everyone. All right. So why don't we start out? Uh backstage we're saying, you know, one of the cool ways to think about this event is like, you know, this room is actually full of people who are just like us, but when we were 18 or 20, or you know, there's some 16-year-olds in this audience, you know. Um Let's jump to your story. I mean, you got it came up always really smart, like Math Olympiad. Like jump us to, you know, the Alex of that time. Like what were you feeling, what were you thinking, and what drove you down this road?
 
@@ -122,66 +78,3 @@ Host (interviewer): So uh I like to end on this, which is um, you know, you get 
 Alexandr Wang (guest): Yeah, I think the I think it really boils down to Develop your own internal compass for how you think the future will develop. And have strong conviction in it because you know you will get so you will get inundated with noise and people telling you shit, and like you'll be very confusing and it'll be very hard. And especially when you're young and you don't have experiences, like it can feel very difficult to um have true conviction in what you believe and and what you want to do. But I think that's the most important thing. Kind of as we talked about, you know, um it took A deep, deep conviction in what we're building to be able to weather the sort of storms of many years of um of uh chaos in the market, in the industry, and the people around us. And so um, and and then the other piece of advice I would have is try to identify what is the what is the exponential in the world that has both the steepest curve and will go the longest. And you know, many decades ago, this curve was uh was Moore's Law. And that probably was, you know, that was at the time like clearly the right thing to invest on. I think right now it's AI progress, but there will be more of these very steep curves in the future. And it's fine if these curves start, um, you know, the starting point is very boring or like it doesn't even seem that interesting. Like at, you know, when we started when I started working on scale, um, you know, we had cat detectors and YouTube videos, and that felt, you know. It's hard to s say the explain the story that that's like the most important technology of our time, but it was on just this like unbelievable exponential. Um and I think I have one last thing I gotta say. Yes. Yes, which is uh we are uh Meta is proud to offer everyone in this room a thousand dollars of free credits for Spark API. And we're gonna keep making the models better. And uh right now Muspark is I think 8x cheaper than Opus. So uh so if you compare that to Opus dollars, uh it's a lot more. But um no, everyone here will will work to get everyone the details on how to get uh how to get these credits, and uh we're really excited to see what everyone builds.
 
 Host (interviewer): Alexander Wang, everyone.
-
-Up next from Startup School 2026
-57:07
-Jeff Dean: The 1% Rule for Building in AI
-159K views
-25 days ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-57:07
-Jeff Dean: The 1% Rule for Building in AI
-159K views
-25 days ago
-31:00
-Patrick Collison: "What If You Succeed?"
-53K views
-25 days ago
-49:24
-Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work
-34K views
-21 days ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

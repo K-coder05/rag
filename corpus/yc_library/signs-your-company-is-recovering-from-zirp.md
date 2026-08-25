@@ -3,49 +3,11 @@ title: Signs Your Company Is Recovering From ZIRP
 source: https://www.ycombinator.com/library/La-signs-your-company-is-recovering-from-zirp
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Dalton & Michael
-›
-Signs Your Company Is Recovering From ZIRP
-DALTON AND MICHAEL
-Signs Your Company Is Recovering From ZIRP
-by Dalton Caldwell
-27K views
-1 year ago
-Chapters
-0:00
-Coming Up
-0:30
-Intro
-0:42
-What is Zirpes?
-2:03
-Executive turnover
-4:30
-Returning to office
-7:30
-Vanity projects
-9:37
-Benefits
-13:45
-Lifestyle
-16:08
-Summary
-
 As Dalton & Michael have discussed before, ZIRP stands for “Zero Interest Rate Policy” which refers to when the Federal Reserve sets interest rates around 0% and banks were able to borrow money for almost nothing. This phenomenon had a profound impact on tech throughout the pandemic and many companies are still readjusting.
 
 In this episode, Dalton & Michael examine how to know whether your company is recovering from a bad case of ZIRP (aka Zirpes) and how to know if it may be time to leave and do something else.
 
-Transcript
+## Transcript
 
 Michael Seibel: When my company was infected with ZIRP, I was working three days a week and I got to enjoy a lot of hobbies. I got to travel. I lived the nomadic lifestyle and I felt like I had great work life balance. This week my boss asked me to do something over the weekend. That is a violation. You should report him to HR.
 
@@ -208,68 +170,3 @@ Host: Yeah, you might want to find a different job or you might want to start a 
 Michael Seibel: Yep.
 
 Host: All right, good chat. Thanks.
-
-Up next from Dalton & Michael
-9:31
-How To Live In The Social Media Matrix
-32K views
-1 year ago
-Related
-20:27
-Dalton & Michael: How future billionaires get sh*t done
-729K views
-Over 1 year ago
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-12:32
-How To Influence Decision Makers
-51K views
-Over 1 year ago
-9:38
-Dalton & Michael: Understanding investor terms and incentives
-51K views
-Over 1 year ago
-12:29
-The Problem With Startup "Experts"
-48K views
-Over 1 year ago
-9:31
-How To Live In The Social Media Matrix
-32K views
-1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

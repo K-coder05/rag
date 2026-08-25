@@ -3,116 +3,32 @@ title: A letter to college students
 source: https://www.ycombinator.com/library/4d-a-letter-to-college-students
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-A letter to college students
-A letter to college students
-by Michael Seibel
-
-I often talk to people who want to start startups in their late 20s and 30s, but can’t.
+**I often talk to people who want to start startups in their late 20s and 30s, but can’t.**
 
 Some decision they made when they were younger is either blocking or creating a serious barrier to their success. These are the decisions people commonly make that have the most negative effects on their ability to start a startup:
 
-They didn’t learn how to write code.
-
-They never met anyone who knew how to write code in college.
-
-They significantly increased their expenses early in life, didn’t save, and now can’t afford to begin their company.
-
-They created roots post-college in a city that is not startup friendly.
+* They didn’t learn how to write code.
+* They never met anyone who knew how to write code in college.
+* They significantly increased their expenses early in life, didn’t save, and now can’t afford to begin their company.
+* They created roots post-college in a city that is not startup friendly.
 
 Here is the advice that they would have given their younger selves, if they could go back in time:
 
-Learn to code. This doesn’t mean you have to be a Computer Science major. But college offers a great opportunity to learn the basics upon which you can build later in life. Being a programmer gives you the ability to work in any industry and start a company in any industry. You don’t have to be the best developer, and you don’t have to write code your entire life if you don’t want to -- but knowing how to code gives you the proverbial golden ticket to the Willy Wonka factory of the technology industry. The number one barrier to starting a tech startup is not knowing how to code.
-
-Meet people with real skills. College gives students the opportunity to show their ability across a wide range of useful skills. There are designers, programmers, sales people, scientists, etc., all around you. Take the opportunity to make friends with people who have different skills than your own. It's very likely that these people could become your cofounders or early employees one day.
-
-Have fun. Remember that for most successful founders, college grades and accolades had almost nothing to do with their future success. Personally, the greatest career opportunity college gave me was the chance to make friendships with really smart people. So get out of the dorm room or the library and be social.
-
-Take responsibility. College is a great opportunity to learn more about how you operate within a group setting. Join the leadership group of a club where you are forced to execute on a real world task (organize a conference, create a publication, do volunteer work, play on a sports team, etc.) Learn what you are good and bad at when it comes to working with others.
-
-Be ready to hit the ground running. In American culture today it's seen as acceptable to use your 20s to find yourself. I firmly disagree with this idea. Your 20s are your most valuable working years: You often have very few obligations (no family), a very low burn rate (you’re used to living in a dorm), and you are still young enough to meet new people and learn new skills. Use college to to get the partying out of your system and spend your 20s working hard.
-
-Be your own career counselor. Career counseling at most universities is really really bad. Many students literally have no idea what they want to do when they graduate from college. Instead of putting all your raw effort into your coursework and grades, use some of your time at school to figure out what you want to do when you graduate. You can always change your mind, but having a plan is better than no plan.
-
-It's okay to ignore your parents. Many folks choose to pursue a certain career because of parental pressure and poor career counseling. The number of doctors and lawyers I know who really don’t love their jobs or their lives is astounding. It's okay for you to make a career choice on your own -- even if your parents are paying for college.
-
-Be careful with student debt. More and more, student debt is forcing people away from startups and into big companies. Once you make that decision, it is easy to spin up additional expenses (buying a car, renting a nice apartment, etc) and price yourself out of starting a company. Making a choice of a college is hard, but there are many expensive private schools that don’t offer good financial aid. They promise that the logo on your resume will be valuable -- but in the end, these schools are probably worth avoiding. The best private schools are generous with financial aid.
+* **Learn to code.** This doesn’t mean you have to be a Computer Science major. But college offers a great opportunity to learn the basics upon which you can build later in life. Being a programmer gives you the ability to work in any industry and start a company in any industry. You don’t have to be the best developer, and you don’t have to write code your entire life if you don’t want to -- but knowing how to code gives you the proverbial golden ticket to the *Willy Wonka* factory of the technology industry. The number one barrier to starting a tech startup is not knowing how to code.
+* **Meet people with real skills.** College gives students the opportunity to show their ability across a wide range of useful skills. There are designers, programmers, sales people, scientists, etc., all around you. Take the opportunity to make friends with people who have different skills than your own. It's very likely that these people could become your cofounders or early employees one day.
+* **Have fun.** Remember that for most successful founders, college grades and accolades had almost nothing to do with their future success. Personally, the greatest career opportunity college gave me was the chance to make friendships with really smart people. So get out of the dorm room or the library and be social.
+* **Take responsibility.** College is a great opportunity to learn more about how you operate within a group setting. Join the leadership group of a club where you are forced to execute on a real world task (organize a conference, create a publication, do volunteer work, play on a sports team, etc.) Learn what you are good and bad at when it comes to working with others.
+* **Be ready to hit the ground running.** In American culture today it's seen as acceptable to use your 20s to find yourself. I firmly disagree with this idea. Your 20s are your most valuable working years: You often have very few obligations (no family), a very low burn rate (you’re used to living in a dorm), and you are still young enough to meet new people and learn new skills. Use college to to get the partying out of your system and spend your 20s working hard.
+* **Be your own career counselor.** Career counseling at most universities is really really bad. Many students literally have no idea what they want to do when they graduate from college. Instead of putting all your raw effort into your coursework and grades, use some of your time at school to figure out what you want to do when you graduate. You can always change your mind, but having a plan is better than no plan.
+* **It's okay to ignore your parents.** Many folks choose to pursue a certain career because of parental pressure and poor career counseling. The number of doctors and lawyers I know who really don’t love their jobs or their lives is astounding. It's okay for you to make a career choice on your own -- even if your parents are paying for college.
+* **Be careful with student debt.** More and more, student debt is forcing people away from startups and into big companies. Once you make that decision, it is easy to spin up additional expenses (buying a car, renting a nice apartment, etc) and price yourself out of starting a company. Making a choice of a college is hard, but there are many expensive private schools that don’t offer good financial aid. They promise that the logo on your resume will be valuable -- but in the end, these schools are probably worth avoiding. The best private schools are generous with financial aid.
 
 I wish my college dean had given this advice to me during freshman year, instead of whatever “bright college years” stuff I had to endure. Good luck out there, and remember that if you are between the ages of 22 and 32 you are in your best startup years. Every year you are not doing a startup you are losing 10% of this prime time.
 
-What is Y Combinator?
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
-Related
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-14:17
-Should I start a startup?
-103K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-Three paths in the tech industry: founder, executive, or employee
-Michael Seibel
-When thinking about tech as a career, there are three paths. Michael discusses the pros, cons and useful strategies for each role.
-Startups for students
-Tamanna Khemani and Kat Mañalac
-The guide is informed by hundreds of hours of talks, blog posts and essays we've written for students who are interested in starting or working at startups. We talk about why (and why not) you should start a startup, what to do in college if you're interested in starting a company, and how to choose which startup to work for.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
 
-© 2026 Y Combinator
+# What is Y Combinator?
+
+We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
+
+[Apply](/apply)

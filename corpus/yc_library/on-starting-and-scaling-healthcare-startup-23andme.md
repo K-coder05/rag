@@ -3,62 +3,11 @@ title: On starting and scaling healthcare startup 23andMe
 source: https://www.ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-On starting and scaling healthcare startup 23andMe
-On starting and scaling healthcare startup 23andMe
-by Anne Wojcicki
-48K views
-Over 1 year ago
-Chapters
-0:00
-Intro: Founding Story of 23andMe
-2:53
-Incentives to Keep People Healthy
-3:51
-People Making their own Healthcare Decisions
-5:27
-World 50 Years from Now
-9:27
-Crowdsourcing and Wanting it Personally
-11:34
-Fixing Slow Growth and Keeping Momentum
-12:57
-Education People on Why They Want Their Genetics
-14:47
-Best Decisions Made in Early Days
-15:50
-Finding the First Two Scientists
-16:44
-Framework: Net Output on the Organization
-17:32
-Being in a Regulated Industry
-20:50
-How Much is All Played Out as you Thought
-21:55
-Hardest Thing for Entrepreneurs: Persistence
-23:42
-Evolution of Genetic Testing in the Next 11 Years
-26:02
-General Trends That Apply to a Lot of People
-27:01
-Intervention Studies
-28:16
-Outro
+[Anne Wojcicki](https://twitter.com/annewoj23) is the cofounder and CEO of [23andMe](https://www.23andme.com/), which provides direct-to-consumer genetic testing. [Sam Altman](https://twitter.com/sama) interviewed Anne for a series called How To Build The Future, which you can [check out on our YouTube channel](https://www.youtube.com/watch?v=VAUt2j6juHU&list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW).
 
-Anne Wojcicki is the cofounder and CEO of 23andMe, which provides direct-to-consumer genetic testing. Sam Altman interviewed Anne for a series called How To Build The Future, which you can check out on our YouTube channel.
+---
 
-Transcript
+## Transcript
 
 Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon, and you're listening to Y Combinator's podcast. Today's episode is with Anne Wojcicki and Sam Altman. Anne's the co-founder and CEO of 23andMe, and they provide direct-to-consumer genetic testing. Sam's the president of YC Group. He interviewed Anne for a series called, How to Build the Future, and you can check it out on our YouTube channel. Alright, here we go.
 
@@ -246,7 +195,7 @@ Sam Altman [28:43] - This was really fun.
 
 Anne Wojcicki [28:44] - Super fun.
 
-Transcript
+## Transcript
 
 Host: Today we're here with Anne Lajiski, co founder and CEO of twenty three ME. Thank
 
@@ -371,67 +320,3 @@ Anne Wojcicki: I'm on it. I'm on it, Sam.
 Host: I will follow the instructions to the letter. Thank you very much for taking the time.
 
 Anne Wojcicki: No, you're welcome. Anytime. It's really fun. Super fun.
-
-Up next from How To Build The Future
-34:33
-Vinod Khosla on How to Build the Future
-211K views
-Over 1 year ago
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-34:33
-Vinod Khosla on How to Build the Future
-211K views
-Over 1 year ago
-31:00
-On starting and scaling Dropbox (YC W07)
-83K views
-Over 1 year ago
-30:45
-How To Build The AGI Future: Bob McGrew
-50K views
-1 year ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,55 +3,9 @@ title: 10 People + AI = Billion Dollar Company?
 source: https://www.ycombinator.com/library/LD-10-people-ai-billion-dollar-company
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-10 People + AI = Billion Dollar Company?
-LIGHTCONE
-10 People + AI = Billion Dollar Company?
-by Y Combinator
-216K views
-Over 1 year ago
-Chapters
-0:00
-Coming Up
-0:51
-What Jensen Huang said about coding
-1:38
-Now that computers can code, what does this mean for CS?
-3:16
-How good are AI programmers right now?
-11:44
-Good ideas come from the building process
-14:50
-The evolution of programming languages
-17:52
-The benefits of learning to code, even if computers can do it
-18:57
-Will we see more unicorns with 10 people (or fewer)?
-23:58
-A startup should be like a sports team, not a family
-27:23
-Applying engineering problem solving to non-engineering issues
-28:55
-What will happen if AI takes on more programming roles?
-36:58
-The verdict - learn to code!
-38:07
-Outro
-
 As AI continues to evolve and advance, a line of thinking has emerged that humans will no longer need to learn how to write code in the future. If so, could this mean that a staff of ten or less could create a unicorn? The hosts of Lightcone analyze this prediction and discuss whether it has merit.
 
-Transcript
+## Transcript
 
 Gary Tan: What is the state of these AI programmers? Like, is it reliable yet and where are we at? Well, we just see software companies have way less employees and converge on a point where you could have unicorns, billion dollar companies that have like ten people on them. If we imagine a world where there could be companies less than ten employees, maybe you could still be a family, but is that still a good idea? I have a controversial argument against what Jensen said. This one will probably piss some people off.
 
@@ -190,66 +144,3 @@ Host: Well, so it sounds like the verdict is in: learn to code.
 Speaker: Yes, you should learn to code. Sorry, Jensen is brilliant, but he is not right every single time. I think one thing that is uncontroversial is that over the last ten years there have been more unicorns started each year, right? Like, and that's been because technology has made it more possible for people to get their ideas off the ground. I think AI only accelerates that trend, right? I think we should just expect to see more unicorns started per year than ever because it is easier to go from getting your idea to like a prototype to your first users than it ever has been. And at the same time, it still table stakes to be able to program and code because so much of the foundation knowledge you have to have good taste to build something great. And you only get the good taste by going and studying engineering and computer science. The most important thing to me that I really want to manifest in the world that I think we get to do all the time at Y Combinator is that there are people here who are craftspeople or who could be craftspeople. And those are the people who are going to go on to build the future.
 
 Host: So with that, we'll see you next time.
-
-Up next from Lightcone Podcast
-41:07
-Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
-86K views
-Over 1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-19:10
-Why This Is The Perfect Time To Start A Startup [Lightcone Podcast LIVE]
-101K views
-Over 1 year ago
-42:22
-Consumer is back, What’s getting funded now, The vibes immaculate [Lightcone Podcast Ep. 6]
-92K views
-Over 1 year ago
-41:07
-Better AI Models, Better Startups [Lightcone Podcast Ep. 7]
-86K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

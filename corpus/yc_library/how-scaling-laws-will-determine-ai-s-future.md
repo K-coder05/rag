@@ -3,45 +3,11 @@ title: How Scaling Laws Will Determine AI's Future
 source: https://www.ycombinator.com/library/M4-how-scaling-laws-will-determine-ai-s-future
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-YC Decoded
-›
-How Scaling Laws Will Determine AI's Future
-YC DECODED
-How Scaling Laws Will Determine AI's Future
-by Garry Tan
-40K views
-1 year ago
-Chapters
-0:00
-Intro
-1:17
-Scaling law decoded
-4:10
-Data and compute
-5:33
-Chinchilla
-6:00
-Larger models and scaling
-7:12
-Training
-8:40
-Compute
-9:42
-Robotics
+In the past few years, AI labs have adopted a “more is more” approach to scaling LLMs. By introducing more parameters, data and compute, they’ve been able to predictably improve model performance.
+But recently, there’s been plenty of debate within the AI community as to whether or not we may have finally reached the limits of scaling laws.
+In this episode of YC Decoded, President and CEO Garry Tan looks into both sides of the scaling laws debate and how a brand-new paradigm could potentially forecast the future of AI.
 
-In the past few years, AI labs have adopted a “more is more” approach to scaling LLMs. By introducing more parameters, data and compute, they’ve been able to predictably improve model performance. But recently, there’s been plenty of debate within the AI community as to whether or not we may have finally reached the limits of scaling laws. In this episode of YC Decoded, President and CEO Garry Tan looks into both sides of the scaling laws debate and how a brand-new paradigm could potentially forecast the future of AI.
-
-Transcript
+## Transcript
 
 Host: The deadline to apply for the first YC spring batch is February 11th. If you're accepted, you'll receive $500,000 in investment plus access to the best startup community in the world. So apply now and come build the future with us.
 
@@ -102,68 +68,3 @@ Host: Scaling pre-training may have plateaued, but by training test-time compute
 Host: Large language models are a key piece of the hunt for artificial general intelligence. These same principles of scaling appear to hold for other models too: image diffusion models, protein folding, and chemical models, even world models for robotics like self-driving.
 
 Host: One thing is clear: it might be midgame for large language models, but we are clearly still in the early game for scaling other modalities. Buckle up.
-
-Up next from YC Decoded
-27:11
-The 10 Lines of Code Behind AI Image Gen
-38K views
-7 months ago
-Related
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-27:11
-The 10 Lines of Code Behind AI Image Gen
-38K views
-7 months ago
-12:32
-GPT-OSS vs. Qwen vs. Deepseek: Comparing Open Source LLM Architectures
-33K views
-1 year ago
-8:26
-GPT-4.5 = Big Model Energy
-31K views
-1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

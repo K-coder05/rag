@@ -3,57 +3,9 @@ title: How To Build The Future: Parker Conrad
 source: https://www.ycombinator.com/library/M2-how-to-build-the-future-parker-conrad
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-How To Build The Future: Parker Conrad
-HOW TO BUILD THE FUTURE
-How To Build The Future: Parker Conrad
-by Garry Tan
-61K views
-1 year ago
-Chapters
-0:00
-Intro
-2:19
-Childhood
-4:17
-Entrepreneurship
-7:29
-Challenges
-10:10
-When startups die
-12:46
-Why YC?
-15:24
-Zenefits
-17:47
-PMF
-20:50
-Transition
-25:13
-Second startup
-30:35
-Compounding
-36:26
-Enterprise AI
-40:27
-Founder mode
-43:07
-Future?
-
 In this episode of How to Build the Future, Garry sits down with Parker Conrad, Co-founder & CEO of Rippling, the all in one HR, Finance and IT software company that’s valued at $13.5 billion. Parker is the co-founder of two unicorns and has one of the more dramatic startup journeys in recent years. In this interview, he discusses his origin story, the lessons learned from his first two companies, how AI is changing the game, and why he thinks the future will be defined by "compound" software startups.
 
-Transcript
+## Transcript
 
 Gary Tan: Of that conversation around founder mode, I remember thinking to myself like, you know, going all the way to the ground floor, particularly when something's broken, is like that's the way to go. Like you got to just really get your hands dirty, get in the weeds. AI is going to help companies like 2,000 person companies be run more like 200 person companies, and 200 person companies be run more like 20 person companies. You need to make your business so good it sort of doesn't matter whether you fit into whatever mold or construct the VCs are looking for. Welcome back to another episode of How to Build the Future. Our guest today is Parker Conrad, who's created a 13.5 billion dollar company called Rippling. So thanks for being with us.
 
@@ -198,68 +150,3 @@ And I think, look, the company's doing super well. But you know, there's a long 
 Host: Well, we're going to find out. With that, Parker, thanks so much for being here.
 
 Parker Conrad: Thanks for having me.
-
-Up next from How To Build The Future
-46:52
-How To Build The Future: Sam Altman
-698K views
-1 year ago
-Related
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-46:52
-How To Build The Future: Sam Altman
-698K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-36:10
-Jessica Livingston on how to build the future
-119K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

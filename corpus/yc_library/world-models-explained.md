@@ -3,28 +3,10 @@ title: World Models, Explained
 source: https://www.ycombinator.com/library/Sm-world-models-explained
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-YC Decoded
-›
-World Models, Explained
-DECODED
-World Models, Explained
-by Y Combinator
-27K views
-1 month ago
+Why do even our best AI models need tens of thousands of examples to learn skills that a human picks up in a handful of tries? Solving this problem is one of the great open challenges in modern AI. World models, which give AI an internal simulation of its environment, are one of the most promising paths forward.
+In this episode of Decoded, YC's Ankit Gupta and Francois Chaubard discuss the intuition and math behind world models, new research, and current applications in self-driving, robotics, and more.
 
-Why do even our best AI models need tens of thousands of examples to learn skills that a human picks up in a handful of tries? Solving this problem is one of the great open challenges in modern AI. World models, which give AI an internal simulation of its environment, are one of the most promising paths forward. In this episode of Decoded, YC's Ankit Gupta and Francois Chaubard discuss the intuition and math behind world models, new research, and current applications in self-driving, robotics, and more.
-
-Transcript
+## Transcript
 
 Host: One of the biggest open problems in AI right now is how to solve sample efficiency. That is, how do you get models to quickly learn new tasks or skills from relatively small amounts
 
@@ -128,7 +110,7 @@ Guest (host): Quite large. Then uh my transition function is. stochastic and non
 
 Host (host): you can you don't know what the other player's
 
-Guest (host): gonna do. So if I'm uh at like in uh uh playing chess.com at my house I move and then something happens and it comes back and and then now you moved and the board has changed. So I can't really differentiate through what the other player uh is is doing. The cardinal action space is actually quite small. Um, even though there's 32 uh uh pieces and all that stuff, the there's only eight possible moves in expectation that you can actually that are legit moves. So like
+Guest (host): gonna do. So if I'm uh at like in uh uh playing [chess.com](http://chess.com) at my house I move and then something happens and it comes back and and then now you moved and the board has changed. So I can't really differentiate through what the other player uh is is doing. The cardinal action space is actually quite small. Um, even though there's 32 uh uh pieces and all that stuff, the there's only eight possible moves in expectation that you can actually that are legit moves. So like
 
 Host (host): in any in any given uh state, there's only eight-ish moves you could do.
 
@@ -232,7 +214,7 @@ Guest: In some ways, you'd think that it's this is physics. Newton's laws of mot
 
 Host: that you're imposing your
 
-Guest: will onto the environment and like people just kind of adapt naturally. Like if you were doing it's a lot of motion, you were gonna gonna collide. And so that the optimal policy if you were doing strict new Newtonians here would be like don't move because anything you do, you're gonna crash. Yes. But it's not true. Like that then we wouldn't function. Like cars wouldn't go down the road. Um and so you have to model the the environ you have to include other people in the environment and uh understand the embodiment of like how your action will change other people's actions. YC's next batch is now taking applications. Got a startup in you? Apply at ycombinator.com slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video. Now let's
+Guest: will onto the environment and like people just kind of adapt naturally. Like if you were doing it's a lot of motion, you were gonna gonna collide. And so that the optimal policy if you were doing strict new Newtonians here would be like don't move because anything you do, you're gonna crash. Yes. But it's not true. Like that then we wouldn't function. Like cars wouldn't go down the road. Um and so you have to model the the environ you have to include other people in the environment and uh understand the embodiment of like how your action will change other people's actions. YC's next batch is now taking applications. Got a startup in you? Apply at [ycombinator.com](http://ycombinator.com) slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video. Now let's
 
 Host: talk about the action space. You know, like one way to look at the action space is that
 
@@ -437,66 +419,3 @@ Host: detect tactile Oh epidermis.
 Guest: And it's everywhere. Yeah. And so like versus, you know, like the We get like one little sensor that only does tactile. We don't have the the friction component. We don't have temperature. We don't have all these the feeling. We can't estimate coefficient of friction very quickly. I can touch something and say, oh, this is smooth. This is rough. It doesn't, we don't have any of that. And if I numb your hands, I actually had this experience uh um uh just recently. If I numb your hands, like you actually can't tie your shoes. Yeah. So you can't perform control. And so, like, yeah, if you like, you know, uh uh If you train enough um on enough human data tying your laces, do I think you can do it with no feedback? Maybe. Maybe. But like how much would you need if you did actually have the human like touch? Like I think it'd be so much easier. Yeah.
 
 Host: Well, there's a lot of more research to do then. Yeah, yeah. Francois, thanks so much for joining us. Thanks so much for watching, everyone. We'll be back for the next episode of Decoded.
-
-Up next from YC Decoded
-13:06
-The Engineering Unlocks Behind DeepSeek | YC Decoded
-213K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-13:06
-The Engineering Unlocks Behind DeepSeek | YC Decoded
-213K views
-1 year ago
-7:54
-Anthropic’s Claude Computer Use Is A Game Changer
-142K views
-1 year ago
-9:19
-Transformers Explained: The Discovery That Changed AI Forever
-102K views
-10 months ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

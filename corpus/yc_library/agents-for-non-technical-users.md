@@ -3,28 +3,9 @@ title: Agents For Non-Technical Users
 source: https://www.ycombinator.com/library/NN-agents-for-non-technical-users
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Agents For Non-Technical Users
-LIGHTCONE
-Agents For Non-Technical Users
-by Y Combinator
-49K views
-5 months ago
-
 In this episode of The Lightcone, we talk with Mukund and Madhav Jha, the founders of Emergent - an AI platform that lets anyone build and ship production-ready software. In just eight months, users have created more than 7 million apps on Emergent, with the number doubling in just the last 45 days. We discuss how they built one of the most powerful AI coding agents, why they focused on non-technical users and what it's like building for a global audience from India.
 
-Transcript
+## Transcript
 
 Mukund (guest): So I think now we are just truly seeing this unlock where people who who were like really close to problem domain expert and but have been blocked by, you know, technology barrier to sort of really express themselves are using Emergent to sort of build these things out.
 
@@ -102,7 +83,7 @@ Mukund (guest): up. It's accelerating.
 
 Speaker 1: Yeah. It's a hedonistic adaptation to you know like hey oh this is more powerful now I can do more work. Yeah.
 
-Mukund (guest): It is really uh Javon's paradox at play. And I I think there's a lot of uh concerns, it's like, oh, the software engineering jobs will be gone. It I don't think that's the case. I mean, based on everything that you're telling us and what we're experiencing I mean, I think we are we're in an expanding market, right? Like we are like l letting non-developers not be developers, right? I think you know that market is expanding. We also are internally seeing like the roles sort of combining. So like a PM, a designer, engineer Like a single person is doing i uh you know, like work of all all three to together, right? So like we have a PM who's by coding uh internally things, uh and recently like we um so we are seeing this internally right now where um a lot of the work that was done by like five, six people team can now be just done by like a single engineer or a single PM. YC's next batch is now taking applications. Got a startup in you? Apply at ycombinator.com slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video. Could
+Mukund (guest): It is really uh Javon's paradox at play. And I I think there's a lot of uh concerns, it's like, oh, the software engineering jobs will be gone. It I don't think that's the case. I mean, based on everything that you're telling us and what we're experiencing I mean, I think we are we're in an expanding market, right? Like we are like l letting non-developers not be developers, right? I think you know that market is expanding. We also are internally seeing like the roles sort of combining. So like a PM, a designer, engineer Like a single person is doing i uh you know, like work of all all three to together, right? So like we have a PM who's by coding uh internally things, uh and recently like we um so we are seeing this internally right now where um a lot of the work that was done by like five, six people team can now be just done by like a single engineer or a single PM. YC's next batch is now taking applications. Got a startup in you? Apply at [ycombinator.com](http://ycombinator.com) slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video. Could
 
 Jared Friedman (host): we see a demo of emergent?
 
@@ -219,66 +200,3 @@ Mukund (guest): Right. And I think we're just in the early innings of this right
 Jared Friedman (host): Okay. Well that's all we have time for today. Uh Mukund Madhav, thank you so much for joining us. It was a really fascinating conversation and congratulations on all the growth and we're excited to see where things go from here.
 
 Mukund (guest): Thank you. Thank you so much for having us.
-
-Up next from Lightcone Podcast
-23:22
-The AI Agent Economy Is Here
-158K views
-6 months ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-50:11
-Inside Claude Code With Its Creator Boris Cherny
-241K views
-6 months ago
-23:22
-The AI Agent Economy Is Here
-158K views
-6 months ago
-46:00
-How To Get The Most Out Of Coding Agents
-127K views
-6 months ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

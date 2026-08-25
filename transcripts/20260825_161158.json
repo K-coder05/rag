@@ -1,0 +1,27 @@
+{
+  "query": "What does Paul Graham mean by 'Do Things that Don't Scale'?",
+  "category": "easy",
+  "chunks": [
+    {
+      "ID": "092e09da621362c0515fab1650c29fd65f0ded9d7c6ac71478529f0e0418a009",
+      "score": 0.80262,
+      "text": "---\ntitle: Do Things that Don't Scale\nsource: https://paulgraham.com/ds.html\n---  \nJuly 2013  \nOne of the most common types of advice we give at Y Combinator is\nto do things that don't scale. A lot of would-be founders believe\nthat startups either take off or don't. You build something, make\nit available, and if you've made a better mousetrap, people beat a\npath to your door as promised. Or they don't, in which case the\nmarket must not exist.\n[[1](#f1n)]  \nActually startups take off because the founders make them take off.\nThere may be a handful that just grew by themselves, but usually\nit takes some sort of push to get them going. A good metaphor would\nbe the cranks that car engines had before they got electric starters.\nOnce the engine was going, it would keep going, but there was a\nseparate and laborious process to get it going.  \n**Recruit**  \nThe most common unscalable thing founders have to do at the start\nis to recruit users manually. Nearly all startups have to. You",
+      "source": "corpus\\pg_essays\\do-things-that-don-t-scale.md"
+    },
+    {
+      "ID": "19c3ccc27529c1e3a5172d63b34a19fb976219b29da7442e73632090a1211989",
+      "score": 0.793426633,
+      "text": "---\ntitle: Do things that don't scale\nsource: https://www.ycombinator.com/library/96-do-things-that-don-t-scale\n---  \n*The original version of this essay is available at* [*http://www.paulgraham.com/ds.html*](http://www.paulgraham.com/ds.html)  \nJuly 2013  \nOne of the most common types of advice we give at Y Combinator is to do things that don't scale. A lot of would-be founders believe that startups either take off or don't. You build something, make it available, and if you've made a better mousetrap, people beat a path to your door as promised. Or they don't, in which case the market must not exist. [1]  \nActually startups take off because the founders make them take off. There may be a handful that just grew by themselves, but usually it takes some sort of push to get them going. A good metaphor would be the cranks that car engines had before they got electric starters. Once the engine was going, it would keep going, but there was a separate and laborious process to get it going.",
+      "source": "corpus\\yc_library\\do-things-that-don-t-scale.md"
+    },
+    {
+      "ID": "c9ef4c5ea5b86f60e626aab3acf6cc0a1fb3e4d7fdc950f97438af1f9a9cb9de",
+      "score": 0.766159117,
+      "text": "Host: Yes? Wait, I already answered your question. I should let somebody else ask one. I may get back to you. Yes?  \nAudience Member: I know you talked a lot earlier about you'll know when you start doing extremely well. But I feel like in a lot of cases, it's just you have a grey line where it's like, hey, you have some users, but maybe not as explosive growth chart as to the right. What would you do? Or what would you recommend doing in those situations? Specifically allocating time and resources, how do you balance in?  \nPaul Graham: Okay, when a startup is sort of growing but not much.  \nHost: Mm-hm.  \nPaul Graham: Didn't you tell them they were supposed to redo things that don't scale?  \nHost: Yeah.  \nPaul Graham: You, sir, have not done the readings. And you are busted, therefore. Because I wrote a whole essay in answer to that question. That is it. Do things that don't scale. Just go read that, because I can't remember everything I said.",
+      "source": "corpus\\yc_library\\how-to-start-a-startup-before-the-startup.md"
+    }
+  ],
+  "retrieval_time": 0.9013237000035588,
+  "generation_time": 4.834266100006062,
+  "response": "# What Paul Graham Means by \"Do Things that Don't Scale\"\n\nBased on Paul Graham's essay from July 2013, here's what he means:\n\n## The Core Concept\n\n**Startups don't grow automatically.** Graham challenges the common misconception that if you build a better product, customers will naturally find you. Instead, he argues that **founders must actively \"push\" their startups to get them going** through deliberate, labor-intensive effort.\n\nHe uses a helpful metaphor: like the hand cranks needed to start car engines before electric starters existed, startups require an initial, separate, and laborious process to get momentum. Once the engine is running, it keeps going\u2014but getting it started requires manual effort.\n\n## The Practical Reality\n\nThe most concrete example Graham provides is **recruiting users manually**. Nearly all startups have to do this at the start\u2014personally reaching out to potential users one by one, rather than relying on scalable marketing or organic growth.\n\n## Why This Matters\n\nThe advice directly counters the false belief that startups either \"take off or don't\" based solely on product quality. The truth is: **startups take off because founders make them take off** through personal, unscalable actions.\n\nThis is so foundational to Graham's philosophy that when asked about growth strategies, he famously deflected by saying: \"go read that [essay], because I can't remember everything I said.\"\n\n---\n\n**Sources:**\n- Paul Graham's \"Do Things that Don't Scale\" (paulgraham.com, July 2013)\n- Y Combinator Library version of the same essay"
+}

@@ -3,58 +3,10 @@ title: How To Build The Future: Sam Altman
 source: https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-How To Build The Future: Sam Altman
-How To Build The Future: Sam Altman
-by Garry Tan
-698K views
-1 year ago
-Chapters
-0:00
-Coming up
-0:43
-Intro: Is this the best time to start a tech company?
-6:27
-How Sam got into YC
-10:53
-The early days of YC Research
-12:49
-Getting the first OpenAI team together
-17:13
-Why scaling was considered heretical
-21:42
-Conviction can be powerful
-26:15
-Commercializing GPT-4
-28:53
-What drew Sam to create Loopt
-30:24
-Learning from platform shifts
-33:15
-Tech incumbents are unaware of what is happening with AI
-34:08
-Sam's recommended startup path
-36:56
-Reflecting on the OpenAI drama
-39:58
-What startups are building with current models
-44:16
-Outro: Advice for early founders + final thoughts
+At OpenAI, Sam Altman and his team have overseen monumental leaps forward in machine learning, generative AI, and most recently, LLMs that can reason at PhD levels. And this is just the beginning. In his latest essay Sam predicted that ASI (Artificial Super Intelligence) is just a few thousand days away. So how did we get to this point?
+In this episode of our rebooted series "How To Build The Future," YC President and CEO Garry Tan sits down with Sam to talk about the origins of OpenAI, what’s next for the company, and what advice he has for founders navigating this massive platform shift.
 
-At OpenAI, Sam Altman and his team have overseen monumental leaps forward in machine learning, generative AI, and most recently, LLMs that can reason at PhD levels. And this is just the beginning. In his latest essay Sam predicted that ASI (Artificial Super Intelligence) is just a few thousand days away. So how did we get to this point? In this episode of our rebooted series "How To Build The Future," YC President and CEO Garry Tan sits down with Sam to talk about the origins of OpenAI, what’s next for the company, and what advice he has for founders navigating this massive platform shift.
-
-Transcript
+## Transcript
 
 Sam Altman: We said from the very beginning we were going to go after AGI at a time when in the field you weren't allowed to say that because that just seemed impossibly crazy. I remember a rash of criticism for you guys at that moment. We really wanted to push on that and we were far less resourced than DeepMind and others. So we said, okay, they're going to try a lot of things and we've just got to pick one and really concentrate, and that's how we can win here.
 
@@ -213,68 +165,3 @@ Sam Altman: AGI. Yeah, uh, excited for that. Uh, what am I excited for? Um, we..
 Host: Well, here's to building that better world for, you know, our kids and really hopefully the whole world. This is a lot of fun. Thanks for hanging out, Sam.
 
 Sam Altman: Thank you.
-
-Up next from How To Build The Future
-36:10
-Jessica Livingston on how to build the future
-119K views
-Over 1 year ago
-Related
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-36:10
-Jessica Livingston on how to build the future
-119K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

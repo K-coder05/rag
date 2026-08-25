@@ -1,0 +1,27 @@
+{
+  "query": "What is the difference between a maker's schedule and a manager's schedule?",
+  "category": "easy",
+  "chunks": [
+    {
+      "ID": "fef06f5fa42fbf6fbc1a92eddcbbe0eaff547d38cc0a52a5cc97fc9178d9a824",
+      "score": 0.800064206,
+      "text": "---\ntitle: Maker's Schedule, Manager's Schedule\nsource: https://paulgraham.com/makersschedule.html\n---  \n|  |  |\n| --- | --- |\n| |  | | --- | | \"...the mere consciousness of an engagement will sometimes worry a whole day.\"   Charles Dickens | |  \nJuly 2009  \nOne reason programmers dislike meetings so much is that they're on\na different type of schedule from other people. Meetings cost them\nmore.  \nThere are two types of schedule, which I'll call the manager's\nschedule and the maker's schedule. The manager's schedule is for\nbosses. It's embodied in the traditional appointment book, with\neach day cut into one hour intervals. You can block off several\nhours for a single task if you need to, but by default you change\nwhat you're doing every hour.  \nWhen you use time that way, it's merely a practical problem to meet\nwith someone. Find an open slot in your schedule, book them, and\nyou're done.  \nMost powerful people are on the manager's schedule. It's the",
+      "source": "corpus\\pg_essays\\maker-s-schedule-manager-s-schedule.md"
+    },
+    {
+      "ID": "4615a3e0aede23852e9dece50b75793d0e2fb67eb6de4455268cc85d12a123a2",
+      "score": 0.795631409,
+      "text": "day free to work, with no appointments at all? Well, that means\nyour spirits are correspondingly depressed when you don't. And\nambitious projects are by definition close to the limits of your\ncapacity. A small decrease in morale is enough to kill them off.  \nEach type of schedule works fine by itself. Problems arise when\nthey meet. Since most powerful people operate on the manager's\nschedule, they're in a position to make everyone resonate at their\nfrequency if they want to. But the smarter ones restrain themselves,\nif they know that some of the people working for them need long\nchunks of time to work in.  \nOur case is an unusual one. Nearly all investors, including all\nVCs I know, operate on the manager's schedule. But\n[Y Combinator](http://ycombinator.com)\nruns on the maker's schedule. Rtm and Trevor and I do because we\nalways have, and Jessica does too, mostly, because she's gotten\ninto sync with us.  \nI wouldn't be surprised if there start to be more companies like",
+      "source": "corpus\\pg_essays\\maker-s-schedule-manager-s-schedule.md"
+    },
+    {
+      "ID": "8bba8ef5e601e45c70f4fbf30c7351aedbe0f6090c203613719c1fa9acae3b37",
+      "score": 0.794021666,
+      "text": "one on the manager's schedule and one on the maker's.  \nWhen you're operating on the manager's schedule you can do something\nyou'd never want to do on the maker's: you can have speculative\nmeetings. You can meet someone just to get to know one another.\nIf you have an empty slot in your schedule, why not? Maybe it will\nturn out you can help one another in some way.  \nBusiness people in Silicon Valley (and the whole world, for that\nmatter) have speculative meetings all the time. They're effectively\nfree if you're on the manager's schedule. They're so common that\nthere's distinctive language for proposing them: saying that you\nwant to \"grab coffee,\" for example.  \nSpeculative meetings are terribly costly if you're on the maker's\nschedule, though. Which puts us in something of a bind. Everyone\nassumes that, like other investors, we run on the manager's schedule.\nSo they introduce us to someone they think we ought to meet, or\nsend us an email proposing we grab coffee. At this point we have",
+      "source": "corpus\\pg_essays\\maker-s-schedule-manager-s-schedule.md"
+    }
+  ],
+  "retrieval_time": 0.6944532000052277,
+  "generation_time": 4.125226499993005,
+  "response": "# The Difference Between Maker's Schedule and Manager's Schedule\n\nBased on Paul Graham's influential essay on this topic, here are the key differences:\n\n## **Manager's Schedule**\n- Organized in **one-hour intervals** in a traditional appointment book\n- Allows for flexible task switching throughout the day\n- **Meetings are low-cost** since there are always open slots available\n- Dominated by powerful people in traditional hierarchies\n- Enables \"speculative meetings\" (casual coffee meetings) at minimal cost\n- Default mode of operation for most executives and investors\n\n## **Maker's Schedule**\n- Requires **long, uninterrupted blocks of time** to do deep work\n- Focused on sustained concentration for complex tasks (like programming)\n- **Meetings are extremely costly** because they break flow and fragment the day\n- Even the prospect of a scheduled meeting can disrupt productivity (\"the mere consciousness of an engagement will sometimes worry a whole day\")\n- Makes speculative meetings impractical and wasteful\n- Common among developers, engineers, and creative professionals\n\n## **The Core Problem**\nGraham emphasizes that **conflicts arise when these schedules collide**. Since most powerful decision-makers operate on the manager's schedule, they can inadvertently force makers into their rhythm\u2014causing significant productivity losses. Graham notes that Y Combinator uniquely operates on the maker's schedule, which gives them insight into the startup world that other investor-led firms miss.\n\n**Source:** Paul Graham, \"Maker's Schedule, Manager's Schedule\" (July 2009)"
+}

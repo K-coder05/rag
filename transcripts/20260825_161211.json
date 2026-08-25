@@ -1,0 +1,27 @@
+{
+  "query": "How does a founder's approach to user acquisition evolve between having 10 users versus having 10,000 users?",
+  "category": "hard",
+  "chunks": [
+    {
+      "ID": "266d9164c37549c0b795677c953022d85884cfd4382cab6e1ca4d6552051c9fe",
+      "score": 0.761398315,
+      "text": "The other reason founders ignore this path is that the absolute numbers seem so small at first. This can't be how the big, famous startups got started, they think. The mistake they make is to underestimate the power of compound growth. We encourage every startup to measure their progress by weekly [growth rate](http://www.paulgraham.com/growth.html). If you have 100 users, you need to get 10 more next week to grow 10% a week. And while 110 may not seem much better than 100, if you keep growing at 10% a week you'll be surprised how big the numbers get. After a year you'll have 14,000 users, and after 2 years you'll have 2 million.  \nYou'll be doing different things when you're acquiring users a thousand at a time, and growth has to slow down eventually. But if the market exists you can usually start by recruiting users manually and then gradually switch to less manual methods. [3]",
+      "source": "corpus\\yc_library\\do-things-that-don-t-scale.md"
+    },
+    {
+      "ID": "8c78f8a9772fdcc9621343ebde71ff96c1c30502e2732bdeca75b47dd538f24c",
+      "score": 0.748405457,
+      "text": "David Lieb: Is it different to talking to users at scale when you build users versus when you're going to startup? How is the different?",
+      "source": "corpus\\yc_library\\on-starting-and-scaling-one-of-the-biggest-ios-apps.md"
+    },
+    {
+      "ID": "a0f0f9da7d62d8c4c2094f0dee3b472dd1bde48a3f74722bb090a40b3303c584",
+      "score": 0.738441467,
+      "text": "startups got started, they think. The mistake they make is to\nunderestimate the power of compound growth. We encourage every\nstartup to measure their progress by weekly [growth\nrate](growth.html). If you have 100 users, you need to get 10 more next week\nto grow 10% a week. And while 110 may not seem much better than\n100, if you keep growing at 10% a week you'll be surprised how big\nthe numbers get. After a year you'll have 14,000 users, and after\n2 years you'll have 2 million.  \nYou'll be doing different things when you're acquiring users a\nthousand at a time, and growth has to slow down eventually. But\nif the market exists you can usually start by recruiting users\nmanually and then gradually switch to less manual methods.\n[[3](#f3n)]  \nAirbnb is a classic example of this technique. Marketplaces are\nso hard to get rolling that you should expect to take heroic measures\nat first. In Airbnb's case, these consisted of going door to door",
+      "source": "corpus\\pg_essays\\do-things-that-don-t-scale.md"
+    }
+  ],
+  "retrieval_time": 0.3551721000112593,
+  "generation_time": 4.633596800005762,
+  "response": "# How a Founder's Approach to User Acquisition Evolves from 10 to 10,000 Users\n\nBased on foundational startup research, a founder's user acquisition strategy fundamentally transforms across this growth spectrum:\n\n## The Initial Phase (10 Users)\nAt the earliest stage, the approach is **manual and direct**. According to Paul Graham's research on scaling, founders should focus on doing \"things that don't scale\"\u2014personally recruiting users one at a time. Airbnb exemplified this by literally going \"door to door\" to acquire their initial users.\n\n## The Transition Strategy\nThe critical insight from the YC Library is that **founders gradually shift from manual to less manual methods as they scale**:\n\n> \"You'll be doing different things when you're acquiring users a thousand at a time, and growth has to slow down eventually. But if the market exists you can usually start by recruiting users manually and then gradually switch to less manual methods.\"\n\n## The Scaling Reality (10,000+ Users)\nBy the time you reach 10,000 users, the acquisition approach must become **systematized and scalable**. What works personally recruiting 10 users (direct outreach, relationship-building, customized onboarding) cannot sustain growth to thousands.\n\n## The Compound Growth Principle\nThe sources emphasize measuring by **weekly growth rate** rather than absolute numbers. A consistent 10% weekly growth takes you from 100 users to 14,000 in one year\u2014illustrating why your acquisition methods must evolve to support exponential growth patterns that eventually require systematic, less labor-intensive channels.\n\nThe key lesson: **Start manual to validate and learn; systematize to scale.**"
+}

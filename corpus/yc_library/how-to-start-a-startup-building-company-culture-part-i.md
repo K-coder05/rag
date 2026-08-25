@@ -3,27 +3,9 @@ title: How to Start a Startup: Building company culture, Part I
 source: https://www.ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to Start a Startup - A course Y Combinator taught at Stanford
-›
-How to Start a Startup: Building company culture, Part I
-How to Start a Startup: Building company culture, Part I
-by Brian Chesky, Alfred Lin
-310K views
-Over 1 year ago
-
 Brian Chesky, Founder of Airbnb, and Alfred Lin, Former COO of Zappos and Partner at Sequoia Capital discuss how to build a great company culture.
 
-Transcript
+## Transcript
 
 Alfred Lin: Set the stage with a few slides and some comments, but the main stage is going to be with Brian when he comes up and talks about how he built the Airbnb culture. So you're here. I've been following the presentations and so now you know how to get started. You've built a team. You started to sort of build your product. It's off the ground. It's growing. People love it. You figured out how to do that. You figured out how to create a very special one of a kind company with monopoly powers that's big and the market that you're chasing after is slightly bigger than the paper airplane business. So you're good, right? So now what?
 
@@ -73,7 +55,7 @@ Brian Chesky: Exactly. So Brian, could you talk about how the process by which y
 
 Brian Chesky: Yeah. So I think one of the things we realized is—so just to give you some context, I won't tell the full story of Airbnb and some of you may know it. The very short version of the story was that Airbnb wasn't meant to be like the company we were trying to start. I had quit my job. I was completely broke. I was living in LA. One day I drove to San Francisco, became roommates with my friend from college. I went to Rhode Island School of Design, Joe Gebbia. And I had $1,000 in the bank and the rent was $1,150. So that weekend this international design conference was coming to San Francisco. All the hotels were sold out. We had this idea: let's just turn our house into a bed and breakfast for the conference. I didn't have any beds. Joe had three air beds. We pulled them out of the closet. We called it the Air Bed and Breakfast. That's how the company started. I probably told that story 10,000 times, by the way—some version of that story. And I didn't think I'd ever tell that a second time.
 
-Brian Chesky: When I was growing up, I also went to college and my parents were social workers. They had kind of been nervous about me going to art school. They kind of worried that maybe I would not get a job after college, which I'm sure a lot of parents are worried about. So my mother said, "Make sure you promise me you get a job with health insurance." I ended up starting airbnb.com—actually the original name was airbed and breakfast.com. And I remember her telling me, "I guess you never got that job with health insurance."
+Brian Chesky: When I was growing up, I also went to college and my parents were social workers. They had kind of been nervous about me going to art school. They kind of worried that maybe I would not get a job after college, which I'm sure a lot of parents are worried about. So my mother said, "Make sure you promise me you get a job with health insurance." I ended up starting [airbnb.com](http://airbnb.com)—actually the original name was airbed and [breakfast.com](http://breakfast.com). And I remember her telling me, "I guess you never got that job with health insurance."
 
 Brian Chesky: The reason I say this though is this: Airbnb was never meant to be the big idea. It was meant to be the thing to pay the rent so we could think of the big idea. And along the way, by solving our own problem, it became the big idea.
 
@@ -163,7 +145,7 @@ Brian Chesky: Well, I think that having a—so here's the thing about culture. T
 
 The second problem is it's hard to measure. And things that are hard to measure often get discounted. And um, these are like two really um hard things. But the third thing is the biggest problem. The biggest problem with culture is it doesn't pay off in the short term. In fact, if you wanted to in one year build a company and sell it as quickly
 
-Brian Chesky: As possible, the number one piece of advice I give you is [__] up the culture. Forget about it. Just hire people quickly. Culture makes you hire really slowly and makes you be deliberate about decisions that in the near term can slow progress. It's kind of like putting an investment into the company short term. And so these are the things people never tell you. So it's really about building a company for the long term and to endure.
+Brian Chesky: As possible, the number one piece of advice I give you is [\_\_] up the culture. Forget about it. Just hire people quickly. Culture makes you hire really slowly and makes you be deliberate about decisions that in the near term can slow progress. It's kind of like putting an investment into the company short term. And so these are the things people never tell you. So it's really about building a company for the long term and to endure.
 
 Now some of the things about culture, the first thing is you need to like be very clear about what's unique to you that you stand for. Once you do that, you need to make sure you hire people that believe in that. And so we interviewed hundreds of people. You need to make sure that you hire and fire based on the ideas, these values. And you know, one of the things we do is we constantly repeat over and over again. So when we interview, we want to make sure they're world-class and they fit the culture.
 
@@ -282,63 +264,3 @@ Host: So the question uh is uh a lot of people in this particular situation in A
 Brian Chesky: Good question. So um I well I'll I'll answer the question with a story. Um let me let me let me just let me preface that question by a set of questions. Do you have do you today have u proprietary technology? Do you have uh a moat? Yes. Do you have network effects? Yes. Do you have pricing power? Yes. Uh do you have a good brand? I think so. Are uh are you a monopoly? I'm not going to answer that. But but I think similar to the question um just forgetting about all of that if companies that have network effects and sort of get off the ground the flywheel is going people just think that you're lucky. Yeah. Let let me let me it's a totally fair question and people have said it so I want to answer it. Uh guy that runs Sequoia Capital now his name is Doug Leone. Yeah. One day, I think it's a year, a year and a half ago, Doug Leone says, "Your job sucks." And I was like, "What the hell does that mean?" Like, this is like, "You've got the worst job of any CEO in my portfolio." And I said, "Tell me why." And this is what he said. He says, "Well, let me here's how I think about it. First of all, you're a technology company." And he thought we were a technology company. I would say at our heart in many ways, we are a technology company. Um, and so you have all the challenges of all my other portfolio companies, but beyond that you are in 190 countries. And so you have to figure out how to be international. We have to hire people in countries all over the world. We're literally in every country, North Korea, Syria, Cuba. You're a basically a payments company. We handle billions of dollars through our system every year. And we had to get money transmission licensed in the state of California. So we actually are a payments company. We have serious fraud and risk to to to warrant and needs to be locked down like Fort Knox. He said that's that's usually where companies end. But you've got to worry about all this other crap and he says trust and safety. You know, we have 425,000 people staying in other people's under in other people's beds in their sheets. Think about a woman from Texas staying in the Middle East or vice versa. The cultural conflicts that could happen and misunderstandings. And you know, you have 425,000 people a night. It's like being the mayor of Oakland. Now imagine if you're the mayor of Oakland, all the things happen in Oakland tonight. So you've got trust and safety. Now we have regulatory problems. You know, we are in 34,000 cities. Every city has a different law, different rules, and many of them are written in a different century before you had any of his technology. And so you've got to deal with that. Then you've got issues like search and discovery. So Google's got this brand about being really important about search. The thing about search though is usually if I have a question, you know, Google could give me 40,000 results, but it's probably clear that there's like one or two best options for everybody. So, if I want to know a question to an answer, there's usually one best answer. We have 40,000 homes in Paris. There is no best home in Paris for anybody in this room. So, we have to be really, really great at matching people and technology. We have to be a company that's just, you know, another example, Facebook, for example, is a digital product. Their product is their website. Our product are these experiences you have in the real world. So we're not just an online product. We have to be an offline product and we need to transition from when you're at your app through cities. And these are just some of the examples why technology design. So basically the long of the short of it is we have to be world class at technology. We have to be world class at design. We have to be real world class at branding because we've got to convince people this isn't crazy. You're not going to die when you use it. We have to convince government this is good for your neighborhood. What happens? The internet moves into your neighborhood. That's what people call it. It's a good thing hopefully. And you've got to make sure trust and safety is really world class that we handle all these payments, not have problems with risk. And I can kind of go through and this is not even to do with culture. I didn't even mention culture. So that's how I describe it is like I think great companies are companies that are probably really strong at everything, but um you know we h we try to hire the very best engineers and technical talent in the world and I definitely don't see as a marketing company. Thank you.
 
 Host: Thank you guys. All right. Thank you, sir.
-
-Up next from How to Start a Startup - A course Y Combinator taught at Stanford
-50:37
-How to Start a Startup: Building company culture, Part II
-160K views
-Over 1 year ago
-Related
-46:27
-How to Start a Startup: Talking to users
-215K views
-Over 1 year ago
-50:37
-How to Start a Startup: Building company culture, Part II
-160K views
-Over 1 year ago
-18:02
-Building culture
-60K views
-Over 1 year ago
-54:41
-How to Start a Startup: Building for the Enterprise
-59K views
-Over 1 year ago
-The second job of a startup CEO
-Ali Rowghani
-A CEO's first job is to build a product users love; the second job is to build a company to maximize the opportunity that the product has surfaced. The future of your startup depends on how you transition from phase one to phase two.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

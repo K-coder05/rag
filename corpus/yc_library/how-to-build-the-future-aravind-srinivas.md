@@ -3,53 +3,10 @@ title: How To Build The Future: Aravind Srinivas
 source: https://www.ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-How To Build The Future: Aravind Srinivas
-HOW TO BUILD THE FUTURE
-How To Build The Future: Aravind Srinivas
-by David Lieb
-141K views
-1 year ago
-Chapters
-0:00
-Intro
-0:51
-Aravind’s early days in AI
-3:45
-What made Aravind start a company
-6:35
-The first iterations
-14:10
-Realizing Perplexity had potential
-19:02
-“The user is never wrong.”
-22:20
-Managing the team
-24:53
-Brutal honesty brings out the worst bugs
-25:33
-Avoiding becoming a big slow company
-27:37
-The future of search
-31:11
-Perplexity’s advantage against its competitors
-34:26
-Outro
+Aravind Srinivas is the co-founder & CEO of Perplexity, an AI search engine that's changing the way people discover information.
+For this episode of How to Build the Future, YC General Partner David Lieb sat down with Aravind to discuss his Silicon Valley origins, what it's like to compete with Google, and his vision for the future of search.
 
-Aravind Srinivas is the co-founder & CEO of Perplexity, an AI search engine that's changing the way people discover information. For this episode of How to Build the Future, YC General Partner David Lieb sat down with Aravind to discuss his Silicon Valley origins, what it's like to compete with Google, and his vision for the future of search.
-
-Transcript
+## Transcript
 
 Host: We release the ability to ask follow-up questions that double the engagement time on the site and also increase the number of questions every day. So I was like, okay, there's something here. It's not worth killing and pivoting to Enterprise. It was not like I want to go and kill Google. Like, that sort of a motivation, it was more like, what is an idea of that scale and ambition? Is something like this? Today, my view of Perplexity is a more intelligent Google search that's really useful in certain scenarios. What do you want me to think it in three or four years?
 
@@ -198,68 +155,3 @@ Aravind Srinivas: I feel like Perplexity is better positioned to do these things
 Host: All right, Aravind, thanks so much for joining us. It's great chatting.
 
 Aravind Srinivas: Thank you for having me again.
-
-Up next from How To Build The Future
-30:45
-How To Build The AGI Future: Bob McGrew
-50K views
-1 year ago
-Related
-46:52
-How To Build The Future: Sam Altman
-698K views
-1 year ago
-19:33
-How David Lieb Turned a Failing Startup Into Google Photos
-355K views
-1 year ago
-43:28
-How To Build The Future: Parker Conrad
-61K views
-1 year ago
-30:45
-How To Build The AGI Future: Bob McGrew
-50K views
-1 year ago
-13:50
-Dot Plots: How to Actually See What Your Users Are Doing
-27K views
-1 month ago
-56:31
-On starting and scaling one of the biggest iOS apps
-9,772 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

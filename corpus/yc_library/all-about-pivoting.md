@@ -3,54 +3,14 @@ title: All about pivoting
 source: https://www.ycombinator.com/library/6p-all-about-pivoting
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Pivoting
-›
-All about pivoting
-All about pivoting
-by Dalton Caldwell
-140K views
-Over 1 year ago
-Chapters
-0:00
-Introduction
-0:29
-What is a "pivot"?
-1:54
-Why pivot?
-3:09
-Good and bad reasons to pivot
-4:51
-People wait too long to pivot
-8:57
-Product/market fit
-10:09
-Finding a better idea
-14:27
-The best time to pivot
-16:41
-Scoring ideas
-18:41
-Real-world examples
-26:50
-Conclusion
-
 YC Partner and Head of Admissions Dalton Caldwell gives us the rundown on pivoting and shares his advice on how founders should think about it for their startups.
 
-Watch if:
+**Watch if:**
 
-you're wondering if you should pivot
-you aren't sure if your new idea is better than your last idea
-Transcript
+* you're wondering if you should pivot
+* you aren't sure if your new idea is better than your last idea
+
+## Transcript
 
 Dalton: How's everybody doing? I am Dalton. I'm a partner at Y Combinator. In addition, I'm the Head of Admissions, which is our selection process for the companies that get into YC. I'm here to talk about pivoting. Yeah, let's talk all about pivoting. Cool. All right. Here's some stuff we're going to cover. What the heck is a pivot, why you should pivot, when you should pivot, and evaluating ideas to pivot to. So we're going to try to cover all the bases here, all right? Let's talk about the term "pivot". This is one of those terms that if I'm in a cafe and I hear someone talking about pivoting, I roll my eyes because it's one of those words that I associate with annoying startup people. And so, let's just explain what we mean here. It just means changing your idea. That's all it means.
 
@@ -160,9 +120,9 @@ Man 5: We are interested in applying for the main school. We are building a star
 
 Dalton: Okay. What should we focus on for applying to YC and we're prelaunch? We don't need to get the whole thing here, but you should not be prelaunch. That's a great way to demonstrate that you are...again, even if you need to change your idea, that demonstrates competence. Like, the act of launching and going through the process alone demonstrates really good stuff. Even if you end up needing to change your idea, the toughest thing is yeah, if it's pre-launch. Yes.
 
-Man 6: I'm curious about app.net and, like, two parts. One is, what was your thinking behind shutting down as opposed to pivoting, and two, do you think the timing was just off, because a lot of crypto networks right now are launching something similar where there's like a community effort to build something?
+Man 6: I'm curious about [app.net](http://app.net) and, like, two parts. One is, what was your thinking behind shutting down as opposed to pivoting, and two, do you think the timing was just off, because a lot of crypto networks right now are launching something similar where there's like a community effort to build something?
 
-Dalton: Yeah. The question was about one of my companies. I guess I didn't get into this. I probably pivoted personally seven or eight times, and I've done a lot of things at my startups. And so he had a specific question about one of them. I would say for the app.net use case, I did not enjoy working on it anymore. That was, like, honest to God, it's exactly the advice I just gave here. I was, like, not enjoying myself. And so, I'm not sure what to say about the market, that's a long conversation. But to follow my own advice, I lost enthusiasm and excitement that that was a good use of my time. And so that was how I made my decision. Yeah. Yes.
+Dalton: Yeah. The question was about one of my companies. I guess I didn't get into this. I probably pivoted personally seven or eight times, and I've done a lot of things at my startups. And so he had a specific question about one of them. I would say for the [app.net](http://app.net) use case, I did not enjoy working on it anymore. That was, like, honest to God, it's exactly the advice I just gave here. I was, like, not enjoying myself. And so, I'm not sure what to say about the market, that's a long conversation. But to follow my own advice, I lost enthusiasm and excitement that that was a good use of my time. And so that was how I made my decision. Yeah. Yes.
 
 Man 7: So Kevin talked about SISP, solution in search of a problem in the first lecture. And so we're in a situation where we have worked hard on something for a year and we feel that it's gonna be used for a different problem, right? It works really well for a different problem. So it is kind of in that zone, the solution in search of a problem. So would do you call that as a pivot or...?
 
@@ -185,84 +145,3 @@ And if your iteration cycle is to, like, try a new idea and test it out or launc
 Man 8: For software, less than 10 weeks. Is that a good goal to have?
 
 Dalton: Yeah. I think for software, less than 10 weeks, at least to feel like you've made major progress and you've learned a lot. This is a question I ask people a lot, "What have you learned?" And if you can't articulate that you're still learning things constantly and you're reassessing some of the assumptions you made and changing them, that's a good sign you're not moving fast enough. You should be constantly learning new stuff. Cool. Cool. Thanks, everybody.
-
-Up next from Pivoting
-20:49
-YC's Group Partners share their favorite pivot stories
-160K views
-Over 1 year ago
-Related
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-40:21
-How to apply and succeed at Y Combinator
-228K views
-Over 1 year ago
-19:50
-How to launch (again and again)
-172K views
-Over 1 year ago
-20:49
-YC's Group Partners share their favorite pivot stories
-160K views
-Over 1 year ago
-17:55
-Starting A Company? The Key Terms You Should Know
-105K views
-1 year ago
-24:32
-Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
-98K views
-1 year ago
-56:31
-On starting and scaling one of the biggest iOS apps
-9,772 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

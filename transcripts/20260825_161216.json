@@ -1,0 +1,27 @@
+{
+  "query": "What qualities distinguish an idea that sounds bad but is actually good from an idea that is genuinely bad?",
+  "category": "hard",
+  "chunks": [
+    {
+      "ID": "106c1b2f386acd455a3572800a56244ff89bcd481c550728a7451430d01c6ea3",
+      "score": 0.756645203,
+      "text": "first like bad ideas. I've written about this before: if a good\nidea were obviously good, someone else would already have done it.\nSo the most successful founders tend to work on ideas that few\nbeside them realize are good. Which is not that far from a description\nof insanity, till you reach the point where you see results.  \nThe first time Peter Thiel spoke at YC he drew a Venn diagram that\nillustrates the situation perfectly. He drew two intersecting\ncircles, one labelled \"seems like a bad idea\" and the other \"is a\ngood idea.\" The intersection is the sweet spot for startups.  \nThis concept is a simple one and yet seeing it as a Venn diagram\nis illuminating. It reminds you that there is an intersection\u2014that\nthere are good ideas that seem bad. It also reminds you that the\nvast majority of ideas that seem bad are bad.  \nThe fact that the best ideas seem like bad ideas makes it even\nharder to recognize the big winners. It means the probability of",
+      "source": "corpus\\pg_essays\\black-swan-farming.md"
+    },
+    {
+      "ID": "3b77d3015ea9dd3f6b214071d7451ef948f6b98fd07f403b95eb4de034bda94d",
+      "score": 0.752975583,
+      "text": "The other big market inefficiency to look for is ideas that sound bad but are good. So most ideas that sound bad are unfortunately bad, and you should try not to join those companies. But there exists a class\u2014and this is where YC has made most of its money\u2014of ideas that sound bad but are good. If an idea is good and sounds good, then the big companies will try to do it and usually I'll compete with you. But there's a really important difference between startups and big companies.",
+      "source": "corpus\\yc_library\\how-to-pick-which-startup-to-work-at.md"
+    },
+    {
+      "ID": "b50926dcbfdf0d054e0e2b06fd8cec19bb2e8ed4717e77d3c5864a908ad0901e",
+      "score": 0.742912352,
+      "text": "accepted, even among astronomers, because it felt so wrong.  \nIndeed, if you think about it, a good new idea has to seem bad to\nmost people, or someone would have already explored it. So what\nyou're looking for is ideas that seem crazy, but the right kind of\ncrazy. How do you recognize these? You can't with certainty. Often\nideas that seem bad are bad. But ideas that are the right kind of\ncrazy tend to be exciting; they're rich in implications; whereas\nideas that are merely bad tend to be depressing.  \nThere are two ways to be comfortable breaking rules: to enjoy\nbreaking them, and to be indifferent to them. I call these two cases\nbeing aggressively and passively independent-minded.  \nThe aggressively independent-minded are the naughty ones. Rules\ndon't merely fail to stop them; breaking rules gives them additional\nenergy. For this sort of person, delight at the sheer audacity of\na project sometimes supplies enough activation energy to get it\nstarted.",
+      "source": "corpus\\pg_essays\\how-to-do-great-work.md"
+    }
+  ],
+  "retrieval_time": 0.3654672000120627,
+  "generation_time": 4.859602600001381,
+  "response": "# What Distinguishes a Good-But-Bad-Sounding Idea from a Genuinely Bad One\n\nBased on foundational startup research, here are the key distinguishing qualities:\n\n## The Core Insight: The Venn Diagram Test\n\nAs Peter Thiel illustrated at Y Combinator, **the sweet spot for startups exists at the intersection of \"seems like a bad idea\" and \"is a good idea.\"** The critical reminder here is that **the vast majority of ideas that seem bad actually are bad**\u2014so seeming bad alone isn't sufficient.\n\n## The Distinguishing Qualities\n\n**1. Emotional Resonance**\nIdeas that are \"the right kind of crazy\" tend to be **exciting and rich in implications**, whereas genuinely bad ideas tend to be **depressing**. This emotional signal matters\u2014if an idea energizes you despite seeming wrong, that's a positive indicator.\n\n**2. Why They Seem Bad**\nGood ideas necessarily seem bad because **if an idea were obviously good, someone else would already have done it.** The barrier protecting good-but-bad-sounding ideas is that most people don't see their value yet. Genuinely bad ideas seem bad for reasons unrelated to this invisibility problem.\n\n**3. The Competition Asymmetry**\nIf an idea sounds good AND is good, large companies will compete with you and usually win. **Ideas that sound bad but are good face less competition** because incumbents dismiss them, giving startups a natural moat that genuinely bad ideas lack.\n\n**The Bottom Line:** You can't recognize them with certainty, but the right kind of crazy is characterized by hidden potential, emotional richness, and reduced competitive threat\u2014not merely by being unpopular."
+}

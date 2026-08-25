@@ -3,69 +3,13 @@ title: YC's Head of Design Shows You How To Design With AI
 source: https://www.ycombinator.com/library/So-yc-s-head-of-design-shows-you-how-to-design-with-ai
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design Review
-›
-YC's Head of Design Shows You How To Design With AI
-DESIGN REVIEW
-YC's Head of Design Shows You How To Design With AI
-by Aaron Epstein
-89K views
-1 month ago
-Chapters
-0:00
-— AI Design Toolkit: Conductor, Paper Design, & Voice
-1:27
-— Project 1: Paxel — Spotify Wrapped for Coding Sessions
-4:13
-— Building the Paxel Landing Page
-5:23
-— Custom Shader Fine-Tuning Tools
-7:13
-— Designing for Humans vs. Machines
-8:31
-— "Send to an Agent" Feature Request Forms
-10:18
-— The Future of Locally Personalized Software
-12:53
-— Project 2: SOTA Zine — Celebrating San Francisco
-14:34
-— The Soul.md File as Source of Truth
-16:57
-— One-Shot = 16 Website Variations
-20:06
-— When the Agent Surprises You
-21:50
-— How to Break Out of Generic AI Design
-23:20
-— Building an Interactive SF Map
-25:17
-— Project 3: Startup School 2026 Branding
-26:32
-— Automated Speaker Card Generation
-27:50
-— Shader Fine-Tuning and Perfect Loop Recording
-29:43
-— Personalized Acceptance Tickets
-30:49
-— Shader-Driven Branding at Arena Scale
-
 AI isn't just changing the tools designers use. It's changing the way they think, prototype, and build.
 
 In this episode of Design Review, YC Head of Design Eve Bouffard joins General Partner Aaron Epstein to share the AI-first workflow she uses to design products, websites, and events.
 
 Using projects like Paxel, SOTA Zine, and YC Startup School as examples, she explains how coding agents are transforming everything from rapid prototyping and branding to design systems, and why the biggest bottleneck is no longer software. It's imagination.
 
-Transcript
+## Transcript
 
 Aaron Epstein (host): Today I'm excited to welcome back Ev Buffar, the Head of Design at YC, to talk about some of the really cool projects she's been working on and the design process behind them. So Ev, thanks so much for joining.
 
@@ -119,7 +63,7 @@ Ev Buffar (guest): After you run the command and we analyze your transcripts, we
 
 Aaron Epstein (host): Yeah, there's a lot to learn and there's a lot of valuable feedback you can get from it about. I mean, this is what it is to be a developer. This is how a lot of design work is happening these days. And um, there's a lot that can be learned from feedback on how you are doing it, especially because it's so new. Um, everyone's trying to figure things out. And so I think by analyzing a lot of these different transcripts and being able to give feedback, it helps everybody level up.
 
-Aaron Epstein (host): YC's next batch is now taking applications. Got a startup in you? Apply at ycombinator.com/slash apply. It's never too early, and
+Aaron Epstein (host): YC's next batch is now taking applications. Got a startup in you? Apply at [ycombinator.com/slash](http://ycombinator.com/slash) apply. It's never too early, and
 
 Ev Buffar (guest): filling out the app will
 
@@ -133,15 +77,15 @@ Ev Buffar (guest): So when we say zine, it's a literal physical zine. What's int
 
 Aaron Epstein (host): Okay. So you started with the physical zine. Yes. And then you you transitioned to making a website to show this off. And and talk about um what your goals were with building this and the process that you went about to actually make it come to life.
 
-Ev Buffar (guest): What's great is that for every single meeting that we had about the zine, we recorded every single one and I dumped the transcripts into a soul.md file specifically for that project. And I wanted to treat that soul.md file as the source of truth and exhaustive glossary of this project. I wanted this file to have as much context as possible humanly possible so that it can feed all the future decisions that we need to make regarding this project.
+Ev Buffar (guest): What's great is that for every single meeting that we had about the zine, we recorded every single one and I dumped the transcripts into a [soul.md](http://soul.md) file specifically for that project. And I wanted to treat that [soul.md](http://soul.md) file as the source of truth and exhaustive glossary of this project. I wanted this file to have as much context as possible humanly possible so that it can feed all the future decisions that we need to make regarding this project.
 
-Aaron Epstein (host): It's interesting because there's probably a lot of people that are watching and their process is, you know, maybe they're doing client work, maybe they're working on an internal project and they're meeting with a bunch of, you know, stakeholders. Maybe they're designing their own website um and they're thinking it through. And and they would probably come out of that and they would jot jot down some notes and some high level takeaways. And you're saying like, no, you shouldn't do that. Instead, just record everything and just dump it all in a soul.md file and then use that as the basis for everywhere that you want to go afterwards.
+Aaron Epstein (host): It's interesting because there's probably a lot of people that are watching and their process is, you know, maybe they're doing client work, maybe they're working on an internal project and they're meeting with a bunch of, you know, stakeholders. Maybe they're designing their own website um and they're thinking it through. And and they would probably come out of that and they would jot jot down some notes and some high level takeaways. And you're saying like, no, you shouldn't do that. Instead, just record everything and just dump it all in a [soul.md](http://soul.md) file and then use that as the basis for everywhere that you want to go afterwards.
 
-Ev Buffar (guest): Exactly. I really think that's the that's the future. And we also wrote a manifesto for ourselves when we were working on this project. And of course we dumped that manifesto into the soul.md because as much context that we can give the agent, the better.
+Ev Buffar (guest): Exactly. I really think that's the that's the future. And we also wrote a manifesto for ourselves when we were working on this project. And of course we dumped that manifesto into the [soul.md](http://soul.md) because as much context that we can give the agent, the better.
 
 Aaron Epstein (host): Can you show that sold at MDfo?
 
-Ev Buffar (guest): Yes. This is what it looks like. It is nothing more than a um a simple MD file and it has all the context and you can also break down MD files. You can create a hierarchy of the different MD files that you want. If you want to have like a design.md file specifically for your design and how to address design. You can have a separate MD for your manifesto. You have can have a in our case we could have had a different MD for the written content content in the zine. Um, you can dump it all in one single file. I haven't really seen one method being better than the other, but that's why we're all experimenting and figuring out if there's a better way. Overall, I think capturing as much information as possible and share that information with your agent is the best way to build software moving forward.
+Ev Buffar (guest): Yes. This is what it looks like. It is nothing more than a um a simple MD file and it has all the context and you can also break down MD files. You can create a hierarchy of the different MD files that you want. If you want to have like a [design.md](http://design.md) file specifically for your design and how to address design. You can have a separate MD for your manifesto. You have can have a in our case we could have had a different MD for the written content content in the zine. Um, you can dump it all in one single file. I haven't really seen one method being better than the other, but that's why we're all experimenting and figuring out if there's a better way. Overall, I think capturing as much information as possible and share that information with your agent is the best way to build software moving forward.
 
 Aaron Epstein (host): What were your next steps?
 
@@ -174,67 +118,3 @@ Ev Buffar (guest): Yeah. Amazing. Ev, thank you so much for joining and and show
 Aaron Epstein (host): Thank you. We're we're all figuring it out together and we're having a lot of fun doing so.
 
 Ev Buffar (guest): That does it for this episode of Design Review, and we'll see you on the next one.
-
-Up next from Design Review
-43:37
-How Stripe Built Their New Website
-90K views
-4 months ago
-Related
-37:27
-Common Mistakes With Vibe Coded Websites
-114K views
-5 months ago
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-93K views
-1 year ago
-43:37
-How Stripe Built Their New Website
-90K views
-4 months ago
-33:38
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-61K views
-1 year ago
-40:27
-Why Your Startup Website Isn't Converting
-26K views
-6 months ago
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

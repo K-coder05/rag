@@ -3,65 +3,11 @@ title: Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM Syst
 source: https://www.ycombinator.com/library/Mp-anthropic-co-founder-building-claude-code-lessons-from-gpt-3-llm-system-design
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
-LIGHTCONE
-Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
-by Y Combinator
-144K views
-1 year ago
-Chapters
-0:00
-From Failure to Success
-2:30
-Early Startup Days at Linked Language
-4:12
-The Grouper Dating Experiment
-6:10
-Making the Leap to OpenAI
-8:42
-First Product Launch Challenges
-10:12
-Self-Teaching AI Research
-12:44
-Building GPT-3 Infrastructure
-15:44
-The Anthropic Spinoff
-18:23
-Early Days of Building Claude
-20:21
-The ChatGPT Wake-Up Call
-22:08
-Claude 3.5 Sonnet Breakthrough
-24:13
-Why Benchmarks Don't Tell the Whole Story
-26:20
-Claude Code's Secret Sauce
-28:51
-Building for the AI Agent
-31:11
-The Largest Infrastructure Buildout Ever
-32:46
-Multi-Chip Strategy
-34:38
-Advice for the Next Generation
-
 Tom Brown co-founded Anthropic after helping build GPT-3 at OpenAI. A self-taught engineer, he went from getting a B-minus in linear algebra to becoming one of the key people behind AI's scaling breakthroughs. And his work is paying off.
 
 Today, Anthropic's Claude is the go-to choice for developers, and his team is overseeing what he calls "humanity's largest infrastructure buildout ever." On this episode of The Lightcone, he discusses his unconventional path from YC founder to AI researcher, the discovery of scaling laws that changed everything, and his advice for young engineers entering AI today.
 
-Transcript
+## Transcript
 
 Host: Welcome back to another episode of The Light Cone. Today we've got a real treat, co-founder of Anthropic, Tom Brown.
 
@@ -360,66 +306,3 @@ Host: More intrinsic less extrinsic like don't chase these other credentials and
 Tom Brown: as of today.
 
 Host: Yeah, exactly. That's all we have time for today. We'll see you guys next time.
-
-Up next from Lightcone Podcast
-38:56
-How to Spend Your 20s in the AI Era
-348K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-61:13
-Alexandr Wang: Building Scale AI, Transforming Work with Agents & Competing With China
-368K views
-1 year ago
-38:56
-How to Spend Your 20s in the AI Era
-348K views
-1 year ago
-31:26
-State-Of-The-Art Prompting For AI Agents
-342K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,51 +3,13 @@ title: The World's First Commercial Mobile Carbon Capture Device
 source: https://www.ycombinator.com/library/Mz-the-world-s-first-commercial-mobile-carbon-capture-device
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Hard Tech
-›
-The World's First Commercial Mobile Carbon Capture Device
-HARD TECH
-The World's First Commercial Mobile Carbon Capture Device
-by Y Combinator
-50K views
-10 months ago
-Chapters
-0:00
-Carbon Capture on Trucks
-0:47
-How It Works
-2:33
-Remora’s Origin Story
-4:19
-Lessons for Founders
-6:19
-From YC to Detroit
-7:59
-Building a World-Class Team
-9:31
-Train Prototype
-10:37
-Testing and Iteration
-11:47
-Big Goals Ahead
-
 Paul Gross and his team at Remora are trying to do something that’s never been done before.
 
 They're building mobile carbon capture devices for commercial trucks and trains—capturing CO2 from moving vehicles before it enters the atmosphere, then turning those emissions into revenue by selling it to customers that can turn the liquified CO2 into new products.
 
 In this episode of Hard Tech, YC's Gustaf Alströmer visits Remora's headquarters outside Detroit to see how a recent college grad with no engineering background is helping transform the $2 trillion transportation industry.
 
-Transcript
+## Transcript
 
 Host: This is the first carbon capture system on a commercial truck or on a commercial train ever.
 
@@ -105,7 +67,7 @@ Host: What you're doing here has not really been done in this form anywhere else
 
 Paul Gross: If you're doing something that's really interesting and hard and if you're successful, you can make a big impact on the planet. That's where you can get the absolute best engineers involved. And so I would encourage other founders to expand their ambitions. I think a lot of times people start the company that seems doable, seems easy, but that's going to be hard, too. If you're going to spend 10 years of your life on this, you might as well just do the thing that's hardest, that's most interesting because you'll get to work with the best team. You'll get to work with the best advisers, the best investors. It's just so much more fun. And ironically, it may end up being easier and it may be a bigger outcome as well.
 
-Host: YC's next batch is now taking applications. Got a startup in you? Apply at ycombinator.com/apply. It's never too early and filling out the app will level up your idea. Okay, back to the video. One of the most ambitious challenges for Remora has taken on is fully manufacturing their device in-house.
+Host: YC's next batch is now taking applications. Got a startup in you? Apply at [ycombinator.com/apply](http://ycombinator.com/apply). It's never too early and filling out the app will level up your idea. Okay, back to the video. One of the most ambitious challenges for Remora has taken on is fully manufacturing their device in-house.
 
 Paul Gross: This is the manufacturing space. So we have kind of fabrication over here. We got a laser cutter. We've got the welding. Our electronics area in the back. This is kind of standard machining tools. And the reason we have this is to be able to again iterate more quickly. We have a super talented hourly team that does all of the production of our components here that we possibly can so that we can then, you know, put them on the truck, put them on the train as quickly as possible.
 
@@ -142,66 +104,3 @@ Paul Gross: Absolutely. We went from building a specific system with all of the 
 Host: So far, Remora has raised $17 million in venture backing and signed evaluation agreements with major freight companies like Ryder and Union Pacific. What does success look like? What do you think you can achieve?
 
 Paul Gross: I think we can make a really meaningful dent in the entire country's carbon emissions. This technology can scale up to capture not just a million tons or 10 million tons. We want to capture a billion tons a year. And I think we can get there. This technology can be applied in many different sectors. We could retrofit onto generators and oil and gas production. We could also put this on a container ship or even put this in larger applications like a cement plant or a refinery or a natural gas turbine. So, this is huge potential and we're building it to be scalable so that we can get to that target. There are so many applications for this. We're just getting started.
-
-Up next from Hard Tech
-8:08
-Fusion Energy Is Tech's Next Big Unlock
-57K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-13:46
-Building A Supersonic Plane Company From The Ground Up
-86K views
-1 year ago
-8:08
-Fusion Energy Is Tech's Next Big Unlock
-57K views
-1 year ago
-13:41
-You Don’t Have To Be A Billionaire To Launch Satellites
-31K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

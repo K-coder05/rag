@@ -3,84 +3,17 @@ title: On Starting and Scaling Hubspot
 source: https://www.ycombinator.com/library/5R-on-starting-and-scaling-hubspot
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-On Starting and Scaling Hubspot
-On Starting and Scaling Hubspot
-by Brian Halligan
-12K views
-Over 1 year ago
-Chapters
-0:00
-Brian's an introvert that likes to work from home. He also runs a public company. How does he do both?
-1:45
-How does he manage his calendar as an introvert?
-3:45
-How Brian met his cofounder Dharmesh
-5:45
-The first project they worked on together
-7:00
-What was their unique insight when starting HubSpot?
-8:25
-Pricing in the early days
-9:00
-How would he have priced HubSpot differently knowing what he knows now?
-10:00
-HubSpot's first customer
-12:00
-Important early features
-14:20
-At what point did they shift entirely away from consulting?
-15:05
-Providing advice as content vs in the product
-16:00
-SEO is underrated
-16:45
-Trends in B2B and marketing
-21:30
-Inbound marketing and audience building advice
-26:25
-How did Brian know that his cofounder was right for him?
-27:45
-The internet disproportionately benefiting small businesses over big ones
-28:45
-Keeping your company hungry when you're big
-29:15
-Building assets for your company
-30:20
-Freemium
-34:00
-Structural pieces of HubSpot Brian would have changed if he did it again
-37:00
-Creating the voice of your company
-39:30
-Early metrics they tracked
-40:05
-Having a coach and reviews
-41:30
-How Brian's changed as a CEO from the beginning
-42:24
-What was the hardest thing to give up as CEO?
-43:30
-Humility
+[Brian Halligan](https://twitter.com/bhalligan) is the CEO and cofounder of [HubSpot](https://www.hubspot.com/). HubSpot builds software for marketing, sales, and customer service. You can try it out at [HubSpot.com](https://www.hubspot.com/).
 
-Brian Halligan is the CEO and cofounder of HubSpot. HubSpot builds software for marketing, sales, and customer service. You can try it out at HubSpot.com.
+[Kevin Hale](https://twitter.com/ilikevests/) is a Partner at YC and cofounder of Wufoo.
 
-Kevin Hale is a Partner at YC and cofounder of Wufoo.
+Brian is on Twitter [@bhalligan](https://twitter.com/bhalligan) and Kevin is [@ilikevests](https://twitter.com/ilikevests/).
 
-Brian is on Twitter @bhalligan and Kevin is @ilikevests.
+---
 
-Transcript
+## Transcript
 
-Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon, and you're listening to YCombinator's podcast. Today's episode is with Brian Halligan and Kevin Hale. Kevin's a partner at YC and co-founder of Wufoo. Brian's the CEO and co-founder of HubSpot. HubSpot builds software for marketing, sales, and customer service. You can try it out at hubspot.com. Brian is on Twitter @bhalligan, and Kevin is @ilikevests. All right, here we go. Brian, I've listened to a few of your podcasts, and on one of them, you described yourself as an introvert who likes to work from home. That being said, you manage a public company. How do you mesh those two things together?
+Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon, and you're listening to YCombinator's podcast. Today's episode is with Brian Halligan and Kevin Hale. Kevin's a partner at YC and co-founder of Wufoo. Brian's the CEO and co-founder of HubSpot. HubSpot builds software for marketing, sales, and customer service. You can try it out at [hubspot.com](http://hubspot.com). Brian is on Twitter [@bhalligan](https://twitter.com/bhalligan), and Kevin is [@ilikevests](https://twitter.com/ilikevests). All right, here we go. Brian, I've listened to a few of your podcasts, and on one of them, you described yourself as an introvert who likes to work from home. That being said, you manage a public company. How do you mesh those two things together?
 
 Brian Halligan [00:40] - That's a good question. I am an introvert, and I just try to manage it as best I can. It's hard to be an introvert as a CEO. I'll tell you one thing that's interesting about HubSpot, is both founders are introverted, but one is far more introverted than the other. I'm kind of introverted, and one of you has to be the front man to the band, basically, and Dharmesh, my co-founder, does not want to be that, so I kind of have to play the frontman to the band. I have to manage my introversion a little bit more carefully than he does.
 
@@ -176,7 +109,7 @@ Brian Halligan [10:32] - It was janky. I would tell you the early days of HubSpo
 
 Craig Cannon [11:19] - Wait, what?
 
-Brian Halligan [11:20] - CEO Dad. Ceodad.com
+Brian Halligan [11:20] - CEO Dad. [Ceodad.com](http://Ceodad.com)
 
 Craig Cannon [11:21] - And he's a comedian?
 
@@ -192,7 +125,7 @@ Brian Halligan [12:27] - Yes.
 
 Kevin Hale [12:29] - Was there any feature that you guys developed in the early days that ended up being this killer feature that all of a sudden changed the direction?
 
-Brian Halligan [12:35] - The SEO stuff we built was pretty cool in the early days, and we built a tool called websitegrader.com that's very popular still. That was an unbelievable tool, you go to our website, websitegrader.com, and you type your URL in, and you type your competitor's URL, and it gives you a score on how inbound-y your site is. How good are you at attracting links, how good are you at getting found in Google, how's your social media setup, how many followers do you have, all that kind of stuff.
+Brian Halligan [12:35] - The SEO stuff we built was pretty cool in the early days, and we built a tool called [websitegrader.com](http://websitegrader.com) that's very popular still. That was an unbelievable tool, you go to our website, [websitegrader.com](http://websitegrader.com), and you type your URL in, and you type your competitor's URL, and it gives you a score on how inbound-y your site is. How good are you at attracting links, how good are you at getting found in Google, how's your social media setup, how many followers do you have, all that kind of stuff.
 
 Kevin Hale [13:02] - Was the competitor check the actual big thing that helped make it really drive people to actually want to change?
 
@@ -224,9 +157,9 @@ Brian Halligan [15:34] - We were trying to get as much of it in the software as 
 
 Craig Cannon [16:00] - It makes sense with a website competitor comparison, what is it called again, just so I get it right?
 
-Brian Halligan [16:07] - Websitegrader.com.
+Brian Halligan [16:07] - [Websitegrader.com](http://Websitegrader.com).
 
-Craig Cannon [16:07] - Websitegrader.com. SEO is such this, like, vague, murky term.
+Craig Cannon [16:07] - [Websitegrader.com](http://Websitegrader.com). SEO is such this, like, vague, murky term.
 
 Brian Halligan [16:13] - It's the most underrated marketing thing there is.
 
@@ -502,7 +435,7 @@ Brian Halligan [46:17] - Thanks for having me.
 
 Kevin Hale [46:18] - Thank you, Brian.
 
-Transcript
+## Transcript
 
 Kevin Hale: So Brian, I've listened to a few of your podcasts and on one of them you described yourself as an introvert who likes to work from home. That being said, you've managed a public company. How do you mesh those two things together?
 
@@ -697,50 +630,3 @@ Kevin Hale: Yeah, we have mindfulness billboards now.
 Brian Halligan: Cool. And alright, thanks so much for coming in.
 
 Kevin Hale: Thanks for having me, Brian.
-
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

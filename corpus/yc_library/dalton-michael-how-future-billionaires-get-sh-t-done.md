@@ -3,60 +3,13 @@ title: Dalton & Michael: How future billionaires get sh*t done
 source: https://www.ycombinator.com/library/Ik-dalton-michael-how-future-billionaires-get-sh-t-done
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Dalton & Michael
-›
-Dalton & Michael: How future billionaires get sh*t done
-Dalton & Michael: How future billionaires get sh*t done
-by Michael Seibel and Dalton Caldwell
-729K views
-Over 1 year ago
-Chapters
-0:00
-How Future Billionaires Get Sh*t Done
-0:38
-PG Essay
-1:18
-Maker Schedule
-3:59
-The Right Time
-5:01
-Structure of YC
-5:59
-Manager Schedule
-6:36
-Meetings
-7:38
-Visible KPIs
-9:38
-Your Main Focus
-10:51
-Great founders not do 👇
-11:01
-Social Media
-13:33
-Tools for Time
-14:10
-Startup Mentorship
-16:00
-Hedging Bets
-
 Dalton Caldwell and Michael Seibel take a look at Paul Graham's essay "Maker's Schedule, Manager's Schedule" and share tips on how to be more effective and productive on the journey to creating a billion dollar business.
 
-Transcript
+## Transcript
 
 Michael Seibel: I think notebooks are great for ideas. I think like a well-managed to-do list is a software product that you need to adopt, and there's like eighty of them. I actually don't even care which one you adopt, but it's like when I like tell something to founders and then they write it down in a notebook, I'm like that's gone forever. But they look cool, they have like a fountain pen and they're like taking beautiful notes.
 
-Michael Seibel: Michael, we all know that everything important is—this is Michael Seibel with Dalton Caldwell. Today we're going to talk about how future billionaires get sh*t done.
+Michael Seibel: Michael, we all know that everything important is—this is Michael Seibel with Dalton Caldwell. Today we're going to talk about how future billionaires get sh\*t done.
 
 Dalton Caldwell: So Dalton, you were inspired by a PG post when thinking of this idea, right?
 
@@ -66,7 +19,7 @@ Michael Seibel: Yes, so let's start with the maker mode. You were a developer in
 
 Dalton Caldwell: Most companies are set up around a manager schedule where you have a day packed with meeting after meeting. And so if you're a programmer at a big company, you would have to, you know, you'd have like an hour to program here, an hour to program there. And this is bad. This was not conducive to to building things. Okay, and so to just walk through my perspective of someone that, you know, was programming back in the day when I was a startup founder, um, when you're programming, the more of the program you can keep in your head at any one time, the the easier it is for you to know what's going on and have the context up here to make changes and fix bugs. And it takes like an hour or two cold of looking at a program and figuring stuff out for it to get loaded into RAM, so to speak. And so if you're interrupted, like if you have to program in hour increments, man, are you gonna suck? Like you constantly have to restart your state every time you program. And so a great maker schedule is something like an eight-hour uninterrupted block of time. And his argument, I think he was also talking about this from the perspective of an artist or a musician, like if you wanted to record an album or write music, or if you wanted to write a book, the same deal. If you had to write a book in twenty-minute increments, I think a lot of writers wouldn't love that.
 
-Michael Seibel: Fair. Which is so much different than the business guy. Like, I, you know, I was the business guy at my startup, and you certainly can do email in twenty-minute increments or hour increments. And so I remember having this conversation with Emmett where he said, "Michael, imagine that I'm doing ridiculously complicated word problems and you're interrupting me in the middle of them." And I was like, then it clicked. I was like, "Oh, well, I've had to do hard work. Like, like I went to school, I had to do that sh*t. That's what your day is like." One, that sounds a lot harder than writing emails. But two, I would hate to be interrupted like that. And once he said that, it kind of clicked. Um, before he said that, I just assumed, well, you know, he's typing on, typing...
+Michael Seibel: Fair. Which is so much different than the business guy. Like, I, you know, I was the business guy at my startup, and you certainly can do email in twenty-minute increments or hour increments. And so I remember having this conversation with Emmett where he said, "Michael, imagine that I'm doing ridiculously complicated word problems and you're interrupting me in the middle of them." And I was like, then it clicked. I was like, "Oh, well, I've had to do hard work. Like, like I went to school, I had to do that sh\*t. That's what your day is like." One, that sounds a lot harder than writing emails. But two, I would hate to be interrupted like that. And once he said that, it kind of clicked. Um, before he said that, I just assumed, well, you know, he's typing on, typing...
 
 Dalton Caldwell: Yeah, he's typing things.
 
@@ -74,11 +27,11 @@ Michael Seibel: And I remember, I remember when I read the post, what resonated 
 
 Dalton Caldwell: What was interesting was that for us, we basically had to figure out how to build that in. I think in the beginning, organically it happened because, you know, that was our sleep cycle. We were all living in an apartment together. But when we had more employees, we had an office, you know, we literally—and this is something that I just noticed happened organically—nothing got done before lunch. Like, getting to work was all about like getting in, answering your email, doing a couple meetings. Like it was just like no one who was writing code even wanted to start writing code before lunch because lunch was the big like fu in the middle of the day. And our whole trick was one: how do we not serve a lunch? Makes everyone go to sleep. And two: how do we make that post-lunch time free of everything?
 
-Michael Seibel: PG in some ways designed YC a little bit that way, right? I think that's counterintuitive to a lot of founders. Like, one, there aren't that many events. You don't have classes all day at YC. Like, you know, we try to take as little time as possible during your week so you can actually get sh*t done. Two, there's a hard deadline: Demo Day. And three, I think people are often surprised. Like a good portion of YC is just asking you, "What are you going to accomplish by Demo Day?" and then asking you every week, "Well, did you do it?" Yep. And it's you confronting the yes or no of that. Like it turns out that like there's a lot of magic in that. And he wanted to build as much maker time as possible in the program.
+Michael Seibel: PG in some ways designed YC a little bit that way, right? I think that's counterintuitive to a lot of founders. Like, one, there aren't that many events. You don't have classes all day at YC. Like, you know, we try to take as little time as possible during your week so you can actually get sh\*t done. Two, there's a hard deadline: Demo Day. And three, I think people are often surprised. Like a good portion of YC is just asking you, "What are you going to accomplish by Demo Day?" and then asking you every week, "Well, did you do it?" Yep. And it's you confronting the yes or no of that. Like it turns out that like there's a lot of magic in that. And he wanted to build as much maker time as possible in the program.
 
-Dalton Caldwell: I think in this kind of balance between maker mode and manager mode, what people should be trying to do is maximize their productivity when they're in that mode, right? How do you maximize productivity? So when I think about manager mode for me, I always like to think about this like, okay, if I'm going to be managing my time between my to-do list, which is just another way of saying sh*t that's actually important to get done, meetings, email and Slack, I always think that my to-do list comes first. Like whenever I'm being productive, I start at the to-do list and I do everything there and then I check those things whenever I control it.
+Dalton Caldwell: I think in this kind of balance between maker mode and manager mode, what people should be trying to do is maximize their productivity when they're in that mode, right? How do you maximize productivity? So when I think about manager mode for me, I always like to think about this like, okay, if I'm going to be managing my time between my to-do list, which is just another way of saying sh\*t that's actually important to get done, meetings, email and Slack, I always think that my to-do list comes first. Like whenever I'm being productive, I start at the to-do list and I do everything there and then I check those things whenever I control it.
 
-Michael Seibel: Yes, versus if it's inbox-driven, other people are in control of your time, which is watch out: horrible, horrible. The second thing is around meetings. And like we talk about this a lot. Like you're gonna have to have some meetings. Um, I've seen a couple tricks, but they can all be reduced down to: write sht down. The worst thing is when you have to have another meeting because people didn't write the sht down from the first meeting. Like, like that is like when you know you've punched yourself in the face. But like I'm so shocked. It's like no one—again, let me push you on that because you and I agree, but let me, let's make this clear to the audience. What are we saying? What we mean is, say you and I are in a meeting. We agree on something. If no one writes it down, it's like it never happened. It's like we just, we were like patting ourselves on the back, "What a great meeting, right?"
+Michael Seibel: Yes, versus if it's inbox-driven, other people are in control of your time, which is watch out: horrible, horrible. The second thing is around meetings. And like we talk about this a lot. Like you're gonna have to have some meetings. Um, I've seen a couple tricks, but they can all be reduced down to: write sh*t down. The worst thing is when you have to have another meeting because people didn't write the sh*t down from the first meeting. Like, like that is like when you know you've punched yourself in the face. But like I'm so shocked. It's like no one—again, let me push you on that because you and I agree, but let me, let's make this clear to the audience. What are we saying? What we mean is, say you and I are in a meeting. We agree on something. If no one writes it down, it's like it never happened. It's like we just, we were like patting ourselves on the back, "What a great meeting, right?"
 
 Dalton Caldwell: Michael, no one writes it down. We're like, "What do we talk about?" Even if I didn't think I needed it, "Oh, let's write down the agenda. Oh, let's write our notes where we decided, uh, that would be great." Any other things that have made you productive as a manager?
 
@@ -98,7 +51,7 @@ Michael Seibel: Yes. Yeah, you should be scheduling eight-hour blocks. Like if y
 
 Dalton Caldwell: Right. It's interesting. I agree with you. It's basically this idea of get all of this stupid crap so productive that you can clear out that every founder can clear out a chunk of their time for the maker schedule. And like some founders gonna have to do more of this non-development blocking and tackling, others are gonna have to do less of it. But I completely agree with you, like it's really hard to get anything at a high level done in twenty-minute blocks.
 
-Michael Seibel: Let's talk though about the opposite of all these things, right? So, you know, the premise of this chat is how future billionaires get sh*t done. Let's talk about what we see great founders not do. What comes to mind?
+Michael Seibel: Let's talk though about the opposite of all these things, right? So, you know, the premise of this chat is how future billionaires get sh\*t done. Let's talk about what we see great founders not do. What comes to mind?
 
 Dalton Caldwell: Look, I think the trickiest thing for everybody is social media. It's like a social media is the black hole for time, yes? And you know, we're all guilty of it too, like it's addictive. And so what's tricky is how to have a healthy relationship with social media so that you aren't spending twenty-four seven paying attention to who the main character on Twitter is that said something dumb and everyone's like making fun of them. It's so hard not to do that constantly. And it's also not hard to think that like you are a startup founder and you're succeeding and you like did well, but if I actually—if like a like a hidden camera was shadowing you through the day, it was like you just read Twitter all day, you know what I'm saying? Like imagine if there was like a hidden camera auditing what people actually did with a lot of their time. I think some people out there would be pretty embarrassed if there was a full clear-eyed accounting of where their time went.
 
@@ -127,80 +80,3 @@ Host: Yeah, and I always tell the people who are hedging—I always say this the
 Michael Seibel: Unfortunately, no. Um, so yeah, so there you go. Those are some of the things that future billionaires do to get stuff done and some of the things that they avoid as well.
 
 Host: Great. Chat bot sounds good. Thanks, man.
-
-Up next from Dalton & Michael
-9:38
-Dalton & Michael: Understanding investor terms and incentives
-51K views
-Over 1 year ago
-Related
-5:53
-What makes great founders stand out?
-322K views
-Over 1 year ago
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-7:34
-Dalton & Michael: YC founders made these fundraising mistakes
-94K views
-Over 1 year ago
-27:27
-Setting KPIs and goals
-93K views
-Over 1 year ago
-24:14
-Dalton & Michael: Why investors can’t fix your company
-54K views
-Over 1 year ago
-9:38
-Dalton & Michael: Understanding investor terms and incentives
-51K views
-Over 1 year ago
-14:26
-What's different about unicorns?
-29K views
-Over 1 year ago
-17:40
-Signs Your Company Is Recovering From ZIRP
-27K views
-1 year ago
-5:13
-Consume information that encourages you to do more
-25K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

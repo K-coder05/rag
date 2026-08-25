@@ -3,27 +3,13 @@ title: Building a startup is about solving a problem
 source: https://www.ycombinator.com/library/5O-building-a-startup-is-about-solving-a-problem
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Building a startup is about solving a problem
-Building a startup is about solving a problem
-by Avni Patel Thompson
-44K views
-Over 1 year ago
+[Avni Patel Thompson](https://twitter.com/APatelThompson) was the CEO and Founder of [Poppy](https://www.meetpoppy.com). At the 2017 Female Founders Conference she shared how she struggled with her first startup but eventually discovered a problem many people had that was unsolved.
 
-Avni Patel Thompson was the CEO and Founder of Poppy. At the 2017 Female Founders Conference she shared how she struggled with her first startup but eventually discovered a problem many people had that was unsolved.
+---
 
-Transcript
+## Transcript
 
-My name is Avni, I'm the Co-Founder and CEO of Poppy. We're building the modern village by connecting vetted caregivers to families when they need childcare.
+My name is Avni, I'm the Co-Founder and CEO of [Poppy](https://www.meetpoppy.com/). We're building the modern village by connecting vetted caregivers to families when they need childcare.
 
 I started Poppy, not because I'm an expert in the field or because I have a deep passion for childcare, I started Poppy for two people. These two. The older is my daughter Saaya and the younger is my daughter Aria. I was so tired of feeling panicked and anxious every time I wasn't 1,000% sure of who was taking care of my girls. And I couldn't believe that so many of us are dealing with this every single week. And then I couldn't believe that all the people, all the amazing people that are taking care of our kids, they need more recognition and opportunities. So I decided to build it with Poppy. We're serving thousands of families in Seattle right now, and it's incredible thing to be a part of, especially because Poppy almost didn't exist.
 
@@ -89,7 +75,7 @@ The second is to keep going. I applied to YC three times before getting in. Popp
 
 It's been an incredible three-year journey so far. And if there's one thing that I know for sure, it's that the world needs more female founders. Two years ago, I sat in your seats with nothing more than a desire to be a founder. There is nothing special about me, and I am proof that if you set a goal and you start, and you choose to keep going, then you'll figure it out. Thank you.
 
-Transcript
+## Transcript
 
 Avni Patel Thompson (presenter): Hi everyone. Good afternoon. How's everyone doing? Oh, this is really bright. I'm so excited to be here today. My name is Avni. I'm the co-founder and CEO of Poppy. We're building the modern village by connecting vetted caregivers to families when they need childcare.
 
@@ -186,50 +172,3 @@ Avni Patel Thompson (presenter): The last thing is about focus. As founders, I t
 Avni Patel Thompson (presenter): For my company that's bookings filled, if I if I, if we are built growing our bookings filled number, then we're doing our job. That means we're bringing on more great sitters, and we've got a lot of great families, and we're connecting them together really effectively. So pick your one number and choose to grow it consistently. The thing that I wanna end with is that I think You guys, as founders, have two really important jobs. The first is to start, and the second is to keep going. I know how hard it is to start and then stop and then start again. And I know how daunting it can be. But my challenge to you: if you haven't started, can you find a four-week period this summer and just commit? Just try. To launch something and see if you can grow it by 10, 20% every single week. The second is to keep going. I applied to YC three times before getting in. Poppy is my second startup. I am standing here on the stage because every morning I choose to be a founder. I choose to keep going. And I know for so many
 
 Avni Patel Thompson (presenter): so many of you, you might be in a place that you're not sure whether you can just keep going, and there's just so much adversity and there's so many setbacks. But part of it is on you to figure out how you can just keep going. And part of that that makes that easier is you have to find your people. I definitely would not be here today if not for my incredible team that has devoted their days to join me in this journey to build this thing. But for me personally, it's also about my family, my husband, my kids, my parents, and our incredible nanny. For me, they're the ones that enable me to create the space for me to be the founder that I need to be. So if you guys are in anywhere in the similar situation, you need to find your people and build your own village so that you can create the space to be the founder and keep going. It's been an incredible three-year journey so far. And if there's one thing that I know for sure, it's that the world needs more female founders. Two years ago, I sat in your seats with nothing more than a desire to be a founder. There's nothing special about me. And I am proof that if you set a goal and you start. And you choose to keep going, then you'll figure it out. Thank you.
-
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

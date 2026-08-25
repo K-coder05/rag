@@ -3,30 +3,15 @@ title: Startup pricing 101
 source: https://www.ycombinator.com/library/6h-startup-pricing-101
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup pricing 101
-Startup pricing 101
-by Kevin Hale
-205K views
-Over 1 year ago
-
 YC Partner Kevin Hale goes over the fundamentals of pricing and monetization, how it affects your customer acquisition strategy, and how to optimize it through a few rules of thumb.
 
-Watch this if:
+**Watch this if:**
 
-you aren't sure how to price your product
-the unit economics of your business aren't working
-you're worried that your target market is too small
-Transcript
+* you aren't sure how to price your product
+* the unit economics of your business aren't working
+* you're worried that your target market is too small
+
+## Transcript
 
 This was a highly requested talk from last year where lots of people have questions about pricing are really confused. It's actually was well requested both at YC itself. That's a very, very popular workshop that we run. And so we're gonna go over a lot of basic fundamentals for pricing that hopefully will just help you understand how to approach your pricing and monetization from first principles and then you help you help yourselves, same thing with the landing page. So we're gonna go over first principles for pricing. We're gonna go over why is pricing particularly hard for startups, for people making innovative products and new markets? Like, why is it extra difficult?
 
@@ -77,60 +62,3 @@ In summary for pricing, pricing gives the most bang for your buck. You should wo
 Go after early adopters. Remember, as a startup, that is who you're going after. So when you are talking to customers and they are taking a really long time to make a decision, or they're wanting to have a lot more proof that other people are using it, you are not talking to an early adopter. You're wasting a lot of time on non-believers. Go after them first. Don't take it personally when these people who are much more mature aren't ready for your product. They were never going to be. Your job is to get through that first 2% to 5% of the market. Those early adopters care more about benefits than price. So don't undercharge your products when you have something that is of value and easily understood to have value.
 
 Get organized. When you're doing price optimization, it's really, really easy. Don't overcomplicate things. Figure out a bunch of different price points you wanna check. Understand sales volume, conversion rate, and the revenue that's involved, and that will help you make the best pricing decision. Your price will determine your acquisition strategy. If you realize that your sales cycle or all the things that you're spending on is way too much for the amount of money that you're charging, you either need to increase the price or completely reduce your acquisition strategy costs. Use the 10/5/20 rule. Set a price that is 10X, that is a 10th of the value, increase prices by 5% until you're losing 20% of the deals. Thank you very much, guys.
-
-Related
-48:02
-How to Start a Startup: Building products users love
-409K views
-Over 1 year ago
-38:51
-Growth for startups
-160K views
-Over 1 year ago
-18:57
-How to improve conversion rates
-69K views
-Over 1 year ago
-How to design a better pitch deck
-Kevin Hale
-Investors invest in teams not slides. Your slides should make your ideas more clear. Here are design principles to follow when creating your pitch deck and story.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-How to set up, hire, and scale a growth strategy and team
-Anu Hariharan
-What does a growth team do and why should you set up a growth team? Growth experts share when to invest in growth, what the right growth KPIs are, how to manage growth, building a growth team, and how to get everyone in the company to care about growth.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

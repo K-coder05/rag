@@ -3,32 +3,13 @@ title: Inside Garry Tan's AI Coding Setup
 source: https://www.ycombinator.com/library/OW-inside-garry-tan-s-ai-coding-setup
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School
-›
-Inside Garry Tan's AI Coding Setup
-STARTUP SCHOOL
-Inside Garry Tan's AI Coding Setup
-by Garry Tan
-248K views
-4 months ago
-
 GStack is an open-source toolkit built by YC President & CEO Garry Tan that turns Claude Code into an AI engineering team — with skills for office hours, design, code review, QA, and browser testing.
 
-Use it with Claude Code or Codex or Cursor. It's free and open source: https://github.com/garrytan/gstack
+Use it with Claude Code or Codex or Cursor. It's free and open source: <https://github.com/garrytan/gstack>
 
 In this video, Garry walks through how GStack works, starting with Office Hours, a skill modeled after real YC partner sessions that pressure-test your idea before you write a line of code. He demos it live, going from idea through adversarial review, design mockups, and automated QA in a single session.
 
-Transcript
+## Transcript
 
 Garry Tan: Hi, I'm Gary, president and CEO of Y Combinator. I'm also an engineer who spent the first decade of my career building software full time. I studied computer systems engineering at Stanford, then was employee number 10 at Palantir, where I was an engineer, designer, and product manager all at once. I co-founded Posterous, a microblogging platform that sold to Twitter, and I also built the first version of Bookface, YC's internal social platform.
 
@@ -122,69 +103,4 @@ Garry Tan: And then the coolest part I think that um is actually an incredible a
 
 Garry Tan: And finally, there's a ship tool. So it's sort of the last step before to make sure that your PR is ready to land on Maine. And this is actually how I work. I run 10 to 15 parallel Claude Code sessions all at the same time. I might, in one session, be running office hours on a brand new idea. And I actually now have multiple open source projects with tens of thousands of stars, and I I'm probably sitting on about 400 uh PRs to review right now. And so I almost always have one or two sessions active for each project, just evaluating and bringing in all the open source fixes that I'm getting from the community. Uh and I evaluate it in waves. Um one of the things that's been really scary in AI coding right now is supply chain attacks. So I'm really, really paranoid about it. But the great thing is I have G stack that has my back. So I don't have a to-do list anymore. One of the things that has emerged is I actually click on whenever I have an idea or I get a bug report from a user or I see something on X where someone's frustrated with what G Stack or Gbrain does. I just click the plus icon in conductor, it creates a new work tree, and each one of these things is a new work item. And all I have to do is run office hours, CEO review, end review, uh adversarial review, and then I just run my normal process. When it's ready to land, it lands. And I can do ten, fifteen, twenty, sometimes fifty PRs in any given day, depending on the number of meetings I have in that day.
 
-Garry Tan: So that's it. Uh G Stack is available right now. Just go to github.com slash Garry Tan slash G Stack. When you run slash office hours, you're getting a version of the real product thinking we do at YC with founders. Similar pushback and similar reframing before you ever meet us. Give it a try and let me know what you think. This is the most incredible time in history to build software. The barrier to building just collapsed. The only question left is what are you gonna build? It's time to let it rip. Go make something people want.
-
-Up next from Startup School
-10:28
-The Playbook For Building An AI Native Company
-294K views
-4 months ago
-Related
-10:28
-The Playbook For Building An AI Native Company
-294K views
-4 months ago
-11:31
-How To Pick A Startup Idea
-137K views
-2 months ago
-11:22
-How to Build an AI-Native Services Company
-132K views
-2 months ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+Garry Tan: So that's it. Uh G Stack is available right now. Just go to [github.com](http://github.com) slash Garry Tan slash G Stack. When you run slash office hours, you're getting a version of the real product thinking we do at YC with founders. Similar pushback and similar reframing before you ever meet us. Give it a try and let me know what you think. This is the most incredible time in history to build software. The barrier to building just collapsed. The only question left is what are you gonna build? It's time to let it rip. Go make something people want.

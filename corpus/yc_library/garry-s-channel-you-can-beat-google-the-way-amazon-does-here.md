@@ -3,27 +3,9 @@ title: Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.
 source: https://www.ycombinator.com/library/Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.
-Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.
-by Garry Tan
-245K views
-Over 1 year ago
-
 Garry writes: “I have news for you. Google is not a tech company anymore. It's a tech holding company with $135B in cash, and no ideas. In this video, I'm going to explain why this is, and how we are actually living in the most growth-mindset era in history.”
 
-Transcript
+## Transcript
 
 Speaker: As the notorious Big said, "More money, more problems." And if that's the case, no one has more problems than Google. They've got so much money they don't know what to do with it. 135 billion dollars, to be exact.
 
@@ -61,7 +43,7 @@ Weedmaps, for example, doesn't ask you for your real name when you sign up for a
 
 Speaker: That was George D'Souza of SF Weed, a delivery startup, Amuse, who uses them for validating deliveries without losing any customers to the ID check process. And that's a big thing with pure software: you can check IDs without losing conversions, instantly, just in the flow. It's safer for drivers. It's better for everyone.
 
-You know what those other ID check guys do? They send it to a Mechanical Turk-like system for some human being to look at it—kind of like a bouncer. And bouncers are not very accurate. They're slow as hell, too. So there are billions of dollars worth of new transactions that can't exist now because Burbex, this software, exists, and it couldn't exist without it. Maybe one of your startups will be enabled by it. Burbex is great. They've built the best software by far. And if you want to learn more, check it out. Link in the description below: Burbex.com.
+You know what those other ID check guys do? They send it to a Mechanical Turk-like system for some human being to look at it—kind of like a bouncer. And bouncers are not very accurate. They're slow as hell, too. So there are billions of dollars worth of new transactions that can't exist now because Burbex, this software, exists, and it couldn't exist without it. Maybe one of your startups will be enabled by it. Burbex is great. They've built the best software by far. And if you want to learn more, check it out. Link in the description below: [Burbex.com](http://Burbex.com).
 
 Now, back to what we can learn from Jeff Bezos.
 
@@ -110,68 +92,3 @@ If you like this video, please be sure to click like, subscribe, and go to my Tw
 Let's make sure we can all find each other—find these builders. Let's make a community out here on YouTube and everywhere. We live in absolutely, truly astonishing times, and I'm super glad just to be able to share this story with you today.
 
 Have a great week, be well, and I'll see you next week.
-
-Up next from Garry Tan's Channel
-44:17
-Garry's Channel: Coinbase CEO Brian Armstrong on cryptocurrency and the future of decentralization
-224K views
-Over 1 year ago
-Related
-44:17
-Garry's Channel: Coinbase CEO Brian Armstrong on cryptocurrency and the future of decentralization
-224K views
-Over 1 year ago
-13:46
-Garry's Channel: 6 Skills for Successful Startup Founders
-175K views
-Over 1 year ago
-14:39
-Garry's Channel: How REAL movements start, then change the world
-142K views
-Over 1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

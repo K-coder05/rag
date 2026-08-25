@@ -3,38 +3,9 @@ title: One order of operations for starting a startup
 source: https://www.ycombinator.com/library/CP-one-order-of-operations-for-starting-a-startup
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-One order of operations for starting a startup
-One order of operations for starting a startup
-by Michael Seibel
-97K views
-Over 1 year ago
-Chapters
-0:00
-One Order of Operations for Starting a Startup
-1:00
-People aren’t taught how to find ideas
-2:40
-Find a particular problem that you’re passionate about
-6:15
-Find some friends and brainstorm a solution
-8:40
-Build an MVP
-11:15
-Two failed orders of operations for starting a startup
-
 ​
 
-Transcript
+## Transcript
 
 Michael Seibel: One order of operations for starting a startup. More often than not, when I talk to a talented technical person who's thinking about becoming a founder, their number one blocker is that they don't have an idea. At some point during their formative years, they learned that every great startup started with a great idea. And if the idea isn't amazing, usually as judged by peers, parents, or other people with little startup experience, the startup will fail.
 
@@ -133,62 +104,3 @@ Michael Seibel: Well, it's interesting because I think that a lot of people go i
 Host: Yeah, like, they're not actually in a better position.
 
 Michael Seibel: So it's like, yes, I think there are like one in a hundred, and I mention in the essay there are counter examples. There are people who do go from a contractor to a big company, but I would argue it's a harder path. And it's a path that's much more likely to lose you a lot of money—your own money, your own money taken.
-
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-How WeChat grew to be the #1 app in the world
-Anu Hariharan
-Here is a deep dive into the growth strategy that led to WeChat scaling to over a billion users.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,60 +3,17 @@ title: Andrej Karpathy: Software Is Changing (Again)
 source: https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-AI Startup School
-›
-Andrej Karpathy: Software Is Changing (Again)
-AI STARTUP SCHOOL
-Andrej Karpathy: Software Is Changing (Again)
-by Y Combinator
-2.5M views
-1 year ago
-Chapters
-0:00
-Intro
-1:25
-Software evolution: From 1.0 to 3.0
-4:40
-Programming in English: Rise of Software 3.0
-6:10
-LLMs as utilities, fabs, and operating systems
-11:04
-The new LLM OS and historical computing analogies
-14:39
-Psychology of LLMs: People spirits and cognitive quirks
-18:22
-Designing LLM apps with partial autonomy
-23:40
-The importance of human-AI collaboration loops
-26:00
-Lessons from Tesla Autopilot & autonomy sliders
-27:52
-The Iron Man analogy: Augmentation vs. agents
-29:06
-Vibe Coding: Everyone is now a programmer
-33:39
-Building for agents: Future-ready digital infrastructure
-38:14
-Summary: We’re in the 1960s of LLMs — time to build
+Andrej Karpathy's keynote at AI Startup School in San Francisco. Slides provided by Andrej can be found [here](https://drive.google.com/file/d/1a0h1mkwfmV2PlekxDN8isMrDA5evc4wW/view?usp=sharing).
 
-Andrej Karpathy's keynote at AI Startup School in San Francisco. Slides provided by Andrej can be found here.
+Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.
+He explores what this shift means for developers, users, and the design of software itself— that we're not just using new tools, but building a new kind of computer.
+Some of the links from his talk:
 
-Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest. He explores what this shift means for developers, users, and the design of software itself— that we're not just using new tools, but building a new kind of computer. Some of the links from his talk:
+* [Software 2.0 blog post from 2017](https://karpathy.medium.com/software-2-0-a64152b37c35)
+* [How LLMs flip the script on technology diffusion](https://karpathy.bearblog.dev/power-to-the-people/)
+* [Vibe coding MenuGen (retrospective)](https://karpathy.bearblog.dev/vibe-coding-menugen)
 
-Software 2.0 blog post from 2017
-How LLMs flip the script on technology diffusion
-Vibe coding MenuGen (retrospective)
-Transcript
+## Transcript
 
 Andrej Karpathy: Hello. Wow, a lot of people here. Hello. Um, okay. Yeah. So I'm excited to be here today to talk to you about software in the era of AI. And I'm told that many of you are students like bachelors, masters, PhD and so on. And you're about to enter the industry. And I think it's actually like an extremely unique and very interesting time to enter the industry right now. And I think fundamentally the reason for that is that um software is changing uh again. And I say again because I actually gave this talk already. Um but the problem is that software keeps changing. So I actually have a lot of material to create new talks and I think it's changing quite fundamentally. I think roughly speaking software has not changed much on such a fundamental level for 70 years. And then it's changed I think about twice quite rapidly in the last few years. And so there's just a huge amount of work to do a huge amount of software to write and rewrite. So let's take a look at maybe the realm of software. So if we kind of think of this as like the map of software this is a really cool tool called map of GitHub. Um this is kind of like all the software that's written. Uh these are instructions to the computer for carrying out tasks in the digital space. So if you zoom in here, these are all different kinds of repositories and this is all the code that has been written. And a few years ago I kind of observed that um software was kind of changing and there was kind of like a new type of software around and I called this software 2.0 at the time and the idea here was that software 1.0 is the code you write for the computer. Software 2.0 now are basically neural networks and in particular the weights of a neural network and you're not writing this code directly you are most you are more kind of like tuning the data sets and then you're running an optimizer to create to create the parameters of this neural net and I think like at the time neural nets were kind of seen as like just a different kind of classifier like a decision tree or something like that and so I think it was kind of like um I think this framing was a lot more appropriate and now actually what we have is kind of like an equivalent of GitHub in the realm of software 2.0 And I think the hugging face is basically equivalent of GitHub in software 2.0. And there's also model atlas and you can visualize all the code written there. In case you're curious, by the way, the giant circle, the point in the middle, uh these are the parameters of flux, the image generator. And so anytime someone tunes a on top of a flux model, you basically create a git commit uh in this space and uh you create a different kind of a image generator. So basically what we have is software 1.0 is the computer code that programs a computer. Software 2.0 are the weights which program neural networks. Uh and here's an example of AlexNet image recognizer neural network. Now so far all of the neural networks that we've been familiar with until recently where kind of like fixed function computers image to categories or something like that. And I think what's changed and I think is a quite fundamental change is that neural networks became programmable with large language models. And so I I see this as quite new, unique. It's a new kind of a computer and uh so in my mind it's uh worth giving it a new designation of software 3.0. And basically your prompts are now programs that program the LLM. And uh remarkably uh these uh prompts are written in English. So it's kind of a very interesting programming language. Um so maybe uh to summarize the difference if you're doing sentiment classification for example you can imagine writing some uh amount of Python to to basically do sentiment classification or you can train a neural net or you can prompt a large language model. Uh so here this is a few short prompt and you can imagine changing it and programming the computer in a slightly different way. So basically we have software 1.0 software 2.0 and I think we're seeing maybe you've seen a lot of GitHub code is not just like code anymore. there's a bunch of like English interspersed with code and so I think kind of there's a growing category of new kind of code. So not only is it a new programming paradigm, it's also remarkable to me that it's in our native language of English. And so when this blew my mind a few uh I guess years ago now I tweeted this and um I think it captured the attention of a lot of people and this is my currently pinned tweet uh is that remarkably we're now programming computers in English.
 
@@ -145,66 +102,3 @@ Andrej Karpathy: One more note I wanted to make is that it is absolutely possibl
 Andrej Karpathy: So in summary: what an amazing time to get into the industry. We need to rewrite a ton of code. A ton of code will be written by professionals and by coders. These LLMs are kind of like utilities, kind of like fabs, but they're kind of especially like operating systems. But it's so early. It's like the nineteen sixties of operating systems. And uh, and I think a lot of the analogies cross over. Um, and these LLMs are kind of like these fallible, you know, people spirits that we have to learn to work with. And in order to do that properly, we need to adjust our infrastructure towards it.
 
 Andrej Karpathy: So when you're building these LLM apps, I describe some of the ways of working effectively with these LLMs and some of the tools that make that kind of possible and how you can spin this loop very, very quickly and basically create partial autonomy products. And then, yeah, a lot of code has to also be written for the agents more directly. But in any case, going back to the Iron Man suit analogy, I think what we'll see over the next decade, roughly, is we're going to take the slider from left to right. And I'm very interested. It's going to be very interesting to see what that looks like. And I can't wait to build it with all of you. Thank you.
-
-Up next from AI Startup School
-49:41
-Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
-748K views
-1 year ago
-Related
-49:41
-Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful
-748K views
-1 year ago
-42:44
-Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware
-483K views
-1 year ago
-40:30
-Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs
-141K views
-1 year ago
-59:00
-How YC Was Created With Jessica Livingston
-28K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

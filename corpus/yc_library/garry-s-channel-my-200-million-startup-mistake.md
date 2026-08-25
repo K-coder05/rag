@@ -3,31 +3,13 @@ title: Garry's Channel: My $200 million startup mistake
 source: https://www.ycombinator.com/library/Jh-garry-s-channel-my-200-million-startup-mistake
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-Garry's Channel: My $200 million startup mistake
-Garry's Channel: My $200 million startup mistake
-by Garry Tan
-322K views
-Over 1 year ago
-
 I was 23 and didn't know anything about startups. Peter Thiel offered me a big equity stake and a full year's salary to quit my stable job at Microsoft and join a startup he was starting. It wasn't even a risky decision. I still said no, and it cost me $200M.
 
 When opportunity knocks, you should think about taking the risk. If you're good, it's often the only way you can actually get a larger piece of the kind of value you can create when making software. There are lots of good reasons to work at a big tech giant, but there are also downsides. We talk through those things.
 
 Don't make my mistake. Make all new mistakes.
 
-Transcript
+## Transcript
 
 Gary Tan: Working for Microsoft cost me two hundred million dollars. My name is Gary Tan. I'm a venture capitalist. I started off as an engineer, a designer, a product manager. If you're new to this channel, I'm here to teach you all the things that I learned the hard way, starting with the most painful lesson, which cost me two hundred million dollars.
 
@@ -54,68 +36,3 @@ Gary Tan: Obviously, there are lots of downsides. If you like to make something 
 Gary Tan: The two things I really like about working for smaller places or starting a company is you get very direct access to users and customers and their problems, which means you can actually have empathy for what's actually going on with them. And then you can directly solve it. That cycle is so powerful. The sooner you learn how to make that cycle happen in your career, the better off you'll be.
 
 Gary Tan: If you can make software and make software for other people, the outcome truly is hundreds of millions of dollars worth of value if you get it right. That's what I'm here to try and encourage you to do. I'm not really saying that you shouldn't go work at a big tech company. I am saying you should probably leave before it makes you soft. Don't make my mistake. Make all new mistakes.
-
-Up next from Garry Tan's Channel
-8:58
-Garry's Channel: Billion dollar startup ideas
-330K views
-Over 1 year ago
-Related
-8:58
-Garry's Channel: Billion dollar startup ideas
-330K views
-Over 1 year ago
-13:26
-Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.
-245K views
-Over 1 year ago
-7:40
-Garry Tan's tips for applying to YC
-130K views
-Over 1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

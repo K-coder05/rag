@@ -3,55 +3,11 @@ title: Dot Plots: How to Actually See What Your Users Are Doing
 source: https://www.ycombinator.com/library/Sn-dot-plots-how-to-actually-see-what-your-users-are-doing
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School
-›
-Dot Plots: How to Actually See What Your Users Are Doing
-STARTUP SCHOOL
-Dot Plots: How to Actually See What Your Users Are Doing
-by David Lieb
-27K views
-1 month ago
-Chapters
-0:00
-— Stop Looking at Aggregate Metrics
-0:52
-— Why DAUs Lie to You
-1:39
-— What is a Dot Plot and How Does it Work?
-2:50
-— Picking the Right Event to Track
-3:34
-— Reading Patterns in the Dots
-5:17
-— Tracking User State & Attributes
-6:16
-— The PayPal Fraud Insight
-7:59
-— Dot Plot vs. DAU Graph
-8:56
-— Finding Features That Drive Retention
-10:30
-— Scaling Dot Plots to Billions of Users
-11:13
-— The $80K Contract That Churned
-11:57
-— Common Dot Plot Mistakes
-12:41
-— Dot Plots + Cohort Curves
+Most founders obsess over dashboards and aggregate metrics, but some of the best product insights come from understanding how individual users actually use their product.
+In this episode of Startup School, YC's David Lieb walks through one of his favorite tools for better understanding your users, the dot plot. It's a simple two-dimensional grid that reveals usage patterns no aggregate chart can show you.
+He’ll cover why it gives founders a better sense of product health, what patterns to look for, and real-world examples of how dot plots helped teams at Google Photos and PayPal.
 
-Most founders obsess over dashboards and aggregate metrics, but some of the best product insights come from understanding how individual users actually use their product. In this episode of Startup School, YC's David Lieb walks through one of his favorite tools for better understanding your users, the dot plot. It's a simple two-dimensional grid that reveals usage patterns no aggregate chart can show you. He’ll cover why it gives founders a better sense of product health, what patterns to look for, and real-world examples of how dot plots helped teams at Google Photos and PayPal.
-
-Transcript
+## Transcript
 
 David Lieb (presenter): One of the biggest mistakes I see founders make is relying on aggregate user metrics instead of understanding how any individual users use their product. In my last video, I talked about cohort retention curves and how you can use those to separate groups of users and track what they do over time throughout using your products. And I think that's the best tool that you've got to figure out if people keep using your product. But what you don't know is how are they using your product? How are they interacting? What features are they using? What's the frequency of use? What's the the pacing of how they use the product? And most founders just like ignore this, but I think it's the most important signal to figure out if you've built something that people want. So you want to be able to look at what individual users are doing, but that's a lot. Right? If you even have like 10 or 20 users, it's pretty challenging to just tail the logs and watch every event that every user is doing. So with aggregate data, the graphs that we're all used to talking about, things like DAUs or MAUs, these lump all of your users together, and you can't really get a sense of what any individual user is doing. And if you have any amount of growth, those graphs tend to be going up and to the right, even if users aren't actually enjoying using your product. So today I want to tell you about a tool that we came to in my startup that allows you to understand what's going on with individual users while also giving you a big picture view of how your entire product is performing. And we call it the dot plot.
 
@@ -96,68 +52,3 @@ pretty bad events to choose because they don't really measure whether the user i
 So I would go so far as to say until you have hundreds of users, the dot plot could be your only dashboard. What's great about dot plots is they're just a logs visualization tool. There's no fancy computations happening here. You basically just need to parse your logs and put them into a 2D grid. This is a thing that modern AI coding tools can whip up in like 10 minutes.
 
 David Lieb (presenter): These are best used in conjunction with cohort retention curves. Cohort retention curves teach you in aggregate whether groups of users that you acquire stick with you over time. That's very important. You should definitely be measuring that. But the dot plot shows you how those users are actually using your product, and they give you the color to go ask the right questions of your users, to go build the right features, to fix things that are broken in your product that you would never learn by looking at aggregate metrics. So cohort retention curves and dot plots are, in my experience, two of the most important tools that you've got to understand your users. Good luck.
-
-Up next from Startup School
-10:28
-The Playbook For Building An AI Native Company
-294K views
-4 months ago
-Related
-28:12
-How startup fundraising works
-532K views
-Over 1 year ago
-19:33
-How David Lieb Turned a Failing Startup Into Google Photos
-355K views
-1 year ago
-10:28
-The Playbook For Building An AI Native Company
-294K views
-4 months ago
-28:13
-Tips for technical startup founders
-201K views
-Over 1 year ago
-34:39
-How To Build The Future: Aravind Srinivas
-141K views
-1 year ago
-56:31
-On starting and scaling one of the biggest iOS apps
-9,772 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

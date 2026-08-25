@@ -3,25 +3,9 @@ title: Managing startup finances
 source: https://www.ycombinator.com/library/8I-managing-startup-finances
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Managing startup finances
-Managing startup finances
-by Kirsty Nathoo
-304K views
-Over 1 year ago
-
 YC Partner and CFO Kirsty Nathoo shares the most common mistakes startups make with their finances and how they can prevent them.
 
-Transcript
+## Transcript
 
 Host: Morning everybody. Thank you for coming in at 9 o'clock. It's an early start. So as Kevin mentioned, my name is Kirsty Nathoo and I'm the CFO here at Y Combinator. So I've actually helped now 2,000 companies, almost, as they've come through Y Combinator. So I've seen a lot, seen a lot of successes and seen a lot of failures. So I'm going to help you just understand some of the big mistakes that we see some of these companies doing based on their cash, based on their money.
 
@@ -132,63 +116,3 @@ Kirsty Nathoo: So the question is, should you provide forecasts in your deck if 
 Kirsty Nathoo: Certainly, by the time you get to Series A, however, you should have some plans. But you know, the point of a Series A is that you've got product market fit and that you know—you know, you have more of an idea. I mean, forecasts are always forecasts. You don't know for sure. But yeah.
 
 Host: Okay, I think we are up. So thank you very much. I'm doing an AMA on Friday, so if there's questions didn't get to, then feel free to drop them in there, and I will answer as many as possible of those. Thank you.
-
-Related
-45:03
-Understanding SAFEs and priced equity rounds
-361K views
-Over 1 year ago
-35:46
-Dalton & Michael: Save your startup during an economic downturn
-162K views
-Over 1 year ago
-58:28
-How to Start a Startup: Startup mechanics
-104K views
-Over 1 year ago
-28:46
-Modern startup funding
-90K views
-Over 1 year ago
-57:45
-Startup legal mechanics
-83K views
-Over 1 year ago
-2:30
-Why do startups fail?
-27K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

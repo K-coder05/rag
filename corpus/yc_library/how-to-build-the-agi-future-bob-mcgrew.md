@@ -3,47 +3,11 @@ title: How To Build The AGI Future: Bob McGrew
 source: https://www.ycombinator.com/library/M6-how-to-build-the-agi-future-bob-mcgrew
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-How To Build The AGI Future: Bob McGrew
-HOW TO BUILD THE FUTURE
-How To Build The AGI Future: Bob McGrew
-by Garry Tan
-50K views
-1 year ago
-Chapters
-0:00
-Intro
-2:31
-Early OpenAI projects
-4:29
-GPT-1
-9:30
-Scaling laws
-14:08
-AGI levels
-18:01
-Startup Advice
-21:37
-Palantir And The Early Days
-25:07
-Future jobs
-
 According to OpenAI's former Chief Research Officer Bob McGrew, reasoning and test-time compute will unlock more reliable and capable AI agents— and a path to scale to AGI.
 
 In this episode of How to Build the Future, YC's @garrytan sits down with Bob to discuss the lessons learned from his time at OpenAI, scaling laws, his advice for startups, and what all of this means for the jobs of the future.
 
-Transcript
+## Transcript
 
 Host: If you ask people what AGI is, they would say it's a model that you can actually interact with, it passes the Turing test, it can look at things, it can write code, can even draw an image for you. Yeah, and like we've had this for years. And if you said, okay, well what happens when you get all those capabilities? Say, well, everybody's out of a job and Game Over for Humanity. And none of that is happening. I think in the big picture we're reaching that bottleneck for pre-training and data. But now we have this new mechanism with reasoning and test time compute. What we're going to see out of reasoning is that it's really going to unlock the possibility of agents to do actions on your behalf, which has sort of always been possible, but it's just never been quite good enough. And you really need a lot of reliability. I think that is now in sight.
 
@@ -152,68 +116,3 @@ Bob McGrew: You know, he was bringing in some pretty wild hard tech companies li
 Bob McGrew: Yeah, I mean, it's, you know, every whatever part of the stack is that isn't automated becomes the bottleneck. And so, you know, I think weirdly we're going to end up with, you know, automating the scientist, the innovator, before we automate, you know, the experiment doer. But then, you know, if that comes through, um, I think the potential for really fast scientific advance is totally there. I think we will find some other bottleneck. I think we're going to look back at this conversation and say we did all the things and science is only going like 30% faster than it was. Why isn't it 300 times faster? And we'll have to figure it out.
 
 Host: I mean, it'd be a great problem to have. Hopefully, that's going to be 30% is great, but 300%, that would be insane. Hey, room for thousands more startups—that sounds great. Bob, thank you so much for joining us. This is, I feel like I learn a lot every time I get to see you, so great to see you again. Thanks for coming on the channel. It's always fun to have these conversations with you, Gary.
-
-Up next from How To Build The Future
-43:28
-How To Build The Future: Parker Conrad
-61K views
-1 year ago
-Related
-46:52
-How To Build The Future: Sam Altman
-698K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-36:10
-Jessica Livingston on how to build the future
-119K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-43:28
-How To Build The Future: Parker Conrad
-61K views
-1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,73 +3,13 @@ title: The Finance Startup Bringing Agentic AI to Wall Street
 source: https://www.ycombinator.com/library/Mm-the-finance-startup-bringing-agentic-ai-to-wall-street
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-The Finance Startup Bringing Agentic AI to Wall Street
-FOUNDER FIRESIDES
-The Finance Startup Bringing Agentic AI to Wall Street
-by Y Combinator
-62K views
-1 year ago
-Chapters
-0:00
-Intro
-1:06
-What Is Model ML?
-2:10
-Early Success
-2:44
-What Companies Did Before Model ML
-3:24
-Model ML Origin Story
-4:53
-Their Customers
-5:15
-Automating Analyst Work
-6:51
-AI Model Evolution
-8:12
-Vision Model Breakthroughs
-10:49
-Sales Process
-12:44
-Lessons From Past Startups
-13:24
-Hiring Advice
-16:52
-The Power of Perseverance
-17:02
-Fat Llama Origins
-17:46
-Fancy Origins
-25:04
-Customer Obsession
-26:38
-Staying Customer-Centric
-33:46
-Advice to Builders
-39:38
-Why Do YC Multiple Times
-41:22
-AI in SF
-42:19
-Where to Build? Europe vs. SF
-
 Brothers Chaz and Arnie Englander started Model ML after building and selling two YC companies.
 
 What began as a tool to help them analyze deals has grown into a full AI-powered workspace purpose-built for financial services, empowering firms to create automations and workflows that reflect exactly how their teams operate. And it's already being used by 10% of the world's top investment banks and private equity firms to automate everything from client-ready PowerPoint decks to deep-dive research and due diligence.
 
 In this conversation with YC Partner Gustaf Alstromer, they discuss going from internal tool to production platform, the power of perseverance, and their ambition to build a billion-dollar company with just ten people.
 
-Transcript
+## Transcript
 
 Host: In the last seven days, we've signed the same number of contracts as we signed in the whole of Q4. There is clear tangible value being driven by these products, and it's only going to get better and quickly.
 
@@ -225,7 +165,7 @@ Chaz: That also is the best way we found to sell. Um, but you're also doing cust
 
 Anie: Yeah. I mean, you know, it's always a YC mantra. Why I think, you know, you got to speak and listen to customers and that's really what we try and do, you know, on a daily basis. You know, really figure out what are their pain points with using model ML, what does their day look like? And then think internally, you know, how can we then productize that and get that into their hands for them to try. Uh, and it's that constant iteration, right? We always say, you know, the quicker we can ship things, the quicker we can learn. Um, and really we want to try and stay as lean as possible. You know, we always have this theory. We want to be the maybe not the first, but, you know, one of the first, you know, 10 person billion dollar company. And it's just about staying so close to the customer uh, and in the details.
 
-Host: Y's next batch is now taking applications. Got a startup in you? Apply at y combinator.com/apply. It's never too early and filling out the app will level up your idea. Okay, back to the video. So, during YC, we have this um group office hour topic where we talk about the what motivates you to build a company. Um and it's mostly to surface sort of the motivations for founders and their co-founders.
+Host: Y's next batch is now taking applications. Got a startup in you? Apply at y [combinator.com/apply](http://combinator.com/apply). It's never too early and filling out the app will level up your idea. Okay, back to the video. So, during YC, we have this um group office hour topic where we talk about the what motivates you to build a company. Um and it's mostly to surface sort of the motivations for founders and their co-founders.
 
 Host: So, when things are really tough, you know why you're there. Do you guys remember what was your initial motivation when you started the the first two companies? than maybe what it is today.
 
@@ -342,49 +282,3 @@ Chaz: Well, I spend the bulk of my time in New York. An spends the bulk of his t
 Host: Awesome. Thank you so much for coming. It's great to see you guys.
 
 Chaz: Yeah, great to see you again. Thanks for having us.
-
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

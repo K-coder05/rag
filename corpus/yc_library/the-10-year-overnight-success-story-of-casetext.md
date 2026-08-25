@@ -3,45 +3,15 @@ title: The 10-Year “Overnight” Success Story of Casetext
 source: https://www.ycombinator.com/library/KJ-the-10-year-overnight-success-story-of-casetext
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-The Main Function
-›
-The 10-Year “Overnight” Success Story of Casetext
-MAIN FUNCTION
-The 10-Year “Overnight” Success Story of Casetext
-by Garry Tan
-39K views
-Over 1 year ago
-Chapters
-0:00
-Intro
-0:48
-Part 1
-3:09
-Part 2
-10:56
-Part 3
-17:14
-Outro
+[Casetext](https://www.ycombinator.com/companies/casetext) started out in 2013 as a crowdsourced law library — a sort of “Wikipedia meets reddit” for the law.
 
-Casetext started out in 2013 as a crowdsourced law library — a sort of “Wikipedia meets reddit” for the law.
-
-Ten years later, Casetext is one of the biggest mega wins to date in AI, capable of turning weeks of arduous legal work into hours or minutes. Just months ago it was acquired for $650 million dollars.
+Ten years later, Casetext is one of the biggest mega wins to date in AI, capable of turning *weeks* of arduous legal work into hours or minutes. Just months ago [it was acquired for $650 million dollars](https://techcrunch.com/2023/06/26/thomson-reuters-buys-casetext-an-ai-legal-tech-startup-for-650m-in-cash/).
 
 What happened between those two points?
 
 For this episode of Main Function, YC President Garry Tan sits down with Casetext co-founder Jake Heller to learn the real story of their 10-year “overnight” success: the 3 a.m. origin story, how the company evolved as fast as tech would allow, and the “magic demo” that helped turn Casetext into a rocket ship.
 
-Transcript
+## Transcript
 
 Host: This is Jake Heler. He's the co-founder of CaseText, which sold for $650 million earlier this year. It's one of the mega wins in AI, and today he's going to tell us how he did it and how he built something that reduces weeks of painstaking legal work down into just minutes. And why that turned into million dollar contracts for his startup. Large language models are creating ridiculous, huge opportunity, and today we're going to learn about Jake's story. Let's get started.
 
@@ -134,64 +104,3 @@ Jake Heler: I think the thing I'd like to pitch right now is it's never been a b
 Jake Heler: It's an underhyped moment. The more you dig deeper into this technology and what it can do and the kinds of problems it can solve for people, the more extreme amount of white space you'll likely see. And so I would recommend folks who are kind of sitting on the sidelines or playing around or hacking—I think now is the moment to really consider getting going. And I think you're going to be massively rewarded for working with this new technology and being on this ride.
 
 Host: CaseText is one of the biggest mega wins in AI. I am so proud to work with Jake early in his YC days, and I can't wait to see what his team does next. I can't wait to see what you do next too. That's it for this time. I'll see you next time.
-
-Up next from The Main Function
-12:07
-The Immigrant Journey Behind A Silicon Valley Success Story
-42K views
-Over 1 year ago
-Related
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-6:54
-The Main Function: How to go from startup dream to reality
-82K views
-Over 1 year ago
-12:07
-The Immigrant Journey Behind A Silicon Valley Success Story
-42K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

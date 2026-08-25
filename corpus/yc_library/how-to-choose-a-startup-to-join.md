@@ -3,27 +3,9 @@ title: How to choose a startup to join
 source: https://www.ycombinator.com/library/9t-how-to-choose-a-startup-to-join
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to Get a Job at a Startup
-›
-How to choose a startup to join
-How to choose a startup to join
-by Harj Taggar
-10K views
-Over 1 year ago
-
 Harj Taggar advises on choosing a startup to work at. Harj Taggar is a partner at YC and was the CEO and co-founder of Triplebyte.
 
-Transcript
+## Transcript
 
 Harj Taggar: Hey everyone, I'm Harj. I'm a partner at Y Combinator and I'm going to answer how do you choose a startup to work at.
 
@@ -54,71 +36,3 @@ Harj Taggar: So don't try and play that game. But what I would say is while not 
 Harj Taggar: So even though they want a lot of people using Airbnb in the early days, the people who did use Airbnb really loved it, and every great startup has that trade. So if you're thinking about joining a startup, I'd ask to talk to some of the users and see how much they love the product. And even if it's a small group, if the depth of their passion for the product and the startup is deep, that's a really, really good sign.
 
 Harj Taggar: So summing up, if you're thinking about joining a startup, base your decision on the founders, how much the current users love the product, and look for signs of growth.
-
-Up next from How to Get a Job at a Startup
-Advice for job seekers on resumes and reaching out
-Ryan Choi
-To help job seekers, YC's Ryan Choi spends a lot of time doing 1-1s and resume reviews. Here are his most common pieces of advice for those on the job search.
-Related
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-2:30
-Why do startups fail?
-27K views
-Over 1 year ago
-45:49
-Different startup stages and what they mean for you
-16K views
-Over 1 year ago
-117:06
-How to pick which startup to work at
-12K views
-Over 1 year ago
-Advice for job seekers on resumes and reaching out
-Ryan Choi
-To help job seekers, YC's Ryan Choi spends a lot of time doing 1-1s and resume reviews. Here are his most common pieces of advice for those on the job search.
-Convincing engineers to join your team
-Harj Taggar
-Once you've found an engineer you want to hire, the final step is presenting them an offer to join your team and convincing them to accept it. This is advice for increasing the percentage of the offers you make that are accepted.
-How to hire your first engineer
-Harj Taggar
-Here is advice for early stage startup founders who are hiring their first engineer.
-Startups for students
-Tamanna Khemani and Kat Mañalac
-The guide is informed by hundreds of hours of talks, blog posts and essays we've written for students who are interested in starting or working at startups. We talk about why (and why not) you should start a startup, what to do in college if you're interested in starting a company, and how to choose which startup to work for.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

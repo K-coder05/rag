@@ -3,27 +3,9 @@ title: Garry's Channel: How I turned $300k into $2 billion
 source: https://www.ycombinator.com/library/Jf-garry-s-channel-how-i-turned-300k-into-2-billion
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-Garry's Channel: How I turned $300k into $2 billion
-Garry's Channel: How I turned $300k into $2 billion
-by Garry Tan
-386K views
-Over 1 year ago
-
 Garry writes: “I was lucky enough to be the first investor in a company called Coinbase. Today they are a Cryptocurrency exchange worth billions that just went public. But when I met Brian, Bitcoin was $5 and Coinbase was just him. Here's the story behind my best investment yet.”
 
-Transcript
+## Transcript
 
 Speaker: Eight years ago I met a founder and invested three hundred thousand dollars into his company. Those shares are now worth over 2.4 billion dollars. That company was Coinbase, which investors have now valued at more than a hundred billion dollars. It's the best investment I've ever made.
 
@@ -66,68 +48,3 @@ Speaker: Finally, it's clear how powerful and useful it is for founders to be ab
 Speaker: In the end, I was incredibly lucky that I got that email, I got to meet Brian, and that I had the chance of funding this company. For that, I am so thankful. I'm also really thankful for all of you watching right now.
 
 Speaker: There are so many businesses that need to be created, and the reason why I'm putting these videos together is to help make that happen. I hope these videos are helpful to you, and I hope you'll take a moment to click subscribe and hit the bell icon to get notifications for whenever I post. Be well, and I'll see you next week.
-
-Up next from Garry Tan's Channel
-13:57
-Garry's Channel: LEARN, EARN or QUIT | My job/career advice
-371K views
-Over 1 year ago
-Related
-13:57
-Garry's Channel: LEARN, EARN or QUIT | My job/career advice
-371K views
-Over 1 year ago
-8:58
-Garry's Channel: Billion dollar startup ideas
-330K views
-Over 1 year ago
-5:34
-Garry's Channel: My $200 million startup mistake
-322K views
-Over 1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

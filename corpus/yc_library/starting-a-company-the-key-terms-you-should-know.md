@@ -3,47 +3,9 @@ title: Starting A Company? The Key Terms You Should Know
 source: https://www.ycombinator.com/library/Lk-starting-a-company-the-key-terms-you-should-know
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Starting A Company? The Key Terms You Should Know
-STARTUP SCHOOL
-Starting A Company? The Key Terms You Should Know
-by Dalton Caldwell
-105K views
-1 year ago
-Chapters
-0:00
-Intro
-0:30
-MVP
-1:05
-VCs and Angels
-3:20
-Profit and Burn
-5:31
-Seed and Series A, B, C...
-7:39
-PMF and Bootstrap
-10:26
-Convertible Note and Equity
-12:35
-TAM and Valuation
-15:16
-IPO and ARR
-17:40
-Outro
-
 Burn rate, MVP, TAM — if you’re interested in tech and startups, you probably hear terms like these regularly. But what do they really mean? In this episode of Startup School, Group Partner Dalton Caldwell breaks down some of the most common terminology that you’ll come across in the startup world.
 
-Transcript
+## Transcript
 
 Dalton Caldwell: Hi there, my name is Dalton. I'm a managing partner at Y Combinator, and I'd like to talk to you about some startup terminology today.
 
@@ -142,51 +104,3 @@ And so the important thing here, if you're going to use this term, is to underst
 So say it's a subscription to ChatGPT or something like that that renews monthly, you would more commonly see that revenue reported as MRR, monthly recurring revenue, versus ARR, which is more traditionally companies that bill once a year.
 
 All right, that was startup terminology with Dalton. I went through a number of terms you may have heard before, and I'll be sure to define more in the future. Thanks so much.
-
-Related
-40:21
-How to apply and succeed at Y Combinator
-228K views
-Over 1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-24:32
-Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
-98K views
-1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

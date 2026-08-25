@@ -3,28 +3,9 @@ title: Inside Claude Code With Its Creator Boris Cherny
 source: https://www.ycombinator.com/library/NJ-inside-claude-code-with-its-creator-boris-cherny
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Inside Claude Code With Its Creator Boris Cherny
-LIGHTCONE
-Inside Claude Code With Its Creator Boris Cherny
-by Y Combinator
-241K views
-6 months ago
-
 A very special guest on this episode of the Lightcone! Boris Cherny, the creator of Claude Code, sits down to share the incredible journey of developing one of the most transformative coding tools of the AI era.
 
-Transcript
+## Transcript
 
 Boris Cherny: At Anthropic, the way that we thought about it is we don't build for the model of today, we build for the model six months from now. That's actually like still my advice to to founders that are building on LLMs. Just try to think about like what is that frontier where the model is not very good at today? Because it's gonna get good at it. All of Claude Code has just been written and rewritten and rewritten and rewritten over and over and over. There is no part of Claude Code that was around six months ago. You try a thing, you give it to users, you talk to users, you learn, and then eventually you might end up at a good idea. Sometimes you don't. Are you also in the back of your mind thinking that maybe like in six months you won't need to prompt that explicitly? That the model will just be good enough to rare out on its own. Maybe in a month. No more need for a plan mode
 
@@ -60,7 +41,7 @@ Boris Cherny: What's your opinion? Is it is it too verbose right now? Oh I love
 
 Host: the verbosity because basically sometimes it just like goes off the deep end and I'm watching and then I can just read very quickly and it's like oh no no it's not that and then I escape and then just stop it and then it just like stops an entire bug farm like as it's happening. I mean that's usually when I didn't do plan mode properly.
 
-Boris Cherny: This is something that we probably change pretty often. Um, I remember early on, this is maybe six months ago, I tried to get rid of bash output just internally, just to like summarize it, because I was like, i i these giant long bash commands, I don't actually care. And then I gave it to anthropic employees for a day and everyone just revolted. I wanna see my dash. 'Cause it it actually is quite useful for You know, like uh for something like Git output, maybe it's not useful, but if you're running, you know, like Kubernetes jobs or something like this, you actually do wanna see it. We recently hit the hid the file reads and uh file searches. So you'll notice instead of saying, you know, like red foo.md, it'll said, you know, like red one file searched searched one pattern. And this is something I think we could not have shipped six months ago because the model just was not ready. It would have, you know, it still read the wrong thing pretty often. And as a user, you still had to be there and kind of catch it and debug it. But nowadays, I just noticed it's on the right track almost every time. And because it's using tools so much, it's actually a lot better just to summarize it. Um but then we shipped it. Uh we dog fooded it for like a month and then people on GitHub didn't like it. Uh so there was a big issue where people are like, no, like I want to see the details, and that was really great feedback. Um and so we added a new verbose mode. And so that's just like in slash config, you can enable verbose mode. And if you want to see all the file outputs, you can continue to do that. And then I posted on the issue and people still still didn't like it, which is again awesome because like my favorite thing in the world is just hearing people's feedback and hearing how they actually want to use it. Um and so we just like iterated more and more and more to get that really good and to make it the thing that people want.
+Boris Cherny: This is something that we probably change pretty often. Um, I remember early on, this is maybe six months ago, I tried to get rid of bash output just internally, just to like summarize it, because I was like, i i these giant long bash commands, I don't actually care. And then I gave it to anthropic employees for a day and everyone just revolted. I wanna see my dash. 'Cause it it actually is quite useful for You know, like uh for something like Git output, maybe it's not useful, but if you're running, you know, like Kubernetes jobs or something like this, you actually do wanna see it. We recently hit the hid the file reads and uh file searches. So you'll notice instead of saying, you know, like red [foo.md](http://foo.md), it'll said, you know, like red one file searched searched one pattern. And this is something I think we could not have shipped six months ago because the model just was not ready. It would have, you know, it still read the wrong thing pretty often. And as a user, you still had to be there and kind of catch it and debug it. But nowadays, I just noticed it's on the right track almost every time. And because it's using tools so much, it's actually a lot better just to summarize it. Um but then we shipped it. Uh we dog fooded it for like a month and then people on GitHub didn't like it. Uh so there was a big issue where people are like, no, like I want to see the details, and that was really great feedback. Um and so we added a new verbose mode. And so that's just like in slash config, you can enable verbose mode. And if you want to see all the file outputs, you can continue to do that. And then I posted on the issue and people still still didn't like it, which is again awesome because like my favorite thing in the world is just hearing people's feedback and hearing how they actually want to use it. Um and so we just like iterated more and more and more to get that really good and to make it the thing that people want.
 
 Host: I'm amazed like how much I enjoy b uh fixing bugs now. And then all you have to do is uh have really good logging and then even just say like, hey, check out that you know this particular object. It messed up in this way and it like searches the log, it figures everything out. It can like go into your you can make a production tunnel and it'll look at your production DB for you.
 
@@ -112,7 +93,7 @@ Host: What does it want to tweet about?
 
 Boris Cherny: Sometimes it'll just like respond to someone. 'Cause I always have like cowork running in the background and it's like it's the cowork quad that really loves to do that because it likes using a browser. That's funny. A a really common pattern is I ask Quad to build something, it'll look in the code base, uh it'll see some engineer touch something in the Git flame, and then it'll message that engineer on Slack. Um just like asking a clarifying question. And then once it gets an answer back, it'll keep going. What are some tips for founders now on how to build for the future? It sounds like everything is really changing. What are like some principles that we'll stay on and what will change? So I think some of these are pretty are pretty basic, but I think they're even more important now than they were before. Um so one example is late in demand. Like I mentioned it a thousand times. For me, it's just like the single biggest idea in product. It's a it's a thing that no one understands. It's a thing I certainly did not understand my first few startups. And and the idea is like people will only do a thing that they already do. You can't get people to do a new thing. If people are trying to do a thing and you make it easier, that's a good idea. But if if people are doing a thing and you try to make them do a different thing, they're not gonna do that. And so you just have to make the thing that they're trying to do easier. And I think quad is gonna get increasingly good at kind of figuring out these kind of product ideas for you just because it can look at feedback, it can look at debug logs, it can kind of figure this out. That's what you mean by plan mode was latent demand that people already like kind of had their Claude chat window open in the browser and were like talking to it to figure out like the spec and and what it should do. And now the like plan mode just became that, you just do it in Claude code. Yeah, yeah. That's it. Some sometimes what I'll do is I'll just walk around the office on on our floor and I'll just kind of stand behind people. Like I I'll say like hi, so it's not great. And then um I'll I'll just see kind of like how they're using quad code. Um and this is also just something I saw a lot. Um, but it also came up in GitHub issues, like people were talking about it. It seems like so you're surprised how far the terminal has gone and how far it's been pushed. Like, how far do you think it has left to go? Just given with this world of swore multiple agents, like do you think there's gonna be a new a need for a different UI on top of it? It's funny, if you asked me this a year ago, I would have said the terminal has like a three month lifespan and then we're gonna move on to the next thing. Um and you can see us experimenting with this, right? Cause uh quad code started in a terminal, but now it's in, you know, it's on web. You can like quad ash code. It's in the desktop app. You know, we've had that for, you know, like three months or six months or something, just in the code tab. Um it's in the iOS and Android apps, just like in the Code tab. It's in Slack, it's in GitHub, there's VS Code extensions, there's JetBrains extensions. So we're just like we're always experimenting with different form factors for this thing to figure out what's the next thing. I've been wrong so far about the lifespan of the CLI, so I'm probably not the person to forecast that What about like your advice to DevTools founders? Like someone's building a DevTool company today. Should they just like be building for engineers and humans, or should they be thinking more about like what Claude's gonna think and want and build for sort of like the agent? The way I would frame it is think about the thing that the model wants to do and figure out how do you make that easier. And uh that's something that we saw, you know, like when I first started hacking on Claude Code, I I realized like this thing just wants to use tools. It just wants to interact with the world. And how how do you how do you enable that? Well, the way you don't do it is you put it in a box and you're like, here's the API, here's how you interact with me, and here's how you interact with the world. The way you do it is you see what tools it wants to use, you see what it's trying to do, and you enable that the same way that you do for your users. And so like for if you're building a DevTools startup, I would think about like what is the problem you want to solve for the user? And then when you use when you apply the model to solving this problem, what is the thing the model wants to do? And then what is the technical and product solution that serves the weight and demand of both?
 
-Host: YC's next batch is now taking applications. Got a startup in you, apply at ycombinator.com slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video.
+Host: YC's next batch is now taking applications. Got a startup in you, apply at [ycombinator.com](http://ycombinator.com) slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video.
 
 Boris Cherny: Back in the day, more than ten years ago, you were a very heaver heavy user and you wrote a book about TypeScript, right? Before TypeScript was cool. This is when everyone was a deep in JavaScript. This is back in early twenty tens, right? Yeah, something like that. Before TypeScript was a thing because back then is a very weird language. It's not supposed to do a lot of things with being typed in JavaScript and now is the right thing. And it feels like Claude Code in the terminal has a lot of parallels with TypeScript at the beginning. TypeScript makes a lot of really weird language decisions. So i if you look at the type system, pretty much anything can be a literal type, for example. And this is like this is super weird. 'Cause like even like like Haskell doesn't even do this. It's just like it's too extreme. Or it has like conditional types, which I don't think any language thought of at all. It was like very strongly typed. Yeah, it was very strong with that. And and the the idea was like when, you know, like when Joe Palmer and Onders and the early team was like building this thing, the way they built it is that we okay, we have these teams with these big untyped JavaScript code bases. We have to get types in there. But we're not gonna get engineers to change that the the way that they could. You're not gonna get j JavaScript people to have like, you know, fifteen layers of class inheritance like you would a Java programmer. Right. They're gonna write code the way they're gonna write it. They're they're gonna use a reflection and they're gonna use mutation and they're gonna use all these features that traditionally are very, very difficult to type. They're a very unsafe type to any uh strong functional programmers really. That's right. That's right. That's right. And so the thing that they did, instead of getting people to kind of change the way that they code, they they built a type system around us. And it was just it's brilliant because there's all these ideas that no one was thinking about. Even in academia, like no one thought of a bunch of these ideas. It purely came out of the practice of observing people and seeing how JavaScript programmers want to write code. And so, you know, for for Claude Code, it there there are some ideas that are kind of similar in that, you know, like you can use it like a Unix utility. You can pipe into it, you can pipe out of it. Um, it in some ways it is kind of rigorous in this way, but in um in almost every other way, it's just the tool that we wanted. Like I I build a tool for myself and then the team builds the tool for themselves and then for anthropic employees and then for users. And it just ends up being really useful. It's not it's not this like principled and academic thing. Which I think the the proof is actually in the results now, fast forward more than fifteen years later. Not many code bases are in Haskell, which is more academic. And there's tons of them now in TypeScript because it's way more practical. Right. Which is interesting. Yeah, it is interesting, right? It's like TypeScript solves a problem. I guess one thing that's cool, I don't know how many people know, but the terminal is actually one of the most beautiful terminal apps out there and is actually written with React terminal. When I first started building it, you know, like I I did front end engineering for for a while. So and I was also like a d you know, I'm I'm sort of like a hybrid. Like I I do like design and user research and, you know, write code and all this stuff. And we we love hiring engineers that are like this. Um so we just we love generalists. So for me it's like, okay, I'm building a thing for the terminal. I'm actually kind of a shitty Vim user. So like how do I build a thing for people like me that, um, you know, are are gonna be working in a terminal? And I think just the divide is so important. And I feel like at YC this is something you talk about a lot, right? Is like build a thing that people love. If the product is useful but you don't fall in love with it, that's not great. Um so it kind of has to do both. Designing for the terminal, honestly, has been hard. Right. It's like a it's like eighty by a hundred characters or whatever. You have like two hundred fifty six covers, you have one font size, you don't have like mouse interactions. There's all this stuff you can't do. And th there's all these very hard trade offs. So like a little known thing, for example, is you can actually enable mouse interactions in a terminal. So you can enable like clicking and stuff.
 
@@ -145,66 +126,3 @@ Host: Boris, thank you so much for making something that uh is taking away all m
 Boris Cherny: Yeah. Thanks for having me. And uh sun bugs.
 
 Host: That sounds good.
-
-Up next from Lightcone Podcast
-46:00
-How To Get The Most Out Of Coding Agents
-127K views
-6 months ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-46:00
-How To Get The Most Out Of Coding Agents
-127K views
-6 months ago
-30:23
-What Surprised Us Most In 2025
-103K views
-8 months ago
-44:22
-What Founders Have To Unlearn To Become Great CEOs
-47K views
-8 months ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,53 +3,18 @@ title: Brand Design Tips From Linear Founder Karri Saarinen
 source: https://www.ycombinator.com/library/Mk-brand-design-tips-from-linear-founder-karri-saarinen
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design Review
-›
-Brand Design Tips From Linear Founder Karri Saarinen
-DESIGN REVIEW
-Brand Design Tips From Linear Founder Karri Saarinen
-by Aaron Epstein
-38K views
-1 year ago
-Chapters
-0:43
-Authenticity in Branding
-2:02
-The Initial Website for Linear
-2:57
-Importance of Clear Messaging
-3:49
-Be Specific and Focused
-7:55
-Brands and Design Evolve Over Time
-9:57
-Sprites AI Website Review
-15:09
-GigaML Website Review
-22:02
-UnReal Milk Website Review
-29:57
-Confident AI Website Review
-41:00
-Dropback Website Review
+For this episode of Design Review, YC’s Aaron Epstein is joined by Karri Saarinen, co-founder & CEO of Linear, one of the top designer-founders working today. Together, they'll review several sites from the YC community with an eye for how to build and maintain a high-quality brand.
+Thank you to these companies for volunteering to have their sites reviewed\*:
 
-For this episode of Design Review, YC’s Aaron Epstein is joined by Karri Saarinen, co-founder & CEO of Linear, one of the top designer-founders working today. Together, they'll review several sites from the YC community with an eye for how to build and maintain a high-quality brand. Thank you to these companies for volunteering to have their sites reviewed*:
+Sprites AI ([https://www.sprites.ai/)\](https://www.sprites.ai/)%5C)
+GigaML ([https://gigaml.com/)\](https://gigaml.com/)%5C)
+UnReal Milk ([https://www.unrealmilk.com/)\](https://www.unrealmilk.com/)%5C)
+Confident AI ([https://www.confident-ai.com/)\](https://www.confident-ai.com/)%5C)
+Dropback (<https://www.dropback.com/>)
 
-Sprites AI (https://www.sprites.ai/)\ GigaML (https://gigaml.com/)\ UnReal Milk (https://www.unrealmilk.com/)\ Confident AI (https://www.confident-ai.com/)\ Dropback (https://www.dropback.com/)
+\*Some of the featured websites may be updated between the time we film and publish
 
-*Some of the featured websites may be updated between the time we film and publish
-
-Transcript
+## Transcript
 
 Host: Building a website for your startup is easier than it's ever been. The hard part is creating a unique brand that really stands out. So today we'll be joined by Karri Saarinen, co-founder and CEO of Linear to review your websites with an eye for what makes a memorable brand. Welcome to another episode of Design Review.
 
@@ -173,7 +138,7 @@ Karri Saarinen: And so I think there is some benefit of adding things on the web
 
 Host: Awesome. Thank you, Giga ML.
 
-Host: YC's next batch is now taking applications. Got a startup in you? Apply at ycombinator.com/apply. It's never too early and filling out the app will level up your idea. Okay, back to the video.
+Host: YC's next batch is now taking applications. Got a startup in you? Apply at [ycombinator.com/apply](http://ycombinator.com/apply). It's never too early and filling out the app will level up your idea. Okay, back to the video.
 
 Host: Okay, next up we have Unreal Milk. So this one seems very opinionated. We've got um a cow that's chilling on a chair on my forever vacation. Um, we got some hand-drawn clouds in the sky. It's interesting when I look at the cow, it's not immediately obvious what it's communicating, but when I think about it for a second, I'm like, "Okay, so the cow doesn't have to produce the milk all day every day." And so we have milk that is not real milk, which is what the product is here, I'm assuming.
 
@@ -346,63 +311,3 @@ Host: Yeah, seems like these just link further down the page and take you down t
 Karri Saarinen: Yeah, thanks. That was fun.
 
 Host: And we will see you on another episode of Design Review.
-
-Up next from Design Review
-20:44
-Why Every Founder Should Care About Design
-55K views
-1 year ago
-Related
-36:28
-Design Experts Critique AI Interfaces
-173K views
-1 year ago
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-93K views
-1 year ago
-33:38
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-61K views
-1 year ago
-20:44
-Why Every Founder Should Care About Design
-55K views
-1 year ago
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

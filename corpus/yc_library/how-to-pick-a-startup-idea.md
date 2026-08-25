@@ -3,49 +3,11 @@ title: How To Pick A Startup Idea
 source: https://www.ycombinator.com/library/Ri-how-to-pick-a-startup-idea
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School
-›
-How To Pick A Startup Idea
-STARTUP SCHOOL
-How To Pick A Startup Idea
-by Jon Xu
-137K views
-2 months ago
-Chapters
-0:00
-— Intro
-0:59
-— The "Perfect Idea" trap
-2:42
-— Why working on multiple ideas fails
-3:21
-— How to actually go deep
-4:51
-— Could you run your customer's business?
-6:18
-— Build at the edge of what AI can do
-8:37
-— Aim at the most ambitious version
-9:33
-— What happens when the idea fails
-10:27
-— Walk fast in one direction
-
 Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract. The only way to find what works is to pick one, go deep, and get feedback from real customers.
 
 In this episode of Startup School, YC General Partner Jon Xu breaks down how to choose what to build, "burn the other boats," and go deep enough to practically run your customer's business— and why that depth is what surfaces the better idea underneath.
 
-Transcript
+## Transcript
 
 Jon Xu (presenter): Hi, I'm John and I'm a partner at YC. I often meet founders who have lots of ideas about what to work on and can't decide between them. Sometimes they're working on multiple things. Often they'll say that they're waiting to find the best idea before fully committing. But it's extremely hard to make meaningful progress on a startup without committing to a single idea.
 
@@ -106,56 +68,3 @@ Just pick one. Then burn the other boats. Learn everything you can about the cus
 What actually works is to commit to one direction and walk fast. You're not guaranteed to end up in the right place, but you generate much more information per unit of time. And when you're walking, you might arrive at a better destination.
 
 One you couldn't have seen from the start. The worst failure mode isn't being wrong. It's not making a decision. Spinning your wheels, dabbling between ideas and never going deep enough on any one of them to learn anything. So pick one and go deep. Thanks for watching.
-
-Up next from Startup School
-13:47
-How to Get Your First 10 Customers
-103K views
-2 months ago
-Related
-23:07
-Enterprise Sales for Founders
-203K views
-Over 1 year ago
-13:47
-How to Get Your First 10 Customers
-103K views
-2 months ago
-13:50
-Dot Plots: How to Actually See What Your Users Are Doing
-27K views
-1 month ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

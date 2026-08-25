@@ -3,29 +3,11 @@ title: Sam Altman on how to pick which startup to work at
 source: https://www.ycombinator.com/library/K0-sam-altman-on-how-to-pick-which-startup-to-work-at
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to Get a Job at a Startup
-›
-Sam Altman on how to pick which startup to work at
-Sam Altman on how to pick which startup to work at
-by Sam Altman
-2,733 views
-Over 1 year ago
-
 How do you pick the right startup to work for? If you’re lucky enough to have multiple options, how can you make sure you’re making the right decisions?
 
 In this talk from 2018, Sam Altman (then president of Y Combinator, now CEO of OpenAI) shares his thoughts on when to take risks in your career, how to best use your time, and some of the unintuitive things he’s learned along the way.
 
-Transcript
+## Transcript
 
 Sam Altman: So I want to talk about how to pick which startup to work at. Um, the most important considerations—you all already know—um, picking a company you're excited about, people you're excited about, a role you're excited about. That's more important than the rest of the stuff I have to say, but that's also intuitive. And so I'm going to talk about the things that are not intuitive, or at least haven't been for me.
 
@@ -88,74 +70,3 @@ Sam Altman: So finding people who can give you good advice about what startup to
 Sam Altman: We try to get YC startups to be more generous with equity. And I think over time it's trending in that direction. But like, remember, startups need really talented people. Startups need people they could otherwise go work at Google and make a gigantic salary. And I think you should demand to be treated fairly for that.
 
 Sam Altman: Um, that's my—that was supposed to be five minutes, but there's the twenty-five second version. Um, all right. Thank you very much. We are going to start with company presentations now. Uh, and thanks for coming today.
-
-Up next from How to Get a Job at a Startup
-YC Startup Job Guide
-Paige Omura
-We put together this guide to help job seekers find the startups that are most interesting, ask the right questions before joining, and increase their chances of landing their dream job.
-Related
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-15:33
-Why you should or should not work at a startup
-135K views
-Over 1 year ago
-117:06
-How to pick which startup to work at
-12K views
-Over 1 year ago
-4:58
-How to choose a startup to join
-10K views
-Over 1 year ago
-YC Startup Job Guide
-Paige Omura
-We put together this guide to help job seekers find the startups that are most interesting, ask the right questions before joining, and increase their chances of landing their dream job.
-Before growing your startup
-Sam Altman
-Startups are defined by growth, but growth isn't step one in building a great company. If you focus on trying to grow before you make a product people love, you are unlikely to succeed.
-Later stage advice for startups
-Sam Altman
-There are many common issues founders face in the later stages of their startups. Here's a condensed list of what they are and how to get ahead of them sooner than later.
-Advice for job seekers on resumes and reaching out
-Ryan Choi
-To help job seekers, YC's Ryan Choi spends a lot of time doing 1-1s and resume reviews. Here are his most common pieces of advice for those on the job search.
-Startups for students
-Tamanna Khemani and Kat Mañalac
-The guide is informed by hundreds of hours of talks, blog posts and essays we've written for students who are interested in starting or working at startups. We talk about why (and why not) you should start a startup, what to do in college if you're interested in starting a company, and how to choose which startup to work for.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

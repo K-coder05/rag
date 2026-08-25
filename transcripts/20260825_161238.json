@@ -1,0 +1,27 @@
+{
+  "query": "How do I configure an Nginx reverse proxy with SSL termination on Ubuntu 22.04?",
+  "category": "out-of-scope",
+  "chunks": [
+    {
+      "ID": "9f8515543a46ceccf8b96b6586ce1f420c9c8a486e9bc1e7457730ddb7185c2c",
+      "score": 0.599395812,
+      "text": "That's all we have time for today. We'll see you guys next time.",
+      "source": "corpus\\yc_library\\are-we-in-an-ai-hype-cycle.md"
+    },
+    {
+      "ID": "ecf50c6e37bd80c86bd665de801fd8e71a9466a2ca702160c66552f8f116d371",
+      "score": 0.587387085,
+      "text": "k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)",
+      "source": "corpus\\yc_library\\the-yc-effect.md"
+    },
+    {
+      "ID": "23df394a56860de8224d128d5a15af6b39b5f3eff985295c423a0bb8d5a48cab",
+      "score": 0.587387085,
+      "text": "k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)",
+      "source": "corpus\\yc_library\\on-starting-a-company-from-a-hackathon-project.md"
+    }
+  ],
+  "retrieval_time": 0.3527752999943914,
+  "generation_time": 3.4570223999908194,
+  "response": "I appreciate the question, but I need to be honest with you: **I cannot provide a relevant answer based on the source corpus provided**.\n\nThe sources you've given me are from Y Combinator's startup library and cover topics like:\n- AI hype cycles\n- The YC effect\n- Starting companies from hackathon projects\n\nNone of these sources contain information about **Nginx reverse proxy configuration, SSL termination, or Ubuntu system administration**.\n\n**To properly answer your question about configuring Nginx with SSL termination on Ubuntu 22.04**, you would need technical documentation sources such as:\n- Official Nginx documentation\n- Ubuntu server administration guides\n- SSL/TLS configuration tutorials\n- System administration resources\n\n**My recommendation**: If you're looking for startup advice, I'm happy to help with the YC sources provided. But for technical infrastructure questions like this one, you'll want to consult dedicated technical documentation or resources like the official Nginx documentation, DigitalOcean tutorials, or Ubuntu's official guides.\n\nIs there a startup-related question I can help you with instead, or would you like guidance on where to find proper technical resources for your Nginx question?"
+}

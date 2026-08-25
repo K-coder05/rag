@@ -3,47 +3,9 @@ title: Does Your Startup Website Pass The First Impression Test?
 source: https://www.ycombinator.com/library/L3-does-your-startup-website-pass-the-first-impression-test
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design Review
-›
-Does Your Startup Website Pass The First Impression Test?
-DESIGN REVIEW
-Does Your Startup Website Pass The First Impression Test?
-by Aaron Epstein
-54K views
-Over 1 year ago
-Chapters
-0:00
-Coming Up
-1:04
-Artisan AI
-2:52
-Bottomless
-6:07
-Cloudthread
-9:21
-Integrated Reasoning
-12:27
-Kapacity
-14:21
-Rollstack
-17:30
-Ampstem
-19:12
-Bert Labs
-
 When someone visits your website you only have a few seconds to convince them it’s worth their time. So how do you do that? In this episode of Design Review, Aaron Epstein is joined by Zack Onisko, the former CEO of Dribbble, to review user submitted websites in under 10 seconds and give their first impression feedback. They’ll provide expert advice on how to leverage animation, improve UI and design the most effective messaging for potential customers.
 
-Transcript
+## Transcript
 
 Host: When someone clicks over to your website, this is how long you have to make a great first impression. What's your takeaway? What do you remember from that?
 
@@ -71,7 +33,7 @@ Host: I think that's a great point because actually you look above the fold here
 
 Zach Aniso: Yep. But this one's like super clean and really just kill all that and just make this the, yeah, the hero. And there's a bunch of different call to actions here too, which I think sometimes when people are designing websites, they're like, let's put a bunch on here because certainly we'll get the user with one of them. But instead, what happens is you end up kind of creating the paradox of choice a lot of times where people just don't click on any of them.
 
-Host: Totally. Okay, next up we have Bottomless. Your dog food, peanut butter, tea, always in stock, repeat to deliveries at the perfect time based on your great domain right, bottom.com. Oh yeah, not even. Okay, we got a few seconds. What's the takeaway? What do you remember?
+Host: Totally. Okay, next up we have Bottomless. Your dog food, peanut butter, tea, always in stock, repeat to deliveries at the perfect time based on your great domain right, [bottom.com](http://bottom.com). Oh yeah, not even. Okay, we got a few seconds. What's the takeaway? What do you remember?
 
 Zach Aniso: It was pretty, yeah, it was clean. Packaging, yeah, I saw physical products there right? I was very focused on the URL and then you took it away before I saw what it does. But it was like protein for dogs or something, peanut butter for dogs, I think.
 
@@ -174,67 +136,3 @@ Zach Aniso: And then in the context of only having a few seconds, yeah, you know
 Host: All right, that does it for this episode. Zach, thank you for joining us.
 
 Zach Aniso: Thanks for having me. Yeah, it's great to do this with you. And thank you to all the founders that volunteered their websites for review. Really appreciate it. So if you have any feedback for us, any other topics you'd like to see us cover in a future episode, go ahead and drop it in the comments down below. We love reading your feedback. And until then, we'll see you on the next Design Review.
-
-Up next from Design Review
-23:18
-Five DevTool Startups Get Their Websites Reviewed
-38K views
-Over 1 year ago
-Related
-24:03
-Building a better mobile app
-132K views
-Over 1 year ago
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-93K views
-1 year ago
-33:38
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-61K views
-1 year ago
-23:50
-How to convert more visitors into customers
-46K views
-Over 1 year ago
-23:18
-Five DevTool Startups Get Their Websites Reviewed
-38K views
-Over 1 year ago
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -1,0 +1,27 @@
+{
+  "query": "Why does Paul Graham advise against starting a company with a single founder?",
+  "category": "easy",
+  "chunks": [
+    {
+      "ID": "63c8d1254c390937a40542312d7d98c8f02d8e7167558ca33d1c9ce9dbe83308",
+      "score": 0.773636,
+      "text": "Have you ever noticed how few successful startups were founded by just one person? Even companies you think of as having one founder, like Oracle, usually turn out to have more. It seems unlikely this is a coincidence.\nWhat's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of his friends into starting the company with him. That's pretty alarming, because his friends are the ones who know him best.\nBut even if the founder's friends were all wrong and the company is a good bet, he's still at a disadvantage. Starting a startup is too hard for one person. Even if you could do all the work yourself, you need colleagues to brainstorm with, to talk you out of stupid decisions, and to cheer you up when things go wrong.",
+      "source": "corpus\\yc_library\\the-18-mistakes-that-kill-startups.md"
+    },
+    {
+      "ID": "8e5add25408c65bcca54fcf6d95af4b9a9877099a2c99b2908d52fe71f66154a",
+      "score": 0.762657285,
+      "text": "of no confidence. It probably means the founder couldn't talk any\nof his friends into starting the company with him. That's pretty\nalarming, because his friends are the ones who know him best.  \nBut even if the founder's friends were all wrong and the company\nis a good bet, he's still at a disadvantage. Starting a startup\nis too hard for one person. Even if you could do all the work\nyourself, you need colleagues to brainstorm with, to talk you out\nof stupid decisions, and to cheer you up when things go wrong.  \nThe last one might be the most important. The low points in a\nstartup are so low that few could bear them alone. When you have\nmultiple founders, esprit de corps binds them together in a way\nthat seems to violate conservation laws. Each thinks \"I can't let\nmy friends down.\" This is one of the most powerful forces in human\nnature, and it's missing when there's just one founder.  \n**2. Bad Location**  \nStartups prosper in some places and not others. Silicon Valley",
+      "source": "corpus\\pg_essays\\the-18-mistakes-that-kill-startups.md"
+    },
+    {
+      "ID": "7cfe1f3b93c43e307438352d82a6adc34d047c090d60ba0ba3c03b123f8427ba",
+      "score": 0.753791809,
+      "text": "The last one might be the most important. The low points in a startup are so low that few could bear them alone. When you have multiple founders, esprit de corps binds them together in a way that seems to violate conservation laws. Each thinks \"I can't let my friends down.\" This is one of the most powerful forces in human nature, and it's missing when there's just one founder.",
+      "source": "corpus\\yc_library\\the-18-mistakes-that-kill-startups.md"
+    }
+  ],
+  "retrieval_time": 0.34161540000059176,
+  "generation_time": 3.3850443999981508,
+  "response": "# Why Paul Graham Advises Against Single Founders\n\nBased on Paul Graham's research, here are the key reasons he discourages starting a company with a single founder:\n\n## 1. **A Vote of No Confidence**\nGraham argues that a single founder is \"a vote of no confidence\" because it suggests the founder couldn't convince even their closest friends to join them. Since \"his friends are the ones who know him best,\" their reluctance is a significant warning sign about the viability of both the founder and the idea.\n\n## 2. **The Work is Too Hard for One Person**\nEven if a single founder has the technical capability to do all the work themselves, startups require more than individual effort. Specifically, founders need:\n- **Colleagues to brainstorm with** - to generate ideas and solve problems collaboratively\n- **People to challenge bad decisions** - to talk them out of mistakes\n- **Emotional support** - to keep morale up when things go wrong\n\n## 3. **The Psychological Toll**\nPerhaps most importantly, Graham emphasizes that \"the low points in a startup are so low that few could bear them alone.\" Multiple founders create **esprit de corps**\u2014a powerful bonding force where each founder thinks \"I can't let my friends down.\" This mutual accountability and emotional support is \"one of the most powerful forces in human nature\" and is entirely absent with a single founder.\n\nIn summary, Graham's advice against single founders rests on both practical concerns (decision-making, workload) and psychological realities (emotional resilience during difficult periods)."
+}

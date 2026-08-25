@@ -3,28 +3,9 @@ title: How YC Was Created With Jessica Livingston
 source: https://www.ycombinator.com/library/LX-how-yc-was-created-with-jessica-livingston
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-How YC Was Created With Jessica Livingston
-LIGHTCONE
-How YC Was Created With Jessica Livingston
-by Y Combinator
-28K views
-1 year ago
-
 Familiar with the lore of Y Combinator? Then you'll know Jessica Livingston - one of the original co-founders who started YC back in 2005. On a recent visit to our SF headquarters she shared with the Lightcone hosts the stories and decisions of the early days that would form the foundations of YC as we know it today.
 
-Transcript
+## Transcript
 
 Jessica Livingston: That first batch, which was kind of magical in terms of the group of people and the outcomes—what did it feel like?
 
@@ -288,7 +269,7 @@ Jessica Livingston: Yeah.
 
 Host: And so I think it'd be super interesting for everyone to hear what you've learned from getting to know all of these founders. Gosh, what are your takeaways?
 
-Jessica Livingston: Oh, that's such a heavy question. A narrow thing I'm interested in is just, if you think of some of the now really successful founders that you met when they were teenagers essentially, what changed about them as they became really successful and what stayed the same? I'll do the narrow first and then I'll go, it'll work up to going broad. So obviously I've met a lot of uh, founders—YC founders and non-YC founders who we'd invite as speakers or that I interviewed at Founders at Work—like, for example, Evan Williams was in Founders at Work talking about Blogger.com. I mean, this was even before Twitter was a twinkle in his eye. So I did know a lot of founders back in the day. They were all very smart, very curious, very independent-minded. I mean, I just can't reiterate that enough: how you cannot be conventional-minded to start a startup with a brand new idea. Um, because you're going against the norm and you're going against people saying, "Well, I don't think that that's a really good idea." Um, they're all very determined. Um, they're all like willing to um, hustle if they need to get something, even if other people say no, that's not going to work. Um, so that was always the same. But as they get more successful, I think they become more confident. And I'm not saying like these founders were like basket cases insecure basket cases before, but they weren't confident. They're, you know, teenagers in some cases. Um, but they had a certain level of confidence in what they were doing. Do you know what I mean? And that's different from being confident in the world. But they felt like, "I'm building this thing that is good, and here's why I think it needs to exist." You know, they had that kind of level of confidence. But then as they get much more successful, I don't think they change that much. I mean, maybe their lifestyle changes, certainly, but I think that they're true to themselves. I think because it's all about the idea. Um, and I, I think you get, like, let's just say movie stars in Hollywood, I bet they change a lot as they get more successful. But I feel like startup founders, some of them are celebrity levels. Um, and some do change, you know, in their outlook. But I think a lot don't change that fundamentally. Um, just that they have more confidence, they have a lot more people who are saying yes to them. Uh, for sure. It's harder to get what you need and get, you know, meet people and things when no one knows who you are. And as you were saying, you sort of get written off because you don't have the um, the pedigree. Um, but they don't change. I don't think that much.
+Jessica Livingston: Oh, that's such a heavy question. A narrow thing I'm interested in is just, if you think of some of the now really successful founders that you met when they were teenagers essentially, what changed about them as they became really successful and what stayed the same? I'll do the narrow first and then I'll go, it'll work up to going broad. So obviously I've met a lot of uh, founders—YC founders and non-YC founders who we'd invite as speakers or that I interviewed at Founders at Work—like, for example, Evan Williams was in Founders at Work talking about [Blogger.com](http://Blogger.com). I mean, this was even before Twitter was a twinkle in his eye. So I did know a lot of founders back in the day. They were all very smart, very curious, very independent-minded. I mean, I just can't reiterate that enough: how you cannot be conventional-minded to start a startup with a brand new idea. Um, because you're going against the norm and you're going against people saying, "Well, I don't think that that's a really good idea." Um, they're all very determined. Um, they're all like willing to um, hustle if they need to get something, even if other people say no, that's not going to work. Um, so that was always the same. But as they get more successful, I think they become more confident. And I'm not saying like these founders were like basket cases insecure basket cases before, but they weren't confident. They're, you know, teenagers in some cases. Um, but they had a certain level of confidence in what they were doing. Do you know what I mean? And that's different from being confident in the world. But they felt like, "I'm building this thing that is good, and here's why I think it needs to exist." You know, they had that kind of level of confidence. But then as they get much more successful, I don't think they change that much. I mean, maybe their lifestyle changes, certainly, but I think that they're true to themselves. I think because it's all about the idea. Um, and I, I think you get, like, let's just say movie stars in Hollywood, I bet they change a lot as they get more successful. But I feel like startup founders, some of them are celebrity levels. Um, and some do change, you know, in their outlook. But I think a lot don't change that fundamentally. Um, just that they have more confidence, they have a lot more people who are saying yes to them. Uh, for sure. It's harder to get what you need and get, you know, meet people and things when no one knows who you are. And as you were saying, you sort of get written off because you don't have the um, the pedigree. Um, but they don't change. I don't think that much.
 
 Host: Could you tell uh, early on, uh, some stories of these very successful founders now? What, what do you see in them when they were in early stages? Yeah, you, you, you knew Sam Altman, the founders of Reddit, the founders of Stripe when they were teenagers?
 
@@ -311,66 +292,3 @@ Host: Thanks so much for coming.
 Jessica Livingston: Yeah, thanks, thanks.
 
 Host: You guys, so if you like this, go check out her podcast with Caroline Levy called the Social Radars, and we'll see you next time. It's really good. Check it out.
-
-Up next from Lightcone Podcast
-37:36
-Are We In An AI Hype Cycle?
-73K views
-Over 1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-38:24
-10 People + AI = Billion Dollar Company?
-216K views
-Over 1 year ago
-37:36
-Are We In An AI Hype Cycle?
-73K views
-Over 1 year ago
-48:44
-Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom
-67K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,41 +3,13 @@ title: 33 AI Startup Founders Debate the Creation of Artificial General Intellig
 source: https://www.ycombinator.com/library/KL-33-ai-startup-founders-debate-the-creation-of-artificial-general-intelligence
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Founder FAQ
-›
-33 AI Startup Founders Debate the Creation of Artificial General Intelligence
-FOUNDER FAQ
-33 AI Startup Founders Debate the Creation of Artificial General Intelligence
-by Y Combinator
-47K views
-Over 1 year ago
-Chapters
-0:00
-Intro
-0:15
-When will AGI become a Reality?
-4:12
-Impact of AGI on Society
-5:39
-Outro
-
 When will we see AI that can do nearly anything the human brain can do...and perhaps do it better?
 
 That milestone is often referred to as “Artificial General Intelligence”, or AGI.
 
-We asked 33 AI-focused YC founders: knowing what you know about AI today, when will we see AGI become a reality? Everything in the world of AI can change overnight (or over one particularly wild weekend) — with that in mind, here’s what they had to say.
+We asked 33 AI-focused YC founders: knowing what you know about AI today, **when will we see AGI become a reality?** Everything in the world of AI can change overnight (or over one particularly wild weekend) — with that in mind, here’s what they had to say.
 
-Transcript
+## Transcript
 
 Speaker: When do you think AGI will be created?
 
@@ -68,66 +40,3 @@ Speaker: I think it's like there's not a set way in which it will go. I think it
 Speaker: I'm a big fan of AI in the as the human in the driver's seat and and as a helper. Um, honestly, a lot of the ethics questions I think should come up when it gets to AGI. If we like picture a world where you know a AGI is like super prevalent, like ideally again, it's the work that it's doing is based on human values and there's proper governance so that those models can actually you know help people live more fruitful and connected lives.
 
 Speaker: AI already passes the Turing test. So I think there'll be a list of tasks where we'll keep, you know, asking ourselves, "Can AI do this as good or better than a human?" And when we can no longer think of things that humans can still do better than the AI, you know, when we really have to kind of like recommend, it's like, "Huh, what do humans do better?" I think that'll kind of be the moment, like in the collective consciousness, when it's crossed over. I'm not going to put a timeline on it, but I'm just excited to see where things go.
-
-Up next from Founder FAQ
-3:04
-Why YC? We asked 50 founders why they applied to Y Combinator
-21K views
-Over 1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-4:00
-Founder FAQ: How did you get your first customer?
-191K views
-Over 1 year ago
-7:05
-Founder FAQ: 40 AI startup founders on the current state of AI tech
-50K views
-Over 1 year ago
-3:04
-Why YC? We asked 50 founders why they applied to Y Combinator
-21K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

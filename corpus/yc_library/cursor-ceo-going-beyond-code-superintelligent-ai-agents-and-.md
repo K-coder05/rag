@@ -3,77 +3,11 @@ title: Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste S
 source: https://www.ycombinator.com/library/MU-cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
-HOW TO BUILD THE FUTURE
-Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
-by Garry Tan
-251K views
-1 year ago
-Chapters
-0:00
-Intro
-1:00
-A new way to build software
-2:00
-Cursor’s mission
-3:40
-The downside of vibe coding
-4:50
-Two ways to view LLMs
-5:50
-Bottlenecks to superhuman agents
-8:30
-New approaches to coding UI
-9:40
-Why taste still matters
-12:15
-Niche software opportunities
-13:30
-Cursor origin story
-16:00
-The first problem they tried solving
-17:20
-Why they abandoned the CAD idea
-21:00
-Pivoting to Cursor
-23:00
-Following the scaling laws
-24:30
-Early product decisions
-25:20
-The GitHub Copilot origin story
-27:00
-Getting to PMF
-30:00
-“Dogfooding”
-31:00
-First 10 hires
-32:50
-How to evaluate great engineers in age of AI
-33:45
-Maintaining the hacker mindset as you grow
-35:00
-What are the moats for AI coding tools?
-37:00
-Looking ahead
-
 Michael Truell, co-founder and CEO of Anysphere, the company behind Cursor, joins Garry to talk about building one of the fastest-growing startups of all time—and why he's betting on a future beyond code. He walks through the early insights that led his team to leave a promising AI-powered CAD project and instead chase a bigger dream: reinventing how software is written.
 
 From years of false starts and rewrites to Cursor's breakthrough moment, Michael explains what it takes to build a tool that could eventually replace programming as we know it. He also reflects on their first 10 hires, why taste still matters, and how the decade ahead will unlock a new kind of creativity for builders everywhere.
 
-Transcript
+## Transcript
 
 Host: For us, the end goal is to replace coding with something much better. I think that this is going to be a decade where just your ability to build will be so magnified. If you keep pushing the frontier faster than other people, you can get really big gains occurring to you. Building a company's hard and so you may as well work on the thing that you're really excited about. And so yeah, we set off to work on the future of code.
 
@@ -204,68 +138,3 @@ Host: Thanks for joining me today.
 Michael Tru: Thank you.
 
 Host: Thanks for having me.
-
-Up next from How To Build The Future
-38:24
-How Zepto Became India’s Fastest Growing Startup
-233K views
-1 year ago
-Related
-38:24
-How Zepto Became India’s Fastest Growing Startup
-233K views
-1 year ago
-31:33
-How To Build The Future: Tony Xu
-213K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-37:42
-The Future Of Design With Figma's Dylan Field
-65K views
-1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

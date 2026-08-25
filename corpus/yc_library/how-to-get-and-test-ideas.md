@@ -3,48 +3,11 @@ title: How to get and test ideas
 source: https://www.ycombinator.com/library/7x-how-to-get-and-test-ideas
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Good Ideas, Bad Ideas
-›
-How to get and test ideas
-How to get and test ideas
-by Michael Seibel
-360K views
-Over 1 year ago
-Chapters
-0:52
-Start with a Problem
-1:26
-Personal connection is helpful
-2:07
-Brainstorm with Friends
-2:38
-Once You've Found an Interesting Problem
-2:45
-Why Are You Uniquely Qualified to Work on This Problem?
-3:43
-Your MVP
-4:55
-Your Initial Users
-5:49
-In Conclusion
-6:00
-Outro
-
 Y Combinator Partner Michael Seibel on getting and testing startup ideas.
 
-Transcript
+## Transcript
 
-Michael Seibel: There's a common misconception that your idea has to be great in order to start a company, and the first thing I want to do is destroy that misconception. Personally, I was one of the cofounders of a company called Justin.tv. It later became a company called Twitch and sold to Amazon for almost a billion dollars. Our original idea was to create an online reality TV show. Clearly, it's hard to draw a line between that and creating a live video site where people watch video gamers and chat with their friends, but that's exactly what it became. And so don't fall into the trap of thinking that your initial idea has to be great by any definition.
+Michael Seibel: There's a common misconception that your idea has to be great in order to start a company, and the first thing I want to do is destroy that misconception. Personally, I was one of the cofounders of a company called [Justin.tv](http://Justin.tv). It later became a company called Twitch and sold to Amazon for almost a billion dollars. Our original idea was to create an online reality TV show. Clearly, it's hard to draw a line between that and creating a live video site where people watch video gamers and chat with their friends, but that's exactly what it became. And so don't fall into the trap of thinking that your initial idea has to be great by any definition.
 
 This is what you should think about instead. My first advice is to start with a problem. I think starting with ideas is tricky because immediately people want to grade your idea. It's a lot easier to start with a problem and to think about how do you grade a problem. When you think about a problem, you should be asking yourself: Do I have any relationship with this problem personally? Is this a problem that I have? Is it a problem that my friends have? Is it a problem that my family has? Is it a problem that exists through the work? Is it a problem that's in my community?
 
@@ -73,91 +36,3 @@ So your goal here with your MVP is not to see how many people want to use your p
 And so the best startups actually very heavily filter the people who are able to use the initial product and make sure that they're the right type of initial customer.
 
 So those are the steps that I would take from thinking about problems, of building the first version, apart to getting feedback on it. That's how I would think about this problem. Thank you.
-
-Up next from Good Ideas, Bad Ideas
-Why smart people have bad ideas
-Paul Graham
-You come up with a random idea, plunge into it, then at each point (a day, a week, a month) feel you've put so much time into it that this must be THE idea.
-Related
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-32:22
-How to get startup ideas
-1.5M views
-Over 1 year ago
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-20:57
-Dalton & Michael: Where do great startup ideas come from?
-218K views
-Over 1 year ago
-6:55
-User you don't want
-38K views
-Over 1 year ago
-Why smart people have bad ideas
-Paul Graham
-You come up with a random idea, plunge into it, then at each point (a day, a week, a month) feel you've put so much time into it that this must be THE idea.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-Convincing engineers to join your team
-Harj Taggar
-Once you've found an engineer you want to hire, the final step is presenting them an offer to join your team and convincing them to accept it. This is advice for increasing the percentage of the offers you make that are accepted.
-How to hire your first engineer
-Harj Taggar
-Here is advice for early stage startup founders who are hiring their first engineer.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

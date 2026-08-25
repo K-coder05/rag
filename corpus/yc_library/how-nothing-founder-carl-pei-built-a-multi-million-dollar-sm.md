@@ -3,51 +3,9 @@ title: How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Bran
 source: https://www.ycombinator.com/library/LO-how-nothing-founder-carl-pei-built-a-multi-million-dollar-smartphone-brand-in-just-2-years
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-The Main Function
-›
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-THE MAIN FUNCTION
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-by Garry Tan
-129K views
-Over 1 year ago
-Chapters
-0:00
-Coming Up
-0:36
-Carl's journey into tech
-2:47
-Starting OnePlus
-5:27
-How Nothing came to be
-7:07
-Building a new smartphone is hard
-10:07
-Why Nothing made earbuds first
-13:12
-Cultivating a cool brand
-14:22
-The right Tim Cook/Jony Ive ratio
-15:21
-Nothing's glyph interface
-17:09
-Carl's favorite designs
-19:38
-Advice for hard tech founders
-
 After co-founding the successful Chinese smartphone maker OnePlus, Carl Pei felt the tech industry was missing the fun and wonder he remembered as a dedicated gadget fan growing up in Sweden. Pei decided to launch a new smartphone brand, this time with an increased focus on thoughtful user interface and stylish yet practical designs. In only two years, the brand known as "Nothing" has gained a cult following and gone to $600 million in annualized revenue. On this episode of The Main Function, Pei reflects on the highs and lows that have come with the journey of pursuing excellence in hard tech.
 
-Transcript
+## Transcript
 
 Host: Today on the Main Function, we're hanging out with Carl Pei, the founder of Nothing. He built a smartphone company that launched two years ago, and in those two years they've gotten to $600 million in annualized revenue. So we're going to talk about that and a whole lot more. Let's get started. So why don't we start right at the top? For someone who runs a smartphone company, you're really young. Actually, what was your journey into tech and into, uh, making smartphones specifically?
 
@@ -188,68 +146,3 @@ Carl Pei: Yeah, I think there's no beating around the bush. It's going to be tou
 Host: Well, thanks for working on it. And if anything, I'm kind of surprised that there aren't more. You know, I think it's a testament to how hard it is to create what you've created. So thanks for joining us.
 
 Carl Pei: Thank you for having me. And hopefully, hope somebody watching this will create the next one, you know?
-
-Up next from The Main Function
-12:07
-Standing Up For Startups - YC Goes To D.C.
-17K views
-Over 1 year ago
-Related
-37:29
-Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
-251K views
-1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-17:29
-The 10-Year “Overnight” Success Story of Casetext
-39K views
-Over 1 year ago
-12:07
-Standing Up For Startups - YC Goes To D.C.
-17K views
-Over 1 year ago
-9:35
-How to Survive the Crypto Boom & Bust Cycle
-15K views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

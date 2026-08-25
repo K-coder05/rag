@@ -1,0 +1,27 @@
+{
+  "query": "Compare the dynamics of raising angel funding versus venture capital as described across the essays.",
+  "category": "hard",
+  "chunks": [
+    {
+      "ID": "4aaf32580dc0f25860aa94f950065f65bba3326bb45cc0df8895afb135b086a6",
+      "score": 0.760559082,
+      "text": "The difference between an angel and a VC is that angels are amateurs and VCs are pros. VCs invest other people\u2019s money and angels invest their own on their own terms. Although some angels are quite rigorous and act very much like the pros, for the most part they are much more like hobbyists. Their decision making process is usually much faster--they can make the call all on their own--and there is almost always a much larger component of emotion that goes into that decision.  \nVCs will usually require more time, more meetings, and will have multiple partners involved in the final decision. And remember, VCs see LOTS of deals and invest in very few, so you will have to stand out from a crowd.",
+      "source": "corpus\\yc_library\\a-guide-to-seed-fundraising.md"
+    },
+    {
+      "ID": "f62ecc14e6c4564f369a0f7df4b65c338f775ea0934ab2246626f968c1c717e7",
+      "score": 0.747970641,
+      "text": "decisive of whom sometimes decide in hours.  \nRaising an angel round is not only quicker, but you get feedback\nas it progresses. An angel round is not an all or nothing thing\nlike a series A. It's composed of multiple investors with varying\ndegrees of seriousness, ranging from the upstanding ones who commit\nunequivocally to the jerks who give you lines like \"come back to\nme to fill out the round.\" You usually start collecting money from\nthe most committed investors and work your way out toward the\nambivalent ones, whose interest increases as the round fills up.  \nBut at each point you know how you're doing. If investors turn\ncold you may have to raise less, but when investors in an angel\nround turn cold the process at least degrades gracefully, instead\nof blowing up in your face and leaving you with nothing, as happens\nif you get rejected by a VC fund after a full partner meeting.\nWhereas if investors seem hot, you can not only close the round",
+      "source": "corpus\\pg_essays\\the-new-funding-landscape.md"
+    },
+    {
+      "ID": "e8d91fabaf6b89491a82caf93d0195a329bbb0e7b0fd2ccb7c540e12c8b26e3a",
+      "score": 0.747764528,
+      "text": "Geoff Ralston: All right, I'm going to go through this pretty quickly. You guys probably know all this. There's angels and VCs. Angels are usually wealthy people that invest their own money. They usually invest for similar reasons to VCs, but they also invest because they're passionate about things. It's a different sort of conversation when you're talking to someone who's going to invest their own money and how they close and what their decision process is, then a VC\u2014sorry, then a VC\u2014who is a professional investing someone else's money, limited partners. So they have a very different approach, different process for closing.",
+      "source": "corpus\\yc_library\\fundraising-fundamentals-sus-2018.md"
+    }
+  ],
+  "retrieval_time": 0.7045564000000013,
+  "generation_time": 3.9602096999878995,
+  "response": "# Comparing Angel Funding vs. Venture Capital Dynamics\n\nBased on the essay corpus, here are the key dynamics that differentiate these two funding approaches:\n\n## Decision-Making Speed & Process\n\n**Angel Funding** is significantly faster and more streamlined. As described in *The New Funding Landscape*, angel investors \"sometimes decide in hours,\" and individual angels can \"make the call all on their own.\" In contrast, **VC funding** requires \"more time, more meetings, and will have multiple partners involved in the final decision,\" according to *A Guide to Seed Fundraising*.\n\n## Capital Source & Motivation\n\nThe fundamental difference lies in whose money is at stake. Per *Fundraising Fundamentals*, angels are \"wealthy people that invest their own money\" and often invest \"because they're passionate about things,\" while VCs are \"professionals investing someone else's money\" (limited partners' capital). This creates \"a very different approach, different process for closing.\"\n\n## Emotional vs. Analytical Components\n\n*A Guide to Seed Fundraising* notes that while some angels act rigorously like professionals, most operate \"much more like hobbyists\" with \"a much larger component of emotion\" in their decisions. VCs, by contrast, maintain a more systematic approach\u2014though they see many deals and invest in very few.\n\n## Round Structure & Risk Profile\n\nPerhaps most importantly, angel rounds degrade gracefully. *The New Funding Landscape* explains that angel rounds are \"not an all or nothing thing like a series A\"\u2014you get continuous feedback, can adjust targets downward, and avoid the catastrophic outcome of \"getting rejected by a VC fund after a full partner meeting.\""
+}

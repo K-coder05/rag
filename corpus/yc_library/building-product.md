@@ -3,56 +3,13 @@ title: Building product
 source: https://www.ycombinator.com/library/7s-building-product
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Building product
-Building product
-by Michael Seibel
-1.1M views
-Over 1 year ago
-Chapters
-0:00
-Introduction
-0:53
-What allowed us to survive?
-3:50
-What problem are you solving?
-10:11
-Who is your customer?
-18:39
-Does your MVP actually solve the problem?
-21:10
-Which customers should you go after first? (the easy ones!)
-25:46
-Should you discount or start with a super low price? (no!)
-27:58
-How to setup metrics
-32:02
-Product Development Cycle (v1)
-43:44
-Pivot vs Iterate
-46:09
-Fake vs Real Steve Jobs
-48:04
-Summary
-51:06
-Q&A
-
 YC Partner Michael Seibel outlines how successful startups think about building something people want.
 
-Transcript
+## Transcript
 
-Host: Without any further delay, I will introduce to you Michael Seibel, the CEO of Y Combinator, the founder of companies like Justin.tv and Twitch and Socialcam. To begin what is going to be a deep dive into product over the next several lectures, Michael.
+Host: Without any further delay, I will introduce to you Michael Seibel, the CEO of Y Combinator, the founder of companies like [Justin.tv](http://Justin.tv) and Twitch and Socialcam. To begin what is going to be a deep dive into product over the next several lectures, Michael.
 
-Michael Seibel: So before I begin, it's kind of had a conversation with Jeff and I, and I wanted to say a couple of things about my experience at Justin.tv and Twitch. So what I will say is that we broke many, if not all of the rules that are about to tell you at various points during our company. The things that allowed us to survive were one: our founding team was extremely technical. Justin, Emmett, and Kyle all were amazing to work with, and basically what I found amazing about them is they were not intimidated by any technical challenge. I think that I would not be standing here if I wasn't privileged to work with them. And so I think this is something that a lot of companies, a lot of startups, a lot of sort of founders don't truly understand. Like that fact allowed us to break a lot of rules.
+Michael Seibel: So before I begin, it's kind of had a conversation with Jeff and I, and I wanted to say a couple of things about my experience at [Justin.tv](http://Justin.tv) and Twitch. So what I will say is that we broke many, if not all of the rules that are about to tell you at various points during our company. The things that allowed us to survive were one: our founding team was extremely technical. Justin, Emmett, and Kyle all were amazing to work with, and basically what I found amazing about them is they were not intimidated by any technical challenge. I think that I would not be standing here if I wasn't privileged to work with them. And so I think this is something that a lot of companies, a lot of startups, a lot of sort of founders don't truly understand. Like that fact allowed us to break a lot of rules.
 
 The second is we didn't spend a lot of money. We moved out when we were 21, 22, 22, and 23. We lived in a two-bedroom apartment that apartment cost $2,500 a month. We were each given $500 a month walking around money, which technically is against the law because it was below minimum wage, but who cares about laws? And that was it. That was the game. Emmett got his own bedroom. Kyle and Justin slept in bunk beds. I slept in the living room and sometimes on the balcony. We just didn't spend much money. That gave us a lot of ability to screw up and make mistakes.
 
@@ -60,11 +17,11 @@ And then I say the last thing that was kind of interesting—I only realized lat
 
 So I think more than anything I want to say in the rest is presentation—those were the three things that saved our company, made our company work. And strangely, I don't even think if you take one of those things away, any one of them, we would have died. So this isn't one of those things where it's like, "Oh, you can grab for one or two and that's pretty good." We needed all three or else game over.
 
-So as I get into product, I'm gonna tell stories from Justin.tv, from really early days at which when I was still there, and then also from a YC company from a couple batches ago named Poppy. It's a company that I've advised since, so invested in, did YC. Great founder, name Abney. And weirdly, I just feel like I needed to do a case study outside of my own story somehow. It's gonna help share these lessons a little better.
+So as I get into product, I'm gonna tell stories from [Justin.tv](http://Justin.tv), from really early days at which when I was still there, and then also from a YC company from a couple batches ago named Poppy. It's a company that I've advised since, so invested in, did YC. Great founder, name Abney. And weirdly, I just feel like I needed to do a case study outside of my own story somehow. It's gonna help share these lessons a little better.
 
 So I always like to start with: what problem are you solving? Because when I'm pitched by founders, most often they just want to tell me what their idea is, what they're gonna do, what their product does. I think what's interesting is that, like, oftentimes they don't even know why. They don't know what's the problem that they expect to be solved at the end of what they're doing. Now, I think that for some businesses is totally fine, right? I think that, especially if you're early on, especially if things are still in project phase, whatever. But I think at some point, pretty early on, you have to figure out what are we doing and what do we expect the result to be?
 
-So at Justin.tv, the first thing—the problem we were solving was entertainment. We were making TV shows. Justin was the first one, broadcast his live 24/7. This was to be a TV show. So actually, pretty easy for us to understand whether that was working or not: is anyone watching? Right? That's the problem we were solving. People watch TV shows. No one was watching. So we didn't solve the problem. Then when we pivoted to an open platform, the problem became: can we let anyone broadcast live? But that was problems trying to solve. Anyone can broadcast live on the Internet. And once again, once we understood that, it was very easy for us to judge whether or not someone could do it. We had this open platform as anyone using it. But I think that, like, that was key to what we were doing.
+So at [Justin.tv](http://Justin.tv), the first thing—the problem we were solving was entertainment. We were making TV shows. Justin was the first one, broadcast his live 24/7. This was to be a TV show. So actually, pretty easy for us to understand whether that was working or not: is anyone watching? Right? That's the problem we were solving. People watch TV shows. No one was watching. So we didn't solve the problem. Then when we pivoted to an open platform, the problem became: can we let anyone broadcast live? But that was problems trying to solve. Anyone can broadcast live on the Internet. And once again, once we understood that, it was very easy for us to judge whether or not someone could do it. We had this open platform as anyone using it. But I think that, like, that was key to what we were doing.
 
 And then sometimes when I talk to founders, there's something they want to do in the world. There's a problem that they're kind of vaguely interested in, or there's an idea that are very interesting, but they really haven't nailed down what's the actual problem we're solving. If you don't know the problem, you can't know whether you solved it.
 
@@ -72,7 +29,7 @@ The first thing I ask founders: can you state the problem clearly in two sentenc
 
 Have you experienced the problem yourself? This is not always required, but is certainly helpful. I've met a lot of founders who are trying to solve a problem for someone else who they've never met, never talked to, and don't truly know whether that person exists in the world. And so, all things being equal, this is a great hand that you're on to something. Well, at least one person has had this problem before.
 
-The next one's: can you define this problem narrowly? What's interesting is when you get started, you can't really solve this problem for everyone who has it. So when Justin.tv first started, we couldn't let anyone broadcast live video. You had to have a laptop. You had to have good internet connection. You had to have a webcam. There are all these kind of things you needed. And so can we actually now talk about, "All right, we want to make live video for everyone, but let's talk about the people that we can address first. Who can we help first?" And I think oftentimes founders kind of want to skip that step. They want to solve the mega problem, like, "I want to cure cancer. I'm only talking about when everyone's cured," as opposed to, like, "What can we address immediately? How do we get the first indication that this thing is working?"
+The next one's: can you define this problem narrowly? What's interesting is when you get started, you can't really solve this problem for everyone who has it. So when [Justin.tv](http://Justin.tv) first started, we couldn't let anyone broadcast live video. You had to have a laptop. You had to have good internet connection. You had to have a webcam. There are all these kind of things you needed. And so can we actually now talk about, "All right, we want to make live video for everyone, but let's talk about the people that we can address first. Who can we help first?" And I think oftentimes founders kind of want to skip that step. They want to solve the mega problem, like, "I want to cure cancer. I'm only talking about when everyone's cured," as opposed to, like, "What can we address immediately? How do we get the first indication that this thing is working?"
 
 And then the last one is: the problem solvable? So here's what I'll bring up with Poppy. So Poppy is a company that's essentially Uber for babysitting. They make it really easy for babysitters—I'm sorry, for parents. You need babysitters to get babysitters. Poppy is a very interesting company because you need babysitters for a lot of different types of things. Some people need a babysitter five days a week while the parents at work, right? That looks a little more like a nanny. Some people need a babysitter—whether it's an emergency, "Oh, I have, you know, I have a medical emergency and I need a babysitter right now because I need to go to the hospital." Some people need it because there was misplanning. "Oh, I thought well, housing was gonna be at this time and it wasn't. I thought I was gonna be here this time it wasn't. I need a babysitter." Some people need a babysitter because they have an infant, right? And so this baby sitters have a bunch of skills. Some people need a babysitter to watch their 15 year old to make sure they don't get, you know, out of the house—different skills. And so what's interesting is that if you just start with, "Oh, we're gonna help people get babysitters," it's not really good enough to understand what you can address right away, right? Which one of those use cases do you want to address?
 
@@ -142,11 +99,11 @@ The other thing that I will warn you about is that if your product is good, the 
 
 Make measurement a part of your product spec. Oftentimes when I talk to founders, they say, "We built it on this release, and we'll add the measurements some point in the future." I don't understand how that works. You build something you want people to use, but you're not incorporating the measurement that tells you whether people are using it. That doesn't work. Building measurement is part of a product spec. So when you spec out a product, you better spec the stats you expect to be tracking. And you should also spec the stats that you think are going to improve when you're building that product. That should be part of the spec. It should be part of the first release. Otherwise, you're flying blind.
 
-And this is just countless times at justin.tv. This screwed us.
+And this is just countless times at [justin.tv](http://justin.tv). This screwed us.
 
-Okay, part development cycle. So justin.tv and Twitch was three Yale kids and one non-Yale kid. Yale—probably the most productive skill you're taught is how to argue with other Yale kids. And so the number one way to get products developed at justin.tv was to win an argument with the three Yale kids. Kyle disliked this so much that he actually switched his sleeping schedule so that he wouldn't have to be involved in these arguments. So we were awake from about 8 a.m. to about 12 midnight. He would wake up around 11 p.m. midnight and write code all night and then go to sleep in the morning so he wouldn't have to argue with us on what stupid thing to build.
+Okay, part development cycle. So [justin.tv](http://justin.tv) and Twitch was three Yale kids and one non-Yale kid. Yale—probably the most productive skill you're taught is how to argue with other Yale kids. And so the number one way to get products developed at [justin.tv](http://justin.tv) was to win an argument with the three Yale kids. Kyle disliked this so much that he actually switched his sleeping schedule so that he wouldn't have to be involved in these arguments. So we were awake from about 8 a.m. to about 12 midnight. He would wake up around 11 p.m. midnight and write code all night and then go to sleep in the morning so he wouldn't have to argue with us on what stupid thing to build.
 
-One of the classic arguments at justin.tv that lasted approximately three months was the background color for the original site. So the original site is just one page. Justin wanted a black background. I wanted a wood-grained background. Three months of debate. We settled on changeable backgrounds, so there were five background options. Clearly idiotic. Like I said, we made many of these mistakes. Um, we didn't actually really learn how to do product development cycle until we—
+One of the classic arguments at [justin.tv](http://justin.tv) that lasted approximately three months was the background color for the original site. So the original site is just one page. Justin wanted a black background. I wanted a wood-grained background. Three months of debate. We settled on changeable backgrounds, so there were five background options. Clearly idiotic. Like I said, we made many of these mistakes. Um, we didn't actually really learn how to do product development cycle until we—
 
 Michael Seibel: So his example was failed at it for about five or so years. And during that time, this is what a bad product-moment cycle looks like. One, we would release every three months for a web-only product, which is horrible. Second, we would have a product meeting and we wouldn't write anything down, right? It was just four of us. "Can't you remember? You're an idiot if you can't remember a conversation." Before people had, right? And if you forget something, just ask one of the other four people in the room, right?
 
@@ -156,7 +113,7 @@ At this point, right? Two months in, we probably have about three weeks of produ
 
 Now we've worked on this product for three months. If you had any good or new or interesting ideas during that three-month period of time, you were told, "We're already working on something else, so your ideas are worthless. Just write them down somewhere. Whatever, we're working on this thing right now." At the end of the three months, instead of wanting to iterate, we were sick of the damn feature we just spent three months building poorly, so we would launch it. And if it wasn't used right away, we would come up with some new brainstorm on some brand-new feature that would rescue the company.
 
-This is the wrong way to run a company. It was absolutely horrible. I was talking to Jeff earlier. The major product decisions that Justin.tv made that carried through to Twitch today was chat on the right, video on the left. We decided that in 2006, and it is the same way in 2018. The vast majority of the product ideas we made were never saw the light of day because they went through a process like this.
+This is the wrong way to run a company. It was absolutely horrible. I was talking to Jeff earlier. The major product decisions that [Justin.tv](http://Justin.tv) made that carried through to Twitch today was chat on the right, video on the left. We decided that in 2006, and it is the same way in 2018. The vast majority of the product ideas we made were never saw the light of day because they went through a process like this.
 
 So if your process revolves around arguing, revolves around not writing specs, revolves around long dev cycles, you are doing it wrong. You are 100% doing it wrong.
 
@@ -190,7 +147,7 @@ The next thing we would do is we decide "hard first." So we look at all the hard
 
 What was interesting is that just with the ideas on the board and with easy, medium, hard, a lot of the ego was removed from the debate because one, you knew your idea had been considered. And two, you had some objective measure about how hard it was. And three, because the board has a bunch of ideas on it now, it's probably pretty easy for you to find an easy idea that you really like. And so you're just gonna be excited that that's probably gonna get in. And your really hard idea? That's fine if it doesn't.
 
-The next step is you have to write the spec. This is where everyone [pauses]. The meeting might be going on for four hours now, and this is the step no one likes. You actually go through and you actually write down: What do we mean by "we're adding video filters to Socialcam"? What do we mean by "we're allowing people in Justin.tv and Twitch to chat with one another"? What does that actually mean? How is it going to work?
+The next step is you have to write the spec. This is where everyone [pauses]. The meeting might be going on for four hours now, and this is the step no one likes. You actually go through and you actually write down: What do we mean by "we're adding video filters to Socialcam"? What do we mean by "we're allowing people in [Justin.tv](http://Justin.tv) and Twitch to chat with one another"? What does that actually mean? How is it going to work?
 
 This is really important. And once this is done, you can then distribute tasks to the team.
 
@@ -224,13 +181,13 @@ So if you are the person in your company who is being "fake Steve Jobs"—is say
 
 Real Steve Jobs released a shitty MVP that was revolutionary but still fairly shitty. And every year iterated it until you have the thing in your pocket right now, which is pretty damn good. Real Steve Jobs iterates and talks to customers. Fake Steve Jobs just dreams and creates art. Don't be fake Steve Jobs, okay?
 
-So with all this, I want to go back to the beginning. What I said in the beginning still holds. Justin.tv. The only reason why I actually even know any of these rules is because we broke all of them.
+So with all this, I want to go back to the beginning. What I said in the beginning still holds. [Justin.tv](http://Justin.tv). The only reason why I actually even know any of these rules is because we broke all of them.
 
-The one thing that Justin.tv and Twitch had was a really strong technical team with high ego in the product and low burn. When we started figuring things out with Twitch, it was very interesting. Gamers had been on our product the whole time. Gamers had been streaming on Justin.tv since almost the beginning. At any given time, there were twenty percent of our traffic for years. We ignored them. We ignored them. We ignored them. We ignored them. They still use the product. We didn't build features for them. They still use the product. They must have been pretty [pauses] desperate because they still use the product year after year.
+The one thing that [Justin.tv](http://Justin.tv) and Twitch had was a really strong technical team with high ego in the product and low burn. When we started figuring things out with Twitch, it was very interesting. Gamers had been on our product the whole time. Gamers had been streaming on [Justin.tv](http://Justin.tv) since almost the beginning. At any given time, there were twenty percent of our traffic for years. We ignored them. We ignored them. We ignored them. We ignored them. They still use the product. We didn't build features for them. They still use the product. They must have been pretty [pauses] desperate because they still use the product year after year.
 
 The number one thing that changed when we started working on Twitch: we started talking to them. And what's weird was it's not like we were talking to other users, and the only reason we didn't talk to any users was we had this like crazy product development cycles. We couldn't do that with talking to users too. So what we did in the beginning was we literally just sat down with these gamers and we said, "What do you want?" And what's funny is we didn't build them anything very special. They were like, "Oh—"
 
-Michael Seibel: Like lag socks or the couple they wanted like little things. What was great about it was they realized we were now going to build something for them and no one on the internet was building things for these gamers. And they realized that when we said we're gonna build something, it came out. When was the last time that you talked to someone building a product that you like and you said "can you do this" and they did it? It was last time you suggested a feature to Mark at Facebook and then the feature came out. Never. Like, it's one of the magical things you can deliver as a startup is you can talk to a passionate user and then you can build what they want and then you can say "here it is" and they will fall in love with you, even if those features are relatively mundane. Because let's switch today: chat on the right, video on the left, the same product. What was great about this process was by talking to them, they realized that we were on their side. We realized they were building something for them. So they tell their friends. That was the major change. If we didn't have the technical team, if we weren't sheep, if our ego wasn't involved, I never would have gotten to that point. And if you look at the history of justin.tv, in the first five years it went from being worth nothing to being worth about twenty-four million dollars. In the next three years it went from being worth twenty-four million dollars to being worth a billion. Like, that's what software can do when you hit the right customer.
+Michael Seibel: Like lag socks or the couple they wanted like little things. What was great about it was they realized we were now going to build something for them and no one on the internet was building things for these gamers. And they realized that when we said we're gonna build something, it came out. When was the last time that you talked to someone building a product that you like and you said "can you do this" and they did it? It was last time you suggested a feature to Mark at Facebook and then the feature came out. Never. Like, it's one of the magical things you can deliver as a startup is you can talk to a passionate user and then you can build what they want and then you can say "here it is" and they will fall in love with you, even if those features are relatively mundane. Because let's switch today: chat on the right, video on the left, the same product. What was great about this process was by talking to them, they realized that we were on their side. We realized they were building something for them. So they tell their friends. That was the major change. If we didn't have the technical team, if we weren't sheep, if our ego wasn't involved, I never would have gotten to that point. And if you look at the history of [justin.tv](http://justin.tv), in the first five years it went from being worth nothing to being worth about twenty-four million dollars. In the next three years it went from being worth twenty-four million dollars to being worth a billion. Like, that's what software can do when you hit the right customer.
 
 Michael Seibel: Let's do a couple questions in the back. So you've mentioned that product, so the question is put it more generally: should you be going free if your final idea for a product is to be free? What I would say is this: if your users are users who you never plan to charge, then it's totally fine to be free. But if you do plan to charge them in some way, it's really helpful to charge them as soon as possible because you want to know whether or not they're willing to pay. And certainly if their business depends on it, it's especially helpful to charge them so that's the measure that I would use. And there are all kinds of little tweaks and so on and so forth, but at a high level: do you ever plan to charge them? Charge them. If you never plan to charge them, you can plan to monetize based on ads, which is really usually the way that you monetize if you're not going to charge. If you're not going to monetize with ads, you probably should start charging them.
 
@@ -248,103 +205,6 @@ Audience Member: Absolutely. Her back. Going from beta, how do you go from beta 
 
 Michael Seibel: I don't really know what those distinctions are. Like, all I know is: are people using your product? Yes or no? Like, if people are not using your product, get to the point where people are using your product extremely quickly. Once people are using your product, there's all different labels for it: beta, pre-launch, alpha, blah blah. Who cares, right? It's just that's the dividing line. Like, are people using a product? The next question is: are you actually solving their problem? That's the next question, not like "are we following this line of launching things?" Most YC companies will launch many, many, many, many times. So that progression isn't really that important. Are people using your product? Great. BAM. You're launched. Congratulations. Call it whatever you want.
 
-Michael Seibel: All right, this is a great question and I have—I'll have an unsatisfying answer. So the question is basically: how do we figure out what to build next? Here's my answer. The reason why you have a product development cycle is that you can work on multiple things. Usually there isn't a right answer. Usually all of the things that you want to build won't work. So what you need to do is you need to create a process in your company to build things quickly so that you can actually see whether they work or not and then you can iterate them from there. So it's far more important to have a tactically talented team that can build MVPs quickly in a non-frustrating way and then measure the results than it is to be a super genius who can imagine what's going to happen in the future without actually knowing. Now, in the big picture, you have to have that imagination for your vision for where it's gonna be ten years from now. You have to have that imagination for the little technical, tactical move in the next three months. Like, it's really hard to nail those. But if you have a process that can rip out things quickly and then only iterate the things that are working, that'll serve you far better. Our mistake was that at justin.tv, it was thinking every time we've got a home run, let's only swing for home runs. And of course it would take three months to do it because we got to make it perfect, right? And then the whole spiral of death.
+Michael Seibel: All right, this is a great question and I have—I'll have an unsatisfying answer. So the question is basically: how do we figure out what to build next? Here's my answer. The reason why you have a product development cycle is that you can work on multiple things. Usually there isn't a right answer. Usually all of the things that you want to build won't work. So what you need to do is you need to create a process in your company to build things quickly so that you can actually see whether they work or not and then you can iterate them from there. So it's far more important to have a tactically talented team that can build MVPs quickly in a non-frustrating way and then measure the results than it is to be a super genius who can imagine what's going to happen in the future without actually knowing. Now, in the big picture, you have to have that imagination for your vision for where it's gonna be ten years from now. You have to have that imagination for the little technical, tactical move in the next three months. Like, it's really hard to nail those. But if you have a process that can rip out things quickly and then only iterate the things that are working, that'll serve you far better. Our mistake was that at [justin.tv](http://justin.tv), it was thinking every time we've got a home run, let's only swing for home runs. And of course it would take three months to do it because we got to make it perfect, right? And then the whole spiral of death.
 
-Michael Seibel: All right. Um, the last thing I'll say is my email address is Michael at YCombinator.com. Strangely, I tell people that I answer every email and people mostly don't believe me. And the ones who do email me, I reply. And so everyone I talk to you, and everyone online, there's really only two categories of people: the people who don't believe me, in which case great, continue your lives. And the people who will believe me. And if you need help, they'll email and I will try to help you the best I can. It's really that simple. You don't need to have networked with me. Y Combinator is fairly easy to spell and so is Michael, so you should be able to figure that out. Thank you.
-
-Related
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-16:53
-How to build an MVP
-1.1M views
-Over 1 year ago
-13:50
-How to plan an MVP
-834K views
-Over 1 year ago
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-6:21
-How to get and test ideas
-360K views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-8:21
-How to build product as a small startup
-181K views
-Over 1 year ago
-19:50
-How to launch (again and again)
-172K views
-Over 1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-49:40
-How to Start a Startup: How to get ideas and find what's working
-124K views
-Over 1 year ago
-15:37
-Order of operations for starting a startup
-97K views
-Over 1 year ago
-6:55
-User you don't want
-38K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-Before growing your startup
-Sam Altman
-Startups are defined by growth, but growth isn't step one in building a great company. If you focus on trying to grow before you make a product people love, you are unlikely to succeed.
-How to set up, hire, and scale a growth strategy and team
-Anu Hariharan
-What does a growth team do and why should you set up a growth team? Growth experts share when to invest in growth, what the right growth KPIs are, how to manage growth, building a growth team, and how to get everyone in the company to care about growth.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+Michael Seibel: All right. Um, the last thing I'll say is my email address is Michael at [YCombinator.com](http://YCombinator.com). Strangely, I tell people that I answer every email and people mostly don't believe me. And the ones who do email me, I reply. And so everyone I talk to you, and everyone online, there's really only two categories of people: the people who don't believe me, in which case great, continue your lives. And the people who will believe me. And if you need help, they'll email and I will try to help you the best I can. It's really that simple. You don't need to have networked with me. Y Combinator is fairly easy to spell and so is Michael, so you should be able to figure that out. Thank you.

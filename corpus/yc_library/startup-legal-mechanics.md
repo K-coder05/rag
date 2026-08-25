@@ -3,25 +3,9 @@ title: Startup legal mechanics
 source: https://www.ycombinator.com/library/7R-startup-legal-mechanics
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup legal mechanics
-Startup legal mechanics
-by Carolynn Levy
-83K views
-Over 1 year ago
-
 YC Partners Carolynn Levy, Jon Levy, and YC General Counsel Jason Kwon discuss legal mechanics for startups, in addition to common mistakes and problems.
 
-Transcript
+## Transcript
 
 Geoff Ralston: I would like to introduce my colleague Carolynn Levy to my right here who's going to talk about startup mechanics. And then with Jon Levy and Jason Kwon, they'll answer some questions about getting your startup started legal issues. I will point out that these three folks are probably the finest legal minds in the startup world. These and I, and I do not exaggerate. They may hate me saying it, but these folks have seen more. They've worked with more startups in more situations than you could believe. And some of the situations you wouldn't believe. So they know everything. And so I do hope you listen carefully. And I do hope—look, I know we gave you everyone homework to watch videos from 2014 and 2017 on startup mechanics. I urge you all to watch those videos if you haven't already, as an adjunct to what Carolynn and John and Jason are about to say, because you will find them useful as you build your company. So Carolynn, thank you.
 
@@ -247,72 +231,4 @@ Host: Just one more word on the part-time question, which has come up a few time
 
 So thank you all for coming in person, and thank you for watching online. Just a couple reminders: there will be a conversation with the founder of Y Combinator, Paul Graham, on Friday, as well as the AMA tomorrow with Darby. Next week we're going to dive into product with the CEO of YC, Michael Seibel, and David Recycle from Weebly on building product and product-market fit.
 
-There are also several great videos in the Startup Library on product that I very much encourage you guys to take a look at. And lastly, login to the many of you already have—post on the forum, posting your group, and figure out how it works. Hopefully it'll be a good home for all of you. And if you have any issues, send an email to accommodate our at startupschool.org. And everyone, have a great day! Thanks!
-
-Related
-45:03
-Understanding SAFEs and priced equity rounds
-361K views
-Over 1 year ago
-29:00
-Managing startup finances
-304K views
-Over 1 year ago
-35:46
-Dalton & Michael: Save your startup during an economic downturn
-162K views
-Over 1 year ago
-28:46
-Modern startup funding
-90K views
-Over 1 year ago
-2:30
-Why do startups fail?
-27K views
-Over 1 year ago
-Template sales agreement
-Carolynn Levy
-Y Combinator's open-source sales template agreement.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-A guide to seed fundraising
-Geoff Ralston
-The most comprehensive guide on why, when, and how to raise money for your startup.
-How to build your seed round pitch deck
-Aaron Harris
-Y Combinator has helped thousands of founders create pitch decks for their seed round fundraising. Here is the YC seed deck template that works.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+There are also several great videos in the Startup Library on product that I very much encourage you guys to take a look at. And lastly, login to the many of you already have—post on the forum, posting your group, and figure out how it works. Hopefully it'll be a good home for all of you. And if you have any issues, send an email to accommodate our at [startupschool.org](http://startupschool.org). And everyone, have a great day! Thanks!

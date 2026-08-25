@@ -3,53 +3,15 @@ title: Do technical founders need a business co-founder?
 source: https://www.ycombinator.com/library/KV-do-technical-founders-need-a-business-co-founder
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Dalton & Michael
-›
-Do technical founders need a business co-founder?
-DALTON & MICHAEL
-Do technical founders need a business co-founder?
-by Dalton Caldwell
-173K views
-Over 1 year ago
-Chapters
-0:00
-Coming Up
-0:31
-It's Complicated
-1:10
-Tasks
-3:06
-Ability vs. Appetite
-4:12
-Technical Problems
-5:58
-Examples
-7:21
-Helpful vs. Necessary
-8:19
-Fake Limitations
-10:20
-Outro
+Whether or not you need a co-founder is always a hotly debated topic — but going one level deeper, founders often wonder what **kind** of co-founder is best.
 
-Whether or not you need a co-founder is always a hotly debated topic — but going one level deeper, founders often wonder what kind of co-founder is best.
+In a prior video Michael and I explained [*why ****every**** software company should have a technical co-founder*](https://www.ycombinator.com/library/KO-does-your-tech-startup-really-need-a-technical-co-founder-yes). But it’s also common for technical founders to be told by investors and advisors that they would benefit from a co-founder with non-technical expertise in things like business or marketing.
 
-In a prior video Michael and I explained why every software company should have a technical co-founder. But it’s also common for technical founders to be told by investors and advisors that they would benefit from a co-founder with non-technical expertise in things like business or marketing.
-
-Are they correct? In this episode of Dalton & Michael we dive into exactly that question.
+Are they correct? In this episode of [*Dalton & Michael*](https://www.ycombinator.com/library/carousel/Dalton%20&%20Michael) we dive into exactly that question.
 
 - Dalton
 
-Transcript
+## Transcript
 
 Dalton Caldwell: Oh yeah, well Michael, I could go do sales. That's not hard. I can definitely reply to emails. Yes, you know, I could. Well, do you? Are you going to do that?
 
@@ -200,68 +162,3 @@ Dalton Caldwell: Yeah.
 Michael Seibel: Yes. Yes.
 
 Dalton Caldwell: All right. Good shot. Sounds good. Thanks, man.
-
-Up next from Dalton & Michael
-16:16
-The asymmetric upside of being positive
-42K views
-Over 1 year ago
-Related
-20:27
-Dalton & Michael: How future billionaires get sh*t done
-729K views
-Over 1 year ago
-15:14
-Does your tech startup really need a technical co-founder? Yes.
-649K views
-Over 1 year ago
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-17:39
-How To NOT Get Screwed Over As A Software Engineer
-233K views
-Over 1 year ago
-9:38
-Dalton & Michael: Understanding investor terms and incentives
-51K views
-Over 1 year ago
-16:16
-The asymmetric upside of being positive
-42K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

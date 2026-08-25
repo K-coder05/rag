@@ -3,27 +3,9 @@ title: Jessica Livingston on how to build the future
 source: https://www.ycombinator.com/library/JB-jessica-livingston-on-how-to-build-the-future
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-Jessica Livingston on how to build the future
-Jessica Livingston on how to build the future
-by Jessica Livingston
-119K views
-Over 1 year ago
-
 Jessica Livingston is a co-founder of Y Combinator. For this video, she speaks with Sam Altman about what she’s learned about the best startup founders and more.
 
-Transcript
+## Transcript
 
 Sam Altman: Hi everyone, my name is Sam Altman, and this is How to Build the Future. Today, our guest is Jessica Livingston, the founder of Y Combinator, where I now work. Y Combinator has funded 1,500 startups and they're worth more than $70 billion in total. More than 10 of them are worth a billion dollars or more. So, in terms of how to create a unicorn, uh Jessica Livingston probably knows more about this than maybe anybody else in the world. So we are super delighted you came here today to talk to us. Thank
 
@@ -224,76 +206,3 @@ Jessica Livingston: do? Well, it's definitely a subject I think about a lot beca
 Sam Altman: Great. Well thank you so much for joining us and funding my company and hiring me. It was great. Thanks a lot.
 
 Jessica Livingston: Thanks, Sam.
-
-Up next from How To Build The Future
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-Related
-19:33
-Elon Musk on how to build the future
-2.3M views
-Over 1 year ago
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-34:33
-Vinod Khosla on How to Build the Future
-211K views
-Over 1 year ago
-26:41
-Dalton & Michael: The truth about Y Combinator
-110K views
-Over 1 year ago
-19:46
-Dalton & Michael: Y Combinator is back in person
-58K views
-Over 1 year ago
-14:26
-What's different about unicorns?
-29K views
-Over 1 year ago
-3:04
-Why YC? We asked 50 founders why they applied to Y Combinator
-21K views
-Over 1 year ago
-16:57
-How not to fail
-20K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

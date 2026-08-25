@@ -3,41 +3,10 @@ title: Stripe Head of Design Katie Dill Reviews Startup Websites
 source: https://www.ycombinator.com/library/Lf-stripe-head-of-design-katie-dill-reviews-startup-websites
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design Review
-›
-Stripe Head of Design Katie Dill Reviews Startup Websites
-DESIGN REVIEW
-Stripe Head of Design Katie Dill Reviews Startup Websites
-by Aaron Epstein
-93K views
-1 year ago
-Chapters
-0:00
-Intro
-0:50
-Mito
-5:20
-SigNoz
-10:27
-TAIV
-14:22
-metriport
-17:21
-Amino Analytica
+Stripe’s Head of Design Katie Dill is one of the most influential designers in Silicon Valley. Before joining Stripe she led the design team at Lyft and was Head of Experience Design at Airbnb. Throughout her career she’s leveraged the power of great design to help build a few of the most successful companies in the world. So what’s the secret to her success? For Katie it’s all about focusing on the details, and making sure that every pixel counts.
+In this episode YC’s Aaron Epstein and Katie Dill review startup landing pages with a focus on creating sites that builds trust, convert customers and brings some joy to the user experience.
 
-Stripe’s Head of Design Katie Dill is one of the most influential designers in Silicon Valley. Before joining Stripe she led the design team at Lyft and was Head of Experience Design at Airbnb. Throughout her career she’s leveraged the power of great design to help build a few of the most successful companies in the world. So what’s the secret to her success? For Katie it’s all about focusing on the details, and making sure that every pixel counts. In this episode YC’s Aaron Epstein and Katie Dill review startup landing pages with a focus on creating sites that builds trust, convert customers and brings some joy to the user experience.
-
-Transcript
+## Transcript
 
 Aaron Epstein: I'm Aaron Epstein and welcome to another episode of design review. Today I'm going to be joined by Katie Dill who is the head of design at Stripe, and we're going to be taking a look at a bunch of user-submitted websites to give them feedback on how they can improve their designs. I'm super happy to be here at the Stripe offices with Katie Dill. Katie is the head of design at Stripe, and before that was head of design at Lyft and head of experience design at Airbnb. So Katie, thank you for having us today.
 
@@ -172,67 +141,3 @@ Host: Yes, I would love to. We should do it again.
 Katie Dill: Um, and thank you to Stripe also for hosting us here.
 
 Host: And thank you all for watching. Hope this was helpful and love getting Katie's feedback. And we'll see you on the next design review.
-
-Up next from Design Review
-21:12
-Does Your Startup Website Pass The First Impression Test?
-54K views
-Over 1 year ago
-Related
-33:38
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-61K views
-1 year ago
-21:12
-Does Your Startup Website Pass The First Impression Test?
-54K views
-Over 1 year ago
-23:50
-How to convert more visitors into customers
-46K views
-Over 1 year ago
-43:42
-Brand Design Tips From Linear Founder Karri Saarinen
-38K views
-1 year ago
-23:18
-Five DevTool Startups Get Their Websites Reviewed
-38K views
-Over 1 year ago
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

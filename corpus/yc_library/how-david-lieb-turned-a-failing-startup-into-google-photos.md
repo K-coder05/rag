@@ -3,47 +3,9 @@ title: How David Lieb Turned a Failing Startup Into Google Photos
 source: https://www.ycombinator.com/library/Ly-how-david-lieb-turned-a-failing-startup-into-google-photos
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How David Lieb Turned a Failing Startup Into Google Photos
-BACKSTORY
-How David Lieb Turned a Failing Startup Into Google Photos
-by David Lieb
-355K views
-1 year ago
-Chapters
-0:00
-Intro
-1:15
-Dropping out of UChicago
-2:55
-Word of mouth
-4:50
-Bump Turns into a verb
-5:50
-Costly mistakes
-7:40
-Reason for success
-10:40
-Selling to Google
-12:50
-Risky move paid off
-13:50
-Google Photos launch in 2015
-17:45
-Joining YC
-
 YC General Partner David Lieb’s story is all about perseverance. In 2008, he co-founded Bump, an app used by 150M people to share photos and contact info by bumping their phones together. Though he couldn’t find a way to turn it into a sustainable business, he didn’t quit. Instead, he and his team pivoted several times, got acquired, and eventually went on to build Google Photos. In this episode of Backstory, David shares his advice for finding the right idea, what mistakes to avoid and how to maintain a positive mindset no matter what gets thrown at you.
 
-Transcript
+## Transcript
 
 David Lieb: If you want to create something that billions of people will use, a brand new product like Google Photos, you have to be totally committed. And you have to realize that the path to success is very rarely a straight line. And you're almost certainly going to fail a few times or be thrown a curveball that you weren't expecting. Just talk to the ER nurse here. It doesn't look good. And you just have to keep moving forward no matter what. I'm David Lieb, and this is my backstory.
 
@@ -150,51 +112,3 @@ David Lieb: I realized one more thing, which was the job that I had been doing a
 David Lieb: I left Google in September 2022 and joined YC and started working with founders immediately. Working at YC is great. You get to be in the trenches working with the people who are at the frontier of the future. And you get to tell them all the mistakes you made and support them along the way. And maybe be that honest voice that I wish I had had in hindsight in building my startup.
 
 David Lieb: Having gone through what I've gone through, both in the personal realm and also professionally, I've realized now my role is to be the coach rather than the player on the field—like, be the person who can help the next generation of founders build the products that we will all use in the future.
-
-Related
-34:39
-How To Build The Future: Aravind Srinivas
-141K views
-1 year ago
-13:50
-Dot Plots: How to Actually See What Your Users Are Doing
-27K views
-1 month ago
-56:31
-On starting and scaling one of the biggest iOS apps
-9,772 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

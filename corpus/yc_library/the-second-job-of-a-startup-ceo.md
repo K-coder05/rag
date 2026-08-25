@@ -3,33 +3,23 @@ title: The second job of a startup CEO
 source: https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-The second job of a startup CEO
-The second job of a startup CEO
-by Ali Rowghani
-
 Successful startups go through three broad phases as they scale, and a startup CEO’s job changes dramatically in each phase. A CEO’s first job is to build a product users love; the second job is to build a company to maximize the opportunity that the product has surfaced; and the third is to harvest the profits of the core business to invest in transformative new product ideas. This blog post describes how to become a great Phase 2 CEO by focusing on the highest leverage tasks that only the CEO can accomplish. As YC’s Continuity team, we’ve seen many Phase 1 CEOs transition successfully into Phase 2, and some who have not. The future of your startup depends on which kind you are.
 
-Your First Creation is a Product, Your Second Creation is a Company
+**Your First Creation is a Product, Your Second Creation is a Company**
 
-A CEO’s first job is to build a great product and find a small group of people who love it and use it enthusiastically.1 A Phase 1 startup CEO is the Doer-in-Chief. You must be deeply involved in both building the product (observing/interacting with users, writing code, designing product specs) and acquiring users/customers. Delegation should not be a word in your vocabulary. If you succeed, it’s because your deep involvement and unique vision give the company a perspective and drive that few others have. The other imperative for a Phase 1 CEO is to conserve money in order to extend the time to iterate and improve the product.
+A CEO’s first job is to build a great product and find a small group of people who love it and use it enthusiastically.[1](#footnote1) A Phase 1 startup CEO is the Doer-in-Chief. You must be deeply involved in both building the product (observing/interacting with users, writing code, designing product specs) and acquiring users/customers. Delegation should not be a word in your vocabulary. If you succeed, it’s because your deep involvement and unique vision give the company a perspective and drive that few others have. The other imperative for a Phase 1 CEO is to conserve money in order to extend the time to iterate and improve the product.
 
 Most startups fail because they are not able to create a product that users love enough to abandon existing alternatives. Success in this first phase means discovering more demand for your product than your small team can handle. When this happens, you have to shift your focus as CEO to building a company that can capture and maximize the demand that your product has surfaced. Company-building becomes the CEO’s primary job in a Phase 2 startup. The company you build is your second creation and will be your lasting legacy as a founder.
 
 As a Phase 2 CEO, you need to transition from “Doer-in-Chief” to “Company-Builder-in-Chief.” This is how you scale as a CEO, and CEO scaling is the first step in company-building. For most founders, this is very difficult. When you’ve been a successful Doer-in-Chief, it’s hard to stop. It’s hard to stop coding, designing product specs, and interacting with customers on a daily basis. It’s hard to stop answering support tickets, doing all the product demos, and debugging the latest build. It’s even hard to delegate the random and sometimes menial tasks that you’ve accumulated over the years because they were “no one’s job.” But you have to stop doing all of these things so that you can safeguard your time for high leverage tasks that only CEOs can do.
 
-What is Y Combinator?
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
+
+[Apply](/apply)
 
 This transition can cause confusion and even friction with your team, who can suddenly wonder what you are doing if you’re no longer committing code or why you’re suddenly delegating a bunch of menial tasks that you’d been doing for years. But once your startup reaches 20-30 people, you’ll have to spend more time leading (i.e., directing the activities of others). And since time is finite, the only way to lead more is do less. Without delegating, you simply won’t have time to focus on company-building and you’ll end up slowing everyone else down.
 
@@ -37,11 +27,11 @@ It may seem impossible at first, but you can eventually delegate day-to-day resp
 
 In practice, Phase 2 usually begins when a startup has around 20-25 employees and ends when it reaches 400-500 employees. At the end of Phase 2, you’ll have a leadership team that you’ve “road tested” to the point that you can confidently delegate everything you did in Phase 1. Your direct reports should be experienced leaders who can perform at a high level with minimal involvement from you, provided that you have set direction well. You can then shift the burden of company building to your leadership team so that you can start working on Phase 3: taking profits from the core business and investing them in new, transformative products. As an example, Facebook built its senior management team in Phase 2 while running the business at roughly breakeven. In Phase 3, it began to generate huge profits in its core business thanks to more lucrative in-stream ads, so it could allocate significant resources towards Messenger as a separate product and buy Instagram, WhatsApp, and Oculus.
 
-Three Tasks That CEOs Can’t Delegate
+**Three Tasks That CEOs Can’t Delegate**
 
-Stated simply, your job as a Phase 2 startup CEO is to delegate everything you did in Phase 1 in order to create time to focus on three critical operational tasks that only the CEO can do 2:
+Stated simply, your job as a Phase 2 startup CEO is to delegate everything you did in Phase 1 in order to create time to focus on three critical operational tasks that only the CEO can do [2](#footnote2):
 
-1. Hiring a Leadership Team and Making Sure They Work Well Together
+**1. Hiring a Leadership Team and Making Sure They Work Well Together**
 
 Only the CEO can hire the company’s senior leadership team and make sure that they work well together. You can get help and feedback from others as you hire, but when you bring leaders like a VP of Engineering, VP of Sales, and CFO on board, the ultimate hiring decisions must be yours. You can’t hire by compromise, looking for someone who everyone around you likes. The choice has to be yours because the consequences are yours as well.
 
@@ -53,7 +43,7 @@ Learning how to evaluate the performance of senior executives is also a challeng
 
 Your job is done when your entire leadership team has been hired, you’ve coached them to work well together, and they can operate at a high level with minimal involvement from you. Don’t be surprised if 50% of your time goes to hiring and managing your senior team; it’s time well spent.
 
-2. Creating Purpose and Alignment
+**2. Creating Purpose and Alignment**
 
 The second task that CEOs cannot delegate is creating purpose and alignment at the company. When your startup has less than 10 people who all sit together, you don’t need to work very hard to keep people aligned. Everyone can easily hear what’s going on, understand how their work fits into the broader goals, and have a say in every decision. Communication is simple and creating alignment is easy.
 
@@ -65,13 +55,15 @@ One of the best examples of “Mission-to-Metrics” alignment comes from a frie
 
 Can you define the Mission, Strategy, and Metrics for your startup in a way that’s clear, simple, and inspiring? Most Phase 2 CEOs can’t readily do this. And, when they sit down to define it, they find it harder than they thought. The diagram below captures the task at hand:
 
+[![Mission-to-Metrics](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)
+
 Your mission should feel ambitious and permanent. It should find its roots in the reasons you started your company and should not be something that you change very often. Conversely, you should revisit your product strategy and go-to-market strategy at least twice per year to make sure they remain relevant and right. There is an enormous amount of literature about developing business and product strategy. Whatever approach you choose, a simple practice always seems to help: write it down. In our experience, the CEOs who are most effective in developing and communicating strategy take the time to write their strategy out, in long form. You don’t have to go as far as Jeff Bezos and his team at Amazon do, requiring 6 page memos for every strategic meeting. But writing your “Mission-to-Metrics” framework in long form will help you be more thorough and catch flaws in your thinking.
 
 Effective metric-setting is also a critical part of a CEO’s job. A common mistake is to equate key internal metrics with the business’ most important top line results, like revenue or user growth. This is the wrong approach because top line results like “increase user growth” usually aren’t directly actionable. Instead, you’ve got to dig deeper to understand what drives top line results and set these drivers as the key internal metrics. Great companies work tirelessly to understand what drives their growth. Facebook famously discovered that connecting a new user to 10 friends within 14 days correlated with retained usage, so they set “number of new users with 10 friend connections” as the key product metric. You’ve got to be tenacious about learning what drives your top line business results and set those drivers are your internal metrics. If you don’t know what drives revenue, customer acquisition, or user growth, you aren’t likely to be successful anyway.
 
 Once you’ve written “Mission-to-Metrics” for your startup, and gotten feedback from your leadership and other key employees, you have to start communicating it to everyone regularly. You have to reiterate the Mission-to-Metrics much more than what feels reasonable, which may run counter to your instinct to be efficient. Your employees will not internalize the message unless you communicate it constantly. The real test is not simply whether employees can repeat it, but whether they can make good decisions in your absence based on the context you have provided.
 
-3. Nurturing Company Culture
+**3. Nurturing Company Culture**
 
 There are few concepts in company building that are as slippery as culture. Fundamentally, culture is defined by the way people treat one another in a company -- both the way management treats employees and the way people treat one another. Culture begins to form on the day the second person joins your startup. How founders and early employees act toward one another in a startup’s earliest days sets a cultural tone that can last for many years.
 
@@ -83,88 +75,16 @@ Ed Catmull calls it the most intense and important period in the studio’s hist
 
 What defines you as a company? You should look to the past to find the answer, often to your earliest days when success was far from certain. Perhaps it’s a commitment to quality, like “story comes first.” Perhaps it’s a mode of working, like “go fast and break things.” Once these values have been expressed, the CEO must make sure that the behavior of every new leader at the company reflects those values. But here too, adherence is not solely the CEO’s job. Everyone at the company also has a role to play in holding their leaders, peers, and themselves accountable to the same norms.
 
-A Simple Measure of Success
+**A Simple Measure of Success**
 
 During a management meeting at Pixar, I once heard Steve Jobs say, “When I’m at my best, 50% of my time is unscheduled. That’s the time I use to think, drop in on the people I want to speak with, and let my curiosity roam. It's my time to be creative. Without this free time, I would never be able to stay ahead of the company. To lead a company, you’ve always got to be two steps ahead. There’s no way to lead a company from behind.” Reaching the point of having a lot of unscheduled think time is perhaps the clearest sign of success for a Phase 2 CEO. It suggests that you have hired a leadership team, delegated the day-to-day activities to them, and codified Mission, Strategy, and Metrics well enough for them to operate effectively without your daily involvement. Your reward is the bounty of time to think and plan the future of your startup.
 
-NOTES:
+---
 
-1 No one has written more eloquently about this topic than YC co-founder Paul Graham in essays like How To Start A Startup and Do Things That Don’t Scale.↩
+**NOTES:**
 
-2 The focus of this essay is on a CEO’s operational responsibilities. There are certain non-operational responsibilities such as building/managing a Board, raising money, interacting with the press, etc., that are also part of a CEO’s job, especially when a startup is small. Generally speaking, the less time a Phase 2 CEO spends on these types of non-operational tasks, the better, because they come at the cost of running the company.↩
+**1** No one has written more eloquently about this topic than YC co-founder Paul Graham in essays like [How To Start A Startup](http://www.paulgraham.com/start.html) and [Do Things That Don’t Scale](http://www.paulgraham.com/ds.html).[↩](#footnoteid1)
 
-Thanks to Daniel Yanisse, Patrick Collison, David Rusenko, Ben Holzman, Michael Seibel, Ed Catmull, Sam Altman, Leore Avidar, Tyler Bosmeny, and the YC Continuity team for reading drafts of this essay.
+**2** The focus of this essay is on a CEO’s operational responsibilities. There are certain non-operational responsibilities such as building/managing a Board, raising money, interacting with the press, etc., that are also part of a CEO’s job, especially when a startup is small. Generally speaking, the less time a Phase 2 CEO spends on these types of non-operational tasks, the better, because they come at the cost of running the company.[↩](#footnoteid2)
 
-Related
-4:18
-How to split equity among co-founders
-364K views
-Over 1 year ago
-50:26
-How to Start a Startup: Building company culture, Part I
-310K views
-Over 1 year ago
-50:37
-How to Start a Startup: Building company culture, Part II
-160K views
-Over 1 year ago
-18:02
-Building culture
-60K views
-Over 1 year ago
-3:54
-How to choose a metric and set your KPI
-32K views
-Over 1 year ago
-How to measure leadership
-Ali Rowghani
-Measuring leadership through bottom-line company performance also fails to provide any clues as to how someone can improve as a leader. So is there a better way?
-Later stage advice for startups
-Sam Altman
-There are many common issues founders face in the later stages of their startups. Here's a condensed list of what they are and how to get ahead of them sooner than later.
-How to create and manage a board
-Anu Hariharan
-Best practices in creating and managing a board, including how to create board decks, preparing and running board meetings, and overcoming board issues.
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Snapdocs' Aaron King on navigating market cycles
-Lindsay Amos
-Founder & CEO Aaron King expertly built Snapdocs (YC W14) through volatile market conditions and with minimal outside funding into the mortgage industry's leading digital closing platform, valued at $1.5B. This is what he learned about navigating market cycles.
-Guide to product development
-Michael Seibel
-This is a guide to running your product development process. This will help you rapidly iterate, measure, test, and improve your product while fully engaging your team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+*Thanks to Daniel Yanisse, Patrick Collison, David Rusenko, Ben Holzman, Michael Seibel, Ed Catmull, Sam Altman, Leore Avidar, Tyler Bosmeny, and the YC Continuity team for reading drafts of this essay.*

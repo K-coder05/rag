@@ -3,29 +3,11 @@ title: Different startup stages and what they mean for you
 source: https://www.ycombinator.com/library/K1-different-startup-stages-and-what-they-mean-for-you
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to Get a Job at a Startup
-›
-Different startup stages and what they mean for you
-Different startup stages and what they mean for you
-by Ryan Choi
-16K views
-Over 1 year ago
-
 What’s a “pre-seed” company versus one that’s “seed-stage”? What’s a “Series A” round compared to “Series B” or “Series C” — and what do all of those mean for anyone looking to work at a startup?
 
 In this video from 2022, YC’s Ryan Choi breaks down the different funding stages that startups go through and what each stage might look like for potential hires in terms of product maturity, compensation, etc.
 
-Transcript
+## Transcript
 
 Ryan Choi (presenter): Yeah, we're here to talk about startup stages. We try to be as informative as possible. Uh obviously, you know, given my position here, uh, I would love for you to consider working at a YC startup. Sounds like some of you are already at startups.
 
@@ -51,7 +33,7 @@ The other thing they have to do in order to make something people want, and Mark
 
 No, okay. There's some people who haven't. So these are like the principles of YC. And if you're ever going to start a startup, you're going to hear this over and over and over and over again. Like make something people want, talk to your users and do things that don't scale. Let's make this more concrete by bringing in a fairly famous YC company called Airbnb. You know, before it was Airbnb.
 
-Uh it used to be called AirBedand Breakfast.com, kind of a mouthful, not that like Airbnb was taken as a domain. And while you all know it as this amazing app with hosts and platings and ways to like book.
+Uh it used to be called AirBedand [Breakfast.com](http://Breakfast.com), kind of a mouthful, not that like Airbnb was taken as a domain. And while you all know it as this amazing app with hosts and platings and ways to like book.
 
 Book an amazing place to spend the night. When it first started, this is the website. The website was actually more of a promotion for this IDSA design conference, trying to get the attention of people who were flying in as designers and needed people places to stay, right? It wasn't the marketplace in the full sense, or at least didn't come out that way. And they were doing something that was very specific, not scalable, but they knew that there was a pain point around the designers who were coming in and couldn't find places to stay.
 
@@ -160,65 +142,3 @@ Um, opportunity opportunities to try new things, uh lateral movement, especially
 Plenty of examples of those in our portfolio. I believe these are all ones that are not yet public. Instacart, Stripe, Whatnot, Gusto, Rappi, Five Tramducts. I'm not putting in real bucket as some kind of statement, but these are just the like scale companies. There's also scale. Scale, which I forgot, which is a an ML machine learning platform as a service. So we have those. And again, if you're looking for something more in this space, you can let us know.
 
 So as a recap, those are how we think about it. That's a lot that's packed into that little dropdown of seed series A growth scale. I have no idea how we're going to educate people on that. Maybe we'll record this video and we'll share it under the tooltip of if you don't know which startup you want to join or you have questions.
-
-Up next from How to Get a Job at a Startup
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-Related
-13:57
-Garry's Channel: LEARN, EARN or QUIT | My job/career advice
-371K views
-Over 1 year ago
-19:45
-Dalton & Michael: Why you should leave your FAANG job
-281K views
-Over 1 year ago
-117:06
-How to pick which startup to work at
-12K views
-Over 1 year ago
-YC Startup Job Guide
-Paige Omura
-We put together this guide to help job seekers find the startups that are most interesting, ask the right questions before joining, and increase their chances of landing their dream job.
-Advice for job seekers on resumes and reaching out
-Ryan Choi
-To help job seekers, YC's Ryan Choi spends a lot of time doing 1-1s and resume reviews. Here are his most common pieces of advice for those on the job search.
-Startups for students
-Tamanna Khemani and Kat Mañalac
-The guide is informed by hundreds of hours of talks, blog posts and essays we've written for students who are interested in starting or working at startups. We talk about why (and why not) you should start a startup, what to do in college if you're interested in starting a company, and how to choose which startup to work for.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,28 +3,9 @@ title: How psychedelics will change society for the better
 source: https://www.ycombinator.com/library/KK-how-psychedelics-will-change-society-for-the-better
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Garry Tan's Channel
-›
-How psychedelics will change society for the better
-GARRY'S CHANNEL
-How psychedelics will change society for the better
-by Garry Tan
-7,527 views
-Over 1 year ago
-
 Psychedelic therapies are ready to change society for the better. But we're not talking about not Grateful Dead concerts and the counterculture. Today we're seeing how this powerful technology can be deployed in clinical settings, with repeatable data showing extreme efficacy against some of the most difficult mental health challenges society faces: PTSD, depression, and many more.
 
-Transcript
+## Transcript
 
 Garry Tan (host): Psychedelic therapies are ready to change society for the better. The big difference today is we're not talking about Grateful Dead concerts or the counterculture. We're seeing this powerful technology deployed in clinical settings with repeatable clinical data showing extreme efficacy against some of the most difficult mental health challenges society faces. PTSD, depression, and many more. That's what we're gonna learn about today. from the founder of Mindstate Design. Let's get started.
 
@@ -71,68 +52,3 @@ Garry Tan (host): There's deep healing and clarity possible through the safe cli
 Dillan DiNardo (guest): here. Uh well you can find us at our website at www.mindstate.design if you want to join us on this journey.
 
 Garry Tan (host): That's it for this week. Thanks for watching all the way to the end, and we'll see you next time.
-
-Up next from Garry Tan's Channel
-12:21
-From Underdog to Undefeated: The Edrizio De La Cruz founder story
-11K views
-Over 1 year ago
-Related
-15:33
-Garry's Channel: Stop chasing money -- Chase wealth
-800K views
-Over 1 year ago
-37:29
-Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
-251K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-12:48
-How Athelas is revolutionizing healthcare
-20K views
-Over 1 year ago
-12:21
-From Underdog to Undefeated: The Edrizio De La Cruz founder story
-11K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,57 +3,9 @@ title: Why Design Matters: Lessons from Stripe, Lyft and Airbnb
 source: https://www.ycombinator.com/library/Lj-why-design-matters-lessons-from-stripe-lyft-and-airbnb
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Design Review
-›
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-DESIGN REVIEW
-Why Design Matters: Lessons from Stripe, Lyft and Airbnb
-by Aaron Epstein
-61K views
-1 year ago
-Chapters
-0:00
-Intro
-1:55
-The importance of design
-4:00
-The role of trust
-5:30
-Founder involvement in design
-7:10
-Balancing quality with shipping early
-9:00
-Focus on solving user problems
-10:30
-Checklist
-12:40
-Developing design skills
-15:45
-Constant user feedback is key
-18:50
-Design process at Stripe
-24:40
-User experience scoring at Stripe
-25:20
-Examples of design improvements at Stripe
-31:40
-User feedback and community
-32:20
-Takeaways
-
 Stripe, Airbnb, and Lyft are a few of the most successful companies of the past decade. There are at least two things they all have in common: great design, and Katie Dill. Katie was Head of Experience Design at Airbnb, led the design team at Lyft, and is now Head of Design at Stripe. We spoke with Katie about her design philosophy, what sets companies like Stripe apart, and how important it is to instill a culture of design in your startup from day one.
 
-Transcript
+## Transcript
 
 Host: Today on design review we'll be doing something a little bit different. I'll be interviewing Katie Dill, Stripe's head of design.
 
@@ -69,7 +21,7 @@ Katie Dill: Yes.
 
 Host: So I am excited for them all to learn from you today about how to do that, what great design looks like, and how to bring that to their startups at the earliest stages. Maybe to start, why don't you tell us a little bit about your role here at Stripe and how the design team operates here?
 
-Katie Dill: So I lead the design organization. And what that means is that we have product designers, researchers, content designers that work hand in hand with engineers and product managers building the product. So for us, that's Stripe Billing, that's the checkout, that's pulling together all of the various products that show up in our dashboard or in our consumer interfaces. But also a part of the design organization is the Brand Studio team that works on our advertisements, our events, our branding, the books we design at Stripe Press. And then lastly, the website team at stripe.com.
+Katie Dill: So I lead the design organization. And what that means is that we have product designers, researchers, content designers that work hand in hand with engineers and product managers building the product. So for us, that's Stripe Billing, that's the checkout, that's pulling together all of the various products that show up in our dashboard or in our consumer interfaces. But also a part of the design organization is the Brand Studio team that works on our advertisements, our events, our branding, the books we design at Stripe Press. And then lastly, the website team at [stripe.com](http://stripe.com).
 
 Host: Everybody watching this will probably be familiar with Stripe and Lyft and Airbnb and a number of other companies that you've worked at. And you know, they're also known for having great design and a great user experience. What is the role that you think design played in the success of those companies?
 
@@ -194,63 +146,3 @@ Katie Dill: Well, that is all very, very nice to say. I appreciate that. And, ye
 Host: Awesome. Well, thank you so much for having us.
 
 Katie Dill: Yeah, of course. Thanks for having me.
-
-Up next from Design Review
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-93K views
-1 year ago
-Related
-21:06
-Stripe Head of Design Katie Dill Reviews Startup Websites
-93K views
-1 year ago
-21:12
-Does Your Startup Website Pass The First Impression Test?
-54K views
-Over 1 year ago
-43:42
-Brand Design Tips From Linear Founder Karri Saarinen
-38K views
-1 year ago
-23:18
-Five DevTool Startups Get Their Websites Reviewed
-38K views
-Over 1 year ago
-Advice for new managers
-Aaron Epstein
-One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time. Here's advice for those just beginning to grow and manage a team.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

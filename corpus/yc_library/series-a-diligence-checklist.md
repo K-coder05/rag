@@ -3,29 +3,7 @@ title: Series A diligence checklist
 source: https://www.ycombinator.com/library/3h-series-a-diligence-checklist
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Table of Contents
-Corporate Records and Charter Documents
-Business Plan and Financials
-Intellectual Property
-Security Issuances and Agreements Concerning Securities
-Material Agreements
-Information Regarding Disputes and Potential Litigation
-Information Regarding Employees and Employee Benefits
-Home
-›
-Series A diligence checklist
-Series A diligence checklist
-by Aaron Harris, Jason Kwon
-
-When we launched our Series A program a few months ago, we decided that what we learn along the way shouldn’t just be kept inside of YC. We're going to publish tools and learnings from the program that should help every company create better outcomes.
+When we launched our [Series A program](https://blog.ycombinator.com/yc-series-a-program/) a few months ago, we decided that what we learn along the way shouldn’t just be kept inside of YC. We're going to publish tools and learnings from the program that should help every company create better outcomes.
 
 This is the first tool. It’s simple, but effective.
 
@@ -33,113 +11,83 @@ Below, you’ll find a Series A diligence checklist. This runs through all the p
 
 Jason Kwon, the GC of YC Continuity put this checklist together after being involved in hundreds of financings with nearly every law firm and VC fund in the valley.
 
-Corporate Records and Charter Documents
-All minutes of directors’ and stockholders’ meetings, and all written consents of directors and stockholders.
-Certificate of Incorporation, Certificates of Designation, Rights, etc., and Bylaws.
-Similar information for the Company and subsidiaries, if any.
-A corporate entity organizational chart, if there are any parents or subsidiaries.
-Business Plan and Financials
-Current business plan and any financial projections.
-Most recent financial statements.
-Intellectual Property
-A list of the Company’s trademarks, patents, copyrights and domain names (or any applications therefore) including documentation of filing or registration with the appropriate governmental entities.
-If any of the foregoing were assigned to the Company, please so state and provide documentation of the assignment and recordation with the appropriate governmental entities.
-Security Issuances and Agreements Concerning Securities
-A list of the Company’s stockholders, including issuance dates and original issuance price.
-A list of the Company’s option holders, including grant dates and exercise prices.
-Copies of agreements relating to outstanding options, warrants, rights (including conversion or preemptive rights) or agreements for the purchase or acquisition of any of the Company’s securities, and agreements relating to the Company’s past stock issuances.
-Any documents evidencing registration rights for the Company’s securities, or evidencing any agreements among the Company’s shareholders or between the Company and its shareholders.
-A summary of the vesting schedules of any stock or options subject to vesting, including any vesting acceleration.
-Agreements relating to voting of securities and restrictive share transfers.
-Evidence of qualification or exemption under applicable federal (including Rule 701) and state blue sky laws for issuance or transfer of the Company’s securities.
-Material Agreements
-The Company’s standard terms of service / terms of use for its customers.
-Any agreements, understanding, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound which involve obligations of, or payments to, the Company in excess of $25,000.
-Any personal property leases.
-Any agreements concerning the purchase, lease, or sublease of real property.
-Any documents evidencing indebtedness for money borrowed or any other liabilities incurred by the Company.
-Any documents evidencing any mortgages, liens, loans and encumbrances with respect to the Company’s property or assets.
-Any documents evidencing any loans or advances made by the Company.
-Any licenses or agreements of any kind with respect to the Company’s or others’ patent, copyright, trade secret or other proprietary rights, proprietary information or technology, including employee confidentiality and proprietary information agreements.
-Any insurance policies held by the Company or of which the Company is a beneficiary and a summary of such policies, if available.
-Any judgment, order, writ or decree by which the Company is bound or to which it is a party.
-Any standard forms of agreements used by the Company.
-Any joint venture and partnership agreements.
-Any management, service and marketing agreements.
-Any confidentiality and nondisclosure agreements.
-Any agreements requiring consents or approvals in connection with the financing.
-Any consulting contracts.
-Any other agreements material to the business of the Company, or outside the ordinary course of business.
-A list of officers and directors. If any officers are not currently devoting 100 percent of their business time to the Company, please note them on this list.
-Information Regarding Disputes and Potential Litigation
-Any correspondence or documents relating to any pending or threatened action, suit or proceeding or investigation, including, without limitation, (i) those involving the Company’s employees in connection with their prior or present employment or use of technology and (ii) those being conducted by or before any governmental entity or regulatory agency.
-Any correspondence or documents relating to allegations of the Company’s infringement of the proprietary rights of others.
-Any correspondence or documents relating to any labor agreements or actions, union representation, or strike or other labor dispute.
-Information Regarding Employees and Employee Benefits
-A list of the Company’s employees and consultants, including title, base salary, target bonus (if applicable), commission plan (if applicable), classification (including, if an employee, whether the employee is exempt or non-exempt) and state of residence.
-The Company’s standard form of offer letter.
-Any agreements, understandings or proposed transactions between the Company and any of its officers, directors, affiliates, or any affiliate thereof, including without limitation, employment agreements and offer letters with severance benefits or vesting acceleration provisions.
-Any plans, agreements or arrangements that provide benefits contingent upon a change in control.
-Any severance or deferred compensation plans (including any salary deferral agreements, whether written or oral, with employees or consultants).
-Any employee benefit plans, including, without limitation, stock option plans, 401(k) plans, pension plans and insurance plans.
-Any forms of agreements used in connection with any stock option plans (such as a form of option agreement, notice of exercise and restricted stock purchase agreement).
-If the Company sponsors a 401(k) plan, any determination or opinion letter and Form 5500 filings for the last 3 years.
-All documents or other information relating to any loans made by the Company to its employees, directors or consultants.
-The Company’s employee handbook.
-If the Company has any foreign employees, separately list (by country) all benefits provided to foreign employees.
+---
 
-Equity Grants If you have any pending or promised equity grants you haven't already taken care of before you start your Series A process, do that ASAP. More people than not believe that once you have a term sheet, you can no longer use your current 409A valuation for option/stock grants because a material event has occurred that implies a newer (and hopefully higher) valuation for the company's common stock. Team members that were hired earlier who haven't been granted their equity yet will then have to receive their equity at a higher strike price, which reduces their upside. Some hires will realize this and you may then have to increase their compensation (in equity, cash or both) to make up the difference to avoid a morale issue. Since you cannot control the exact timing of when you receive a term sheet, the prudent thing to do is to make sure there isn't a significant backlog of equity grants while you are in the middle of your fundraise process.
+### Corporate Records and Charter Documents
 
-What is Y Combinator?
+1. All minutes of directors’ and stockholders’ meetings, and all written consents of directors and stockholders.
+2. Certificate of Incorporation, Certificates of Designation, Rights, etc., and Bylaws.
+3. Similar information for the Company and subsidiaries, if any.
+4. A corporate entity organizational chart, if there are any parents or subsidiaries.
+
+### Business Plan and Financials
+
+1. Current business plan and any financial projections.
+2. Most recent financial statements.
+
+### Intellectual Property
+
+1. A list of the Company’s trademarks, patents, copyrights and domain names (or any applications therefore) including documentation of filing or registration with the appropriate governmental entities.
+2. If any of the foregoing were assigned to the Company, please so state and provide documentation of the assignment and recordation with the appropriate governmental entities.
+
+### Security Issuances and Agreements Concerning Securities
+
+1. A list of the Company’s stockholders, including issuance dates and original issuance price.
+2. A list of the Company’s option holders, including grant dates and exercise prices.
+3. Copies of agreements relating to outstanding options, warrants, rights (including conversion or preemptive rights) or agreements for the purchase or acquisition of any of the Company’s securities, and agreements relating to the Company’s past stock issuances.
+4. Any documents evidencing registration rights for the Company’s securities, or evidencing any agreements among the Company’s shareholders or between the Company and its shareholders.
+5. A summary of the vesting schedules of any stock or options subject to vesting, including any vesting acceleration.
+6. Agreements relating to voting of securities and restrictive share transfers.
+7. Evidence of qualification or exemption under applicable federal (including Rule 701) and state blue sky laws for issuance or transfer of the Company’s securities.
+
+### Material Agreements
+
+1. The Company’s standard terms of service / terms of use for its customers.
+2. Any agreements, understanding, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound which involve obligations of, or payments to, the Company in excess of $25,000.
+3. Any personal property leases.
+4. Any agreements concerning the purchase, lease, or sublease of real property.
+5. Any documents evidencing indebtedness for money borrowed or any other liabilities incurred by the Company.
+6. Any documents evidencing any mortgages, liens, loans and encumbrances with respect to the Company’s property or assets.
+7. Any documents evidencing any loans or advances made by the Company.
+8. Any licenses or agreements of any kind with respect to the Company’s or others’ patent, copyright, trade secret or other proprietary rights, proprietary information or technology, including employee confidentiality and proprietary information agreements.
+9. Any insurance policies held by the Company or of which the Company is a beneficiary and a summary of such policies, if available.
+10. Any judgment, order, writ or decree by which the Company is bound or to which it is a party.
+11. Any standard forms of agreements used by the Company.
+12. Any joint venture and partnership agreements.
+13. Any management, service and marketing agreements.
+14. Any confidentiality and nondisclosure agreements.
+15. Any agreements requiring consents or approvals in connection with the financing.
+16. Any consulting contracts.
+17. Any other agreements material to the business of the Company, or outside the ordinary course of business.
+18. A list of officers and directors. If any officers are not currently devoting 100 percent of their business time to the Company, please note them on this list.
+
+### Information Regarding Disputes and Potential Litigation
+
+1. Any correspondence or documents relating to any pending or threatened action, suit or proceeding or investigation, including, without limitation, (i) those involving the Company’s employees in connection with their prior or present employment or use of technology and (ii) those being conducted by or before any governmental entity or regulatory agency.
+2. Any correspondence or documents relating to allegations of the Company’s infringement of the proprietary rights of others.
+3. Any correspondence or documents relating to any labor agreements or actions, union representation, or strike or other labor dispute.
+
+### Information Regarding Employees and Employee Benefits
+
+1. A list of the Company’s employees and consultants, including title, base salary, target bonus (if applicable), commission plan (if applicable), classification (including, if an employee, whether the employee is exempt or non-exempt) and state of residence.
+2. The Company’s standard form of offer letter.
+3. Any agreements, understandings or proposed transactions between the Company and any of its officers, directors, affiliates, or any affiliate thereof, including without limitation, employment agreements and offer letters with severance benefits or vesting acceleration provisions.
+4. Any plans, agreements or arrangements that provide benefits contingent upon a change in control.
+5. Any severance or deferred compensation plans (including any salary deferral agreements, whether written or oral, with employees or consultants).
+6. Any employee benefit plans, including, without limitation, stock option plans, 401(k) plans, pension plans and insurance plans.
+7. Any forms of agreements used in connection with any stock option plans (such as a form of option agreement, notice of exercise and restricted stock purchase agreement).
+8. If the Company sponsors a 401(k) plan, any determination or opinion letter and Form 5500 filings for the last 3 years.
+9. All documents or other information relating to any loans made by the Company to its employees, directors or consultants.
+10. The Company’s employee handbook.
+11. If the Company has any foreign employees, separately list (by country) all benefits provided to foreign employees.
+
+**Equity Grants**
+If you have any pending or promised equity grants you haven't already taken care of before you start your Series A process, do that ASAP. More people than not believe that once you have a term sheet, you can no longer use your current 409A valuation for option/stock grants because a material event has occurred that implies a newer (and hopefully higher) valuation for the company's common stock. Team members that were hired earlier who haven't been granted their equity yet will then have to receive their equity at a higher strike price, which reduces their upside. Some hires will realize this and you may then have to increase their compensation (in equity, cash or both) to make up the difference to avoid a morale issue. Since you cannot control the exact timing of when you receive a term sheet, the prudent thing to do is to make sure there isn't a significant backlog of equity grants while you are in the middle of your fundraise process.
+
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
-Related
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-A guide to seed fundraising
-Geoff Ralston
-The most comprehensive guide on why, when, and how to raise money for your startup.
-How to build your seed round pitch deck
-Aaron Harris
-Y Combinator has helped thousands of founders create pitch decks for their seed round fundraising. Here is the YC seed deck template that works.
-A standard and clean Series A term sheet
-Jason Kwon, Aaron Harris
-YC has seen thousands of Series A term sheets, and we know what good terms look like. This is what a Series A term sheet looks like with standard and clean terms from a good Silicon Valley VC.
-How to build a great Series A pitch and deck
-Janelle Tam
-YC's Janelle Tam on how to put together a great Series A pitch and deck.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
 
-© 2026 Y Combinator
+[Apply](/apply)

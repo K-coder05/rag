@@ -3,23 +3,9 @@ title: YC and Hard Tech Startups
 source: https://www.ycombinator.com/library/4r-yc-and-hard-tech-startups
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-YC and Hard Tech Startups
-YC and Hard Tech Startups
-by Sam Altman
+Some people think YC only funds straightforward software startups. That’s definitely not the case — YC’s largest exit to date is a self-driving car company, [Cruise Automation](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/), and we’ve funded many other hard technology companies like [Gingko Bioworks](http://www.ginkgobioworks.com/), [Oklo](http://oklo.com/), [Helion](http://helionenergy.com/), [Rigetti Computing](http://rigetti.com/), [OpenAI](http://openai.org), [Perlara](http://perlara.com/), [Verge Genomics](http://vergegenomics.com/), [X-Zell](http://www.x-zell.com/), [Athelas](http://getathelas.com/), [Auro Robotics](http://aurobots.com/), [Bagaveev](http://bagaveev.com/), [Boom](http://boom.aero/), [Gecko Robotics](https://www.geckorobotics.com/), [Multiply Labs](http://multiplylabs.com/), [OpenTrons](http://opentrons.com/), [Varden Labs](http://vardenlabs.com/), [Atomwise](http://atomwise.com/), [Transcriptic](http://transcriptic.com/), [IronOx](http://www.ironox.com/), [20n](http://20n.com/), [Bikanta](http://bikanta.com/), [Industrial Microbes](http://imicrobes.com/), [Cofactor Genomics](http://cofactorgenomics.com/) and [many](http://www.ycombinator.com/companies/?vertical=Biomedical) [more](http://www.ycombinator.com/companies/?vertical=Hardware).
 
-Some people think YC only funds straightforward software startups. That’s definitely not the case — YC’s largest exit to date is a self-driving car company, Cruise Automation, and we’ve funded many other hard technology companies like Gingko Bioworks, Oklo, Helion, Rigetti Computing, OpenAI, Perlara, Verge Genomics, X-Zell, Athelas, Auro Robotics, Bagaveev, Boom, Gecko Robotics, Multiply Labs, OpenTrons, Varden Labs, Atomwise, Transcriptic, IronOx, 20n, Bikanta, Industrial Microbes, Cofactor Genomics and many more.
-
-We’d like to fund a lot more hard tech companies 1, and I’d like to explain how YC most helps hard tech founders.
+We’d like to fund a lot more hard tech companies [1](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/), and I’d like to explain how YC most helps hard tech founders.
 
 At the earliest stages, there’s actually a lot more in common between a self-driving car company and a file sharing company than people think–all kinds of startups usually work best when initial costs are low and iteration cycles are fast. It’s relatively easy for a software startup to take short cycle times and low-costs to an extreme, but hard tech founders are often surprised by how effectively they can do this, too.
 
@@ -27,9 +13,13 @@ Many hard tech founders come from academia or big company backgrounds, where pro
 
 Very often, the first thing we do is help hard tech founders find a small project within their larger idea that fits the model of quick iteration and requires a relatively small amount of capital. This project is often the smallest subset of their technology that still matters to some user or customer. It may at first look like a detour, but it’s a starting point that lets founders build measurable momentum–for themselves, for recruiting employees, and for attracting investors.
 
-What is Y Combinator?
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
+
+[Apply](/apply)
 
 And while we encourage hard tech startups to start small, we love when founders think very big.  When needed, we help founders think through a long-term plan of how they can develop their technology to build companies of massive impact. It’s not a YC company, but Tesla is my favorite example of how powerful this small project + long-term planning mentality can be. Their vision has always been to bring an affordable electric car to the masses, but they first built the Roadster—the opposite of a mass market car—to generate revenue to get to the Model S. The Model S then generated the revenue to start the Model 3.
 
@@ -41,7 +31,7 @@ We also help hard tech startups balance the need to move quickly with complex re
 
 When appropriate, we help hard tech founders find customers. For some startups this doesn’t make sense—there are some ideas that people will obviously want if the technology can be figured out, and there are obvious other things to focus on. But for others, it can be a useful way to find that smallest useful project and/or build more momentum.
 
-Gingko Bioworks, which biologically engineers custom microbes, is a good example of this— before YC they had done a few large deals, with long ~6 month sales cycles. But when they went through YC, we encouraged them to figure out how to do minimal sized engagements that they could sell more quickly. During YC, they took this strategy and closed 3 new Fortune-1000 sized customers. They say this strategy gave them a lot of momentum to keep building on to where they are now.
+Gingko Bioworks, which biologically engineers custom microbes, is a good example of this— before YC they had done a few large deals, with long ~6 month sales cycles. But when they went through YC, we encouraged them to figure out how to do minimal sized engagements that they could sell more quickly. During YC, they took this strategy and closed 3 new Fortune-1000 sized customers. They say this strategy gave them a lot of momentum to keep building on to where they are [now](https://techcrunch.com/2016/06/08/ginkgo-bioworks-grabs-100-million-in-financing-to-buy-a-whole-lot-of-synthetic-dna/).
 
 Hard tech companies go through the same 3-month batch format as all of the startups we fund. No matter what people are working on, it ends up being very motivating to be around other founders for this short, intense period of time. And during the batch, hard tech founders have hardware and biotech days, where companies come together to hear from successful founders on how to best tackle their specific problems.
 
@@ -51,64 +41,6 @@ Alumni and batchmates also give moral support—more so than with others, we hea
 
 Finally, we are particularly good at helping hard tech companies raise money. Fundraising can often be harder for hard tech founders, as the things being worked on often fall outside investors' comfort zones. But at this point a lot of investors take YC's judgement as an encouraging sign. Being backed by YC can help legitimize daunting ideas.
 
-We hope to fund a lot more hard tech companies in the future, and if you’re tinkering on something or even just toying with an idea, we hope you’ll apply now, even if that means you have to turn in your application late. There will be many $10 billion+ hard tech companies in the future, and we hope to help a lot more of them get started.
+We hope to fund a lot more hard tech companies in the future, and if you’re tinkering on something or even just toying with an idea, we hope you’ll [apply now](http://www.ycombinator.com/apply/), even if that means you have to turn in your application late. There will be many $10 billion+ hard tech companies in the future, and we hope to help a lot more of them get started.
 
-1 I use ‘hard tech’ to mean a startup where there is doubt that the technology can be built at all.
-
-Related
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-2:37
-Successful YC Application video: Zenefits (YC W2013)
-402K views
-Over 1 year ago
-40:21
-How to apply and succeed at Y Combinator
-228K views
-Over 1 year ago
-0:31
-YC Application Tips: You don't need to know someone
-29K views
-Over 1 year ago
-Before growing your startup
-Sam Altman
-Startups are defined by growth, but growth isn't step one in building a great company. If you focus on trying to grow before you make a product people love, you are unlikely to succeed.
-Later stage advice for startups
-Sam Altman
-There are many common issues founders face in the later stages of their startups. Here's a condensed list of what they are and how to get ahead of them sooner than later.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+[1](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/) I use ‘hard tech’ to mean a startup where there is doubt that the technology can be built at all.

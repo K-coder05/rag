@@ -3,39 +3,19 @@ title: Venture Debt 101: Basics and Approach
 source: https://www.ycombinator.com/library/CH-venture-debt-101-basics-and-approach
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Table of Contents
-What is Venture Debt?
-Strategy: How to Approach Venture Debt
-Good news: New Entrant: Brex
-Conclusion:
-GLOSSARY: Basic Terminology (for familiarity only; counsel needs to be hired)
-Home
-›
-Venture Debt 101: Basics and Approach
-Venture Debt 101: Basics and Approach
-by Jon Levy
+*In this guide, YC Managing Director Jon Levy talks about venture debt. He covers what it is, walks through some of its benefits and risks, and gives advice on how to approach the process of taking on venture debt. He also highlights Brex's newly launched venture debt offering. Brex is a YC portfolio company that provides an all-in-one finance solution to their customers. With Brex's new offering, they have plans to make the venture debt process simple and transparent.*
 
-In this guide, YC Managing Director Jon Levy talks about venture debt. He covers what it is, walks through some of its benefits and risks, and gives advice on how to approach the process of taking on venture debt. He also highlights Brex's newly launched venture debt offering. Brex is a YC portfolio company that provides an all-in-one finance solution to their customers. With Brex's new offering, they have plans to make the venture debt process simple and transparent.
-
-What is Venture Debt?
+## What is Venture Debt?
 
 Venture debt is a loan to companies that have raised money from venture capital investors (“VCs”). Traditionally, banks only loan money to companies that have collateral (i.e. assets, cash flow, profits); venture debt is different in that venture debt lenders will offer debt financing to promising companies that are not cash flow positive, without existing collateral, provided that these emerging companies have raised money from VCs and show strong growth potential.
 
 Money is essential for companies to grow, and venture debt can be helpful. It can boost a company’s cash reserves and extend its runway. It can provide a bridge so that a founder can delay raising an equity round, grow the company and attract higher valuations. Venture debt interest rates often are based off of WSJ Prime (currently at an all-time low percentage), and venture debt may protect a founder’s ownership by allowing a founder to retain a higher percentage ownership of his/her company. While venture debt can help a founder by protecting ownership, it also carries risks and founders should understand the pros and cons before accepting venture debt.
 
-Venture debt investors are fundamentally different from equity investors. Equity investors understand that one successful investment can make up for a number of losses (http://www.paulgraham.com/swan.html); venture debt investors expect to get repaid on every investment. With venture debt investors, repayment is contractually required: every cent must be repaid. Venture debt investors typically tie their investment to business plan milestones, metrics like accounts receivable and revenue, or events, whereas most equity investors allow startups leeway to pivot. Unlike equity investors, venture debt investors are less flexible. These investors are not as concerned with reputational damage: while an equity investor may support a startup that “pivots” to find product market fit, a venture debt investor is less understanding, given the need to get repaid. Venture debt lenders are thus more apt to enforce a contract to make sure their money is returned, even if the company would be killed from such enforcement. These investors are myopically focused on losing as little money as possible; they rarely are interested in any other considerations.
+Venture debt investors are fundamentally different from equity investors. Equity investors understand that one successful investment can make up for a number of losses (<http://www.paulgraham.com/swan.html>); venture debt investors expect to get repaid on every investment. With venture debt investors, repayment is contractually required: every cent must be repaid. Venture debt investors typically tie their investment to business plan milestones, metrics like accounts receivable and revenue, or events, whereas most equity investors allow startups leeway to pivot. Unlike equity investors, venture debt investors are less flexible. These investors are not as concerned with reputational damage: while an equity investor may support a startup that “pivots” to find product market fit, a venture debt investor is less understanding, given the need to get repaid. Venture debt lenders are thus more apt to enforce a contract to make sure their money is returned, even if the company would be killed from such enforcement. These investors are myopically focused on losing as little money as possible; they rarely are interested in any other considerations.
 
-Strategy: How to Approach Venture Debt
+## Strategy: How to Approach Venture Debt
 
-First, founders need to understand basic venture debt terminology. Founders do not need to be venture debt experts, but do need to understand their contractual obligations, particularly because venture debt lenders will rely on these contractual terms to protect their investment1. Founders need to assess which terms are important, and which ones may place their company at risk. At the bottom of this essay is a short glossary and explanation of some key terms that founders will encounter in a venture debt financing.
+First, founders need to understand basic venture debt terminology. Founders do not need to be venture debt experts, but do need to understand their contractual obligations, particularly because venture debt lenders will rely on these contractual terms to protect their investment[1](#footnote1). Founders need to assess which terms are important, and which ones may place their company at risk. At the bottom of this essay is a short glossary and explanation of some key terms that founders will encounter in a venture debt financing.
 
 Second, after understanding the basics, founders should consider evaluating multiple venture debt lenders in order to make the process competitive. Far too often, Y Combinator founders tell me that they met a venture debt lender, got a term sheet and quickly signed and agreed to terms. A founder would never speak to only one equity investor when raising a Series A round, but in my experience, it is common for founders to speak to only one venture debt investor. Fortunately, there are more lenders and new entrants offering venture debt, and founders now have additional options (more on this topic below). Working with a more friendly lender that you know well can make all the difference in a downside case, but you also should not drag on the venture debt raise process for months – you have a business to run.
 
@@ -43,15 +23,15 @@ Third, founders must involve legal counsel when entering into a venture debt rel
 
 Please note that while venture debt investors need to protect their investment, they also deserve to be treated fairly. There are many instances where venture lenders have complained that companies were not forthcoming about their circumstances and did not provide relevant information such as their cash burn, or the loss of a significant lost contract. It does not help a company to hide from its lenders – the worst possible way to treat your lender is to make them think that everything is going according to plan, and then drop a bombshell on them when it’s too late to course-correct. Because there may be ways to restructure debt, it inures to a company’s benefit to treat its lenders fairly.
 
-Good news: New Entrant: Brex
+## Good news: New Entrant: Brex
 
-I mentioned there are new entrants in the venture debt space, and Y Combinator is glad that our portfolio company Brex is now offering venture debt financings to startup companies. Understanding startups’ financial needs is in Brex’s DNA: the company grew quickly because it understood the challenges startups had with accessing basic credit. Brex knows how to serve startups and young companies with a variety of credit solutions and is a welcome addition to this market. YC has shared our concerns with Brex about the pitfalls of venture debt, and Brex has plans to make its venture debt financing terms simple and transparent. While we are confident in Brex’s ability to compete in any market, we continue to believe that all startups should reach out to multiple parties when accessing venture debt. To learn more about Brex’s offering, see [here](https://www.brex.com/product/venture-debt/).
+I mentioned there are new entrants in the venture debt space, and Y Combinator is glad that our portfolio company Brex is now offering venture debt financings to startup companies. Understanding startups’ financial needs is in Brex’s DNA: the company grew quickly because it understood the challenges startups had with accessing basic credit. Brex knows how to serve startups and young companies with a variety of credit solutions and is a welcome addition to this market. YC has shared our concerns with Brex about the pitfalls of venture debt, and Brex has plans to make its venture debt financing terms simple and transparent. While we are confident in Brex’s ability to compete in any market, we continue to believe that all startups should reach out to multiple parties when accessing venture debt. To learn more about Brex’s offering, see [here]([https://www.brex.com/product/venture-debt/](https://www.brex.com/product/venture-debt)).
 
-Conclusion:
+## Conclusion:
 
-Venture debt clearly has many benefits -- it offers startups a less dilutive way to inject capital into a healthy, growing business, a business that most traditional banks ignore today. At its best, venture debt is an effective complement to equity financing, and helps accelerate a company’s growth. But accessing venture debt is not without risks2. Founders should be realistic and ask themselves whether they are taking on a burden that can be repaid. A company is best positioned to assume venture debt when it is confident in its ability to repay the loan, which will eliminate all associated risks.
+Venture debt clearly has many benefits -- it offers startups a less dilutive way to inject capital into a healthy, growing business, a business that most traditional banks ignore today. At its best, venture debt is an effective complement to equity financing, and helps accelerate a company’s growth. But accessing venture debt is not without risks[2](#footnote2). Founders should be realistic and ask themselves whether they are taking on a burden that can be repaid. A company is best positioned to assume venture debt when it is confident in its ability to repay the loan, which will eliminate all associated risks.
 
-GLOSSARY: Basic Terminology (for familiarity only; counsel needs to be hired)
+### GLOSSARY: Basic Terminology (for familiarity only; counsel needs to be hired)
 
 Commitment: What type of commitment is your venture debt investor making? How much money is being offered? When can your company access the money? Does the company need to “draw-down” over time? Can the company access all the capital at once?
 
@@ -75,68 +55,18 @@ Current Ratio/ Quick Ratio: These financial terms measure a company’s liquidit
 
 Default Provisions: Defaulting on a loan allows the lender to ask for its money back and can kill a company. There are different types of defaults in venture loan contracts: technical default (violating a covenant); monetary default (missing a payment); change in status default (legal judgment); and there are subjective defaults: “material adverse change” or “investor abandonment”. It is important to maintain a good relationship with your lender, especially if there is a subjective default provision that may be triggered. In these circumstances, a lender bank may choose to revise its debt, or make the more draconian decision to send the loan to its bank’s workout group.
 
-1. Venture debt terms and concepts are very simple; the language may seem daunting because it is unfamiliar. The dynamic is similar to equity financings: it is disconcerting for founders when they first hear preferred stock financing terminology (e.g. liquidation preference, broad-based weighted average anti-dilution, right of first refusal and co-sale rights). But all YC founders quickly get up to speed and understand the meaning of these simple concepts. Venture debt terminology may seem unfamiliar, but also can be understood quickly. ↩
+---
 
-2. I have not listed all the risks associated with venture debt. It is important to note that unlike equity, venture debt requires a startup to agree to financial “covenants” -- e.g. a startup needs approval before incurring additional indebtedness, selling assets, etc.. More important, in a downside scenario, a venture lender often influences a company’s ultimate exit. That means if a company is running out of capital and has two options, one which employees prefer and one which is better for the bank, the company probably will have to choose the option that is better for the bank. These risks further highlight why founders need to be realistic about their ability to repay. To emphasize, founders should remember that venture debt is a debt that needs to be paid back. ↩
+**1.** Venture debt terms and concepts are very simple; the language may seem daunting because it is unfamiliar. The dynamic is similar to equity financings: it is disconcerting for founders when they first hear preferred stock financing terminology (e.g. liquidation preference, broad-based weighted average anti-dilution, right of first refusal and co-sale rights). But all YC founders quickly get up to speed and understand the meaning of these simple concepts. Venture debt terminology may seem unfamiliar, but also can be understood quickly. [↩](https://www.ycombinator.com/library/CH-venture-debt-101-basics-and-approach#footnoteid1)
+
+**2.** I have not listed all the risks associated with venture debt. It is important to note that unlike equity, venture debt requires a startup to agree to financial “covenants” -- e.g. a startup needs approval before incurring additional indebtedness, selling assets, etc.. More important, in a downside scenario, a venture lender often influences a company’s ultimate exit. That means if a company is running out of capital and has two options, one which employees prefer and one which is better for the bank, the company probably will have to choose the option that is better for the bank. These risks further highlight why founders need to be realistic about their ability to repay. To emphasize, founders should remember that venture debt is a debt that needs to be paid back. [↩](https://www.ycombinator.com/library/CH-venture-debt-101-basics-and-approach#footnoteid2)
 
 ​
 
-What is Y Combinator?
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
-Related
-29:00
-Managing startup finances
-304K views
-Over 1 year ago
-57:45
-Startup legal mechanics
-83K views
-Over 1 year ago
-2:30
-Why do startups fail?
-27K views
-Over 1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-A guide to seed fundraising
-Geoff Ralston
-The most comprehensive guide on why, when, and how to raise money for your startup.
-How to build your seed round pitch deck
-Aaron Harris
-Y Combinator has helped thousands of founders create pitch decks for their seed round fundraising. Here is the YC seed deck template that works.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
 
-© 2026 Y Combinator
+# What is Y Combinator?
+
+We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
+
+[Apply](/apply)

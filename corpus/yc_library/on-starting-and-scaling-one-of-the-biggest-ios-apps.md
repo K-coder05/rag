@@ -3,86 +3,17 @@ title: On starting and scaling one of the biggest iOS apps
 source: https://www.ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Pivoting
-›
-On starting and scaling one of the biggest iOS apps
-On starting and scaling one of the biggest iOS apps
-by David Lieb
-9,772 views
-Over 1 year ago
-Chapters
-0:10
-How Bump became one of the biggest apps on the App Store
-3:24
-Bump was the billionth app downloaded on iOS
-5:42
-David's YC interview
-7:45
-Bump's goal during YC
-9:40
-Experiments at Bump before working on photos
-10:45
-How Bump grew
-12:00
-How David thinks about product market fit
-13:00
-Flock and talking with the top users of Bump
-17:30
-Going upstream in photo sharing, becoming the camera roll
-19:00
-Being a photo sharing power user and how that helped when building a product
-21:40
-Fundraising
-25:40
-Deciding that Photo Roll would work better within a big company and building it at Google
-29:10
-When building a product, pretend there's a person doing that task for you in the best possible way then try to build that
-31:20
-How David spends his time running Google Photos
-33:15
-How David feels about his work at Google after being a startup founder
-34:45
-When to apply AI
-36:50
-Attention to the user vs the technology
-37:30
-Talking to users at scale
-40:30
-Lamide Akomolafe asks - What did David focus on too much as a rookie product lead that he thinks was a mistake now?
-42:15
-Getting confidence to ship features to a billion users
-44:45
-Generating support for a project within a big company
-46:30
-In 5-10 years will David be working for a large or small company?
-47:55
-When thinking about an acquisition, can you execute your vision in a larger way within the company?
-49:40
-Larger truths about people learned by paying so much attention to photos and memories
-51:15
-Giving everyone a photographic memory and deciding which photos are important
-52:25
-Products David likes and the importance of solving a durable human need
+[David Lieb](https://twitter.com/dflieb) is the Product Lead for [Google Photos](https://photos.google.com). Prior to working on Google Photos, David was the cofounder and CEO of Bump, which was in the Summer 2009 batch of YC.
 
-David Lieb is the Product Lead for Google Photos. Prior to working on Google Photos, David was the cofounder and CEO of Bump, which was in the Summer 2009 batch of YC.
+[Gustaf Alströmer](https://twitter.com/gustaf) is a Partner at YC.
 
-Gustaf Alströmer is a Partner at YC.
+David is on Twitter [@dflieb](https://twitter.com/dflieb) and Gustaf is [@gustaf](https://twitter.com/gustaf).
 
-David is on Twitter @dflieb and Gustaf is @gustaf.
+---
 
-Transcript
+## Transcript
 
-Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon and you're listening to Y Combinator's podcast. Today's episode is with David Lieb and Gustaf Alströmer. Gustaf is a partner at YC. David is the product lead for Google Photos. Prior to working on Google Photos, David was the co-founder and CEO of Bump, which was in the summer 2009 batch of YC. You can try Google Photos at photos.google.com. David is on Twitter @dflieb and Gustaf is @gustaf. All right, here we go. Welcome to the podcast, guys.
+Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon and you're listening to Y Combinator's podcast. Today's episode is with David Lieb and Gustaf Alströmer. Gustaf is a partner at YC. David is the product lead for Google Photos. Prior to working on Google Photos, David was the co-founder and CEO of Bump, which was in the summer 2009 batch of YC. You can try Google Photos at [photos.google.com](http://photos.google.com). David is on Twitter [@dflieb](https://twitter.com/dflieb) and Gustaf is [@gustaf](https://twitter.com/gustaf). All right, here we go. Welcome to the podcast, guys.
 
 David Lieb [00:33] - Hey, thanks.
 
@@ -350,7 +281,7 @@ David Lieb [56:42] - All right, thanks Gus.
 
 Gustaf Alströmer [56:43] - It was great.
 
-Transcript
+## Transcript
 
 Gustaf Alströmer: Welcome to the podcast, guests.
 
@@ -633,75 +564,3 @@ Host: All right, thanks so much for coming in.
 David Lieb: Thank you so much.
 
 Gustaf Alströmer: Yes, great.
-
-Up next from Pivoting
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-19:33
-How David Lieb Turned a Failing Startup Into Google Photos
-355K views
-1 year ago
-20:49
-YC's Group Partners share their favorite pivot stories
-160K views
-Over 1 year ago
-34:39
-How To Build The Future: Aravind Srinivas
-141K views
-1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-13:50
-Dot Plots: How to Actually See What Your Users Are Doing
-27K views
-1 month ago
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

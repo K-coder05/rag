@@ -3,28 +3,9 @@ title: Now Anyone Can Code: How AI Agents Can Build Your Whole App
 source: https://www.ycombinator.com/library/Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Now Anyone Can Code: How AI Agents Can Build Your Whole App
-LIGHTCONE
-Now Anyone Can Code: How AI Agents Can Build Your Whole App
-by Y Combinator
-94K views
-1 year ago
-
 Thanks to rapid development in LLM’s, we are now at the point where AI is able to follow prompts and generate code to build functional custom software. So how does the tech landscape change when the ability to code is democratized? In this episode of the Lightcone, the hosts speak with Amjad Masad, the CEO of Replit, an AI-powered software development and deployment platform, to see how coding power can be given to everyday users.
 
-Transcript
+## Transcript
 
 Gary Tan: 1984 the Mac brought personal computing to the masses. 2024 we have personal software. You actually are going to be able to orchestrate this giant army of agents. And I think of Mickey Mouse and Fantasia. Just like, you know, learning this new magical sort of ability, and suddenly all the brooms are walking and talking and dancing. And it's this incredible menagerie of being able to build whatever the heck you want whenever you want.
 
@@ -219,66 +200,3 @@ Gary Tan: Om, thank you so much for coming and showing us the future in such a p
 Speaker: Well, first of all, I want to say it's again barely beta software. If you're if you're brave and you want to test it and give us feedback, go to Repet, sign up for our core plan, because this thing is expensive. We can't give it away for free. And you'll be able to see that module on the homepage that says, "What do you want to build today?" And then you can go through that and start working with the agents. Just have an idea in your mind. Just write a couple sentences. Don't make it too complicated or too technical. And get started. You'll get a feel of how to work with the agent pretty quickly. It should be pretty intuitive. And share with us what you're building. Happy to kind of reshare, retweet, whatever people are building with the agent.
 
 Gary Tan: Amazing. Well, it's time to feed the AGI. We'll see you guys next week.
-
-Up next from Lightcone Podcast
-37:06
-Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
-445K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-37:06
-Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities
-445K views
-1 year ago
-59:00
-How YC Was Created With Jessica Livingston
-28K views
-1 year ago
-55:52
-Building The World's Best Image Diffusion Model
-18K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,61 +3,13 @@ title: Startup Ideas You Can Now Build With AI
 source: https://www.ycombinator.com/library/MQ-startup-ideas-you-can-now-build-with-ai
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Startup Ideas You Can Now Build With AI
-LIGHTCONE
-Startup Ideas You Can Now Build With AI
-by Y Combinator
-293K views
-1 year ago
-Chapters
-0:00
-Intro
-0:41
-What startup ideas could not work before AI?
-6:06
-Technical screening products
-7:35
-Truly personalized education tools
-9:48
-Do better products automatically get better distribution?
-14:41
-Moats
-16:08
-The need for platform neutrality
-17:40
-Big Tech and AI
-23:24
-AI horseless carriages
-25:14
-Gross margins
-30:03
-Full stack companies
-32:30
-ML ops
-37:14
-Updated startup advice for the AI age
-40:19
-Outro
-
 There's never been a better time to start an AI company. Not just because there are new ideas, but because the tech finally makes old ones actually work.
 
 On the Lightcone, Garry, Harj, Diana and Jared talk through the kinds of startups that are suddenly viable thanks to LLMs—from full-stack law firms to personalized tutors to recruiting platforms that can finally scale. They share the patterns they're seeing, the ideas they're excited about, and what it means to live at the edge of the future, where breakthroughs often look like second chances.
 
 If you've been waiting for the right moment to build, this is it.
 
-Transcript
+## Transcript
 
 Host: There's all this like tooling and infrastructure still to build. There's clearly still a bunch of startups yet to be built in just the infrastructure space around deploying AI and using agents. If you're living at the edge of the future and you're exploring the latest technology, like there's so many great startup ideas, you're very likely just bump into one. You apply the right prompts and the right data set and a little bit of ingenuity, the right eval, a little bit of taste and you can get like just magical output. Welcome back to another episode of the light cone. Every other week we're certainly realizing there's a new capability, a million token context window in Gemini 2.5 Pro. It's just really insane right now. And the thing to take away from that though is that we have an incredible number of new startup ideas, some of which are actually very old and they can only happen right now.
 
@@ -115,7 +67,7 @@ Host: And this is one of the reasons why I think they could be the one company t
 
 Host: Is it actually the hardware? Like it's just like you can't actually do it. You can do it, but I think it's just very expensive and not cost effective. But I think they done it so well and they got TPUs which I think is smart. For Sam, if you saw his little announcement, he's still the, uh, CEO of compute, quote unquote. So I'm sure they're probably working on something around there too.
 
-Host: Classic innovators dilemma. It's like if Google replaced google.com with Gemini Pro, it would instantly presumably be like the number one chatbot LLM service in the world, but that it would give up 80% of its revenue.
+Host: Classic innovators dilemma. It's like if Google replaced [google.com](http://google.com) with Gemini Pro, it would instantly presumably be like the number one chatbot LLM service in the world, but that it would give up 80% of its revenue.
 
 Host: Yeah, you would probably need a pretty strong founder CEO to do that. It's the kind of thing I can imagine Zuck doing, right? Like being willing, like yeah, you just you can't imagine a hired CEO who's going to do that.
 
@@ -129,7 +81,7 @@ Host: Is it like, well it's not that smart and then it can't do anything.
 
 Host: Yeah. And then you have, I mean most people are surprised that it's in there. It's just, it's just like it feels like having someone from Facebook just in your chats and it's just like, it's, I know it remind me of like the original newsfeed launch or something. It's just like the classic Meta style of like, this is sort of I don't know, objectively optimal. Like I'm sure people will love it. You need to add a little bit of design taste into these things.
 
-Host: I mean, it blows my mind that I can go to the Blue App, which I still kind, you know, it's probably people watching this are like, "What the heck's the Blue App?" This is like facebook.com, which maybe nobody uses anymore. It's very millennial.
+Host: I mean, it blows my mind that I can go to the Blue App, which I still kind, you know, it's probably people watching this are like, "What the heck's the Blue App?" This is like [facebook.com](http://facebook.com), which maybe nobody uses anymore. It's very millennial.
 
 Host: Yeah. But, you know, you have this Meta AI and you ask it, "Hey, who are my friends? I'm going to Barcelona next week. Who are my friends in Barcelona?" And it's like, "Sorry, as an AI, I actually don't have access to them." It's like, what? You know, what is the point of this?
 
@@ -222,66 +174,3 @@ Host: I guess the reason why it could work extra well today is that you apply th
 Host: Yeah, I mean you can tell it's still a secret because you could look at there like hundreds of unicorns out there that still exist and that are doing great. You know, like growing year on year, have plenty of cash, all of that. But the number of them that are actually doing any sort of like transformation internally, it's not that many. Like a shocking few number of companies that are you know 100 to thousand person startups that you know they're going to be great businesses. But that class of startup like by and large they are not entirely aware. Like there isn't a skunk works project in those things yet. Like, you know, the extent of it is um, maybe the CEO is playing around with it. Like maybe some of the engineers who are really forward thinking are doing things in their spare time with it. Maybe they're using Windsurf or Cursor for the first time and it's like you look down and you're like, "What year is it?" Like it's a little bit like, "Hey, you know, get on this." Like I think Bob McGrew, uh, came on our channel and he was just shocked. Like he was one of the guys as Chief Research Officer like building, you know, building what became O1 and O3 and all these things. And then he releases it and like, "Who's using it?" Like he expected this, you know, crazy, you know, outpouring of like, "Intelligence is too cheap to meter. This is amazing." And it's like actually like people are mainly just—we're just still on our quarterly roadmap unchanged from, you know, even a year ago.
 
 Host: Yep. Pretty wild. Okay, cool. I think that's all we have time for today. My main takeaway from this has been there's never a better time to build. So many ideas are possible today that weren't even possible a year ago. Um, and the best way to find them is to just follow your own curiosity and keep building. Thanks for watching. See you on the next show.
-
-Up next from Lightcone Podcast
-52:36
-Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
-252K views
-1 year ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-31:34
-Vibe Coding Is The Future
-297K views
-1 year ago
-52:36
-Windsurf CEO: Betting On AI Agents, Pivoting In 48 Hours, And The Future of Coding
-252K views
-1 year ago
-43:15
-How To Navigate Co-Founder Disputes
-58K views
-1 year ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

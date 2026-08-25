@@ -3,27 +3,13 @@ title: Ginkgo Bioworks (S14) is going public today
 source: https://www.ycombinator.com/library/CV-ginkgo-bioworks-s14-is-going-public-today
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Ginkgo Bioworks (S14) is going public today
-Ginkgo Bioworks (S14) is going public today
-by Jared Friedman
-
-Ginkgo Bioworks is the first biotech company YC funded, and today they are going public. To celebrate their IPO, here's the story of how Ginkgo Bioworks ended up in YC, and what their journey was like as YC's first biotech startup.
+[Ginkgo Bioworks](https://www.ycombinator.com/companies/ginkgo-bioworks) is the first biotech company YC funded, and today they are going public. To celebrate their IPO, here's the story of how Ginkgo Bioworks ended up in YC, and what their journey was like as YC's first biotech startup.
 
 In 2014, YC had been funding startups for 9 years, but we'd mostly funded software companies. While we hadn't funded many, we thought that the YC model might work well for hard-tech companies. We were especially interested in synthetic biology and the intersection between biology and computer science.
 
 At the time, the first SynBioBeta conference had yet to be held and the first synthetic biology startups had just been started. But we thought that the potential was interesting enough to put out a "Request for Startups" on our blog, a call for people working in this area to apply to YC. Here's what we wrote:
 
-"Biotech. It’s still early, but it seems like we’re finally making real progress hacking biology. There are so many directions this can go—fighting disease, slowing aging, merging humans and computers, downloading memories, genetic programming, etc. We are certain that this is going to be a surprising, powerful and controversial field over the next several decades—it feels a little bit like microcomputers in the 1970s."
+> "Biotech. It’s still early, but it seems like we’re finally making real progress hacking biology. There are so many directions this can go—fighting disease, slowing aging, merging humans and computers, downloading memories, genetic programming, etc. We are certain that this is going to be a surprising, powerful and controversial field over the next several decades—it feels a little bit like microcomputers in the 1970s."
 
 The Ginkgo Bioworks founders read this and got interested in applying to YC. A couple of months later, they became the first biotech company funded by Y Combinator.
 
@@ -35,20 +21,20 @@ During YC, they still needed to prove that customers would pay for it. So during
 
 In their Demo Day presentation, Jason Kelly crisply articulated the bold vision that has been behind Ginkgo from their origins at MIT to the present day.
 
-"We've used robotic engineering and software to reduce the cost of genetic engineering by a factor of 5x in the last two years. This is the beginning of a Moore's law for genetic engineering.... The last 20 years of biotechnology have been the punch card era of biotech: slow, manual, tedious programming of organisms.... Imagine what can be done with a modern programming stack on top of biology. That's what we're building at Ginkgo. If that sounds cool to you, you can find us in the Jurassic Park t-shirts"
+> "We've used robotic engineering and software to reduce the cost of genetic engineering by a factor of 5x in the last two years. This is the beginning of a Moore's law for genetic engineering.... The last 20 years of biotechnology have been the punch card era of biotech: slow, manual, tedious programming of organisms.... Imagine what can be done with a modern programming stack on top of biology. That's what we're building at Ginkgo. If that sounds cool to you, you can find us in the Jurassic Park t-shirts"
 
 Here’s their Demo Day presentation:
 
 Yes, they really did wear Jurassic Park t-shirts to Demo Day.
 
-
-Founder Reshma Shetty on YC S14 Demo Day
+![](https://blog.ycombinator.com/wp-content/uploads/2021/09/unnamed-1-225x300.jpeg)
+ Founder Reshma Shetty on YC S14 Demo Day
 
 With this expansive vision and their solid commercial traction, Ginkgo successfully raised their first financing round at the end of the batch.
 
 Since then, they've executed brilliantly. They delivered on their early deals with customers, creating breakthrough organisms that produce flavors and fragrances for some of the world's biggest corporations. They built a massive organism engineering foundry in Boston that looks like a scene out of a science fiction movie. They hired many of the brightest scientific minds in the field. As they expanded into new areas, they spun off multiple companies as joint-ventures.
 
-The Ginkgo Bioworks founders have also become some of the best evangelists for the field of synthetic biology as a whole. Through their regular appearances at YC events and conferences like the annual iGEM competition, they've inspired many young scientists to enter the field. In 2019 YC launched a partnership with Ginkgo to let new synthetic biology startups use Ginkgo's foundry to launch.
+The Ginkgo Bioworks founders have also become some of the best evangelists for the field of synthetic biology as a whole. Through their regular appearances at YC events and conferences like the annual iGEM competition, they've inspired many young scientists to enter the field. In 2019 YC launched a [partnership](https://blog.ycombinator.com/yc-and-ginkgo-bioworks-announce-new-partnership-for-synthetic-biology-startups/) with Ginkgo to let new synthetic biology startups use Ginkgo's foundry to launch.
 
 When the pandemic started in March 2020, Ginkgo sprang into action. They converted some of their massive foundry into a covid testing lab, quickly becoming one of the largest and most automated covid testing labs in the country. That they were able to build a completely different business so rapidly, outcompeting long standing incumbents, is a testament to the brilliance and agility of the Ginkgo team.
 
@@ -56,74 +42,10 @@ While today is a huge milestone, it is still day one for synthetic biology and f
 
 Congratulations, Ginkgo!
 
-What is Y Combinator?
-We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-58:37
-How to find product-market fit
-859K views
-Over 1 year ago
-13:46
-Building A Supersonic Plane Company From The Ground Up
-86K views
-1 year ago
-14:26
-What's different about unicorns?
-29K views
-Over 1 year ago
-26:34
-On starting and scaling meal kit company Gobble
-21K views
-Over 1 year ago
-50:02
-On starting and scaling construction startup PlanGrid
-9,107 views
-Over 1 year ago
-How to spin your scientific research out of a university and into a startup
-Jared Friedman
-Here is advice for people who have done scientific research at a university and are considering starting a company to commercialize it.
-How biotech startup funding will change in the next 10 years
-Jared Friedman
-The landscape of funding for biotech startups is changing. What happened for software companies 10 years ago is happening to biotech today. Here's why more people will be able to start biotech companies moving forward.
-Pinduoduo and the rise of social e-commerce
-Anu Hariharan, Nic Dardenne
-The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
 
-© 2026 Y Combinator
+# What is Y Combinator?
+
+We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
+
+[Apply](/apply)

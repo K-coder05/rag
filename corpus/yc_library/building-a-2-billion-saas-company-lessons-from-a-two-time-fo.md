@@ -3,40 +3,6 @@ title: Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
 source: https://www.ycombinator.com/library/M1-building-a-2-billion-saas-company-lessons-from-a-two-time-founder
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
-FIRESIDES
-Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
-by Dalton Caldwell
-98K views
-1 year ago
-Chapters
-0:00
-Intro
-1:45
-FlightCar
-10:00
-Airbnb
-14:30
-YC partner
-15:36
-Second startup
-18:16
-Sales
-20:30
-Pricing
-22:15
-Framework
-
 Two-time founder Rujul Zaparde knows a thing or two about resilience and learning from failure.
 
 After dropping out of college to build FlightCar, he worked as a PM at Airbnb, and later as a visiting partner at YC.
@@ -45,7 +11,7 @@ In 2020, he co-founded Zip, a procurement software company that has since raised
 
 In this conversation with YC's Dalton Caldwell, Rujul demystifies the world of enterprise sales, shares his hard-earned lessons about scaling a business from zero, and explains how founders can use first-principles thinking to better approach the challenges of building a startup.
 
-Transcript
+## Transcript
 
 Host: Was a first time founder, right? I dropped out of school. Like, I cared a lot about what others thought—what my team thought, the leaders thought, right? Like, oh well, people quit because this person, the story executive, comes in and then leaves. I cared what our investors really thought, right? Like, oh, like how is the board meeting going to go? Like, how do we paint a positive picture about the business and press and all this other stuff? You care about a lot of these things. And then the second time, you really are like, you know what? It's my time. I just want to build something that people want that really works.
 
@@ -126,51 +92,3 @@ Rul: Absolutely, yeah. I think if I had to really distill it in my personal refl
 Host: That's awesome. Well, thank you so much for joining us today. I really appreciate it.
 
 Rul: No, thanks for having me.
-
-Related
-40:21
-How to apply and succeed at Y Combinator
-228K views
-Over 1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-17:55
-Starting A Company? The Key Terms You Should Know
-105K views
-1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

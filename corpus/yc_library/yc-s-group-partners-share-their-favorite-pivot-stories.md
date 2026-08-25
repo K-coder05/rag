@@ -3,59 +3,13 @@ title: YC's Group Partners share their favorite pivot stories
 source: https://www.ycombinator.com/library/Iy-yc-s-group-partners-share-their-favorite-pivot-stories
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Office Hours
-›
-YC's Group Partners share their favorite pivot stories
-OFFICE HOURS
-YC's Group Partners share their favorite pivot stories
-by Garry Tan
-160K views
-Over 1 year ago
-Chapters
-0:00
-Intro: How To Pivot
-0:37
-Favorite Pivots
-0:53
-Brex
-2:40
-Goat
-4:55
-Tom Blomfield: Billion Dollar Startup
-7:52
-Clipboard Health
-8:49
-The Secret to Finding the Right Problem
-10:28
-Pivot Hell
-13:43
-Diana Hu's Startup
-16:23
-Picking The Right Metrics To Follow
-16:47
-Favorite Understanding Of Pivoting
-18:34
-Find And Track Your Main KPI
-20:02
-Outro: Pivoting Process
-
-It turns out many of the billion dollar companies you know and love today pivoted on the way to getting there, and that’s what the first episode of our newest video series Office Hours is about.
+It turns out many of the billion dollar companies you know and love today pivoted on the way to getting there, and that’s what the first episode of our newest video series **Office Hours** is about.
 
 How do you know if it’s time for your startup to pivot? How can you narrow down which idea to try next — and how will you know if that next idea is the one?
 
-In Office Hours, we’ll feature Y Combinator’s Group Partners discussing the startup topics that they know better than just about anyone else in the world, because they’ve built their own successful startups and have advised thousands more.
+In **Office Hours**, we’ll feature Y Combinator’s [**Group Partners**](https://www.ycombinator.com/people) discussing the startup topics that they know better than just about anyone else in the world, because they’ve built their own successful startups and have advised thousands more.
 
-Transcript
+## Transcript
 
 Host: You don't know what the thing is that you're chasing when you wake up every morning, then you probably need to pivot. Right? So many founders have to work on the wrong thing before finding the right thing. It's like they've internalized, "I'm gonna fail. Yeah, so I might as well do something cool on the way down."
 
@@ -103,7 +57,7 @@ Tom Blomfield: Why don't you kick it off?
 
 Michael Seibel: Yeah, I'd love to.
 
-Tom Blomfield: Um, this is kind of embarrassing. We did YC. My first company—my co-founders, Matt and Hiroki—we applied with an idea called Group.io, which is a classic fintech tar pit. Like, every college kid thinks this is the best idea in the world, and we were those college kids back in 2011.
+Tom Blomfield: Um, this is kind of embarrassing. We did YC. My first company—my co-founders, Matt and Hiroki—we applied with an idea called [Group.io](http://Group.io), which is a classic fintech tar pit. Like, every college kid thinks this is the best idea in the world, and we were those college kids back in 2011.
 
 Michael Seibel: But we didn't know that at the time.
 
@@ -176,76 +130,3 @@ Speaker: Totally. Sometimes in the interview, yes. But if not, then you know, ea
 Host: One of the ways that I like to think about it is it's kind of like when buying real estate. A lot of people say "location, location, location." And really, when it comes to startups, it's really like the founders, the founders, the founders, the founders. Because everything else can change. And we've seen this so many times where, you know, it's the same founders. That's like the location. You can't change that. But you could knock the company down to the studs, rebuild it. They can work on a totally different idea, and all of a sudden it looks like a different company. And oftentimes, the founders even act like different founders. They become more formidable when they're working on an idea that they're excited about and they're well suited for.
 
 Each successful startup we've talked about today had to pivot to find product-market fit. This is the process. Whether you're just getting started or still thinking about launching a startup, or even wondering if you need to pivot, I hope these examples helped. I'm proud to say the group partners at YC are some of the most experienced people in the world at helping founders in the idea maze try to figure out their market. We can do it not just because we've been there. We can also do it because we've directly worked with more zero-to-one startups than anyone on the planet. Thanks for watching, and we'll see you on the next episode of office hours.
-
-Up next from Office Hours
-18:34
-How Do Billion Dollar Startups Start?
-137K views
-1 year ago
-Related
-25:42
-YC's Group Partners Discuss Doing Things That Don't Scale
-225K views
-Over 1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-18:34
-How Do Billion Dollar Startups Start?
-137K views
-1 year ago
-21:11
-How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
-129K views
-Over 1 year ago
-7:08
-Garry's Channel: Should you be the CEO?
-99K views
-Over 1 year ago
-29:07
-The Right (And Wrong) Way To Spend Money At Your Startup
-78K views
-1 year ago
-56:31
-On starting and scaling one of the biggest iOS apps
-9,772 views
-Over 1 year ago
-12:37
-How psychedelics will change society for the better
-7,527 views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

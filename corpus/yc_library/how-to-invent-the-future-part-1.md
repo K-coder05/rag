@@ -3,25 +3,9 @@ title: How to invent the future (part 1)
 source: https://www.ycombinator.com/library/77-how-to-invent-the-future-part-1
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to invent the future (part 1)
-How to invent the future (part 1)
-by Alan Kay
-39K views
-Over 1 year ago
-
 One of the pioneers of personal computing, Alan Kay shares his story and how to think about building for the future.
 
-Transcript
+## Transcript
 
 Sam Altman: Allen Kailash's weeks going to do both lectures. Alan Kay has forgotten more about how to invent the future than that would make a very bad class with others this year, although which we reasonably restore it. I like how Nader the group of incredible teacher scientists and it I think is the person who had been most bubbles probably as anyone I've ever met about how you build organizations to do to do real innovation. So thank you very much for coming in. I am super excited.
 
@@ -148,55 +132,3 @@ And it costs money. In today's dollars, those Altos cost about 125K apiece, and 
 But I'll just leave you this. Since I'm over time now, I'll leave you this as one of the ways of escaping the present: have a glimmer of an idea, take it so far out that you don't have to worry about how you're going to get there, and then you just bring it back. So instead of innovating out from the present, what you want to do is invent the future from the future. You go out and live in the future and bring the future back.
 
 Thank you.
-
-Related
-28:13
-Tips for technical startup founders
-201K views
-Over 1 year ago
-69:06
-Jeff Dean on building intelligent systems with large scale deep learning
-56K views
-Over 1 year ago
-24:02
-Quantum computing with Chad Rigetti
-36K views
-Over 1 year ago
-56:30
-How to invent the future (part 2)
-25K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

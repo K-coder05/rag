@@ -3,49 +3,10 @@ title: How to Get Your First 10 Customers
 source: https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Startup School
-›
-How to Get Your First 10 Customers
-STARTUP SCHOOL
-How to Get Your First 10 Customers
-by Y Combinator
-103K views
-2 months ago
-Chapters
-0:00
-Why the first 10 are different
-0:54
-Where does your buyer actually spend their time?
-2:45
-Customers 1–3: work your warm network first
-4:20
-Get in the room: show up in person
-5:14
-Conferences and founder dinners
-6:15
-Find where your customers complain online
-7:30
-How to go outbound: Apollo, Clay, and LinkedIn
-8:35
-Frame outreach as advice
-10:20
-Writing outreach that sounds human
-13:15
-Recap: The first 10 come from you
+Many founders start their customer search with cold email, LinkedIn, and prospecting tools. But the first 10 customers rarely come from a tool. It starts somewhere else: your network, showing up in person, and a willingness to do things that don't scale.
+In this episode of Startup School, YC Visiting Partner Max Kolysh draws on dozens of YC founder stories to explain how to identify the right buyers, start conversations, and turn them into your first customers.
 
-Many founders start their customer search with cold email, LinkedIn, and prospecting tools. But the first 10 customers rarely come from a tool. It starts somewhere else: your network, showing up in person, and a willingness to do things that don't scale. In this episode of Startup School, YC Visiting Partner Max Kolysh draws on dozens of YC founder stories to explain how to identify the right buyers, start conversations, and turn them into your first customers.
-
-Transcript
+## Transcript
 
 Max: Hi, I'm Max, a visiting partner here at YCombinator. Today I want to talk to you about something I constantly hear from YC founders, which is, I think I know who my target customer is. Now, how do I actually go find them and start a conversation? YC Startup School already released a lot of good advice on the strategy of early stage sales: doing things that don't scale, founder-led sales, making sure to charge for your product.
 
@@ -116,66 +77,3 @@ And that's when Apollo, Clay, email sequences, all these higher volume outreach 
 When a founder shows up at someone's office, DMs someone on Reddit, or sends a really researched email that only somebody who studied this problem knows about, it signals something no automation tool is gonna be able to fake. That you care enough about this problem to put your own time into it. That's your advantage right now. It's the one thing you have that established companies in your space won't. So you have to really lean into that. So in conclusion, the first 10 customers will likely not come from a tool. They're gonna come from you manually tapping into your network and showing up.
 
 You don't have to be an amazing salesperson to do this. You just have to be willing to do the unscalable things that most salespeople and founders are not willing to do. Good luck, and I can't wait to see what you build.
-
-Up next from Startup School
-13:50
-Dot Plots: How to Actually See What Your Users Are Doing
-27K views
-1 month ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-20:38
-How To Find A Co-Founder
-128K views
-1 year ago
-18:49
-The Sales Playbook for Founders
-125K views
-1 year ago
-13:50
-Dot Plots: How to Actually See What Your Users Are Doing
-27K views
-1 month ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

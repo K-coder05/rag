@@ -3,25 +3,9 @@ title: How to build and manage teams
 source: https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to build and manage teams
-How to build and manage teams
-by Vinod Khosla, Anu Hariharan
-42K views
-Over 1 year ago
-
 Anu Hariharan, Partner at YC Continuity, sits down with Vinod Khosla, Founder of Khosla Ventures and previously the founding CEO and Co-Founder of Sun Microsystems, to talk about belief systems around hiring, and how to manage your company’s growth internally.
 
-Transcript
+## Transcript
 
 Host: Today we have Vinod Khosla, founder of Khosla Ventures and formerly of Sun Microsystems. He has advised a lot of startups in Silicon Valley. I'm going to interview Vinod today and we're going to talk about how to build and manage teams. Thank you.
 
@@ -166,55 +150,3 @@ Speaker: I have a great presentation I came up with. The title was in 1986 and s
 Speaker: Well, thank you so much for taking the time.
 
 Host: Thank you, everybody.
-
-Related
-71:41
-Building an engineering team
-77K views
-Over 1 year ago
-How to set up, hire, and scale a growth strategy and team
-Anu Hariharan
-What does a growth team do and why should you set up a growth team? Growth experts share when to invest in growth, what the right growth KPIs are, how to manage growth, building a growth team, and how to get everyone in the company to care about growth.
-Convincing engineers to join your team
-Harj Taggar
-Once you've found an engineer you want to hire, the final step is presenting them an offer to join your team and convincing them to accept it. This is advice for increasing the percentage of the offers you make that are accepted.
-How to hire your first engineer
-Harj Taggar
-Here is advice for early stage startup founders who are hiring their first engineer.
-How to measure leadership
-Ali Rowghani
-Measuring leadership through bottom-line company performance also fails to provide any clues as to how someone can improve as a leader. So is there a better way?
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

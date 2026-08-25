@@ -3,61 +3,10 @@ title: Opencode CEO: Getting Blocked, 20X Growth in 6 Months, Building the Open 
 source: https://www.ycombinator.com/library/TJ-opencode-ceo-getting-blocked-20x-growth-in-6-months-building-the-open-harness
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Lightcone Podcast
-›
-Opencode CEO: Getting Blocked, 20X Growth in 6 Months, Building the Open Harness
-LIGHTCONE
-Opencode CEO: Getting Blocked, 20X Growth in 6 Months, Building the Open Harness
-by Y Combinator
-54K views
-1 month ago
-Chapters
-0:00
-— Intro
-0:44
-— OpenCode's Explosive Growth
-1:16
-— 20x Growth, 13M Users, and 7 Trillion Tokens
-3:39
-— The Anthropic Controversy That Changed Everything
-5:43
-— Bringing AI Coding Agents to the World
-6:39
-— When Open Source Models Became Good Enough
-8:56
-— What Millions of Developers Are Actually Using
-13:31
-— Why OpenCode Is Huge Outside the US
-15:27
-— Why Fortune 500 Companies Choose OpenCode
-16:36
-— The Economics of AI Tokens
-20:02
-— How Enterprises Are Using Coding Agents
-22:58
-— AI's New Unit Economics
-24:56
-— Why Model Choice Matters
-29:55
-— The Product Decisions Behind OpenCode
-34:21
-— A 16-Year Overnight Success
-41:16
-— Why Jay Never Gave Up
+Since the start of the year, OpenCode (YC W21) — an open source alternative to Claude Code and Codex that works with any model — exploded to 4.6 million weekly active users, 13 million monthly actives, and roughly $40M in annualized revenue.
+In this episode of The Lightcone, Harj, Diana, and Jared talk with Jay V, OpenCode’s co-founder & CEO, about what’s driving this wild growth, the Anthropic clampdown that inadvertently fueled it, and the almost 20-year founder journey that led him here.
 
-Since the start of the year, OpenCode (YC W21) — an open source alternative to Claude Code and Codex that works with any model — exploded to 4.6 million weekly active users, 13 million monthly actives, and roughly $40M in annualized revenue. In this episode of The Lightcone, Harj, Diana, and Jared talk with Jay V, OpenCode’s co-founder & CEO, about what’s driving this wild growth, the Anthropic clampdown that inadvertently fueled it, and the almost 20-year founder journey that led him here.
-
-Transcript
+## Transcript
 
 Jay: Most people in the world still haven't experienced the magic of a coding agent. This is just
 
@@ -103,7 +52,7 @@ Jay: that that's exactly it. I think it was like probably two point four. I I I 
 
 Host: And so speaking of that, like you guys have this incredibly unique insight. Like probably the only you're the most you have the best data on just how these models are being used by engineers across the whole world. And you released a bunch of this data. So maybe we could just like look through some of it and pluck out some more interesting insights.
 
-Jay: Yeah. So this is um, you know, you can go to opencode.ai slash data. I think we started to publish this about a month ago or so. This is basically taking all of the usage on OpenCode Go, which is our subscription plan, where you pay ten dollars to be able to use any of these open source models. And This breakdown specifically is by token volume per day across the different models. So what we sort of see here is that DeepSeek Flash is the one that is used a lot. And there's some sort of details here. I can kind of go into why that is sort of the case. But if you just sort of look at the the top three, we're seeing sort of the two DeepSeeks plus GLM, and you can kind of see all the hype that GLM has been getting sort of lately being sort of reflected here in these in these charts.
+Jay: Yeah. So this is um, you know, you can go to [opencode.ai](http://opencode.ai) slash data. I think we started to publish this about a month ago or so. This is basically taking all of the usage on OpenCode Go, which is our subscription plan, where you pay ten dollars to be able to use any of these open source models. And This breakdown specifically is by token volume per day across the different models. So what we sort of see here is that DeepSeek Flash is the one that is used a lot. And there's some sort of details here. I can kind of go into why that is sort of the case. But if you just sort of look at the the top three, we're seeing sort of the two DeepSeeks plus GLM, and you can kind of see all the hype that GLM has been getting sort of lately being sort of reflected here in these in these charts.
 
 Guest: Which the data says otherwise as opposed to all the uh Twitter chatter about the GLM being taking over DeepSeek. This is telling a different story. Yeah,
 
@@ -161,7 +110,7 @@ Jay: Yeah, I I I think Ramp was very sort of forward thinking. They had publishe
 
 Host: mean exactly? I think it can be hard for people to get their head around because they think of a US like a open source clawed code. Like what does so what does that mean that their like their Slack bot was running on open code?
 
-Jay: Yeah, so you can think of OpenCode as a two-part product. There is the UI and the application part that you sort of see and that you interact with, but then there is the agent loop, the thing that's actually doing work while calling the LLM. And that is sort of behind the scenes. That's a little bit of like we we call it the server. That server can be embedded separately from from the UI. And so in this case, they were embedding that and running their Slack bot off of that. YC's next batch is now taking applications. Got a startup in you? Apply at ycombinator.com slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video.
+Jay: Yeah, so you can think of OpenCode as a two-part product. There is the UI and the application part that you sort of see and that you interact with, but then there is the agent loop, the thing that's actually doing work while calling the LLM. And that is sort of behind the scenes. That's a little bit of like we we call it the server. That server can be embedded separately from from the UI. And so in this case, they were embedding that and running their Slack bot off of that. YC's next batch is now taking applications. Got a startup in you? Apply at [ycombinator.com](http://ycombinator.com) slash apply. It's never too early, and filling out the app will level up your idea. Okay, back to the video.
 
 Speaker 1: Can you tell us a bit about um sort of these these numbers and how the um unit economics work? Because uh there's a shocking um stat that was mentioned in Dylan Patel's podcast that Anthropic is profitable and by huge margin. In Q2, they are on track to be doing fifty billion annualized revenue and around 70% margin. But they got there before the previous year was not profitable and way less and they crossed this chasm, which is sounds like where you're heading, but you don't have to subsidize it, which is
 
@@ -219,7 +168,7 @@ Jay: Yeah. And we had built a couple of terminal UIs in the in the past. One as 
 
 Guest: your product was a terminal UI for buying coffee, in case you wanted to buy coffee without leaving your terminal.
 
-Jay: 'Cause the idea was, you know, you're a hardcore developer, you're in the terminal all day, you can't be bothered to open a browser, right? So you go SSHterminal.shop and you order coffee over SSH.
+Jay: 'Cause the idea was, you know, you're a hardcore developer, you're in the terminal all day, you can't be bothered to open a browser, right? So you go [SSHterminal.shop](http://SSHterminal.shop) and you order coffee over SSH.
 
 Host: Yeah, it makes sense way easier.
 
@@ -292,66 +241,3 @@ Jay: at least entertaining. At least
 Host: entertaining. Entertaining and inspiring. It can't be. Um I don't know, it just hits on so many of the like the classic startup wisdom, right? It's like you should like pursue your interests, have eccentric tastes, so be like live in the future a little bit. I would argue that trying to, you know, order coffee through the terminal is So I'm not sure if that's living in the future or the past, but it's like it's not living in the current times. Uh maybe there's something in there. Um but yeah, I know also just the fact that you kept like building your taste and and just like to keep building things over a long period of time and then when lightning strikes, it like you're actually in a position to capture it. I think that's the thing that doesn't get mentioned actually, is like to catch lightning in the bottle, you actually like have to sort of position the bottle correctly and be ready for it and know what to do with it. Yeah, and you guys were well positioned to do that. So so congrats on all your success. I know it's gonna um only get more explosive from here. Thank
 
 Jay: you. Thank you for having me.
-
-Up next from Lightcone Podcast
-42:43
-The Age Of The 40-Year-Old Solo Founder Is Here
-116K views
-2 months ago
-Related
-39:32
-Andrej Karpathy: Software Is Changing (Again)
-2.5M views
-1 year ago
-42:43
-The Age Of The 40-Year-Old Solo Founder Is Here
-116K views
-2 months ago
-46:30
-Inside YC's AI Playbook
-96K views
-3 months ago
-54:07
-"The CEO Must Be the Chief AI Officer"
-55K views
-2 months ago
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-10 questions to discuss with a potential co-founder
-Y Combinator
-The 10 questions that we think are most important to answer when considering a potential co-founder.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

@@ -3,21 +3,7 @@ title: Before growing your startup
 source: https://www.ycombinator.com/library/4p-before-growing-your-startup
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-Before growing your startup
-Before growing your startup
-by Sam Altman
-
-Startups are defined by growth, but growth isn't step one in building a great company. If you focus on trying to grow before you make a product people love, you are unlikely to succeed.
+[Startups are defined by growth](http://www.paulgraham.com/growth.html), but growth isn't step one in building a great company. If you focus on trying to grow before you make a product people love, you are unlikely to succeed.
 
 We’ve said this before, but it's worth repeating–many founders hurt their companies by focusing on growth too soon.
 
@@ -27,9 +13,13 @@ If you first make sure your product is loved, it will be much easier to grow. Us
 
 Facebook, for example, had a product people talked about obsessively from the start. Airbnb slogged for 1000 days before discovering how to make their product loved. Once they had that, it grew exponentially by word of mouth, and that still continues today.
 
-What is Y Combinator?
+![YC Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAEBCAMAAABPMuDPAAAAQlBMVEXyZSLyZSLyZSLyZSLyZSL6roH91br2ilD+6tr4nGn0eDf7wp3+9e3zbyz3k1z0gUP7uI/5pXX+38n8y6z////yZSKuMvVfAAAABXRSTlOAQMBgICelMzEAAAOgSURBVHhe5MABDQAAAIIw3eifmSB8vA3Zt5vcuGEgCsLeUBSpnxnb4f2vmn068xK5Z8FuFQ8gCB9q80Dw42Pc+3y8UQABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQACBR7GnuAF6MafNKnDsv+xx/+1mv3nOKjDKXwRWbwIWYJl4F6wigvclUCcWaCKCeRKwAtNFoBN4TC1wigjelMA2+S5YRATv+VyfXKC+NYIqEphVQEfgT2Dv0ws8VAT+BEqAXbCJCPwJHAEEuorAn0AAARGBO4H1CCFw7O+JoArIuQVGERH4EhgBBFQE/gQmF9ARnP4EljG5gB5Iiz+BGkBAreTqTyCAgIzAnUAogdMbwSIm0cQCeiAtvgR6MIEqInAkEEBARuBKIJzAwxOB5SsBb822n0dQxSoOJNBFBI4EAgmMp4jAkUAAATWQ6s8SaEFvz8vPIqhiWAYQcEQgEogqMD5FBBcS+BrBBPRAqtcTqIEF2vUIqsgmgIAjApFAaIF6NQKbwPcIKKAHUr2WQI8k4I+gilUcQMARgUggvEC/EkEzAM8E7wu2CxGsdhJFEvBH0MQqDiegV3J1JBBQ4NhFBDqBzyTvC4qIQCawjgwCOgKdQIstoFdydSQQRcD2rSNoVimRQPuPCFaLFF1AR7A5EggloK/BdAIZBPRVqE6ghxLwR7BaoBQCOgKdQDqBLiIQCSQSGJuIoNlJlEVAR3C8TKCkfHX7fLn+T5tASoFjf9X6YmlSCozyYvxVO4kSCegI1r8n0FIJ6IF0igQyCej9txiWZAI6gsfoViWxwPiy+2gzqzi1QLUR2ATSCeiBtBuSfAI6AjsWkguM738I9PQC3ZFADoGxKYC95xfQEZRxA4FRRALHLQSOXSSQXkBHsB75BXQEbWQV0APJruL8AmMVCaQW0BEsI5uAXsn21FsJVJFAZgH9juJmAsVOorsLlLsJIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAm3547QAAoGPFkAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQQQAABBH6XAwc0AAAAAME2+ncWxOXNAI6Cs14i3Db7AAAAAElFTkSuQmCC)
+
+# What is Y Combinator?
+
 We're an accelerator that funds startups — like Coinbase, Instacart, Reddit, Doordash — at their earliest stages. Starting a company? Even if it feels early, 40% of our companies joined with just an idea.
-Apply
+
+[Apply](/apply)
 
 This is true for enterprise and hard tech companies, too– your sales process becomes much easier when word has spread that what you're making is great.
 
@@ -37,86 +27,9 @@ If your product isn't loved, you might get early users, but growth will get hard
 
 So, if you're already growing a company around a mediocre product, fix it now. Don't try to avoid the problem by raising capital for growth– the problems will still be there, with higher expectations.
 
-And if you're just starting out, take the time to build a product your users love, no matter how long it takes. When they actively recommend your product to friends, you're in the right place. 1
+And if you're just starting out, take the time to build a product your users love, no matter how long it takes. When they actively recommend your product to friends, you're in the right place. [1](#footnote1)
 
-Notes 1 Net Promoter Score can be a good way to measure user love too. ↩
+---
 
-Related
-16:07
-How to succeed with a startup
-2.2M views
-Over 1 year ago
-16:53
-How to build an MVP
-1.1M views
-Over 1 year ago
-59:06
-Building product
-1.1M views
-Over 1 year ago
-13:18
-The real product-market fit
-236K views
-Over 1 year ago
-38:51
-Growth for startups
-160K views
-Over 1 year ago
-59:03
-How to measure your product
-149K views
-Over 1 year ago
-44:09
-The 5 things that kill startups post seed rounds
-139K views
-Over 1 year ago
-15:37
-Order of operations for starting a startup
-97K views
-Over 1 year ago
-Later stage advice for startups
-Sam Altman
-There are many common issues founders face in the later stages of their startups. Here's a condensed list of what they are and how to get ahead of them sooner than later.
-Navigating success for your startup
-Sam Altman
-Different people accept different outcomes for their startup; it's all a matter of what you want to do. If you want to shoot for the billion dollar outcome, then perhaps fundraising from VCs is the right move. But if you don't or what you have cannot get there, then sometimes it's much better for you to not sell any of your equity.
-YC's essential startup advice
-Y Combinator
-Here is what we, at YC, consider the most important, most transformative advice for startups.
-How to set up, hire, and scale a growth strategy and team
-Anu Hariharan
-What does a growth team do and why should you set up a growth team? Growth experts share when to invest in growth, what the right growth KPIs are, how to manage growth, building a growth team, and how to get everyone in the company to care about growth.
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+**Notes**
+**1** Net Promoter Score can be a good way to measure user love too. [↩](#footnoteid1)

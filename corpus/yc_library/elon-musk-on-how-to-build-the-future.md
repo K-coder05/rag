@@ -3,70 +3,11 @@ title: Elon Musk on how to build the future
 source: https://www.ycombinator.com/library/6W-elon-musk-on-how-to-build-the-future
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How To Build The Future
-›
-Elon Musk on how to build the future
-Elon Musk on how to build the future
-by Elon Musk
-2.3M views
-Over 1 year ago
-Chapters
-0:00
-Introduction
-0:22
-If you were 22 today, what would the five problems that you would think about working on? 💡
-1:01
-AI 🤖
-1:50
-Genetics 🧬
-2:16
-High bandwidth interface to the brain 🧠
-2:55
-Common questions - I want to be the next Elon Musk, how do I do that?
-3:08
-What did you do when you were younger that set you up to have a big impact?
-5:00
-Do you think people that want to be useful today should get PhDs? 🎓
-5:10
-How should someone figure out how they can be most useful?
-5:49
-SpaceX decision 🚀 - Estimating the probability of success of this very crazy idea at the time
-8:16
-Making a decision when everyone tells you this is a crazy idea? Where do you get the internal strength? 💪
-8:57
-Just feel it and let the importance of it drive you to do it anyway
-9:43
-What are the odds of the Mars colony are at this point? When can we go to Mars? ♂⚓
-11:13
-What does the positive future for AI looks like and how can we get there? 🤖🔮
-13:23
-Humans are so slow 😂
-15:02
-How do you think OpenAI is going as a six-month-old company? ⚛️
-16:03
-How do you spend your days now? What do you allocate most of your time to? 🕒
-16:30
-What do you do when you are at SpaceX or Tesla? 🤔
-16:56
-Elon spends most of his time with engineering team 😲
-18:18
-About Tesla Gigafactory and speed of the production line 🏭
-
 Elon is the CEO of SpaceX and Tesla Motors.
 
 Originally a cofounder of Paypal, Elon Musk founded SpaceX to enable the colonization of Mars.
 
-Transcript
+## Transcript
 
 Sam: Today we have Elon Musk. Elon, thank you for joining us.
 
@@ -80,7 +21,8 @@ But, you know, in terms of things that I think are most likely to affect the fut
 
 I think working on AI and making sure its a great future, that's the most important thing I think right now, the most pressing item. Obviously, anything to do with genetics. If you can actually solve genetic diseases if you can prevent dementia or Alzheimer's or something like that with genetic reprogramming that would be wonderful. So I think this genetics might be the sort of second most important item.
 
-I think having a high bandwidth interface to the brain. We're currently bandwidth limited. We have a digital tertiary self in the form of our e-mail capabilities, our computers, phones applications. We're effectively superhuman but we are extremely bandwidth constrained in that interface between the cortex and that tertiary digital form of yourself and helping solve that bandwidth constraint would be I think very important for the future as well. Interviewer: So one of the I think most common questions I hear young people, ambitious young people ask is I want to be the next Elon Musk, how do I do that? Obviously the next Elon Musk will work on very different things than you did but what have you done or what did you do when you were younger that you think sort of set you up to have a big impact?
+I think having a high bandwidth interface to the brain. We're currently bandwidth limited. We have a digital tertiary self in the form of our e-mail capabilities, our computers, phones applications. We're effectively superhuman but we are extremely bandwidth constrained in that interface between the cortex and that tertiary digital form of yourself and helping solve that bandwidth constraint would be I think very important for the future as well.
+Interviewer: So one of the I think most common questions I hear young people, ambitious young people ask is I want to be the next Elon Musk, how do I do that? Obviously the next Elon Musk will work on very different things than you did but what have you done or what did you do when you were younger that you think sort of set you up to have a big impact?
 
 Elon: Well I think first of all I should say that I did not expect to be involved in all these things. So the five things that I thought about the time in college, quite long time ago 25 years ago, making life multi-planetary, accelerating the transition to sustainable energy, the Internet broadly speaking and then genetics and AI. I didn't expect to be involved in all of those things. I actually at the time in college I sort of thought helping with electrification of cars was how I would start out and that's actually what I worked on as an intern was advanced ultracapacitors to see if there would be a breakthrough relative to batteries for energy storage in cars.
 
@@ -138,7 +80,8 @@ Sam: I want to go except for the Internet latency.
 
 Elon: Yeah there aren't latency would be pretty significant. Mars is roughly 12 light minutes from the Sun and Earth is eight light minutes. So the closest approach to Mars is four light minutes away, the furthest approach is 20. A little more because you can't talk directly through the sun.
 
-Sam: Speaking of really important problems, AI. So you've been outspoken about AI. Could you talk about what you think of the positive future for AI looks like and how we get there? Elon: Okay. I mean I do want emphasize that this is not really something that I advocate or this is not prescriptive. This is simply hopefully predictive. Some say, well this is something that I want to occur instead of this I something I think that probably is the best of the available alternatives. The best of the available alternatives that I can come up with and maybe somebody else can come up with a better approach or better outcome is that we achieve democratization of AI technology, meaning that no one company or small set of individuals has control over advanced AI technology. I think that that's very dangerous.
+Sam: Speaking of really important problems, AI. So you've been outspoken about AI. Could you talk about what you think of the positive future for AI looks like and how we get there?
+Elon: Okay. I mean I do want emphasize that this is not really something that I advocate or this is not prescriptive. This is simply hopefully predictive. Some say, well this is something that I want to occur instead of this I something I think that probably is the best of the available alternatives. The best of the available alternatives that I can come up with and maybe somebody else can come up with a better approach or better outcome is that we achieve democratization of AI technology, meaning that no one company or small set of individuals has control over advanced AI technology. I think that that's very dangerous.
 
 It could also get stolen by somebody bad like some evil dictator. A country could send their intelligence agency to go steal it and gain control. It just becomes a very unstable situation I think if you've got any incredibly powerful AI. You just don't know who's gonna control that. So it's not as though I think that the risk is that the AI would develop a will of its own right off the bat, I think the concern is that someone may use it in a way that is bad or even if they weren't going to use in a way that's bad but somebody could take it from them and use it in a way that's bad. That I think is quite a big danger.
 
@@ -195,72 +138,3 @@ Elon: I'm confident we can get to at least 1 meter per second so a 20 fold incre
 Sam: That'll be very fast.
 
 Elon: Yeah, at least. I mean I think quite...1 meter per second just to put that in perspective is a slow walk or a medium speed walk. A fast walk would be one would be 1.5 meter per second and then the fastest humans can run over 10 meters per second. So if we're the only doing 0.5 meters per second that's very slow current speed and at one meter per second you can still walk faster than the production line.
-
-Up next from How To Build The Future
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-Related
-25:27
-Mark Zuckerberg on building a startup
-2M views
-Over 1 year ago
-59:06
-Building product
-1.1M views
-Over 1 year ago
-7:03
-Biggest mistakes first-time founders make
-344K views
-Over 1 year ago
-34:33
-Vinod Khosla on How to Build the Future
-211K views
-Over 1 year ago
-27:55
-All about pivoting
-140K views
-Over 1 year ago
-31:00
-On starting and scaling Dropbox (YC W07)
-83K views
-Over 1 year ago
-69:06
-Jeff Dean on building intelligent systems with large scale deep learning
-56K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator

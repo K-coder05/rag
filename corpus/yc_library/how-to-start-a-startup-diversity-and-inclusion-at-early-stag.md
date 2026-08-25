@@ -3,27 +3,9 @@ title: How to Start a Startup: Diversity and inclusion at early stage startups
 source: https://www.ycombinator.com/library/JS-how-to-start-a-startup-diversity-and-inclusion-at-early-stage-startups
 ---
 
-About
-Companies
-Library
-Partners
-Resources
-Startup Jobs
-Log in
-Apply
-Home
-›
-How to Start a Startup - A course Y Combinator taught at Stanford
-›
-How to Start a Startup: Diversity and inclusion at early stage startups
-How to Start a Startup: Diversity and inclusion at early stage startups
-by Kat Mañalac
-11K views
-Over 1 year ago
-
 Kat Manalac, Managing Outreach Officer at YC, hosts a panel with Makinde Adeagbo (dev/color), Cat Perez (HealthSherpa), Jennifer Kim (Lever), Ashu Desai (Make School), Mitchell Lee (Penny) and Cristina Cordova (Stripe) to discuss the importance of diversity and inclusion in the workforce for early stage companies.
 
-Transcript
+## Transcript
 
 Host: Um, I started at YC in 2013 as YC's first director of outreach and that meant outreach to potential applicants. So, people who were starting companies, so basically people like you. Uh, and when I started at YC, um, we had grown totally organically up until that point. So that meant that most of the people applying to YC had heard about YC through Paul Graham's essays, through reading Jessica Livingston's book or because they were Hacker News readers. So uh you know uh Hacker News started out as a Reddit for tech and startup news. But if you've ever read the comments, uh it might not shock you to realize that um most of the Hacker News community is is male. And if I had to guess, even though we we don't have those specific demographics, I would guess white male. So, um, basically I was tasked, you know, I I I realized, and I think, you know, Paul and Jessica realized also that there are smart, hardworking people all over the world, um, who should be starting startups who weren't users of Hacker News. So, I was tasked with figuring out where are these smart and hardworking people, um, and how do we get them to consider applying to YC? how do we get to them to consider uh starting a company if they hadn't started already? Um and so uh one of the things I end up working a lot on at YC um is finding ways to recruit founders um from what is typically underrepresented communities in tech. And then I also think a lot about what do we do to support those communities once they're here once they're starting companies once they're in Silicon Valley.
 
@@ -189,61 +171,4 @@ Host: Yeah, all right, so we are at time. So to kind of wrap up, thank you all f
 
 Host: And Jen, I'd wanted you to talk a little bit about the framework for creating ongoing D&I programs, but I'm just going to have you—since we don't have time—I will hopefully work with you on a blog post. And Lever also has an incredible series—it's a ten-part series that walks through D&I for companies—that I also added to the resources list as a great place to start if you're looking to read up more on this.
 
-Host: So we will be sharing that list with you and also kind of putting together all your notes and then anything else that we missed. This is such a meaty topic and there's a lot here. But thank you also for listening and you feel free to reach out to me with any questions that you have either for the speakers or for me. I'm Cat K at ycomibinator.com and I can connect you to any of these ladies and gentlemen if that's desired. So thank you again, and thank you all. Round of applause.
-
-Up next from How to Start a Startup - A course Y Combinator taught at Stanford
-48:11
-How to Start a Startup: Finding Product-Market Fit
-192K views
-Over 1 year ago
-Related
-21:08
-The best way to launch your startup
-396K views
-Over 1 year ago
-52:14
-How to Start a Startup: Getting started, getting press, and doing things that don't scale
-378K views
-Over 1 year ago
-48:11
-How to Start a Startup: Finding Product-Market Fit
-192K views
-Over 1 year ago
-53:07
-How to Start a Startup: Raising money and succeeding long-term
-69K views
-Over 1 year ago
-Footer
-Y Combinator
-Make something people want.
-Programs
-YC Program
-Startup School
-Work at a Startup
-Co-Founder Matching
-Resources
-Startup Directory
-Startup Library
-Investors
-Demo Day
-SAFE
-Hacker News
-Launch YC
-YC Deals
-Company
-YC Blog
-Contact
-Press
-People
-Careers
-Privacy Policy
-Notice at Collection
-Security
-Terms of Use
-Twitter
-Facebook
-Instagram
-LinkedIn
-Youtube
-
-© 2026 Y Combinator
+Host: So we will be sharing that list with you and also kind of putting together all your notes and then anything else that we missed. This is such a meaty topic and there's a lot here. But thank you also for listening and you feel free to reach out to me with any questions that you have either for the speakers or for me. I'm Cat K at [ycomibinator.com](http://ycomibinator.com) and I can connect you to any of these ladies and gentlemen if that's desired. So thank you again, and thank you all. Round of applause.
