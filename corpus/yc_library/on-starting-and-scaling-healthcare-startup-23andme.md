@@ -1,0 +1,437 @@
+---
+title: On starting and scaling healthcare startup 23andMe
+source: https://www.ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme
+---
+
+About
+Companies
+Library
+Partners
+Resources
+Startup Jobs
+Log in
+Apply
+Home
+›
+How To Build The Future
+›
+On starting and scaling healthcare startup 23andMe
+On starting and scaling healthcare startup 23andMe
+by Anne Wojcicki
+48K views
+Over 1 year ago
+Chapters
+0:00
+Intro: Founding Story of 23andMe
+2:53
+Incentives to Keep People Healthy
+3:51
+People Making their own Healthcare Decisions
+5:27
+World 50 Years from Now
+9:27
+Crowdsourcing and Wanting it Personally
+11:34
+Fixing Slow Growth and Keeping Momentum
+12:57
+Education People on Why They Want Their Genetics
+14:47
+Best Decisions Made in Early Days
+15:50
+Finding the First Two Scientists
+16:44
+Framework: Net Output on the Organization
+17:32
+Being in a Regulated Industry
+20:50
+How Much is All Played Out as you Thought
+21:55
+Hardest Thing for Entrepreneurs: Persistence
+23:42
+Evolution of Genetic Testing in the Next 11 Years
+26:02
+General Trends That Apply to a Lot of People
+27:01
+Intervention Studies
+28:16
+Outro
+
+Anne Wojcicki is the cofounder and CEO of 23andMe, which provides direct-to-consumer genetic testing. Sam Altman interviewed Anne for a series called How To Build The Future, which you can check out on our YouTube channel.
+
+Transcript
+
+Craig Cannon [00:00] - Hey, how's it going? This is Craig Cannon, and you're listening to Y Combinator's podcast. Today's episode is with Anne Wojcicki and Sam Altman. Anne's the co-founder and CEO of 23andMe, and they provide direct-to-consumer genetic testing. Sam's the president of YC Group. He interviewed Anne for a series called, How to Build the Future, and you can check it out on our YouTube channel. Alright, here we go.
+
+Sam Altman [00:24] - Today we're here with Anne Wojcicki, co-founder and CEO of 23andMe, thank you very much.
+
+Anne Wojcicki [00:28] - Hi, thank you.
+
+Sam Altman [00:29] - We always like to start with how you came up with the idea, and sort of the founding story of the company.
+
+Anne Wojcicki [00:33] - I was working on Wall Street, and--
+
+Sam Altman [00:35] - That doesn't sound very fun.
+
+Anne Wojcicki [00:36] - It was, actually.
+
+Sam Altman [00:38] - It was fun?
+
+Anne Wojcicki [00:39] - I loved it. I grew up in academia, I always thought I'd end up being an academic. I went to a job fair right out of college, my parents made me go, and I got this job offer to go on Wall Street. And it's one thing I always tell young people, you never really know what's going to come your way, just take every opportunity. I very randomly got this job on Wall Street, I had no idea what it was, but I kind of figured, I actually only took the interview cause they gave me free frequent flyer miles. I won the flight, I won the frequent flyer miles.
+
+Sam Altman [01:08] - Oh, you had to fly there, but you got to keep the frequent flyer miles.
+
+Anne Wojcicki [01:11] - Yeah, no, I was just excited. I was like, it's a free trip, it'll be 5,000 miles, that's pretty awesome. I was on Wall Street for 10 years and I loved it. For me it was, because it wasn't just about trading and making money and doing these things, but it was I got to learn about companies. The one thing that is amazing on Wall Street is that you get to go deep on certain companies when you're really interested in them, and then really broad, knowing a whole sector. I got to know small cap bio-techs and pharma companies and hospital systems and insurance companies. I got to have a really broad landscape of health care. In the beginning I had this eternal optimism, like, "Health care's going to totally change, there's antibodies, there's all this new, there's technology, there's all these new discoveries coming, it's going to be so different." And then when the bubble burst in 2000, a lot of innovation dried up and I started to see more what health care really is. And at the end of the day, health care is an amazing business that really effectively monetizes illness. I used to always say, "If I successfully get you to never be diabetic, no one makes money. But if you do become diabetic, there's all kinds of ways I can make money." At the end of the day when I think about what I care about, what's in the best interest of me, I'd rather just never be diabetic. I'd rather never be sick. There's no one in the system today that really thinks about how to keep me healthy. After 10 years of investing,
+
+Anne Wojcicki [02:40] - I felt like I really understood the system and I also understood that you had all these people with the right intentions who really care but the ship's just pointing in the wrong direction, and that no one's actually focused on keeping people healthy and that I wanted to have a company that was, frankly, somewhat rebellious and was going to inspire people to try to really be healthier. I felt it was, you know, again, it had sort of that, a little bit of a Robin Hood kind of mentality in the beginning of, you can't change the system from within, so we got to do something more radical from outside.
+
+Sam Altman [03:17] - One of my favorite Charlie Munger quotes is, "Incentives are a superpower." I always believe this and this is the clear problem you just identified. How do you think about how you design a system or a company that is incented to keep people healthy?
+
+Anne Wojcicki [03:30] - Well, I realized the main thing in health care is that you don't actually ever have a voice. Because you're not the payer in health care, you the individual, you don't actually make decisions, it's your insurance company, your doctor, the pharmacy benefit manager, there's all kinds of people in the back who actually make decisions and there's all this data now about... You go into surgery and there's doctors coming into the surgery that you've never even met. For me what was transformative, what we did to change the incentives, is to put you in the power seat. You make retail decisions that are in your best interest because you're actually the one paying the bill. For us, what we decided to do that was frankly seen as disruptive is we are direct to consumer.
+
+Sam Altman [04:15] - I remember when you launched, doctors, or just health care professionals in general, were saying, "Patients, this is irresponsible. You need a medical professional to do this." I remember one quote that really stuck with me, something like, "We can't have people making their own health care decisions, they don't know how to interpret the data."
+
+Anne Wojcicki [04:33] - There were all kinds of interesting things. Cause people would publish stuff on Facebook and then doctor would say like, "Do you have the right?" And we'd remind people, "Yeah, it's their own information." There's always been, I'd say, a tension a little bit with the medical system. The medical system historically there's tests like the pregnancy test. The pregnancy test when it came out was seen as radical. How could women ever possibly learn, at home, that they're pregnant? If you look at the literature of that era, we look at that today and we'd say it's crazy. One of my favorite papers is there's this JAMA paper, the Journal of American Medical Association, from 1969 I think, where they ask doctors, "Would you tell your patients that they have cancer if they had a cancer diagnosis?" Over 90% of them said no. I always put that in context, it helps people understand. Physicians were trained in such a way, and so I don't blame the system or the individuals, it's just that that was the culture. That was thought of what was actually in your best interest. What we do is as we empower consumers, we are showing that people actually can be, people want to be in charge of their health, they want the information, and they actually want to be in control.
+
+Sam Altman [05:50] - I always like the model of thinking about the world 50 or 100 years from now and looking back, what will we think was just totally ridiculous, and this sure seems like--
+
+Anne Wojcicki [05:59] - Health care that type, because health care's really, as much as it's science and it's data-driven, it's also not. Part of what people don't necessarily always understand is that the practice of medicine is an art. The reason why you can go to five different physicians and get five different ways of treating cancer is because there's the practice of medicine, you can get different opinions. One of the things that we're specifically trying to change is exactly that, is exactly to say that we're trying to get data so that it's no longer a question of like, "Hey Sam, what's in your best interest?" There's actually data to say exactly what you should be doing.
+
+Sam Altman [06:38] - How do you think the medical system, the health care system overall, will eventually get to a place where we don't have this misalignment of incentives you talked about and we have data and we have people in control of their own health care? If you could wave a magic wand and say, "I'm going to fix the health care system," what needs to happen?
+
+Anne Wojcicki [06:55] - The reality is what needs to happen is never going to happen, which is like you have a universal payment system. Single-coverage, like the reality is, who cares about keeping you healthy today? Because you could be overweight and you could eat poorly and you could never exercise, and you won't see the consequences of that for the next, let's say, 20 years. The reality is, who's going to benefit from that? The reality is, it's society, and it's you personally, and it's somebody who's willing to invest in you in the long run, and for a single-payer health care system or like a country, they care about actually trying to keep you healthy for as long as possible. Second, people, we don't want, we saw that communism doesn't support the system that we all want. People have to be willing to spend money and they have to step up. The same way you see people stepping up with yoga and vitamins and weight loss studies and all kinds of different alternative care, people at some point have to stop and say, "Your health is also your responsibility." The more that we can give people personalized information about themselves, the more that they are going to be willing to execute on taking care of themselves.
+
+Sam Altman [08:15] - Speaking of that, you could have started so many different companies in the health care space. How did you decide this was, this was not an obvious choice at the time.
+
+Anne Wojcicki [08:23] - For me it was totally obvious. For me there's a couple things that were happening. One, I always loved genetics. It was my first investment in 1996. In some ways it was my first and it was my last. The genetic revolution was happening. Right when I started investing there was the race of getting the cost of the genome down. It was super exciting, and I started looking at those investments again and realizing that you're going to be able to buy essentially a scan of your entire genome pretty inexpensively. That was the first nugget of, okay wow, you can actually start to get huge amounts of genetic information. And second was seeing this world of social networking. That social networking was happening and you don't actually need the old guard to get things to happen, I could crowdsource. It gave me this idea that wow, if I just empowered everyone with their genetic information and I crowdsourced all this information. If I have the world's health information, what could I do? And people were like, "Well, you could cure, you could save, you'd know a lot." The idea really was, well, we should do that. Instead of relying on Stanford or Harvard or Pfizer to go and solve a disease or how to be healthy, we the people, we can do it. In some ways, having grown up in this Google environment and knowing the social networking world that was coming up, it was piecing those things together that was like combine the technology and science with the platform that is really emerging.
+
+Sam Altman [09:51] - I've noticed that many of the most transformative companies come because the founder sees an intersection of two pretty different but really important trends a few years before everybody else does. This is clearly one of those. It's the fact that crowdsourcing works is still amazing to me.
+
+Anne Wojcicki [10:07] - Totally, well, it's also when a founder really wants something personally.
+
+Sam Altman [10:11] - Did you really want this personally?
+
+Anne Wojcicki [10:12] - Oh yeah, to me it was like the whole beauty for me of genes, of genetics is like gene by environment. And I will always love people debating, "But is it your genes or your environment?" I'm like, "No, the whole beauty of it, is that it's both!" You might be genetically high risk for diabetes, but there's your environment.
+
+Sam Altman [10:28] - You can do things about it.
+
+Anne Wojcicki [10:29] - What can I do? So very few genetic ailments are a 100% deterministic, meaning 100% liklihood that you're going to get it. That means there's an environmental component where you can potentially do something. So let's go figure out what you can do and then tell people.
+
+Sam Altman [10:45] - What was the reaction when you first announced that you were going to do this? What was it like inside the building?
+
+Anne Wojcicki [10:52] - Startups are so fun because you get a bunch of people who are really passionate and people were excited and people knew that there would be controversy. In some ways, we attract people who have all experienced the health care system in their own way and realize it has its limitations. There's people who are excited about 23andme because of the mission and they're looking to contribute in some way, to helping change the system. There was enthusiasm. We had like videos. We were also.. We were super excited to launch and we thought there was going to be this big coming, like everyone and we had tons. We had spit parties. We were on the cover of--
+
+Sam Altman [11:37] - I went to one!
+
+Anne Wojcicki [11:38] - I know! We had the cover of the style section. We had the spit party in the building. But I have to say, we sold a lot the first day. And then it was slow.
+
+Sam Altman [11:48] - That happens.
+
+Anne Wojcicki [11:51] - We were probably selling 15 to 25 kits a day. Which is not a lot.
+
+Sam Altman [11:58] - How do you, well I guess two questions. One, how did you eventually fix that? And how do you as a leader keep momentum in the building when you have this great launch, the first day is always awesome, and then you have a week called the trough of sorrow and people get pretty demotivated.
+
+Anne Wojcicki [12:15] - There's always a trough of sorrow and it's important to not let people be totally... hoping for immediate success and then to be overly distracted by the trough of sorrow. That actually happens, not just in launches but every time you come up with a product. You have no idea how well it's going to go. I remember when my sister first launched AdSense, and she's like, "I don't know, we'll see how it goes. It's kind of, it's an experiment, we have no idea." And then clearly it went on, but part of it is cause you work hard at it. I feel like for us, and that trough of sorrow, we recognized more, we focused on the long term. What do we need to do to get to this point. As a leader, for me one of the most important things is not to wallow on today, but to wallow on like, okay in two years, this is what it's going to look like and these are the steps I need to do to get there. People love a vision and people love a plan. You just need to outline, this is where we're going. When we saw that sales were slow, we're like, "People don't understand genetics." Some basic market research could have told us that, but people don't know why they want their genetics. And that was like, "Okay, great. Now we actually need to educate the population about why you would want your genetic information."
+
+Sam Altman [13:31] - And how did you do that?
+
+Anne Wojcicki [13:33] - I started changing my talks. I would speak a ton. In the early days, you gave me a conference invite, and I took it.
+
+Sam Altman [13:42] - I remember that. I remember that for myself too.
+
+Anne Wojcicki [13:44] - Yeah, exactly. Any talk, part of it is constant feedback. Again, for the people who want to be entrepreneurs, you're constantly learning something in the feedback. I would change my talks. I never gave the same talk twice. When I look at my inventory of all my talks, it's like, there's like 500 of them because each one was slightly different. I remember, specifically, getting the feedback. People questioned what is the value proposition in what you're doing and I was like, "Great, I can answer that question." Over 50% of my customers get a medically meaningful result. And then I started shifting the conversion. Part of it was getting real time feedback and part of it was helping us define what is it that we have to do to show the value. It was clear people need to understand genetics. They didn't understand the basics. They need to know what is the medical utility of this. Then also, people need to know that they're not the only one, that's not weird. Like, "Oh this is weird I did it." We need to drive social acceptance and part of it also was medical acceptance. We did a ton... It's one thing I always advise science companies, is you can't speak, I can't just tell you, "Oh we're great, we have great science." No one believes that. What you need to do is you need to publish. I never even argue with scientists, I just hand over my publications. Like, here you go. Because that's the reality, you speak with your data. I can make all kinds of claims, but here's my data to actually support it.
+
+Sam Altman [15:11] - Can you talk about the best decisions you made in the early days? People always ask about the worst, which we can talk about if you want. But I'm curious if you look back, things like that where you learn, "I need to interact with the scientific community in this way." Are there a few decisions you made, that looking back, had been critical to success?
+
+Anne Wojcicki [15:27] - Fhe first two hires, the two founding scientists, Just like, Brian and Serge were amazing. In some ways, hiring the right, for me it was such a critical part of the company was the scientific integrity of what we were going to do and it set a bar of the talent that we were going to hire going forward. In some ways, having the right people.
+
+Sam Altman [15:50] - We've noticed that it is almost impossible to, you can make a lot of mistakes as a company, but if you screw up the first five, seven hires, it's almost impossible to get through that.
+
+Anne Wojcicki [16:01] - There's a good number of, when I look at the first 15 people, there's a good, a number of them are still here. The others who have left, we're still very close to.
+
+Sam Altman [16:14] - How did you find those first two scientists?
+
+Anne Wojcicki [16:16] - We found them through a friend of a friend of a friend. They had a similar idea so it was a good, it worked as a partnership. It's hard, I would say hiring is one of the hardest things. One of the things that we've tried really hard here in the company. There are a lot of smart people who have humility and there's a lot of smart people who want to tell you how smart they are. And we have opted for the humility. It's really important to have people who are constantly open to feedback and constantly open to constructive criticism and learning about other areas. That's actually one of the things that did make us successful. Which allowed us to grow and attract other people because it's a group of people who are really eager to learn from others and to keep learning.
+
+Sam Altman [17:07] - I've noticed, looking back at my own career that the big hire mistakes I've made are people who are really smart, but just awful to work with because they want to tell you how smart they are. The framework that I've finally figured out, is you have to look at the net output that has a person has on the organization as a whole.
+
+Anne Wojcicki [17:25] - Correct.
+
+Sam Altman [17:26] - Even if they do a lot themselves, if they make everybody else miserable.
+
+Anne Wojcicki [17:29] - It's one of the things, hiring is always really hard. And I think especially in leadership roles, if you have the wrong person, I just recently watched one of the old documentaries about Steve Jobs and Bill Gates. Jobs' talking about how disastrous it was when Scully came. I kind of forgotten about some of these stories and I realized, I was like yeah, if you hire the wrong senior leadership--
+
+Sam Altman [17:52] - And you don't fix it very quickly, it can sink you.
+
+Anne Wojcicki [17:53] - It can sink you.
+
+Sam Altman [17:55] - Yeah. What's it like being in a regulated industry? One thing that a lot of people say when they think about, they want to do this really ambitious startup, like genetic testing, but they are afraid because it's regulated.
+
+Anne Wojcicki [18:09] - Regulation, in some ways there's pros and cons. In some ways, when you're regulated, it means there's rules. There's guidelines and you can figure out exactly what that means. In some ways, there's more of a path about actually how you have to execute. It definitely also means that it's more expensive. There's rules. If you don't always agree with all those rules, and when we went from an unregulated company to a regulated company, there was definitely a pretty major transition for us because we were used to, you hire smart people. What do smart people like to do? They like to question and they like to argue! We would question all the time like, "Ugh, well why do you need that test? Or why do you need this study? Why did you need that number of samples?" We would question all the time. One of the things, I think, in a regulated environment, again, it's like the DMV, there's rules and you follow. There's a level of obedience. I'd like to encourage people, it's not so overwhelming to be regulated. That said, it requires a lot of communication. And in some ways it requires a communication style that's not prevalent in Silicon Valley.
+
+Sam Altman [19:19] - Right, yes that is hard. There is an opinions mismatch there.
+
+Anne Wojcicki [19:26] - We always said... I'd look at some of my old communication and I'm like, "Oh wow, that's embarrassing now." The way we thought we were communicating appropriately and how it really wasn't. There's a style and there's a form and there's ways. There is actually, there is a path and there's rule. It's not terribly clear. The regulatory world can do a better job of helping outline. One thing I do appreciate from, now having been regulated for a number of years, is that there is a bigger picture that they see. People who work at the FDA or people who work in government, it's a public servant job. They care, they care about public safety. At the FDA, they care about public safety. There's so many companies, we can all see them. There are so many companies trying to dupe the consumer and their job, they are there to keep us safe. I have a lot of respect for what they do. The onus is on us as the startup and the new company. All these people want to do things in a new way, the onus is on us a little bit to explain how we're doing it, how that works, and the way they speak, just like I mentioned about scientists, they speak in data. You can't just say, "Oh no, no no. Trust me, I'm the good guy." You have to show the data and you have to show the data in lots of ways. In that capacity, I don't really mind because they do know, they know a bigger picture story. Some of the people we worked with there have been there for 20 years and were amazing. They have a depth, a breadth of knowledge that I'm never going to have.
+
+Anne Wojcicki [21:10] - So learning, there's input to genuinely take.
+
+Sam Altman [21:14] - As you look back, your vision on the day you signed the incorporation paperwork to now, how much has this all played out like you thought it would?
+
+Anne Wojcicki [21:25] - It was remarkable. I have this picture of the day we signed and I always look at it and I'm like, one, I really dressed in a very different way than I do today. But two, our series A documents... and our OKRs from 2007 are remarkably similar to what they are today.
+
+Sam Altman [21:47] - That's always--
+
+Anne Wojcicki [21:48] - We're unusual. One of our investors, he has said, "What's amazing, I look back on everything, you're a broken record." In some ways that's also why it's so easy to do speaking engagements cause I've said the same thing now for a decade. We have a mission. We have a drive. I know where we're going. We've been continuously executing on it.
+
+Sam Altman [22:12] - The best companies are remarkably steadfast in that. It's hard to do cause entrepreneurs sort of by definition like to start doing new things.
+
+Anne Wojcicki [22:18] - Right, so one of the hardest things for entrepreneurs, and again going back to the era, I forget what you called it, the era of sorrow.
+
+Sam Altman [22:25] - The trough of sorrow.
+
+Anne Wojcicki [22:26] - The trough of sorrow! It's important to stick with it. One of the most important things I've learned at doing this now is the importance of persistence. You have to stick with it. And when you stick with it, you really see a benefit. There's things that I see, now that I've done it for over a decade. One of our missions is to tell people anyone can be a scientist. Anyone, any age level, it's part of the reason we're direct to consumer. I believe anyone, you can be eighth grade level, and you have the ability. I love it now when kids come to me and they're like, "Oh I saw you speak, and because of you, I really. Even though I had, my parents didn't know anything and I didn't really have that degree, I'm now in a PhD program at MIT." I get amazing stories and you never in some ways, it takes a long time to see the consequences of your actions. It's one of the things I emphasize to people. If you really care about something, if you're really passionate, it takes a decade to really see the impact.
+
+Sam Altman [23:27] - It's like compound growth. It's always misunderstood. It always takes longer and then the magnitude and the out years is always bigger than you think.
+
+Anne Wojcicki [23:35] - Right, and I think what happens is that people hear the WhatsApp story, they hear other stories, and the real stories, the companies that continue to persist even if there's challenges. The WhatsApps are the rare, but you can be super consistent and that's one thing, when I see the press about us now, it's overwhelming, we've just persisted.
+
+Sam Altman [23:57] - Yeah, that's it.
+
+Anne Wojcicki [23:59] - We don't go away.
+
+Sam Altman [24:00] - That is the secret to overnight success is ten years of persistence.
+
+Anne Wojcicki [24:02] - Yes, the overnight success is that ten years of persistence.
+
+Sam Altman [24:06] - You've done all the remarkable things as a company and the one that is most remarkable, or sort of most important to the future of the world, is that I think in the last 11 years, genetic testing, because of you has gone from something people are afraid of, to something that is now accepted as a really important part of putting people in charge of their lives and their health. But I'd love to hear what the next 11 years look like and if we had this conversion in 2029, what would we be talking about and then your proudest accomplishments then?
+
+Anne Wojcicki [24:37] - I said my original mission, if you think back to my Wall Street days, I think the system is broken, how am I going to be healthy. Success for me is I would like to be healthy at 100. I now know, I have my genetic information. I can learn about things. I have set up this research machine where I can collect data from all my customers. We can make discoveries. We give those discoveries back to our customers. I have this amazing machine for discovery. Now I want to execute on the vision of I would like to be healthy at 100. So success for me, is how do I now, I just empowered you. I have five million people empowered to learn about themselves and they could keep coming back. We collectively as a five million person community and growing--
+
+Sam Altman [25:25] - Is that the biggest genetic dataset in the world?
+
+Anne Wojcicki [25:27] - By far, yeah.
+
+Sam Altman [25:29] - That's awesome.
+
+Anne Wojcicki [25:29] - With health information. To me, that's where there's a power in what we an do now to make discoveries about prevention. We have the drug discovery arm. To me, I look at it as, we have two aspects. You're healthy today, you want to keep staying healthy. You have a condition, you just have this. We want to have drug discovery for that. Now we'd like to keep you healthy. I think about who, what are the partnerships I can do. What's the community I can form to actually help you make behavior changes. One thing I see all the time when I meet people, again, all economic levels, all socioeconomic groups, people want to be healthier. They don't necessarily know how. I see this, people don't necessarily know. Like, "Oh are the Doritos really bad? Is soda really bad?" It's remarkable how much there's a disconnect between, you hear things, but you don't really know what are the ways that we're going to be able to help people be healthier.
+
+Sam Altman [26:26] - Have you discovered anything that is, I mean obviously the whole point of this is it's personalized, but general trends that you've discovered that apply to a lot of people they might not already be aware of? Most people know they probably shouldn't drink so much soda.
+
+Anne Wojcicki [26:40] - No, but there's probably people who could absorb more sugar than others. Those are the types of things. We're all pretty different. The beauty of humanity is that you're meant to survive. You can look at it from the perception of viruses. You have the 1918 flu, lots of people died. Some people survived, some people are immune. The same thing, foods, some people can just eat a lot of sugar. Some people can't. That's why we are still around on the planet today. The main thing that I would say take away is that there's a lot of variability. 100% you shouldn't smoke, you should exercise more, you should eat better, but the reality is there's some people who can smoke and never get cancer. There's some people who can eat a lot and never get overweight. Some people, exercise doesn't really matter.
+
+Sam Altman [27:25] - How far away are we from someone being able to spit in a tube and you tell them, here's what you need to do to have a good shot at living to 100?
+
+Anne Wojcicki [27:32] - That's one of the things that's most exciting. What we can do by having a community of people who are all engaged. We're starting to do what we call these intervention studies. We did our first one on weight loss. We had 70,000 people doing a six arm weight loss study. That's the first time we're doing it in that kind of scale, specifically to see based on your DNA, are there differences in weight loss? I'm also, I'm personally motivated in Parkinson's space. So people who are genetically high risk. Are there behaviors that can lower your risk? And how much then can you lower your risk? We're starting to do those types of studies specifically because that's what our customers want. Our customers specifically want to know exactly what you just asked.
+
+Sam Altman [28:18] - Tell me what to do.
+
+Anne Wojcicki [28:19] - Tell me what to do. When you say, again, success for me, is at the end of this decade, I will tell you what to do.
+
+Sam Altman [28:24] - At the end of, by 2020?
+
+Anne Wojcicki [28:27] - Well I look at it as--
+
+Sam Altman [28:28] - 2030?
+
+Anne Wojcicki [28:30] - The next ten years of the company. I'm already 10 and 12 years in, so give me another eight years.
+
+Sam Altman [28:36] - That's pretty exciting.
+
+Anne Wojcicki [28:37] - I'm on it, I'm on it, Sam.
+
+Sam Altman [28:39] - I will follow the instructions to the letter. Thank you very much for taking the time.
+
+Anne Wojcicki [28:42] - Oh you're welcome. Any time.
+
+Sam Altman [28:43] - This was really fun.
+
+Anne Wojcicki [28:44] - Super fun.
+
+Transcript
+
+Host: Today we're here with Anne Lajiski, co founder and CEO of twenty three ME. Thank
+
+Anne Wojcicki: you very much.
+
+Host: We always like to start with how you came up with the idea and sort of the founding story of the company.
+
+Anne Wojcicki: So I was working on Wall Street
+
+Host: and That doesn't sound very fun.
+
+Anne Wojcicki: It was fun. I loved it. So I grew up I grew up in academia. I always thought I'd end up being an academic. Um I got very my parents I went to a job fair right out of college. My parents made me go. Um and I got this job offer uh to go on Wall Street and it's one thing I always tell young people, like you never really know what's gonna come your way. Like just take every opportunity. So I very randomly got this job on Wall Street. I had no idea what it was, but I kind of figured like I actually only took the interview because they gave me free frequent flyer miles. Or I won the flight. I won the frequent flyer miles. Um
+
+Host: Oh they just they you had to fly there, but you gotta keep the frequent flyer miles.
+
+Anne Wojcicki: Yeah, no, I was just excited. I was like it's a free trip, like it will be five thousand miles. Like that's pretty awesome. Um so um so I was on Wall Street for ten years and I loved it. Like for me it was because it wasn't just about like trading and making money and doing these things, but it was like I gotta learn about companies. And the thing the one thing that is amazing on Wall Street is that you get to go like you gotta go deep on certain companies when you're really interested in them and then really broad knowing a whole sector. So I got to know small cat biotechs and pharma companies and um hospital systems and insurance companies. And I got to have like a really broad landscape of healthcare. And, you know, in the beginning I had this eternal optimism. Like healthcare is gonna, you know, totally change. Um, there's antibodies, there's all this like new, you know, there's like technology, like there's all these new discoveries coming. It's gonna be so different. And then when the bubble burst in 2000, um a lot of innovation dried up and I started to see more what healthcare really is and and at the end of the day, healthcare is an amazing business that really effectively monetizes illness. And I used to always say, you know, if I successfully get you to never be diabetic. No one makes money. But if you do become diabetic, there's all kinds of ways I can make money. And at the end of the day, when I think about what I care about, what's in the best interest of me, like I'd rather just never be diabetic. I'd rather never be sick. And there's no one in the system today that really thinks about how to keep me healthy. So after 10 years of investing, I felt like I really understood the system. And I also understood that you had this all these people with cr the right intentions who really care, but the ship's just pointing in the wrong direction. And that no one's actually focused on keeping people healthy and that I wanted to have a company that was frankly somewhat rebellious and was going to inspire people to try to really be healthier. And um, you know, and I felt like it was um, you know, again, it had sort of that, you know, a little bit of a Robin Hood kind of mentality in the beginning of, you know, we have to you can't change the system from within. Yeah. Um, so we gotta do something more radical from outside.
+
+Host: One of my favorite Charlie Munger quotes is uh incentives are a superpower. And I always believe this and I think this is the clear problem you just identified. So how do you think about how you how you design a system or a company that incentivizes that is incented to keep people healthy?
+
+Anne Wojcicki: Well I realize like the main thing in healthcare is that you don't actually ever have a voice. Like you don't like you don't actually because you're not the payer in healthcare, like you the individual, you don't actually make decisions. It's, you know, your insurance company, your doctor, the pharmacy benefit manager. There's all kinds of people in the back who actually make decisions. And I think there's all this data now about Um, you know, you go in for surgery and there's doctors coming into the surgery that you've never even met. So for me what was transformative, like what we did to change the incentives, um, is to put you in the power seat. Cause I feel like like you make retail decisions that are in your best interest because like you're actually the one paying the bill. So for us, like what we decide to do that wasn't frankly like seen as disruptive is we are direct to consumer.
+
+Host: I remember when you launched doctors were just or healthcare professionals in general were saying, Patients, this is this is irresponsible, you know, you need a medical professional to do this. Like we can't I I remember one quote that really stuck with me, something like, We can't have people making their own healthcare decisions. They don't know how to interpret the data.
+
+Anne Wojcicki: There was all kinds of interesting there's like a whole there's all kinds of interesting things because people would publish stuff on Facebook and then doctors would say, like, do you have the right? And we'd remind people, like, Yeah, it's their own Yeah information. So there's always been I'd say a tension a little bit with the medical system. And the medical system, um, historically there's tests like the pregnancy test, the pregnancy test. um when it came out was seen as radical. Like how could women ever possibly learn at home that they're pregnant? And if you look at the literature of, you know, that era, it like we look at that today and we'd say it's crazy. So one of my favorite papers is there's this GMA paper, the Journal of American Medical Association from 1969, I think, where they asked doctors, would you tell your patients that they have cancer if they had a cancer diagnosis? And over 90% of them said no. So I always put that in context of like it it helps people understand like physicians were trained in such a way and so I don't blame the system or or the individuals. It's just that like that was the culture, that was thought of like what was actually in your best interest. And I think what we do is like as we empower consumers, we are showing that people actually can be like people wanna be in charge of their health, they want the information and they actually want to be in control.
+
+Host: I always like the sort of model of thinking about the world fifty or hundred years from now and looking back, what will we think was just totally ridiculous. Yeah. And this sure seems like
+
+Anne Wojcicki: I think healthcare's a type because healthcare is like really um as much as it's science and it's data driven, it's also not. Like part of um what people don't necessarily always understand is that the practice of medicine is is an art. Like you can go the reason why you can go to five different physicians and get five different ways of um, you know, treating cancer is because there's the practice of medicine, you can get different opinions. And one of the things that we're specifically trying to change is exactly that, is exactly to say that um we're trying to get data So that it's no longer a question of like, hey Sam, like what what's the best in your best interest, that there's actually data to say exactly what you should be doing. How
+
+Host: Do you think the medical system or the healthcare system overall will will eventually get to a place where we don't have this misalignment of incentives you talked about and we have data and we have people in control of their own healthcare? Like if you could wave a magic wand and say, I'm gonna fix the healthcare system, what needs to happen?
+
+Anne Wojcicki: I think the reality is what needs to happen is never gonna happen. Um, which is like you have a universal payment system. Um, so single coverage. Like the reality is like who cares about keeping you healthy today? Because you could be you could be overweight and you could eat poorly and you could never exercise and you won't see the consequences of that for the next, let's say, twenty years. So the reality is like who's going to benefit from that? And the reality is like it's society and it's it's you personally and it's like, you know, somebody who's willing to invest in you in the long run. And I think for a single payer healthcare system or like a country, um, they care about actually trying to keep you healthy for as long as possible. I think second, um, people like we don't want we saw that communism doesn't Yeah support the r the the system that we all want, um, people have to be willing to spend money and they have to step up. And I think the same way you see people stepping up with yoga and vitamins and weight loss studies and um, you know, all kinds of different alternative cares. People at the in people at some point have to step and say, like, your health is also your responsibility. And I think the more that we can give people personalized information about themselves, the more that they are going to be willing to execute on taking care of themselves.
+
+Host: Speaking of that, you could have started any so many different companies in the healthcare space. Uh how did you decide this was what's this was not an obvious choice at the time?
+
+Anne Wojcicki: For me it was totally obvious. So for me, there's a couple things that were happening. One, I always loved genetics. It was my first investment in nineteen ninety-six. Um, and so in some ways it was my first and it was my last. So the genetic revolution was happening. Like right in when I started investing, um, there was the race of like, you know, getting the the cost of the genome down, it was super exciting. Um and I started looking at those investments again and realizing that you're gonna be able to buy essentially a scan of your entire genome pretty inexpensively. And so that was the first nugget of like, okay, wow, you can actually start to get huge amounts of genetic information. And second was seeing this world of, you know, social networking. That social networking was happening and you don't actually need the old guard to get things to happen. I could crowdsource. So it gave me this idea that wow, if I just empowered everyone with their genetic information and I crowdsourced all this information, like if I had the world's health information, what could I do? And people are like, Well you could, you know, cure a you could say well, you can you know a lot. So the idea really was well we should do that. We should like instead of relying on Stanford or Harvard or Pfizer to go and solve a disease or like how to be healthy, we the people, we can do it. So in some ways like a like having grown up in this Google environment and um knowing, you know, the social networking world that was coming up it was piecing those things together that was like combine the technology and s in science with the platform that is really emerging.
+
+Host: I've noticed that many of the most transformative companies come because the founder sees some like an intersection of two pretty different but really important trends a few years before everybody else does. And this is clearly one of those. It's like the fact that crowdsourcing works is still amazing to me. Just I
+
+Anne Wojcicki: Totally. Well, it's also I think when a founder really wants something personally. Like for me. Did you really want this personally? Oh yeah. To me it was like like the whole beauty for me of genes of genetics is like you have gene by environment. And I always love like people debating, but is it your genes or is it your environment? I'm like, no. The whole beauty of it is that it's both. So like you might be genetically high risk for diabetes, but like There's your environment. So what can I do? So very few j you know genetic ailments are are a hundred percent deterministic, meaning a hundred percent likelihood that you're gonna get it. So that means there's an environmental component where you can potentially do something. So let's go figure out what you can do and then tell people. Um, I think there was you know, it's always like startups are so fun. Um, you know, 'cause you get a bunch of people who really care who are really passionate and um I think people were excited and people knew that there would be controversy. And in some ways, um I think we attract we attract people who have all experienced the healthcare system in their own way and realize it has its limitations. And so there's people who are excited about 23me because of the mission and they're looking to contribute in some way to helping change the system. So there was enthusiasm and we had like videos of like we were you know, we were also um We were super excited like to launch and we thought there was gonna be like this big coming, like everyone and we had tons, like we had spit parties, we were the cover of the style section. I know we had the cover of the style section, um, we had the spit party in the building. Um, but I have to say, like, we sold a lot the first day. Um, and then it was slow. That happens. Um, and we were probably selling twenty to tw you know, fifteen to twenty five kits a day. Which is not a lot.
+
+Host: How do you well f I guess two questions. One, how did you eventually fix that? And and how did you how do you as a leader keep momentum in the building when, you know, you have this great launch, everyone the first day is always awesome. And then you have what we call the trough of sorrow. Yeah. And people get pretty demotivated.
+
+Anne Wojcicki: I think the tr so that's actually a good like there's a there's always a trough of sorrow and I think it's important to not let people be um totally you know, to not like not be wa hoping for immediate success and then to be overly distracted by the trough of sorrow. And I think that that actually happens not just in launches, but every time you come up with a product, you have no idea how how well it's gonna go. Uh like I remember when my sister first launched launched AdSense and she's like I don't know, you know, we'll see how it goes. Like it's kind of, you know, it's an experiment. We've no idea. And um and then clearly it went on, but part is because you like you work hard at it. And I feel like for us in that trough of sorrow like we um we recognize like more we foc we focus on the long term. Like what do we need to do to get to this point? And I think as a leader for me, one of the most important things is not to wallow on today, but to wallow on like, okay, in two years, this is what it's gonna look like and these are the steps I need to do to get there. People love a vision and people love a plan. You just need to outline. Like this is where we're going. So when we saw that sales were slow, we're like, people don't understand genetics. Some basic market research could have told us that. Um but like people don't know why they want their genetics. And then it was like, okay, great. Now we actually need to like educate the population about why like why would you want your genetic information? And
+
+Host: How did you do that?
+
+Anne Wojcicki: Uh so I started changing my talks. Like I g I would speak a ton. Um in the early days, like I like you gave me a conference invite and I took it. Um any I remember that for myself. Yeah, exactly. But like any any talk. 'Cause part of it is that like it's constant feedback. So again for the people who want to be entrepreneurs, like you just like you're constantly learning, constantly getting the feedback. So I would change my talks. I never gave the same talk twice. Like when I look at my inventory of all my talks, it's like there's like a five hundred of them because each one was slightly different. So I remember specifically getting the feedback. People question what is there a value proposition in what you're doing? And I was like, Great. I can answer that question. Over fifty percent of my customers get a medically meaningful r result. And then I start like I started shifting the conversation. So part of it was like getting like real time feedback. Um and part of it was helping us like define what is it that we have to do to show the value. And it was clear people need to understand genetics. They didn't understand the basics. They need to know what is the medical utility of this. Um and then um and then also people um People need to know that they're not the only one. Like that's not weird. Like, oh, this is like weird I did it. We need to drive social like acceptance. And, you know, and part of also was medical acceptance. So we did a ton, it's one thing I always advise science companies, is you can't speak like I can't just tell you like, Oh, we're great. We have great science. Like no one like no one believes that. Um so what you need to do is you need to publish. Like you put like I never even argue with scientists, I just hand over my publications, like here you go. Because that's the real it's like you you speak with your data. So like I can make all kinds of claims, but like here's my data to to actually support it.
+
+Host: Can you talk about the best decisions you made in the early days? I people always ask about the worst, uh which we can talk about if you want, but I'm curious if you look back, um, things like that where you learn like, I need to interact with the scientific community in this way. Are there a few decisions you made that looking back have been critical to success?
+
+Anne Wojcicki: I think um my two the first two hires, the two founding scientists are were just like Brian and Serge were amazing. And so in some ways like hiring the right um for me like it was such a critical part of the company. It was the scientific integrity of what we're gonna do and it set a bar of the talent that we are going to hire going forward. Um so I think in some ways like having the right people
+
+Host: We we've noticed that it is almost impossible to sort you can make a lot of mistakes as a company, but if you screw up the first five, seven hires,
+
+Anne Wojcicki: it's almost impossible to start. There's a good number of like I when I look at the first fifteen people, um, there's a good there's like a number of them are still here. Um and, you know, the others who have left, we're still very close to.
+
+Host: How do you find those first two scientists?
+
+Anne Wojcicki: Uh, we found them through a friend of a friend of a friend who and they had a similar idea and so it was a good it w it worked as a partnership. Um but it's it's hard. I mean hi hi I would say hiring is one of the hardest things and I think one of the things that we've tried really hard here in the company is we um There's a lot of smart people who have humility and there's a lot of smart people who like want to tell you how smart smart they are. And we have opted for the humility. And I think it's really important to have people who are constantly open to feedback and constantly open to um, you know, constructive criticism and learning about other areas. And I think that's actually one of the things that ha did make us successful or, you know, make allow us to grow and acr tract other people. Because it's a group of people who are really eager to learn from others and to keep learning.
+
+Host: I've noticed in my own looking back on my own career, the the big hiring mistakes that I've made are people who are really smart but just awful to work with. Because they want to tell you how smart they are. And and and and the framework that I finally figured out is it's you have to look at the net the net output that a person has on the organization as a whole. Correct. And even if they do a lot themselves, if they make everybody else miserable.
+
+Anne Wojcicki: I think it's one of the things um hiring is always really hard. And I think especially in leadership roles, if you have the wrong person. I like I just recently watched um one of the old documentaries about Steve Jobs and Bill Gates and Jobs talking about, you know, how disastrous it was when Scully came. Like I'd kind of forgotten about some of these stories and I realized I was like, Yeah. If you hire the wrong senior leadership
+
+Host: And you don't fix it very quickly it can sink you. You can
+
+Anne Wojcicki: it can sink you. Yeah.
+
+Host: What's it like being in a regulated industry? I I think one thing that a lot of people say when they think about they they have they want to do this really ambitious startup like genetic testing, but they are afraid because it's regulated.
+
+Anne Wojcicki: So I think regulation um in some ways there's like so there's pros and cons. In some ways like when you're regulated it means that there's rules. Like there's like there's like guidelines and you can figure out exactly um what that means. So in some ways like there's more of a path about actually how you have to execute. Um it definitely also means that it's more expensive. Like there are there's rules and you don't always agree with all those rules. And um when we went from an unregulated company to a regulated company, there was definitely uh a pretty major transition for us because we were used to um, you know, you hire smart people, what do smart people like to do? They like to question and they like to argue. And so we would question all the time, like, ah, well why would you need like why do you need that test? Or why do you need this study? Why do you need that number of samples? And um so we would question all the time. And one of the things I think in a regulated environment, again, like it's like the DMV. There's rules, like you just and you follow, like there's a level of obedience. Um so I'd like to encourage people, it's not it's not so overwhelming to be regulated. Um that said, it requires a lot of communication and in some ways it requires a communication style that's not prevalent in Silicon Valley. Right. Yes, that is hard. I think that there's a lot
+
+Host: people there is an impedance mismatch there.
+
+Anne Wojcicki: There is and I think, you know, we always said like we w we thought we were commun like I look at some of my old communication and I'm like, Oh wow, that's embarrassing now. Um, my the way we thought we were appro uh you know, communicating appropriately and and how it really wasn't. Um so there's a style. Like there's a style and there's a form and there's like ways, you know, there's actually like there's a path and there's a rule. It's not terribly clear. You know, I think the regulatory world can do a better job of helping outline. Um and one thing I do appreciate from ha now having been regulated for a number of years is that there is a bigger picture that they see. So people who work at the FDA or people who work in government like it's a public servant job. Like they care. They care about public safety. Like at the FDA, like they care about public safety. There's so many companies, like we can all see them. There are so many companies trying to dupe the consumer. Yes. And their job, like they are there to keep us safe. So I have a lot of respect for what they do. Um and the onus is on us as the as like this startup and the new company, all these people wanting to do things in a new way. The onus is on us a little bit to explain how we're doing it, how that works. And the way they speak, just like I mentioned about scientists, is they speak in data. Like you can't just say like oh no no. Like trust me. Like I'm the good guy. Right. Um you have to show with data. And you have to show with data in lots of ways. So I in that capacity I don't really mind, um, because it's like they do know. They know a bigger picture story. You know, some of the people we worked with there you know, have been there for, you know, twenty years and were amazing. And they have a depth, uh a breadth of knowledge that I'm never gonna have. And so learning, there's input to genuinely take.
+
+Host: As you look back uh, you know, from the day you signed that your vision on the day you signed the incorporation paperwork to now, how much has this all played out like you thought it would?
+
+Anne Wojcicki: Oh, uh it was remarkable. I like so I actually 'cause I have this picture of the day we signed and I always look at it and I'm like one like I really dressed in a very different way than I do today. Um but two um our series A documents and our OKRs from two thousand seven are remarkably similar to what they are today.
+
+Host: That's always
+
+Anne Wojcicki: So I think we're unusual. So like when like one of our investors, like we he has said, he's like what's amazing, he's like, I look back on everything. Like he's like you're a broken record. In some ways that's why it's also so easy to do speaking engagements, like 'cause I've said the same thing now for a decade. Um, we like we're v we have a mission, we have a drive, like I know where we're going. Um and it's it's been we've been able continuously executing on it.
+
+Host: The best companies are remarkably steadfast in that. I think it's hard to do because entrepreneurs sort of by definition like to start doing new things.
+
+Anne Wojcicki: Right. So I think one of the hardest things for entrepreneurs like and again, we'll going back to sort of that like the you know, the era of I forgot what you called it, the era of sorrow. The trough of sorrow. The trough of sorrow. Um I think it's important to to stick with it. Like one of the things I think like the mo one of the most important things I think I've learned at this like doing this now is um the importance of persistence. Um, like you have to stick with it. And when you stick with it, you really see a benefit. And there's things that I see now now that I've done it for over a decade, um, and I try like one of our missions is to tell people anyone can be a scientist. Anyone, any age level, like it's part of the whole reason we're directing consumer. Like, I believe anyone, you can be eighth grade level, like and you have the the ability. I love it now when kids come to me and they're like, Oh, I saw you speak, and because of you, like I really I was like, yeah, like even though I like I you know my parents didn't know anything and I didn't really have that degree, like I'm now in a PhD program, MIT. Like I get amazing stories. And you never in some ways um it takes a long time to see the consequences of your actions. So it's one of the things I emphasize to people, like if you really care about something, like if you're really passionate, it takes a decade to really see the impact.
+
+Host: Yeah, I I mean it's like compound growth. It's always misunderstood. It always takes longer and then the magnitude in the li the fine the out years is always bigger than you think.
+
+Anne Wojcicki: And I think what happens is that people comp they like hear the WhatsApp story, they hear other stories, and and and then I say like you e the real story is like the companies that continue to persist even if there's challenges. And everyone usually like the WhatsApps are s are the rare, but like you can be super consistent. And that's one thing. Like when I see the press about us now, um it's overwhelming. Like we just persisted. Yeah. That's it. We don't go away.
+
+Host: That is the secret to overnight's success is ten years of persistence. I
+
+Anne Wojcicki: yes, the overnight success is that ten years of persistence.
+
+Host: Um so you've done all these remarkable things as a company and and the one that I think is uh most remarkable or sort of most important to the future of the world is that uh I think in the last eleven years, genetic testing because of you has gone from something that people are afraid of to something that is now accepted as a really important part of putting people in charge of their lives and their health. Um, but I'd love to hear what the next eleven years look like and, you know, if we had this conversation in twenty twenty nine what we would be talking about and then your proudest accomplishments then
+
+Anne Wojcicki: So I said like my my original mission, like if you think back to my Wall Street days, was like I think the system is broken, like how am I gonna be healthy? So success for me is like I would like to be healthy at a hundred. So I now know I have my genetic information, I can learn about things, and I have set up this research machine where I can collect data from all my customers, we can make discoveries, we give those discoveries back to our customers. I have this amazing machine for discovery. Now I want to execute on the vision of like I would like to be healthy at a hundred. So like success for me is how do I now I just empowered you. I have five million people empowered to learn about themselves and they could keep coming back. We collectively as a five million, you know, person community and growing.
+
+Host: Is that the biggest genetic data set in the world?
+
+Anne Wojcicki: By far, yeah. That's awesome. With health information. Yeah, yeah, yeah. Um but like to me that's where like there's a power in what we can do now, um, to make discoveries about prevention. So we have the drug discovery arm. To me I look at it as like we have two aspects. Like you're like you're healthy today, you wanna keep staying healthy, um you have a condition that like you just have this, like so we want to have drug discovery for that. Now we'd like to keep you healthy. And I think about who like what are the partnerships I can do? What's like what what's the community I can form to actually help you make behavior changes. So one thing I I I see all the time when I meet people, like again all economic levels, all um socioeconomic groups, um people want to be healthier. They don't necessarily know how. And I see this like, you know, people don't necessarily know like, oh, were the Doritos really bad? Is soda really bad? Like it's remarkable how much like there's a disconnect between like you hear things but you don't really know. What are the ways that we're gonna be able to help
+
+Host: keep people healthier? Like I think most people know they probably shouldn't drink so much soda.
+
+Anne Wojcicki: No, but there's probably people like some people who could absorb more sugar than others. I think those are the types of things. Like we're all pretty different. Like the beauty of humanity is that you're meant to survive. Like you just look at you can look at it from the perception of viruses. Like you have the nineteen eighteen flu, lots of people died, some people survived, some people are immune. The same thing with, you know, foods, like some people just can eat a lot of sugar. Some people can't. And that's why like we are still around on the planet today. Um, so I think the main thing that I would say I take away is that there's a re there's a lot of variability. A hundred percent, like you shouldn't smoke, you should exercise more, you should eat better. But the real is like there's some people who can smoke and never get cancer. There's some people who can eat a lot and they never over get overweight. Like some people don't exercise doesn't really matter.
+
+Host: How far away are we from someone being able to spit in a tube and you tell them like here's what you need to do to have a good shot of living to 100?
+
+Anne Wojcicki: So that's one of the things that's most exciting is like what we can do by having a community of people who are all engaged. We're starting to do what we call these intervention studies. So we did our first one on um weight loss. So we had 70,000 people. doing, you know, a six-arm weight loss study. So that's the first time we're doing it in that kind of scale, specifically to see based on your DNA, are there differences in weight loss. I'm also I'm personally obviously motivated in the Parkinson space of people who are genetically high risk. Are there behaviors that can lower your risk? And how much then can you lower your risk? So we're starting to do those types of studies specifically because like that's what our customers want. Like our customers specifically want to know Exactly what you just asked. Like what's tell me what to do. Yep. So like my like when you say again, success for me is like at the end of this decade, I will tell you what to do.
+
+Host: At the end of like by twenty twenty?
+
+Anne Wojcicki: Well, I I look at it as like I look at it as like yeah, end of yeah, the next ten years of the company. So I'm already ten, I'm twelve years in. So like give me another eight years.
+
+Host: That's pretty exciting.
+
+Anne Wojcicki: I'm on it. I'm on it, Sam.
+
+Host: I will follow the instructions to the letter. Thank you very much for taking the time.
+
+Anne Wojcicki: No, you're welcome. Anytime. It's really fun. Super fun.
+
+Up next from How To Build The Future
+34:33
+Vinod Khosla on How to Build the Future
+211K views
+Over 1 year ago
+Related
+25:27
+Mark Zuckerberg on building a startup
+2M views
+Over 1 year ago
+58:37
+How to find product-market fit
+859K views
+Over 1 year ago
+34:33
+Vinod Khosla on How to Build the Future
+211K views
+Over 1 year ago
+31:00
+On starting and scaling Dropbox (YC W07)
+83K views
+Over 1 year ago
+30:45
+How To Build The AGI Future: Bob McGrew
+50K views
+1 year ago
+Pinduoduo and the rise of social e-commerce
+Anu Hariharan, Nic Dardenne
+The success of Pinduoduo in China suggests there is a huge opportunity for social commerce platforms to emerge in other regions. Learn how Pinduoduo grew so quickly by creating a new category in social shopping.
+Footer
+Y Combinator
+Make something people want.
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Resources
+Startup Directory
+Startup Library
+Investors
+Demo Day
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Twitter
+Facebook
+Instagram
+LinkedIn
+Youtube
+
+© 2026 Y Combinator

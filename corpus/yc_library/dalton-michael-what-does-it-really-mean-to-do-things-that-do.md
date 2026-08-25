@@ -1,0 +1,186 @@
+---
+title: Dalton & Michael: What does it really mean to do things that don't scale?
+source: https://www.ycombinator.com/library/If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale
+---
+
+About
+Companies
+Library
+Partners
+Resources
+Startup Jobs
+Log in
+Apply
+Home
+›
+Dalton & Michael
+›
+Dalton & Michael: What does it really mean to do things that don't scale?
+Dalton & Michael: What does it really mean to do things that don't scale?
+by Michael Seibel and Dalton Caldwell
+161K views
+Over 1 year ago
+
+Dalton Caldwell and Michael Seibel talk about Paul Graham's essay "Do Things That Don't Scale" and what it really means for founders
+
+Transcript
+
+Michael Seibel: The moment I remember on my first test radar cruise that I'll never forget is we're driving down 101 and Kyle says, Oh, a shadow. Let's see how the car handles that. And I was like, oh shit, Kyle. Hey, this is Michael Seibel with Dalton Caldwell, and today we're gonna talk about what does it really mean to do things that don't scale? This term was massively popularized in a PGSA from 2013, but it was advice that he'd been giving YC founders for a really long time. But Dalton, it seems like a lot of founders get this confused. Doing
+
+Dalton Caldwell: things that don't scale is doing something that's provocatively manual on your part, where you, the founder, does a thing personally and that isn't counting on a lot of code that you're writing or scalable processes um to run what how you think late-stage companies are
+
+Michael Seibel: run. Might help for us to give some examples. Let's give examples. Um Reddit. So day one, Reddit exists, site, no links. No
+
+Dalton Caldwell: users.
+
+Michael Seibel: No users. Blank page. But like the click a button to submit a link. What do you do if you're Steve and Alexis
+
+Dalton Caldwell: So the scalable solution is you first launch subreddits, then you run ads to recruit people to come sign up for Reddit on different topics. And then hold on, then you would hire an influencer. You would get you have an influencer strategy to get influencers on various topics to come moderate the subreddits. Okay. And so that the day you launch, you have this big splashy launch with hundreds of thousands of signups, right? That scales.
+
+Michael Seibel: That scales. What Steve and Alexis did was they made a little tool that allowed them to submit a link, the same thing that normal users used, but they had a little extra field where they could put in a username. And they just started inventing different usernames and submitting links like them. So day one, when they emailed this to their like six friends, it looked like there was a page full of users. When in fact there were two users. And I remember Steve tells two stories. The story the first day someone else other than them submitted which was not day one. And then he tells another story where like I think he went out and he got drunk and the next morning he had forgotten to like load up this morning's fake links. And he thought the site would just be blank and he was like so pissed at himself. But then he opens up the site and it looked like there were enough other people submitting links that the site wasn't blank. And then he was like and that might have been what twenty or thirty people, right? And he's like, oh wow, like major milestone. What was the DoorDash story, Dalton?
+
+Dalton Caldwell: Well, look, when you when you think about something like food delivery, um, you imagine it's scaling, you want to be doing hundreds of orders a day. And so the way the founders got started was they just did all the deliveries themselves. They didn't have to hire anyone or build a driver app or recruit drivers. If someone made an order via DoorDash, if some miracle happened and someone made an order, um The the founders would like drop everything and go deliver the food. Right?
+
+Michael Seibel: That was
+
+Dalton Caldwell: actually how they got started. Go ahead. What's
+
+Michael Seibel: so cool about that is that you know one of the other topics in this essay is like delight your users, right? Well, the easiest way to delight your user when you're doing food delivery is you do delivery yourself, right? You race to the freaking restaurant, you make sure you get the right thing, you throw in an extra, you deliver it yourself, you say thank you. They didn't have to deal with managing a driver network, motivating employees like
+
+Dalton Caldwell: Think about all the other ancillary benefits where they got to see why it was hard to do the deliveries. They got to talk to the restaurant owners personally and develop a relationship with them. They got to talk to their users. They'd be like, hey, here's your burrito. I'm the founder of this company. Do you like it? Uh would you order again? Isn't that funny? Like could you imagine a more lower status thing than of course not, but that's why it was awesome. It was not scalable. It is in present day, if you order from DoorDash, Tony is not going to deliver your burrito. Or he might statistically, he still does this sometimes. I'm sure everyone says he still does this. To this day, the founders still do deliveries. Um but like that was not a scalable strategy. But man, that's how they got off the ground.
+
+Michael Seibel: I think the last example, um, you know, in light of Cruise, you know, Cruise this week allowed any, um, started to allow the general public to drive in a driver-free, safety driver-free, driverless car. And I remember when Cruise was in YC and the V1 of the car, the V1 of the driverless car, Kyle and his tiny built team built in three months. They retrofitted an Audi. To call it driverless would be An overstatement. There were a couple things I remember. One, there was a big red button on the floor in the driver's seat. And Kyle never explained what that button did. But it was clearly important and very easy for him to reach. Um number two, it only works on the highway. Number three, it was basically adaptive cruise control. Like it was basically cruise control that stayed in your lane. It wasn't more fancy than that. And then number four, the moment I remember on my first test drive on cruise that I'll never forget. As we're driving down 101, and Kyle says, Oh, a shadow. Let's see how the car handles that. And I was like, Oh shit, Kyle. Out of everything I was looking out for, like curves, other drivers, signs, I didn't know that I should be afraid of the shadow. And that was V1. That was V one. And and Google had cars on the road retrofitted with all kinds of fancy equipment. At that time. And Kyle had his Audi that couldn't deal with shadows. That's how it starts. So why don't you talk a little bit more viscerally, Dalton? What is the, you know, we've given some examples, but give us some more on what do you think the life and the job of a CEO in these stages, in these do things that don't scale, pre-product market for stages?
+
+Dalton Caldwell: Yeah, I think in the do things that don't scale philosophy. The job of the CEO and the job of the co-founders is to do the shittiest, worst, low status work you can think of. It's the opposite of whatever your mental model, when someone says the word CEO and you're like, oh wow, CEO, visionary, you know, you know, powerful. It's like, no, like you're like doing the shit work. Yes. And you've got to learn to love and embrace the shit work. That is your job at a pre-product market fit startup. Is
+
+Michael Seibel: This thing that came to the mind is, you know, we talk to a lot of smart people who aren't cut out to be founders. And I think the reason why is that smart people don't sh tend to want to do shit work. And it's like a special kind of person who's smart, but who's like, no, no, no, like I'll get in my car and go pick up that order. Or like, no, no, no, no, like I will hand figure out how to build this horrible motor to move a car wheel. Like, I'm gonna get into the guts. And um most smart people just don't want to do that. Especially if they can get jobs where they don't have to. Think about how
+
+Dalton Caldwell: much for most of our founders their actual job is answering customer support emails and talking to angry, irite irate people that hate them and are like, I hate you. Yes. Like you're dealing with like Up close and personal feedback because you're a tiny startup, right? There's no one else to yell at. And so every time like Doordash screwed up an order, the founders of Doordash would have to be like, I am very sorry. Uh we will do better. Like you're the front lines.
+
+Michael Seibel: Yeah. I really I love that. I love that because sometimes founders want to put other people on the front lines, and it's like, God. Like no, like you are the front lines. But it's
+
+Dalton Caldwell: more scalable. Again, and again, we're not trying to be facetious. It is more scalable if the if the founders could spend their time on other tasks, right? That's more scalable. But if you're doing things that don't scale, you embrace the suck. Right? You give it a hug, you're like, Yes, I love doing this horrible work. Um That is what actually doing things that don't scale is.
+
+Michael Seibel: Well and then to your point you learn. You learn what other people are unwilling to learn. So you build a better product and so you serve your customers better. And especially when you're dealing with incumbents, you better believe that their senior management team isn't out on the front line. So whoever is developing the product there, they have some researcher or some outsource person doing all this customer surveys and crap. And if you're on the front line, you'll learn 10 times more than they will. What about your friends who are making fun of you? Because you're doing this shit work. You tell your friends what you're doing. You know, they work at Google, they get free food and free laundry and Google Boss. And they're like, What are you you're you're do you're hand delivering food? Like you're you're hand adding links to your own link sharing website? Like how do you get over the know I'll tell you like you are an idiot. That's not how it works. I know how it works. I work at Google.
+
+Dalton Caldwell: Well, you you are an idiot because you started a company. No, just kidding. Um like like this is what comes with the territory, friends. Like like if it were easy to start a company and anyone could quit their job at Google and just magically have product market fit and be successful, way more people would do it. Like how many Googles are there in the world? Not many. And it's because there's this um This stage screens out most people because it sucks. Right? Yeah. It sucks hard. And so most people look at this and they're like, I have to do what? And then most likely I'll fail and I'll go broke. Whereas I could keep my high status job. This screens everybody out. This is why there are not more successful founders. Like the reason why there's not more startups in the world is not because there's lack of good ideas or innovation, or I would argue, even funding. It's basically there aren't enough people that really want to do this stage of the startup and are good
+
+Michael Seibel: at it. Now let's talk about this kind of we keep on bringing Google. Let's go on with this phenomenon. I see so many young founders basically saying like before I start a startup, I need to work at a big company. That's where I'm gonna learn how to do it. Do you think Google's gonna help? Or where how do you think it helps and how do you think it helps? Because I think it's it's it's more nuanced than just one or the other. To
+
+Dalton Caldwell: set the scene, if you've ever interviewed for like a programming position at Google or Facebook or Amazon, a lot of what they have you do is design algorithms that ideally are scalable algorithms, right? Like ideally you're not you know bubble sorting on the whiteboard. um during during your interview at Google, right? And so it gets ground into you during the selection process that your job is to design solutions that scale. And then when you're inside of a big tech company, you you're rolling things out to millions or tens of millions of people. And so you you're you're beat into your head that you only scalable solutions are good solutions, right? Like if Facebook had some new feature, but it required them to buy a hundred times more servers, which would bankrupt the company, guess what would happen to your bright idea? Can't do it. It's gotta be more scalable, right? Or like so every every single product idea or feature that you build inside these companies is viewed through the lens of scalability, and rightfully so. You still with me? Yes. Yes. Now this is what's funny if you think of these jobs as training for startups, is that now you've had deeply ingrained into your brain what I would argue is not helpful at the earliest stages. This is helpful when you make it to late stages, hallelujah, right? But the earliest stages, you just got immersed in a culture. That is not helpful. Versus if you never worked at one of these companies and you just like graduated college, no one ever told you to worry about scalability. You're like, yeah, cool, whatever. Like, you know, I wrote the algorithm with a bubble sort. That's okay, right? Like like you've never been yelled at by your boss because you came up with unscalable ideas.
+
+Michael Seibel: You want to be trained at doing just enough as opposed to doing perfect job. And like the startup needs to do just enough and Google needs to do way better than just enough. And I think that like what's hard for me is that sometimes you see those founders and they can't launch. They're like, oh, something's broken, or oh, a customer didn't like this, and they just like cannot bring themselves to launch because it's not perfect. Well, think about
+
+Michael Seibel: So one thing I think is helpful is like how do we help founders prepare their minds for this zone? And we're telling you it's gonna suck. We're telling you to do things that people are gonna make fun of you. We're telling you that you might have to live in this spot for a while before things start looking better. I think that the big challenge the founders make is screwed up expectations. Like the big challenge is that founders think I launch it and then it's gonna work. And I really wish founders went in with the mindset like, I don't care if it takes two years to work. Like, like, how do you set your mind up so that you're immediately not disappointed? Cause I think that it's like, you know, we talk about this why I see all the time, maintaining motivation is like three quarters of this game.
+
+Dalton Caldwell: it. If you're at Google and you launch a new feature, or if you're at Facebook and you launch a new feature and it doesn't scale, like if it doesn't work, that's a fail. Like, congratulations, you suck, and your team sucks, right? Like and again, like they're not wrong. But like the all the incentive structure is set up to not launch a feature that is not scalable. This is where that scalable word comes in, right? You're not helping the company.
+
+Michael Seibel: So one thing I think is helpful is like how do we help founders prepare their minds for this zone? And we're telling you it's gonna suck. We're telling you to do things that people are gonna make fun of you. We're telling you that you might have to live in this spot for a while before things start looking better. I think that the big challenge the founders make is screwed up expectations. Like the big challenge is that founders think I launch it and then it's gonna work. And I really wish founders went in with the mindset like, I don't care if it takes two years to work. Like, like, how do you set your mind up so that you're immediately not disappointed? Cause I think that it's like, you know, we talk about this why I see all the time, maintaining motivation is like three quarters of this game.
+
+Dalton Caldwell: I I think this is a great question. And it's funny how much the questions like if someone got to spend time with us, Michael, you know, say same say someone went to dinner with us, what they want to ask us about is like fundraising, networking with you know, I know with it I know exactly what people would want to talk to us about, but usually what we usually what you should be asking us to talk about is like emotional well-being and maintaining motivation and dealing with high stress situations and dealing with criticism. Like a lot of people aren't prepared for people on the internet criticizing them. It's hard. Right. And so it's funny how much what people think expertise, like what they think they want help with and what they actually need help with are not the same thing. Yes. And think about how many startups that we fund die basically 'cause the founders run out of gas and get sad and want to go back to their jobs at Google because this was not what it this was not what they thought it was.
+
+Michael Seibel: Man, motivation I don't think motivation is about how shitty something is. Right? Like I think it's about how shitty did you think it was gonna be when you started? I think that's what screws your motivation. It's like, how should you think it was gonna be when it was started? That's why, I mean, honestly, when I do talks to college kids now, I'm just like, This life sucks. Like this is the first thing out of my mind. It's like this life sucks. It's like getting punched in the face every day. And like real pa face punch. Like let not like fake it's like you ever get punched in the face, you remember that shit for like the rest of your life.
+
+Dalton Caldwell: I mean to this day, I'm sure you do too. Man, I have like bad dreams about my startups. I still have like it's not like we're we're insulated from this. This was hard. This was like the hardest shit we ever did. Yes.
+
+Michael Seibel: By far. And we probably will ever do. So I mean, to kind of wrap this up, right? Like this idea of do things that don't scale, one, it's gonna be counterintuitive. Two, expect people around you to not understand.
+
+Dalton Caldwell: And to actively think you're stupid. Like not just not understand, but actively tell you you're being an idiot. Like why are you delivering burritos? Like what on earth are you thinking? Like you're making a m like they'll they'll like stage an intervention for you. You're screwing up. Your friends will come together, they'll set you down and be like, What are you doing, man? This is a mistake. This is not what you should be doing.
+
+Michael Seibel: Um expect it to look way different than what your larger competitors are doing now. Expect it to look way different. And expect yourself to be the primary actor. You're not acting through others. You are the doer. Anything else to add though?
+
+Dalton Caldwell: I think if you look at other companies that raise a lot of money, you're inclined to copy that strategy. Of what they're doing. So again, if you see someone, all these companies are doing, I don't know, 10 minute delivery, right? Like that's the hot new thing. And so they're like, oh, this company raised 50 million. I better raise 50. Do things that don't scale is cool. Yeah, not for you. Go do one delivery. Like when I see people fail a lot, it's that they they want to get a thousand customers and they can't get one. Just being able to say, one, we have we've delivered one burrito separates you from the pack. And so again, maybe this is this is an inspiring thing. Actually doing something is much better than average. You're you congratulations, you're in the top half of Styred Founders. If you can get out of your own way enough to do one thing.
+
+Michael Seibel: To extend that. And if you can get that person to do it again. They enjoyed it enough the first the customer enjoyed your product enough the first time that they're gonna use it again. Because that's the other question. Oh, we have a ton of users. Like, oh, like how often do they come back? It's like Come back. Were we supposed to be looking for were we supposed to be measuring that? Was
+
+Dalton Caldwell: that on a test? I didn't I didn't study for that one.
+
+Michael Seibel: It's like, well, okay. All right. That's two things that don't scale. Don't just take our word for it though. The essay's online. You can read it. And trust me, you'll get a lot out of it if you just go read it. So Google search, do things that don't scale, PG, and I'm sure you'll get the link on the top. All right. See you later, Dalton.
+
+Up next from Dalton & Michael
+25:56
+Dalton & Michael: Things that don't scale, the software edition
+192K views
+Over 1 year ago
+Related
+16:07
+How to succeed with a startup
+2.2M views
+Over 1 year ago
+59:06
+Building product
+1.1M views
+Over 1 year ago
+13:50
+How to plan an MVP
+834K views
+Over 1 year ago
+20:27
+Dalton & Michael: How future billionaires get sh*t done
+729K views
+Over 1 year ago
+7:03
+Biggest mistakes first-time founders make
+344K views
+Over 1 year ago
+19:45
+Dalton & Michael: Why you should leave your FAANG job
+281K views
+Over 1 year ago
+21:19
+Dalton & Michael: Simple products that became big companies
+192K views
+Over 1 year ago
+25:56
+Dalton & Michael: Things that don't scale, the software edition
+192K views
+Over 1 year ago
+19:50
+How to launch (again and again)
+172K views
+Over 1 year ago
+24:22
+Dalton & Michael: The student's guide to becoming a successful startup founder
+125K views
+Over 1 year ago
+9:38
+Dalton & Michael: Understanding investor terms and incentives
+51K views
+Over 1 year ago
+YC's essential startup advice
+Y Combinator
+Here is what we, at YC, consider the most important, most transformative advice for startups.
+Footer
+Y Combinator
+Make something people want.
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Resources
+Startup Directory
+Startup Library
+Investors
+Demo Day
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Twitter
+Facebook
+Instagram
+LinkedIn
+Youtube
+
+© 2026 Y Combinator

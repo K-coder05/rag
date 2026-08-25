@@ -1,0 +1,138 @@
+---
+title: How psychedelics will change society for the better
+source: https://www.ycombinator.com/library/KK-how-psychedelics-will-change-society-for-the-better
+---
+
+About
+Companies
+Library
+Partners
+Resources
+Startup Jobs
+Log in
+Apply
+Home
+›
+Garry Tan's Channel
+›
+How psychedelics will change society for the better
+GARRY'S CHANNEL
+How psychedelics will change society for the better
+by Garry Tan
+7,527 views
+Over 1 year ago
+
+Psychedelic therapies are ready to change society for the better. But we're not talking about not Grateful Dead concerts and the counterculture. Today we're seeing how this powerful technology can be deployed in clinical settings, with repeatable data showing extreme efficacy against some of the most difficult mental health challenges society faces: PTSD, depression, and many more.
+
+Transcript
+
+Garry Tan (host): Psychedelic therapies are ready to change society for the better. The big difference today is we're not talking about Grateful Dead concerts or the counterculture. We're seeing this powerful technology deployed in clinical settings with repeatable clinical data showing extreme efficacy against some of the most difficult mental health challenges society faces. PTSD, depression, and many more. That's what we're gonna learn about today. from the founder of Mindstate Design. Let's get started.
+
+Garry Tan (host): We're only now in the 21st century really coming to terms with what psychedelics really are. Michael Pollan's best-selling book, How to Change Your Mind, really helped a lot of people come around to this.
+
+Michael Pollan (guest): I guess the biggest misconception people have about psychedelics is that these are drugs that make you crazy. And we now have evidence that that does happen sometimes. But in many more cases, these are drugs that can make you sane.
+
+Garry Tan (host): While I was it initialized, Kim My Cutler and I funded a company called Mindstate Design Labs. It's also a YC company, by the way. It's on the forefront of bringing legal clinical uses of this often misunderstood medical technology to the world. And what Dillan at Mindstate Design Labs is discovering is that they are some of the most powerful treatments for mental health available.
+
+Dillan DiNardo (guest): The efficacy signals in late stage clinical trials for these compounds are incredible. So as an example, you can take MDMA, commonly known as ecstasy. It's being examined in treatment for treatment-resistant PTSD. So MDMA actually was a therapy drug before it escaped onto the recreational scene. And there have been nonprofit organizations working for decades to move MDMA through the clinical process. And what we've seen here is that in these patients who often have PTSD for decades, they've tried every treatment imaginable with only three treatments with MDMA, 67% of those patients had improved so significantly that they no longer even qualified for the PTSD diagnosis.
+
+Garry Tan (host): You might ask how this works. It turns out the key is how they help different parts of the brain talk to each other.
+
+Dillan DiNardo (guest): So if you look at psilocybin, for example, there's a famous visual of the connectivity of the brain normally and then under psilocybin. So with psilocybin, you get various regions of the brain that stop talking to itself. So one region of the brain won't talk to itself as much, but it will start talking to all these other areas of the brain that it normally doesn't communicate with. So it's this changed pattern of connectivity, and that changed pattern of connectivity then results in an altered state of consciousness. So that altered state is is what is so incredibly effective, changing fundamentally your mood, your emotions, or your cognition, your sense of self, your sense of time, your memory, the way that you relate to yourself and to the world. And psychedelics cause this altered state and give the patient a way to gain a new perspective, a new place to stand, to be able to look at themselves and their problems and causes and relationships. Um, and that's why psychedelics are so effective.
+
+Garry Tan (host): So, how did we get here? How did such a useful and clearly effective medical tool become vilified?
+
+Michael Pollan (guest): If you ask people about what psychedelics are LSD, they're gonna think about the 60s. Timothy Leary, this flamboyant psychology professor studying psilocybin and LSD and then telling everybody they should take.
+
+Garry Tan (host): I'm very glad to be discredited. I don't want credibility. I want incredibility.
+
+Michael Pollan (guest): The drugs kind of escaped the laboratory and um were embraced by the counterculture and and proved to be very disruptive to society. So you had this full-scale moral panic that eventually doomed the research. Um, but what people don't know is that that sixties episode was really one small chapter in a much longer story.
+
+Garry Tan (host): The nineteen sixties moral panic basically threw the baby out with the bathwater.
+
+Dillan DiNardo (guest): Psychedelics have been in use for tens of thousands of years, at least, by indigenous cultures in various uh religious or or uh uh different settings, uh both both medical and religious. In the 19th and 20th centuries, then, as you had globalization, the Western world rediscovered psychedelics as they came in contact with some of these societies who were were still using the compounds.
+
+Garry Tan (host): Leary and his researchers literally came out of research labs at Harvard and decided instead of actually helping people, they were just gonna turn on, tune in, and drop out. They came west to California thinking they were gonna remake society, but instead, frankly, it became just abuse. And what a squandered opportunity to help people with this powerful technology.
+
+Dillan DiNardo (guest): You have uh psychedelic researchers kind of proselytizing and and declaring how psychedelics are going to transform society and and undermine the institutions of society, and as a result, they became this this cultural flashpoint. Um and so it it was quite unfortunate that that was the history of psychedelics, that that they became so entangled in the culture wars of of that time when they could have been put to use. Uh the problem was that our society had no institution, no no ways of integrating psychedelics um i into day-to-day life. Whereas all indigenous cultures have these systems, have these processes, have these safeguards for use of of the medicine. And we didn't do that right in the 1960s, but what's happening more recently is that psychedelics are being pushed along the medical paradigm where you have medical institutions and doctors and therapists and controlled settings and all of the safeguards that you need in order to to effectively integrate psychedelics into society in a healthy way.
+
+Garry Tan (host): It's clear now, many years later, there's still something very powerful and meaningful in psychedelics that can be beneficial to society. It's not how it was before when people said, let's just break it so things fall apart. Instead, what we can do through clinical settings is to uplift, to integrate, and be a part of healing.
+
+Garry Tan (host): The history of Mindstate Design Labs actually starts with the legends of the space, but ones who are scientists in the background earnestly working away to study something of deep interest to them.
+
+Dillan DiNardo (guest): The Mindstate Design Labs story starts with Sasha and Ann Shulgin. They are known as the godparents of psychedelics, and Ann Shulgin was one of the three original owners of Mindstate Design Labs. So Sasha and Ann created most psychedelics that are in the world today. And they took the drugs, they reported on their experiences, and they published the chemical syntheses, the recipes for making these drugs. And as a result, hundreds of psychedelic drugs have been in use for decades at this point. And people have taken the drugs and then reported on their experiences. So there's a massive amount of data on the different subjective experiences that different psychedelics produce. And so our scientific founder, Dr. Thomas Ray, Tom was a friend of Sasha and Anne's, and Tom is one of these scientists who has made seminal contributions to multiple fields of science. But he's perhaps most famous for creating the first instance of self-evolving artificial life. He collaborated with with Sasha Shulgin to select a number of qualitatively diverse psychedelic drugs, drugs that produce different altered states of consciousness, and gather the biochemical data. Understand how are these drugs interacting with the brain in different ways. And so the Mindstate Design Labs technology rests on the synthesis of these two types of data, the underlying biochemical data showing what's going on in the brain, and then the experiential data showing how these drugs are changing conscious subjective experience. And so that forms the technology at the heart of Mindstate Design Labs.
+
+Garry Tan (host): Mindstate Design Labs discovered there is not one single psychedelic, but there are innumerable states of consciousness from many, many different types of psychedelics.
+
+Dillan DiNardo (guest): Our mission at Mindstate Design Labs is to design a catalog of altered states of consciousness that can be reproduced safely and reliably. So psychedelics are not one monolithic entity. There are an enormous range of different altered states of consciousness that differ considerably from each other. And the range of possible conscious experience goes well beyond the borders of our capacity to imagine. So the challenge is this is this is subjective experience. So this is human language that we're using. And human language is the richest medium of data there is. There's more information per bit of any type of data around human subjective experience. But it's subjective. So how do you take subjective experience and then quantitatively relate it to the underlying biochemistry so that you can build states of consciousness, build drug combinations that induce those states of consciousness? That reliably induce whichever state is therapeutic. Some states are are not useful at all, maybe even harmful. Some states are profoundly therapeutic. And there's this enormous range. So just to take a couple examples of first-generation psychedelics, there's a drug called Ibogaine, which has been studied extensively for opiate use disorder and has some incredible results. Induces a complex and varied experience, but one central theme that seems to continuously emerge is something like an Ebenezer Scrooge kind of experience, where the patient is transported to different memories of their lives in a series of panoramic visual scenes. So that the drug has its own properties that are physiologically useful, but this experience of going through the memories of your life and Um, reconsidering how your experiences have shaped you, reconsidering how your actions have affected not only you but the people around you through this type of experience can be profoundly impactful. So that's that's one type of experience. I also like to draw in contrast, there's a drug called 5MEO DMT, which induces an ego loss experience. So the technical term is is the mystical experience of oceanic boundlessness. And it's a experience where all form and content dissolve. There is is nothing. It's a a blissful void. It's this experience of being one with all of existence. So the the self-construct disappears. This idea that we all have that I am an individual entity that's separate from the people around me, from the environment around me, that construct winks out. And it it's been incredibly uh uh beneficial, been incredibly therapeutic for A variety of mental health disorders, including depression, anxiety, and substance use disorder. So those are just a couple examples. Our mission at Mindstate is to be able to understand the workings of these drugs, to use those first generation compounds as tools to probe the architecture of the human mind so that we can create not only the individual states that already exist more reliably, but also move on to other frontiers and create states of consciousness that are not possible with existing compounds.
+
+Garry Tan (host): There's deep healing and clarity possible through the safe clinical supervised use of psychedelics. I'm excited to see what Dillan and his team do from
+
+Dillan DiNardo (guest): here. Uh well you can find us at our website at www.mindstate.design if you want to join us on this journey.
+
+Garry Tan (host): That's it for this week. Thanks for watching all the way to the end, and we'll see you next time.
+
+Up next from Garry Tan's Channel
+12:21
+From Underdog to Undefeated: The Edrizio De La Cruz founder story
+11K views
+Over 1 year ago
+Related
+15:33
+Garry's Channel: Stop chasing money -- Chase wealth
+800K views
+Over 1 year ago
+37:29
+Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+251K views
+1 year ago
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+129K views
+Over 1 year ago
+7:08
+Garry's Channel: Should you be the CEO?
+99K views
+Over 1 year ago
+12:48
+How Athelas is revolutionizing healthcare
+20K views
+Over 1 year ago
+12:21
+From Underdog to Undefeated: The Edrizio De La Cruz founder story
+11K views
+Over 1 year ago
+Footer
+Y Combinator
+Make something people want.
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Resources
+Startup Directory
+Startup Library
+Investors
+Demo Day
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Twitter
+Facebook
+Instagram
+LinkedIn
+Youtube
+
+© 2026 Y Combinator

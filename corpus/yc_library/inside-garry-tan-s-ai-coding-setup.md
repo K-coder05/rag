@@ -1,0 +1,190 @@
+---
+title: Inside Garry Tan's AI Coding Setup
+source: https://www.ycombinator.com/library/OW-inside-garry-tan-s-ai-coding-setup
+---
+
+About
+Companies
+Library
+Partners
+Resources
+Startup Jobs
+Log in
+Apply
+Home
+›
+Startup School
+›
+Inside Garry Tan's AI Coding Setup
+STARTUP SCHOOL
+Inside Garry Tan's AI Coding Setup
+by Garry Tan
+248K views
+4 months ago
+
+GStack is an open-source toolkit built by YC President & CEO Garry Tan that turns Claude Code into an AI engineering team — with skills for office hours, design, code review, QA, and browser testing.
+
+Use it with Claude Code or Codex or Cursor. It's free and open source: https://github.com/garrytan/gstack
+
+In this video, Garry walks through how GStack works, starting with Office Hours, a skill modeled after real YC partner sessions that pressure-test your idea before you write a line of code. He demos it live, going from idea through adversarial review, design mockups, and automated QA in a single session.
+
+Transcript
+
+Garry Tan: Hi, I'm Gary, president and CEO of Y Combinator. I'm also an engineer who spent the first decade of my career building software full time. I studied computer systems engineering at Stanford, then was employee number 10 at Palantir, where I was an engineer, designer, and product manager all at once. I co-founded Posterous, a microblogging platform that sold to Twitter, and I also built the first version of Bookface, YC's internal social platform.
+
+And knowledge base. Basically, I've written a lot of code in my career, and I'm here to tell you we are in a completely new era of building software, the agent era. It turns out the way to get agents to do real work is the same way humans have always done it, as a team, with roles, with process, with review. I built G Stack to encode this three weeks ago, and now it has more GitHub stars than Ruby on Rails.
+
+In this video, I want to explain how it can help you build with agents. I've coded more in the past two months than I did in all of 2013, which is the last time I worked really, really hard as an engineer. I started playing with Claude Code back in January after hearing people like Andre Karpathy and Boris Cherney say they weren't manually writing any code anymore.
+
+And I got completely hooked. Along the way, I've essentially built all of Posterous, which took two years to build, with a co-founder and a team of ten engineers. I've essentially built all of my startup Posterous, which took two years, ten million dollars, and ten engineers to build.
+
+Out of the box, the model wanders. It doesn't know your data well, so it guesses. And guessing at that scale is how you get plausible looking code that silently breaks. The bottleneck here is not the model's intelligence. As long as you set the models upright, they are already smart enough to do extraordinary work on your code base. This is backwards.
+
+The scaffolding should be trivially thin. G Stack is my implementation of the thin harness fat skills approach. It's an open source repo that I built that turns Claude Code into an AI engineering team for you.
+
+Skills that act like a team of specialists. Office hours is one of those skills. It's actually modeled exactly after what we go through at YC as a partner doing office hours with startups. It starts by asking six forcing questions for you to reframe your product before you start building. Let me show you how it works. The best way to get started with G Stack is uh actually conductor. And so we're gonna go in.
+
+Quick start, and G Stack is actually built into Conductor right now. You just click G Stack, and today we're gonna make a tax app. Uh, it's gonna go into your Gmail and fish out all of your 1099s because it's tax day as of today. G-Stack is actually a set of skills. And the first one that we're actually gonna use is called Office Hours. This is actually the distilled version of
+
+what is thousands and tens of thousands of hours that the sixteen YC partners have spent many, many years honing and perfecting. And uh this is a distilled down ten percent strength version of
+
+of what we do at YC every day. So as you can see, uh Conductor actually just drops you right in there. We're in YC office hours now and I'm trying to do a startup to create to help people get all their 1099s out of their Gmail and financial institutions. Many banks will email
+
+you with uh new tax documents, but some won't. So we need to both search the user's inbox and accept URLs to go and search and download the 1099 int PDFs. Cool. That's our startup idea. It's just uh something to help people with their taxes and it's something that I had to deal with just yesterday.
+
+So the user wants to do office hours about a startup idea, and it's starting on office hours. So one of the things you'll notice is um we have Garry mode on, and uh what that does is it actually shows you all of the reasoning traces. So that's one of the things I really like about um using G Stack. It actually with conductor, you actually get to see exactly what
+
+Um the model is thinking as it does it. Uh right now it's just sort of getting started, but now it's starting to do some context. Okay, this is a fresh project with an initial commit, no prior design docs. We're in startup mold.
+
+Oh, and here, this is uh this is sort of the first thing that happens. You know, your model with the skill uh of office hours does a lot of thinking. It searches the web sometimes and figures out, well, what uh what are you trying to do? Here's the question that determines everything else. What's the strongest evidence that you have that someone actually wants this?
+
+This is actually one of the most important questions to ask yourself when you're trying to decide, should I work on Project X or work on that startup? I actually just experienced this recently, so I'm gonna click that. I have this experience uh just the other day. So what happened exactly? How many bank accounts do we have? And which one sent uh 1099? Well I have a few and then the process of hunting down is actually quite painful.
+
+Okay, the pain is real, but the consequence is friction and annoyance, not actual penalties. Well, I mean, frankly, my accountant uh sends me annoyed emails and sometimes they get a phone call because they're just trying to do my their job and uh I'm supposed to be there to help them.
+
+And so I do have more than five accounts. This is actually a really interesting thing it points out. TurboTax and HRNR block actually have 1099 import features and plaid connects to banks. Why aren't those solving it for you? So I answered and it said, well, the user's thinking bigger than a document aggregator. They're seeing this as a funnel. The hook is we'll find all your 1099s for you, solving an immediate pain. But the expansion is, now that you have your docs, let's actually get
+
+your taxes prepared, which is matchmaking and lead gen for tax preparers. And it's a classic wedge strategy. It's actually a more interesting business model than just the document aggregation alone, which is right. You could probably charge two or five dollars a month, or two or five dollars maybe an entire year, for ten ninety nine in int aggregation, but you can actually
+
+charge um a percentage of the transaction that ends up happening with a tax preparer, which uh might be ten X more. This is actually a very cool part of office hours. I might just build this for myself just for fun, because I do have to do this every single year.
+
+And this is actually one of the most fun parts about using office hours in G Stack is it's not this sort of on Rails thing. It's more like a conversation with your model. And so if you just came in and gave instructions to the model as it is, if I just typed the original thing, which is I need to go and find my 1099s.
+
+Garry Tan: It'll go do that. It will just literally do it, but it won't think about who's the user, what is this, what is the business model, who wants this, what's the pain point, how does it work, right? Like this is the kind of stuff that we get to do every day with lots and lots of founders in office hours. And we're pretty good at it, but so is this skill. Revised. AI browser automation, g stack browser style, lets the user log in, then AI navigates to tax stocks and downloads PDFs. The user watches it happen. I think that's correct. Let's see.
+
+Garry Tan: I mean this is a very interesting thing for me. I mean I feel like I learn about the process of building a little bit, even though I do office hours with people all the time. This is sharp pushback on premise three. You're right. I do have G Stack browser, and the approach you're describing is genuinely clever. The model would be user logs in, AI takes over, navigates to tax docs, finds the ten ninety-nine ints.
+
+Garry Tan: downloads it. No plaid, no stored credentials. The user watches the whole thing happen in the visible browser. I mean what I like about it is it can happen on their actual browser. It's not happening in the cloud. The cloud is just someone else's computer. One of the cool things that G Stack does increasingly is it lets you use codecs to actually sort out all of the crazy bugs that might be in here.
+
+Garry Tan: I'm not gonna do it right now, but it is something that you can do when you're at home working on it yourself. The way to think about Claude code is that by default it uses Claude and I think Opus 4.6 is sort of ADHD CEO. He's the guy you wanna get a beer with, and he's got a billion ideas. But when the going gets tough, you gotta call in your autistic CTO, and that's Codex. Alright, we're gonna skip for now because we're actually pretty close, I feel like.
+
+Garry Tan: Basically, we're in plan mode, and office hours helps us start off with a plan that has a lot of the things thought through. So here's actually a really cool uh example. It actually thinks through, and here's three different approaches. The first approach is Gmail auth, then search for tax doc notification, and then output a checklist of banks, which issue 1099s. There's no browser automation initially. The effort is small and the risk is small.
+
+Garry Tan: You know, when I look at that and it's like, that sounds interesting, but it doesn't sound big enough for me to actually even work on this. Like I could do that myself. Next is full stack Gmail and AI browser automation using uh NSCPA m marketplace. This sounds like what I want, actually.
+
+Garry Tan: And then uh it sort of thinks out of the box. It says, oh, okay, what about approach C? CPA first, flip the go to market. You know, I would say B sounds right. And then actually I sometimes I like to add this extra thing, which like when I have an idea, when I one of the approaches speaks to me, but then I think about something else, I'm like, okay, well I like B, but actually we could use the browser.
+
+Garry Tan: interaction to skip Google OAuth entirely and just have the user open Gmail and a version of G stack browser could just use Gmail to find the 1099s to search for automatically. Simultaneous
+
+Garry Tan: To that, it could also ask the user what other banks they have. Also, and this is what happens for me, if they already have a CPA, you can find out from the email. And if you're me, you probably already have a bunch of emails from your CPA bugging you for the specific accounts.
+
+Garry Tan: We're sort of at the end of office hours, but as you can see, we already went from sort of a half-baked, rough idea for something that we might want to do. I'm not saying this is actually a good startup idea, but you can see how this got farther along. We started with something that might start with OAuth and then CPA's nagging emails, but in the end, we realized, well, we have a browser and the browser
+
+Garry Tan: Could be used with browser automation to search the inbox, find all of the 1099s that you need to download. It can also, using LLMs, ask you which bank portals you need to add to, and it can go log in with your account and actually download the PDFs for you and then send an email to the CPA. So I really like this. Browser automation is a very out-of-pocket, sort of unusual way to solve this problem. And the wild thing about coding models is
+
+Garry Tan: You know, a year ago, two years ago, even like three months ago, it's not clear to me that anyone would even try this. I think that's the most interesting thing about uh our time right now. You're able to have an idea and then get farther along with it than you ever would be. Frankly, sometimes I use office hours and maybe one in three times I get to the end of it and I say, you know what, this isn't something that makes sense. You'll notice that there's actually a feasibility aspect of office hours.
+
+Garry Tan: And that's one thing I really pride myself on in office hours working with startups. I have a very strong opinion about how the world works and what might work. And um it's just very interesting to see Opus four point six mirror that in trying to help you figure out what your startup or product idea might be.
+
+Garry Tan: Now, what it's doing is a multi-step adversarial review. It's trying to put your idea through the paces. And as you can see, it's already found a bunch of things and it's gonna try to auto-fix it. There's no failure handling, there's no privacy section, 2FA handoff has no proposed solution. It actually tries to auto-fill out these things. And it if it can, it does. And so our doc survived two rounds of adversarial review, and it automatically caught and fixed 16 issues.
+
+Garry Tan: Um so we're gonna approve this design doc. So as you can see the adversarial review improved the score from six out of ten to eight out of ten with three remaining issues that we can worry about later. Now that we've locked in the adversarial review and addressed all these issues, uh normally what I would do is run Plan CEO review. But instead I think what we're gonna do is jump directly.
+
+Garry Tan: to design shotgun, which is one of my most fun uh ways to use this. And this is just one of a bunch of different design tools that are in the bag. So it figured out here's a bunch of different views. What do you want to actually design? And let's just do the main checklist dashboard.
+
+Garry Tan: Design shutguns uh my visual brainstorming tool. So it'll actually generate multiple AI versions and then ask us questions about it. These are three directions. It takes about 60 seconds. It actually farms it out to uh OpenAI Codex, which um is able to use Image Gen. So alright, let's there's three versions Command Center, Friendly Progress, and Split View. Let's take a look. All right, so let's let the agents cook and we'll be back in about five minutes.
+
+Garry Tan: Great. The agents are done cooking, and this is what we can we got back. We got three different options for the actual page that shows up in the command center for tracking down our tax documents. So let's look at them one by one. There's option A, B, and C.
+
+Garry Tan: Alright, here's one command center. There's a dashboard. Here's all the specific I mean, this looks pretty good. If you can atr extract here are all the banks and here are all the ten ninety nines and where are they coming from um and what their status is. That's pretty good. I like that. I'm I'm gonna give that a four out of five stars.
+
+Garry Tan: Option B is like much more friendly. Um so option A is sort of like if you're a Linux hacker, I bet you would really like this. But option B, I think it's more friendly for just normal people. So I kinda like I I I might put that as a five. That might be a pick. And then let's see. Option C, this makes it way more complicated than it needs to, so I really wouldn't do that. Let's go with option B.
+
+Garry Tan: Uh and then the cool thing is if you don't like it, you can enter uh you know any of your feedback, you can click regenerate. But in this case, we're just gonna run with option B and continue.
+
+Garry Tan: So that comes back in and you know as you can see, we're gonna go ahead and select option B, and there it is. So a friendly card-based approach with progress and the progress ring. Good instinct. Variant B is locked in. So while I have you, I mean that is just two of twenty-eight different commands. We've got more than seventy thousand uh stars now and some of the people who use it, like they they actually talk about how when they're using Claude Code, they spend 80 to 90 percent of their time in office hours, plan CEO review, and auto plan. Um this is sort of a rough view of how that sprint process actually works. We already talked about office space.
+
+Garry Tan: But if you don't want to do a lot of back and forth, if you don't want to be in the weeds, I did create autoplan, which gets you through CEO, engineering, design, and developer experience review using basically my default recommendations. Like these are sort of programmed to be what I would do if I were you. There are a bunch of design skills that you can use after the code is actually done. Claude Code will actually build when you click approve on the plan.
+
+Garry Tan: And then after it's done writing the code, you can run review, which does a staff level uh bug catching service that goes through, puts the work through the paces, full code review, uh finding bugs that might not have been in the plan mode.
+
+Garry Tan: And then the coolest part I think that um is actually an incredible amount of code is I wrote a CLI around playwright and Chromium. So there's actually an entire headed and headless browser in there. And that was a real magic moment for me as I was using Claude Code. As I sped up, um there's this idea of trying to get a to a level eight software factory. And G Stack does not get you to level eight, but I do think it gets you to level seven. And that's where I can run multiple conductor windows on different projects and sometimes three or four all on the same project, all at the same time. These are parallel PRs with parallel branches and parallel different features that all can land more or less simultaneously. And one of the bottlenecks I ran into was that, you know, once the agent was doing all the work of planning and design and coding it, I found myself sitting there doing QA, probably the least fun part of software development. So that made it very, very important for me to try to automate that. And when I did, Claude in Chrome MCP is one of the worst pieces of software I've ever used. You know, every time it would try to do an action, it would think and think and think. There was crazy context bloat. Often it wouldn't even do anything, but it would take two to three seconds even when it was working to be able to take an action. And I was amazed that I could use all of my other skills in G Stack to create the slash QA and slash browse tool. I basically wrapped Playwright at the CLI level and and now your Cloud Code and any agent now can actually just use the browser. And so not only could it use the browser, it can take screenshots, it can do complex interactions, it can click on things, it can fill things out. Now it can even download media, run eventually re full regression tests, and update CSS and assess real browser bug issues, whether it's JavaScript or CSS.
+
+Garry Tan: And finally, there's a ship tool. So it's sort of the last step before to make sure that your PR is ready to land on Maine. And this is actually how I work. I run 10 to 15 parallel Claude Code sessions all at the same time. I might, in one session, be running office hours on a brand new idea. And I actually now have multiple open source projects with tens of thousands of stars, and I I'm probably sitting on about 400 uh PRs to review right now. And so I almost always have one or two sessions active for each project, just evaluating and bringing in all the open source fixes that I'm getting from the community. Uh and I evaluate it in waves. Um one of the things that's been really scary in AI coding right now is supply chain attacks. So I'm really, really paranoid about it. But the great thing is I have G stack that has my back. So I don't have a to-do list anymore. One of the things that has emerged is I actually click on whenever I have an idea or I get a bug report from a user or I see something on X where someone's frustrated with what G Stack or Gbrain does. I just click the plus icon in conductor, it creates a new work tree, and each one of these things is a new work item. And all I have to do is run office hours, CEO review, end review, uh adversarial review, and then I just run my normal process. When it's ready to land, it lands. And I can do ten, fifteen, twenty, sometimes fifty PRs in any given day, depending on the number of meetings I have in that day.
+
+Garry Tan: So that's it. Uh G Stack is available right now. Just go to github.com slash Garry Tan slash G Stack. When you run slash office hours, you're getting a version of the real product thinking we do at YC with founders. Similar pushback and similar reframing before you ever meet us. Give it a try and let me know what you think. This is the most incredible time in history to build software. The barrier to building just collapsed. The only question left is what are you gonna build? It's time to let it rip. Go make something people want.
+
+Up next from Startup School
+10:28
+The Playbook For Building An AI Native Company
+294K views
+4 months ago
+Related
+10:28
+The Playbook For Building An AI Native Company
+294K views
+4 months ago
+11:31
+How To Pick A Startup Idea
+137K views
+2 months ago
+11:22
+How to Build an AI-Native Services Company
+132K views
+2 months ago
+21:11
+How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+129K views
+Over 1 year ago
+7:08
+Garry's Channel: Should you be the CEO?
+99K views
+Over 1 year ago
+12:37
+How psychedelics will change society for the better
+7,527 views
+Over 1 year ago
+Footer
+Y Combinator
+Make something people want.
+Programs
+YC Program
+Startup School
+Work at a Startup
+Co-Founder Matching
+Resources
+Startup Directory
+Startup Library
+Investors
+Demo Day
+SAFE
+Hacker News
+Launch YC
+YC Deals
+Company
+YC Blog
+Contact
+Press
+People
+Careers
+Privacy Policy
+Notice at Collection
+Security
+Terms of Use
+Twitter
+Facebook
+Instagram
+LinkedIn
+Youtube
+
+© 2026 Y Combinator
