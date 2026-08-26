@@ -1,0 +1,12 @@
+{
+  "strategy": "agent_v2",
+  "id": "o4",
+  "query": "What's the capital of France?",
+  "category": "out-of-scope",
+  "expected_answer": "Not answerable from the corpus, and also not a question that requires searching it -- this is common general knowledge with no connection to startups or the indexed essays/articles.",
+  "expected_sources": [],
+  "expected_tool_choice": "none",
+  "tool_calls": [],
+  "response": "The capital of France is **Paris**.\n\nThis is a straightforward geography question that doesn't require me to search the essay library. Paris has been the capital of France since the 12th century and is located in the north-central part of the country along the Seine River. It's the largest city in France and one of the most influential cities in the world.",
+  "response_time": 1.2511557000107132
+}

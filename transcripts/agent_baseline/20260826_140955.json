@@ -1,0 +1,24 @@
+{
+  "strategy": "agent_baseline",
+  "id": "t2",
+  "query": "Give me a list of Paul Graham essay titles about startup ideas.",
+  "category": "easy",
+  "expected_answer": "A browsable list of titles matching 'ideas', including 'How to Get Startup Ideas', 'Organic Startup Ideas', and 'Frighteningly Ambitious Startup Ideas' -- again a listing request rather than a request to synthesize an answer from the content.",
+  "expected_sources": [
+    "https://paulgraham.com/startupideas.html",
+    "https://paulgraham.com/organic.html",
+    "https://paulgraham.com/ambitious.html"
+  ],
+  "expected_tool_choice": "list_topics",
+  "tool_calls": [
+    {
+      "tool": "list_topics",
+      "input": {
+        "query": "startup ideas"
+      },
+      "output": "Frighteningly Ambitious Startup IdeasHow to Get Startup IdeasOrganic Startup IdeasHow to Get Startup IdeasStartup Ideas You Can Now Build With AI"
+    }
+  ],
+  "response": "Here are Paul Graham essay titles about startup ideas:\n\n1. **Frighteningly Ambitious Startup Ideas**\n2. **How to Get Startup Ideas** (appears twice in the list, so this is a key essay)\n3. **Organic Startup Ideas**\n4. **Startup Ideas You Can Now Build With AI**\n\nThese essays likely cover topics ranging from how to generate startup ideas, to the types of ambitious ideas worth pursuing, to how new technologies like AI are enabling new startup opportunities.",
+  "response_time": 2.1595837000058964
+}

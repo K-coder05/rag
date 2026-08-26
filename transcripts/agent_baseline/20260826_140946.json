@@ -1,0 +1,12 @@
+{
+  "strategy": "agent_baseline",
+  "id": "o4",
+  "query": "What's the capital of France?",
+  "category": "out-of-scope",
+  "expected_answer": "Not answerable from the corpus, and also not a question that requires searching it -- this is common general knowledge with no connection to startups or the indexed essays/articles.",
+  "expected_sources": [],
+  "expected_tool_choice": "none",
+  "tool_calls": [],
+  "response": "The capital of France is **Paris**.\n\nHowever, I should note that this is a general knowledge question that isn't related to the essay/library content I have access to. If you have questions about topics covered in the available essays or library materials, I'd be happy to help you search through those resources!",
+  "response_time": 1.3620303999923635
+}

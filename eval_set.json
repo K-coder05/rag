@@ -1,0 +1,150 @@
+[
+  {
+    "id": "e1",
+    "query": "According to Paul Graham, what should founders do to recruit their very first users?",
+    "category": "easy",
+    "expected_answer": "Founders have to manually recruit users themselves rather than waiting for users to come to them. PG cites Stripe's aggressive early user acquisition -- the 'Collison installation' technique, where instead of just offering a beta signup link, the founders personally sat down with a candidate user and got the product installed and working on the spot.",
+    "expected_sources": ["https://paulgraham.com/ds.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e2",
+    "query": "What is the difference between a maker's schedule and a manager's schedule?",
+    "category": "easy",
+    "expected_answer": "The manager's schedule is divided into one-hour slots, traditional for people who run things via meetings -- fitting in another meeting is just a matter of finding an open slot. The maker's schedule (for programmers/writers) needs half-day or full-day blocks of uninterrupted time, because a single meeting dropped into the middle of the day can wreck the whole day's productivity for someone doing that kind of work.",
+    "expected_sources": ["https://paulgraham.com/makersschedule.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e3",
+    "query": "What does it mean for a startup to be 'ramen profitable'?",
+    "category": "easy",
+    "expected_answer": "Ramen profitable means the startup makes just enough money to cover the founders' living expenses -- not full traditional profitability. Its main value isn't the money itself but that it buys the company time and reduces the pressure to raise more funding on someone else's schedule.",
+    "expected_sources": ["https://paulgraham.com/ramenprofitable.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e4",
+    "query": "How does Paul Graham define a startup in 'Startup = Growth'?",
+    "category": "easy",
+    "expected_answer": "A startup is defined purely by its intent to grow fast. Being newly founded doesn't make a company a startup, nor is working on technology, taking venture funding, or having an exit necessary -- growth is the one essential thing, and everything else associated with startups follows from it.",
+    "expected_sources": ["https://paulgraham.com/growth.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e5",
+    "query": "What are the three qualities the best startup ideas tend to share, according to 'How to Get Startup Ideas'?",
+    "category": "easy",
+    "expected_answer": "The best startup ideas are something the founders themselves want, something the founders themselves can build, and something that few other people realize is worth doing.",
+    "expected_sources": ["https://paulgraham.com/startupideas.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e6",
+    "query": "What's the first thing YC wants to know when talking to a startup that's been operating for more than 8 or 9 months?",
+    "category": "easy",
+    "expected_answer": "Whether the startup is 'default alive' or 'default dead' -- i.e., assuming current expenses and revenue growth stay the same, will they reach profitability on the money they have left, or will they run out of cash first.",
+    "expected_sources": ["https://paulgraham.com/aord.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e7",
+    "query": "What does the YC guide to seed fundraising say is the primary reason startups need to raise outside capital?",
+    "category": "easy",
+    "expected_answer": "Because the amount of money needed to reach profitability while growing fast is usually far beyond what founders and their friends/family can self-finance -- without outside funding, the vast majority of startups will die. A few do successfully bootstrap, but they're the exception.",
+    "expected_sources": ["https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "e8",
+    "query": "According to YC's advice on finding a technical co-founder, what's the first question a non-technical founder should ask themselves?",
+    "category": "easy",
+    "expected_answer": "Whether they are technical enough to build the first version themselves -- it depends heavily on what's being built. Developing new cancer drugs requires real technical depth in biology, but building a basic iPhone app or website usually doesn't require the founder to be very technical to get a first version out.",
+    "expected_sources": ["https://www.ycombinator.com/library/3i-how-to-find-a-technical-co-founder"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "h1",
+    "query": "How does the 'default alive vs. default dead' framework relate to the idea of being ramen profitable?",
+    "category": "hard",
+    "expected_answer": "'Default alive/dead' asks whether a startup's current revenue growth and expenses will get it to profitability on the cash it has left -- it's the general framework for judging survival trajectory. 'Ramen profitable' describes one way a startup can push itself toward default-alive: by making just enough to cover the founders' living costs, which buys time and reduces urgency to raise more money, independent of hitting full traditional profitability.",
+    "expected_sources": ["https://paulgraham.com/aord.html", "https://paulgraham.com/ramenprofitable.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "h2",
+    "query": "How does 'Founder Mode' push back against the traditional advice given to scaling founders?",
+    "category": "hard",
+    "expected_answer": "The traditional advice founders are given as they scale is roughly 'hire good people and give them room to do their jobs' -- heavy delegation, run like a professional manager. PG argues this conventional advice actually damaged founders who followed it (e.g. early Airbnb under Brian Chesky), and that founders instead need a different, more hands-on way of running a company at scale, drawing on how Steve Jobs ran Apple rather than standard management wisdom.",
+    "expected_sources": ["https://paulgraham.com/foundermode.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "h3",
+    "query": "Compare what 'Do Things that Don't Scale' and 'How to Get Startup Ideas' each say about how founders should relate to their early users.",
+    "category": "hard",
+    "expected_answer": "'Do Things that Don't Scale' focuses on how founders acquire early users -- manually and aggressively recruiting them one by one rather than passively waiting, as in Stripe's hands-on 'Collison installation' approach. 'How to Get Startup Ideas' focuses on where the idea comes from in the first place -- it argues the founders themselves should be the initial users, building something that solves a problem they personally have, so the need is validated from the start rather than assumed.",
+    "expected_sources": ["https://paulgraham.com/ds.html", "https://paulgraham.com/startupideas.html"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "h4",
+    "query": "Based on 'Ramen Profitable' and the YC guide to seed fundraising, why might being ramen profitable reduce a startup's need to raise money urgently?",
+    "category": "hard",
+    "expected_answer": "The seed fundraising guide explains that startups normally need outside capital because reaching profitability while growing fast costs more than founders can self-fund, and without it most startups die. A startup that's already ramen profitable -- covering just the founders' living expenses -- has bought itself time and isn't at risk of running out of cash, so it can raise (if it chooses to) from a position of leverage rather than urgency.",
+    "expected_sources": ["https://paulgraham.com/ramenprofitable.html", "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising"],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "o1",
+    "query": "What was the closing stock price of Apple on January 15, 2024?",
+    "category": "out-of-scope",
+    "expected_answer": "Not answerable from the corpus -- none of the essays or articles discuss specific stock prices or dates like this. The agent should indicate it cannot find this in the indexed content rather than guessing or hallucinating a figure.",
+    "expected_sources": [],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "o2",
+    "query": "What are the step-by-step instructions for calculating the Black-Scholes option pricing model in Python?",
+    "category": "out-of-scope",
+    "expected_answer": "Not answerable from the corpus -- this is a quantitative finance/programming question, and the indexed content is startup and business advice essays, not technical or financial modeling tutorials.",
+    "expected_sources": [],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "o3",
+    "query": "How do I configure an Nginx reverse proxy with SSL termination on Ubuntu 22.04?",
+    "category": "out-of-scope",
+    "expected_answer": "Not answerable from the corpus -- this is a systems administration question unrelated to the startup/YC essay content that's actually indexed.",
+    "expected_sources": [],
+    "expected_tool_choice": "search_essays"
+  },
+  {
+    "id": "o4",
+    "query": "What's the capital of France?",
+    "category": "out-of-scope",
+    "expected_answer": "Not answerable from the corpus, and also not a question that requires searching it -- this is common general knowledge with no connection to startups or the indexed essays/articles.",
+    "expected_sources": [],
+    "expected_tool_choice": "none"
+  },
+  {
+    "id": "t1",
+    "query": "What essays or articles do you have about fundraising?",
+    "category": "easy",
+    "expected_answer": "A browsable list of titles matching 'fundraising', including at least 'A guide to seed fundraising' -- this is a listing request, not a request for a specific factual answer, so the response should be a set of titles rather than a synthesized explanation.",
+    "expected_sources": ["https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising"],
+    "expected_tool_choice": "list_topics"
+  },
+  {
+    "id": "t2",
+    "query": "Give me a list of Paul Graham essay titles about startup ideas.",
+    "category": "easy",
+    "expected_answer": "A browsable list of titles matching 'ideas', including 'How to Get Startup Ideas', 'Organic Startup Ideas', and 'Frighteningly Ambitious Startup Ideas' -- again a listing request rather than a request to synthesize an answer from the content.",
+    "expected_sources": [
+      "https://paulgraham.com/startupideas.html",
+      "https://paulgraham.com/organic.html",
+      "https://paulgraham.com/ambitious.html"
+    ],
+    "expected_tool_choice": "list_topics"
+  }
+]

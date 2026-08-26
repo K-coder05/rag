@@ -1,0 +1,12 @@
+{
+  "strategy": "agent_v2",
+  "id": "o1",
+  "query": "What was the closing stock price of Apple on January 15, 2024?",
+  "category": "out-of-scope",
+  "expected_answer": "Not answerable from the corpus -- none of the essays or articles discuss specific stock prices or dates like this. The agent should indicate it cannot find this in the indexed content rather than guessing or hallucinating a figure.",
+  "expected_sources": [],
+  "expected_tool_choice": "search_essays",
+  "tool_calls": [],
+  "response": "I don't have access to real-time stock price data or historical stock market information. The tools available to me are designed to search through essay and library content, not to retrieve financial or stock market data.\n\nTo find Apple's closing stock price on January 15, 2024, I'd recommend:\n\n1. **Yahoo Finance** (finance.yahoo.com)\n2. **Google Finance** (google.com/finance)\n3. **CNBC** (cnbc.com)\n4. **Your brokerage account** if you have one\n5. **MarketWatch** (marketwatch.com)\n\nThese sources maintain historical stock price data and would have the specific closing price you're looking for.",
+  "response_time": 1.7205489999905694
+}

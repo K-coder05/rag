@@ -1,0 +1,22 @@
+{
+  "strategy": "agent_v2",
+  "id": "t1",
+  "query": "What essays or articles do you have about fundraising?",
+  "category": "easy",
+  "expected_answer": "A browsable list of titles matching 'fundraising', including at least 'A guide to seed fundraising' -- this is a listing request, not a request for a specific factual answer, so the response should be a set of titles rather than a synthesized explanation.",
+  "expected_sources": [
+    "https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising"
+  ],
+  "expected_tool_choice": "list_topics",
+  "tool_calls": [
+    {
+      "tool": "list_topics",
+      "input": {
+        "query": "fundraising"
+      },
+      "output": "A Fundraising Survival GuideHigh Resolution FundraisingA guide to seed fundraisingFundraising Fundamentals (SUS 2018)"
+    }
+  ],
+  "response": "I found 4 essays/articles about fundraising:\n\n1. **A Fundraising Survival Guide**\n2. **High Resolution Fundraising**\n3. **A guide to seed fundraising**\n4. **Fundraising Fundamentals (SUS 2018)**\n\nWould you like me to search for more specific information within any of these resources, or would you like details about a particular fundraising topic?",
+  "response_time": 2.0470089000009466
+}

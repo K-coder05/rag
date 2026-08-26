@@ -1,65 +1,30 @@
-import main
-from main import retrieve_context, generate
+import json
 import time
 import pathlib
-import json
 import datetime
 
+import main
+from main import ask
+
 STRATEGIES = [
-	{"name": "baseline", "namespace": "startup-library"},
-	{"name": "v2", "namespace": "startup-library-v2"},
+	{"name": "agent_baseline", "namespace": "startup-library"},
+	{"name": "agent_v2", "namespace": "startup-library-v2"},
 ]
 
-test_cases = []
-test = {}
-test["query"] = "What does Paul Graham mean by 'Do Things that Don't Scale'?"
-test["category"] = "easy"
-test_cases.append(test)
+with open("eval_set.json", encoding="utf-8") as f:
+	eval_items = json.load(f)
 
-test = {}
-test["query"] = "What is the difference between a maker's schedule and a manager's schedule?"
-test["category"] = "easy"
-test_cases.append(test)
+tool_call_log = []
 
-test = {}
-test["query"] = "Why does Paul Graham advise against starting a company with a single founder?"
-test["category"] = "easy"
-test_cases.append(test)
+def _tracking_wrapper(name, real_fn):
+	def wrapped(**kwargs):
+		output = real_fn(**kwargs)
+		tool_call_log.append({"tool": name, "input": kwargs, "output": output})
+		return output
+	return wrapped
 
-test = {}
-test["query"] = "How does a founder's approach to user acquisition evolve between having 10 users versus having 10,000 users?"
-test["category"] = "hard"
-test_cases.append(test)
-
-test = {}
-test["query"] = "What qualities distinguish an idea that sounds bad but is actually good from an idea that is genuinely bad?"
-test["category"] = "hard"
-test_cases.append(test)
-
-test = {}
-test["query"] = "Compare the dynamics of raising angel funding versus venture capital as described across the essays."
-test["category"] = "hard"
-test_cases.append(test)
-
-test = {}
-test["query"] = "Why is high organic user retention more critical in the early stages than raw top-of-funnel acquisition?"
-test["category"] = "hard"
-test_cases.append(test)
-
-test = {}
-test["query"] = "What was the closing stock price of Apple on January 15, 2024?"
-test["category"] = "out-of-scope"
-test_cases.append(test)
-
-test = {}
-test["query"] = "What are the step-by-step instructions for calculating the Black-Scholes option pricing model in Python?"
-test["category"] = "out-of-scope"
-test_cases.append(test)
-
-test = {}
-test["query"] = "How do I configure an Nginx reverse proxy with SSL termination on Ubuntu 22.04?"
-test["category"] = "out-of-scope"
-test_cases.append(test)
+main.search_essays = _tracking_wrapper("search_essays", main.search_essays)
+main.list_topics = _tracking_wrapper("list_topics", main.list_topics)
 
 for strategy in STRATEGIES:
 	main.NAMESPACE = strategy["namespace"]
@@ -68,32 +33,25 @@ for strategy in STRATEGIES:
 	out_dir = pathlib.Path("transcripts") / strategy["name"]
 	out_dir.mkdir(parents=True, exist_ok=True)
 
-	for test in test_cases:
-		query = test["query"]
-		category = test["category"]
+	for item in eval_items:
+		tool_call_log.clear()
 
-		before_retrieval = time.perf_counter()
-		records = retrieve_context(query=query)
-		after_retrieval = time.perf_counter()
-		chunks = []
-		for record in records:
-			chunks.append(vars(record))
-		retrieval_time = after_retrieval - before_retrieval
-
-		before_generation= time.perf_counter()
-		response = generate(query=query, records=records)
-		after_generation = time.perf_counter()
-		generation_time = after_generation - before_generation
+		before = time.perf_counter()
+		response = ask(query=item["query"])
+		after = time.perf_counter()
 
 		filename = out_dir / (datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".json")
 		transcript = {
 			"strategy": strategy["name"],
-			"query": query,
-			"category": category,
-			"chunks": chunks,
-			"retrieval_time": retrieval_time,
-			"generation_time": generation_time,
+			"id": item.get("id"),
+			"query": item["query"],
+			"category": item.get("category"),
+			"expected_answer": item.get("expected_answer"),
+			"expected_sources": item.get("expected_sources"),
+			"expected_tool_choice": item.get("expected_tool_choice"),
+			"tool_calls": list(tool_call_log),
 			"response": response,
+			"response_time": after - before,
 		}
 		with open(file=filename, mode="w", encoding="utf-8") as fp:
 			json.dump(transcript, fp, indent=2)

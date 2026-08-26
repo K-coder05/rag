@@ -1,0 +1,23 @@
+{
+  "strategy": "agent_baseline",
+  "id": "e4",
+  "query": "How does Paul Graham define a startup in 'Startup = Growth'?",
+  "category": "easy",
+  "expected_answer": "A startup is defined purely by its intent to grow fast. Being newly founded doesn't make a company a startup, nor is working on technology, taking venture funding, or having an exit necessary -- growth is the one essential thing, and everything else associated with startups follows from it.",
+  "expected_sources": [
+    "https://paulgraham.com/growth.html"
+  ],
+  "expected_tool_choice": "search_essays",
+  "tool_calls": [
+    {
+      "tool": "search_essays",
+      "input": {
+        "query": "Paul Graham Startup = Growth definition",
+        "top_k": 3
+      },
+      "output": "From source corpus\\yc_library\\yc-s-essential-startup-advice.md: **1.** [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html) by Paul Graham  \n**2.** [How to Raise Money](http://paulgraham.com/fr.html) by Paul Graham  \n**3.** [Taking Advice](https://blog.aaronkharris.com/taking-advice) by Aaron Harris\n\nFrom source corpus\\pg_essays\\startup-growth.md: ---\ntitle: Startup = Growth\nsource: https://paulgraham.com/growth.html\n---  \nSeptember 2012  \nA startup is a company designed to grow fast. Being newly founded\ndoes not in itself make a company a startup. Nor is it necessary\nfor a startup to work on technology, or take venture funding, or\nhave some sort of \"exit.\" The only essential thing is growth.\nEverything else we associate with startups follows from growth.  \nIf you want to start one it's important to understand that. Startups\nare so hard that you can't be pointed off to the side and hope to\nsucceed. You have to know that growth is what you're after. The\ngood news is, if you get growth, everything else tends to fall into\nplace. Which means you can use growth like a compass to make almost\nevery decision you face.  \n**Redwoods**  \nLet's start with a distinction that should be obvious but is often\noverlooked: not every newly founded company is a startup. Millions\nof companies are started every year in the US. Only a tiny fraction\n\nFrom source corpus\\yc_library\\startup-growth.md: ---\ntitle: Startup = growth\nsource: https://www.ycombinator.com/library/8s-startup-growth\n---  \n*The original version of this essay is available at* [*http://www.paulgraham.com/growth.html*](http://www.paulgraham.com/growth.html)  \nSeptember 2012\nA startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of \"exit.\" The only essential thing is growth. Everything else we associate with startups follows from growth.\nIf you want to start one it's important to understand that. Startups are so hard that you can't be pointed off to the side and hope to succeed. You have to know that growth is what you're after. The good news is, if you get growth, everything else tends to fall into place. Which means you can use growth like a compass to make almost every decision you face.\n\n"
+    }
+  ],
+  "response": "According to Paul Graham in his essay \"Startup = Growth,\" **a startup is a company designed to grow fast.**\n\nGraham emphasizes what a startup is NOT, clarifying several common misconceptions:\n\n- Being newly founded does not in itself make a company a startup\n- It is not necessary for a startup to work on technology\n- It is not necessary for a startup to take venture funding\n- It is not necessary for a startup to have some sort of \"exit\"\n\n**The only essential thing is growth.** Graham argues that everything else we associate with startups follows from growth.\n\nHe emphasizes the importance of understanding this core definition, noting that startups are extremely difficult endeavors. He advises that you must know growth is what you're after\u2014you can't be \"pointed off to the side and hope to succeed.\" However, he adds that the good news is that if you achieve growth, everything else tends to fall into place. This makes growth work like a compass that can guide almost every decision a startup founder faces.",
+  "response_time": 3.6285907000128645
+}
