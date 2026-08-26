@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from pinecone import Pinecone
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from anthropic import Anthropic
+from rank_bm25 import BM25Okapi
 
 load_dotenv()
 
@@ -15,32 +16,103 @@ pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
 index = pc.Index("startup-library")
 
 class Record:
-	def __init__(self, ID: str = "", score: float = 0.0, text: str = "", source: str = "") -> None:
-		self.ID = ID
+	def __init__(self, id: str = "", score: float = 0.0, text: str = "", source: str = "") -> None:
+		self.id = id
 		self.score = score
 		self.text = text
 		self.source = source
 
-def retrieve(query: str, top_k: int = 3) -> list[Record]:
+def tokenize(text: str) -> list[str]:
+	return text.lower().split()
+
+def retrieve(query: str, n: int = 3) -> list[Record]:
+	# standard vector search
 	query_vector = embeddings_model.embed_query(query)
 	results = index.query(
 		vector=query_vector,
-		top_k=top_k,
+		top_k=n,
 		include_metadata=True,
 		namespace="startup-library"
 	)
 
+	doc_lookup = {}
 	records = []
 	for match in results["matches"]:
-		ID = match["id"]
+		id = match["id"]
 		score = match["score"]
 		text = match["metadata"].get('text', '')
 		source = match["metadata"].get('source', '')
 
-		record = Record(ID = ID, score=score, text=text, source=source)
+		record = Record(id = id, score=score, text=text, source=source)
 		records.append(record)
+		doc_lookup[id] = {"text" : text, "source" : source}
 
-	return records
+	# keyword/BM25 search alongside vector search
+	IDs = []
+	pages = index.list(namespace="startup-library")
+	for page in pages:
+		for vector in page.vectors:
+			IDs.append(vector.id)
+
+	fetches = {}
+	batch_size = 100
+	for start in range(0, len(IDs), batch_size):
+		fetch = index.fetch(ids=IDs[start:start+batch_size], namespace="startup-library")
+		fetches.update(fetch.vectors)
+
+	documents = []
+	texts = []
+	for vector in fetches.values():
+		if vector.metadata:
+			texts.append(tokenize(vector.metadata["text"]))
+			document = {
+				"id" : vector.id,
+				"source" : vector.metadata["source"],
+				"text" : vector.metadata["text"]
+			}
+
+			documents.append(document)
+			doc_lookup[document["id"]] = {"text" : document["text"], "source" : document["source"]}
+
+	ranker = BM25Okapi(corpus=texts, tokenizer=None, k1=1.5, b=0.65, epsilon=0.25)
+	tokenized_query = tokenize(query)
+	ranks = ranker.get_top_n(tokenized_query, documents=documents, n=n)
+
+	# fuse for Reciprocal Rank Fusion usings 'ranks' and 'records'
+	k = 60
+	dense_rank = {}
+	for i in range(len(records)):
+		dense_rank[records[i].id] = i + 1
+
+	bm25_rank = {}
+	for i in range(len(ranks)):
+		bm25_rank[ranks[i]["id"]] = i + 1
+
+	record_ids = [record.id for record in records]
+	rank_ids = [document["id"] for document in ranks]
+	union_ids = list(set(record_ids).union(set(rank_ids)))
+
+	final_scores = {}
+	for id in union_ids:
+		rrf_score = 0
+		if id in record_ids:
+			rrf_score += 1 / (k + dense_rank[id])
+		if id in rank_ids:
+			rrf_score += 1 / (k + bm25_rank[id])
+		final_scores[id] = rrf_score
+
+	final_ids = sorted(final_scores, key=lambda id: final_scores[id], reverse=True)[:n]
+
+	final_records = []
+	for id in final_ids:
+		text = doc_lookup[id]["text"]
+		source = doc_lookup[id]["source"]
+		score = final_scores[id]
+
+		record = Record(id=id, score=score, text=text, source=source)
+		final_records.append(record)
+
+	return final_records
 
 
 def generate(query, records: list[Record]) -> str:
