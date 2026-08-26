@@ -1,5 +1,5 @@
 ---
-title: Dalton & Michael: What does it really mean to do things that don't scale?
+title: 'Dalton & Michael: What does it really mean to do things that don''t scale?'
 source: https://www.ycombinator.com/library/If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale
 ---
 

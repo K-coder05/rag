@@ -1,0 +1,28 @@
+{
+  "strategy": "baseline",
+  "query": "What was the closing stock price of Apple on January 15, 2024?",
+  "category": "out-of-scope",
+  "chunks": [
+    {
+      "id": "bcc0ac6da567ba75f3b68fd323f4178b4082d1c870be8f7dda3aeeaddf4b3a5a",
+      "score": 0.01639344262295082,
+      "text": "---\ntitle: Learning from Founders\nsource: https://paulgraham.com/foundersatwork.html\n---  \nJanuary 2007  \n*(Foreword to Jessica Livingston's\n[Founders at Work](http://www.amazon.com/gp/product/1590597141).)*  \nApparently sprinters reach their highest speed right out of the\nblocks, and spend the rest of the race slowing down. The winners\nslow down the least. It's that way with most startups too. The\nearliest phase is usually the most productive. That's when they\nhave the really big ideas. Imagine what Apple was like when 100%\nof its employees were either Steve Jobs or Steve Wozniak.  \nThe striking thing about this phase is that it's completely different\nfrom most people's idea of what business is like. If you looked\nin people's heads (or stock photo collections) for images representing\n\"business,\" you'd get images of people dressed up in suits, groups\nsitting around conference tables looking serious, Powerpoint\npresentations, people producing thick reports for one another to",
+      "source": "corpus\\pg_essays\\learning-from-founders.md"
+    },
+    {
+      "id": "3f074f0a3b4852a8de13cbf01a9180fe7e5276006269e95309f745d1443619ef",
+      "score": 0.01639344262295082,
+      "text": "not in the middle. My seventy year old mother has a Mac laptop.\nMy friends with PhDs in computer science have Mac laptops. [2] And yet\nApple's overall market share is still small.  \nThough unprecedented, I predict this situation is also temporary.  \nSo Dad, there's this company called Apple. They make a new kind of\ncomputer that's as well designed as a Bang & Olufsen stereo system,\nand underneath is the best Unix machine you can buy. Yes, the price\nto earnings ratio is kind of high, but I think a lot of people are\ngoing to want these.  \n**Notes**  \n[1] These horrible stickers are much like the intrusive ads popular\non pre-Google search engines. They say to the customer: you are\nunimportant. We care about Intel and Microsoft, not you.  \n[2] [Y Combinator](http://ycombinator.com)\nis (we hope) visited mostly by\nhackers. The proportions of OSes are:\nWindows 66.4%, Macintosh 18.8%, Linux 11.4%, and FreeBSD 1.5%.\nThe Mac number is\na big change from what it would have been five years ago.",
+      "source": "corpus\\pg_essays\\return-of-the-mac.md"
+    },
+    {
+      "id": "a472399b17ff5d0102432ca7e3decc089bea55a8a1b4ab6d8133bf800c17ed7b",
+      "score": 0.016129032258064516,
+      "text": "and there were presumably people in a position, if not to create\nthis situation, to realize what was happening and to milk it.  \nA year later the game was up. Starting in January 2000, Yahoo's\nstock price began to crash, ultimately losing 95% of its\nvalue.  \nNotice, though, that even with all the fat trimmed off its market\ncap, Yahoo was still worth a lot. Even at the morning-after\nvaluations of March and April 2001, the people at Yahoo had managed\nto create a company worth about $8 billion in just six years.  \nThe fact is, despite all the nonsense we heard\nduring the Bubble about the \"new economy,\" there was a\ncore of truth. You need\nthat to get a really big bubble: you need to have something\nsolid at the center, so that even smart people are sucked in.\n(Isaac Newton and Jonathan Swift both lost money\nin the South Sea Bubble of 1720.)  \nNow the pendulum has swung the other way. Now anything that\nbecame fashionable during the Bubble is ipso facto unfashionable.",
+      "source": "corpus\\pg_essays\\what-the-bubble-got-right.md"
+    }
+  ],
+  "retrieval_time": 0.3400124999898253,
+  "generation_time": 2.61411439999938,
+  "response": "I cannot answer this question based on the provided sources. \n\nThe sources you've provided are essays from Paul Graham about startup philosophy and history (including discussions of Apple's early days, Mac market share, and the dot-com bubble). None of these sources contain information about Apple's closing stock price on January 15, 2024.\n\nTo find Apple's closing stock price on that specific date, you would need to consult financial data sources such as:\n- Yahoo Finance\n- Google Finance\n- NASDAQ.com\n- Financial databases like Bloomberg or Reuters\n\nI can only answer from the context provided, and this particular factual/financial data point is not available in your source corpus."
+}

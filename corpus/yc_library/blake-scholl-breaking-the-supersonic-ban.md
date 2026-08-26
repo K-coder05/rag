@@ -1,5 +1,5 @@
 ---
-title: Blake Scholl: Breaking the Supersonic Ban
+title: 'Blake Scholl: Breaking the Supersonic Ban'
 source: https://www.ycombinator.com/library/VR-blake-scholl-breaking-the-supersonic-ban
 ---
 

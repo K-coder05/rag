@@ -1,5 +1,5 @@
 ---
-title: Garry's Channel: My $200 million startup mistake
+title: 'Garry''s Channel: My $200 million startup mistake'
 source: https://www.ycombinator.com/library/Jh-garry-s-channel-my-200-million-startup-mistake
 ---
 

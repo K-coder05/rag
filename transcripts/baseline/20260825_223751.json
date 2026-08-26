@@ -1,0 +1,28 @@
+{
+  "strategy": "baseline",
+  "query": "Why does Paul Graham advise against starting a company with a single founder?",
+  "category": "easy",
+  "chunks": [
+    {
+      "id": "8ff8d05ca31829217a34f140bc898e765cedf285b360a1eda6389f3f5a29ba0e",
+      "score": 0.01639344262295082,
+      "text": "---\ntitle: How to Start a Startup: Before the startup\nsource: https://www.ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup\n---  \nPaul Graham delivers an informative (and highly amusing) talk, addressing the counterintuitive parts of starting a startup.",
+      "source": "corpus\\yc_library\\how-to-start-a-startup-before-the-startup.md"
+    },
+    {
+      "id": "63c8d1254c390937a40542312d7d98c8f02d8e7167558ca33d1c9ce9dbe83308",
+      "score": 0.01639344262295082,
+      "text": "Have you ever noticed how few successful startups were founded by just one person? Even companies you think of as having one founder, like Oracle, usually turn out to have more. It seems unlikely this is a coincidence.\nWhat's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of his friends into starting the company with him. That's pretty alarming, because his friends are the ones who know him best.\nBut even if the founder's friends were all wrong and the company is a good bet, he's still at a disadvantage. Starting a startup is too hard for one person. Even if you could do all the work yourself, you need colleagues to brainstorm with, to talk you out of stupid decisions, and to cheer you up when things go wrong.",
+      "source": "corpus\\yc_library\\the-18-mistakes-that-kill-startups.md"
+    },
+    {
+      "id": "2f01b047a0d8c3f1b8de6151f8e6afc98b7a6ba5cf785f123d1b9b3ff68c49fc",
+      "score": 0.016129032258064516,
+      "text": "![](https://lh5.googleusercontent.com/zv_sWGxKzF0H8KcF6Pa1xHbfUcI30aX7tBRFZ5UWdI1alZ_AQAiLvyIgKVTUIVo6RvV9JVZQaDbEDPga59THjgFyuj4Ulolmb0osCTrqNVNst3kuqDoNs7XJF7NyG6XcTlOVmLLa)  \n**Introduction**  \nIn his 2007 essay \u201c[Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html),\u201d YC co-founder Paul Graham wrote about how common uncertainty was among people considering starting a company. \u201cThere's nothing wrong with being unsure,\u201d he noted. \u201cYou\u2019re part of a grand tradition.\u201d When Y Combinator launched in 2005, [starting a startup was an unusual career path for recent graduates](http://www.paulgraham.com/mit.html). It was hard to be taken seriously by investors if you didn\u2019t have an MBA or years of experience in business or tech. To get a sense of how many startups were in the world, look at TechCrunch in 2005. It published about 40 company launches per month, and YC itself only got a couple hundred applications for its first batches.",
+      "source": "corpus\\yc_library\\startups-for-students.md"
+    }
+  ],
+  "retrieval_time": 0.3986353000072995,
+  "generation_time": 4.0098632000008365,
+  "response": "# Why Paul Graham Advises Against Single Founders\n\nBased on Paul Graham's research and writing, here are the key reasons he advises against starting a company with a single founder:\n\n## 1. **It's a Signal of Rejection**\nAccording to Graham's essay in \"The 18 Mistakes That Kill Startups,\" a single founder is \"a vote of no confidence.\" It suggests the founder couldn't convince any of their friends\u2014the people who know them best\u2014to join them in the venture. As Graham notes: *\"That's pretty alarming, because his friends are the ones who know him best.\"*\n\n## 2. **The Work is Too Hard for One Person**\nEven if a solo founder possessed all the necessary skills, Graham emphasizes that *\"Starting a startup is too hard for one person.\"* This isn't just about capacity; it's about the specific types of support needed.\n\n## 3. **Lack of Critical Thinking Partners**\nA single founder loses crucial interpersonal resources:\n- **Brainstorming partners** to develop ideas\n- **Reality checkers** to talk them out of poor decisions\n- **Emotional support** to maintain morale when things go wrong\n\n## 4. **Historical Evidence**\nGraham points out that *\"few successful startups were founded by just one person,\"* and even iconic single-founder companies like Oracle actually had multiple founders. *\"It seems unlikely this is a coincidence.\"*\n\nThe implication is clear: co-founders aren't just helpful\u2014they're nearly essential to startup success."
+}

@@ -1,5 +1,5 @@
 ---
-title: Andrej Karpathy: Software Is Changing (Again)
+title: 'Andrej Karpathy: Software Is Changing (Again)'
 source: https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again
 ---
 

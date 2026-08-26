@@ -1,12 +1,4 @@
 """
-scrape_pg_essays.py
-
-Collects Paul Graham's essays for the RAG sprint corpus.
-
-Why this approach: paulgraham.com/articles.html is a plain static HTML index
-(a <table> of <a> links to plain HTML essay pages) -- no JavaScript rendering
-needed, and robots.txt does not block these paths. This is the cheapest part
-of the corpus to collect.
 
 Usage:
     pip install requests beautifulsoup4 markdownify
@@ -17,6 +9,7 @@ import time
 import json
 import pathlib
 import requests
+import yaml
 from bs4 import BeautifulSoup
 from markdownify import markdownify as html_to_markdown
 
@@ -90,7 +83,10 @@ def main():
 
             slug = re.sub(r"[^a-zA-Z0-9]+", "-", title).strip("-").lower()[:60] or f"essay-{i}"
             fname = OUT_DIR / f"{slug}.md"
-            fname.write_text(f"---\ntitle: {title}\nsource: {url}\n---\n\n{text}", encoding="utf-8")
+            # yaml.safe_dump escapes titles containing colons, quotes, etc. --
+            # an unescaped f-string here breaks frontmatter.load() downstream.
+            fm = yaml.safe_dump({"title": title, "source": url}, allow_unicode=True, sort_keys=False)
+            fname.write_text(f"---\n{fm}---\n\n{text}", encoding="utf-8")
 
             manifest.append({"title": title, "url": url, "file": str(fname)})
             print(f"[{i}/{len(links)}] saved: {title}")

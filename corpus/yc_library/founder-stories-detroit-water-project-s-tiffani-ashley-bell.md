@@ -1,5 +1,5 @@
 ---
-title: Founder Stories: Detroit Water Project's Tiffani Ashley Bell
+title: 'Founder Stories: Detroit Water Project''s Tiffani Ashley Bell'
 source: https://www.ycombinator.com/library/4y-founder-stories-detroit-water-project-s-tiffani-ashley-bell
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still Matters
+title: 'Cursor CEO: Going Beyond Code, Superintelligent AI Agents And Why Taste Still
+  Matters'
 source: https://www.ycombinator.com/library/MU-cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters
 ---
 

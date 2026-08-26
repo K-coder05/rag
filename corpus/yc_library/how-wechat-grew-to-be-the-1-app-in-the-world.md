@@ -1,5 +1,5 @@
 ---
-title: How WeChat grew to be the #1 app in the world
+title: 'How WeChat grew to be the #1 app in the world'
 source: https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world
 ---
 

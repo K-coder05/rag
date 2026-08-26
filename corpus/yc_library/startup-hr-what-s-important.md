@@ -1,5 +1,5 @@
 ---
-title: Startup HR: What's Important?
+title: 'Startup HR: What''s Important?'
 source: https://www.ycombinator.com/library/4j-startup-hr-what-s-important
 ---
 

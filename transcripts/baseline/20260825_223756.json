@@ -1,0 +1,28 @@
+{
+  "strategy": "baseline",
+  "query": "How does a founder's approach to user acquisition evolve between having 10 users versus having 10,000 users?",
+  "category": "hard",
+  "chunks": [
+    {
+      "id": "266d9164c37549c0b795677c953022d85884cfd4382cab6e1ca4d6552051c9fe",
+      "score": 0.01639344262295082,
+      "text": "The other reason founders ignore this path is that the absolute numbers seem so small at first. This can't be how the big, famous startups got started, they think. The mistake they make is to underestimate the power of compound growth. We encourage every startup to measure their progress by weekly [growth rate](http://www.paulgraham.com/growth.html). If you have 100 users, you need to get 10 more next week to grow 10% a week. And while 110 may not seem much better than 100, if you keep growing at 10% a week you'll be surprised how big the numbers get. After a year you'll have 14,000 users, and after 2 years you'll have 2 million.  \nYou'll be doing different things when you're acquiring users a thousand at a time, and growth has to slow down eventually. But if the market exists you can usually start by recruiting users manually and then gradually switch to less manual methods. [3]",
+      "source": "corpus\\yc_library\\do-things-that-don-t-scale.md"
+    },
+    {
+      "id": "879b5d4be1f8203fb5faffbc190cb506cbd8b0ff4cbe1c40b465ea7801b8cea9",
+      "score": 0.01639344262295082,
+      "text": "WeChat, like most social networks, realized early on that they needed to solve for the issue of having zero friends on day one. Simultaneously, in the U.S., Facebook was famously relentless about getting users to their first 10 friends within 14 days, which their data showed was the key to long-term retention. WeChat found success with a slightly different approach to keep people engaged via a feature called \u201c**People Nearby**\u201d, which was a simulation of the real world. People could see other \u201cPeople Nearby\u201d users (who were not yet on their contact list) nearby through the app[6](#footnote6). The location-enabled feature satisfied users\u2019 curiosity about knowing what\u2019s going on around them and at the same time, boosted their sense of community on the platform. It also helped boost the pace of user acquisition to over 100k+ per day[7](#footnote7).",
+      "source": "corpus\\yc_library\\how-wechat-grew-to-be-the-1-app-in-the-world.md"
+    },
+    {
+      "id": "4341d413052b86fee0c2e27b40fdbd38038cbea593f6766af4b5986144c2de71",
+      "score": 0.016129032258064516,
+      "text": "Effective metric-setting is also a critical part of a CEO\u2019s job. A common mistake is to equate key internal metrics with the business\u2019 most important top line results, like revenue or user growth. This is the wrong approach because top line results like \u201cincrease user growth\u201d usually aren\u2019t directly actionable. Instead, you\u2019ve got to dig deeper to understand what drives top line results and set these drivers as the key internal metrics. Great companies work tirelessly to understand what drives their growth. Facebook famously discovered that connecting a new user to 10 friends within 14 days correlated with retained usage, so they set \u201cnumber of new users with 10 friend connections\u201d as the key product metric. You\u2019ve got to be tenacious about learning what drives your top line business results and set those drivers are your internal metrics. If you don\u2019t know what drives revenue, customer acquisition, or user growth, you aren\u2019t likely to be successful anyway.",
+      "source": "corpus\\yc_library\\the-second-job-of-a-startup-ceo.md"
+    }
+  ],
+  "retrieval_time": 0.34450310000102036,
+  "generation_time": 4.762766999992891,
+  "response": "# How a Founder's User Acquisition Approach Evolves: 10 to 10,000 Users\n\nA founder's strategy for user acquisition undergoes a fundamental shift as the company scales from 10 to 10,000 users\u2014moving from manual, personalized recruitment to more systematized, scalable methods.\n\n## Early Stage (10 Users): Manual, Hands-On Acquisition\n\nAt the earliest stage, founders should embrace non-scalable approaches. According to Paul Graham's research, **\"if the market exists you can usually start by recruiting users manually and then gradually switch to less manual methods.\"** This hands-on approach allows founders to deeply understand user needs and identify what drives retention.\n\nThe critical insight is understanding your retention driver early. Facebook's discovery that **connecting new users to 10 friends within 14 days correlated with long-term retention** became their north star metric\u2014directly shaping their product and acquisition strategy.\n\n## Mid-Stage Growth (Toward 10,000 Users): Systematic Leverage\n\nAs you scale toward 10,000 users, the focus shifts to finding repeatable, less manual methods. Importantly, **compound growth becomes your ally**\u2014growing 10% weekly means reaching 14,000 users in a year and 2 million in two years from just 100 initial users.\n\nWeChat exemplifies this evolution. Rather than relying solely on manual recruitment, they introduced the \"People Nearby\" feature\u2014a scalable product mechanism that **boosted user acquisition to over 100,000 per day** by creating network effects and satisfying user curiosity algorithmically.\n\n## The Key Principle\n\nThe evolution isn't about abandoning what worked\u2014it's about automating and systematizing it. Your early manual learnings about what drives engagement become the basis for scalable product features that replicate that same magic at scale."
+}

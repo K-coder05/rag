@@ -1,0 +1,28 @@
+{
+  "strategy": "baseline",
+  "query": "What qualities distinguish an idea that sounds bad but is actually good from an idea that is genuinely bad?",
+  "category": "hard",
+  "chunks": [
+    {
+      "id": "3b77d3015ea9dd3f6b214071d7451ef948f6b98fd07f403b95eb4de034bda94d",
+      "score": 0.03252247488101534,
+      "text": "The other big market inefficiency to look for is ideas that sound bad but are good. So most ideas that sound bad are unfortunately bad, and you should try not to join those companies. But there exists a class\u2014and this is where YC has made most of its money\u2014of ideas that sound bad but are good. If an idea is good and sounds good, then the big companies will try to do it and usually I'll compete with you. But there's a really important difference between startups and big companies.",
+      "source": "corpus\\yc_library\\how-to-pick-which-startup-to-work-at.md"
+    },
+    {
+      "id": "106c1b2f386acd455a3572800a56244ff89bcd481c550728a7451430d01c6ea3",
+      "score": 0.01639344262295082,
+      "text": "first like bad ideas. I've written about this before: if a good\nidea were obviously good, someone else would already have done it.\nSo the most successful founders tend to work on ideas that few\nbeside them realize are good. Which is not that far from a description\nof insanity, till you reach the point where you see results.  \nThe first time Peter Thiel spoke at YC he drew a Venn diagram that\nillustrates the situation perfectly. He drew two intersecting\ncircles, one labelled \"seems like a bad idea\" and the other \"is a\ngood idea.\" The intersection is the sweet spot for startups.  \nThis concept is a simple one and yet seeing it as a Venn diagram\nis illuminating. It reminds you that there is an intersection\u2014that\nthere are good ideas that seem bad. It also reminds you that the\nvast majority of ideas that seem bad are bad.  \nThe fact that the best ideas seem like bad ideas makes it even\nharder to recognize the big winners. It means the probability of",
+      "source": "corpus\\pg_essays\\black-swan-farming.md"
+    },
+    {
+      "id": "bc9c2d274d55c0e14b45d7d9436ff00081ddb12a5dfd180fb798b5920110d4a9",
+      "score": 0.016129032258064516,
+      "text": "Sam Altman: Um, the other, the other big market inefficiency to look for is ideas that sound bad but are good. Um, so most ideas that sound bad are unfortunately bad, and you should try not to join those companies. But there exist a class, and this is where YC has made most of its money, of ideas that sound bad but are good. If an idea is good and sounds good, then the big companies will try to do it and usually I'll compete you. Um, but there's a really important difference between startups and big companies.  \nSam Altman: If you have the same idea at a big company and you want to do it, you have to get your boss to say yes, your boss's boss to say yes, your boss's boss's boss to say yes, and then somebody to say yes, and then Larry Page should say yes. And in that chain of twenty, um, one \"no\" kills the entire idea. And if the idea sounds bad, someone will rationally say \"no.\"",
+      "source": "corpus\\yc_library\\sam-altman-on-how-to-pick-which-startup-to-work-at.md"
+    }
+  ],
+  "retrieval_time": 0.36037529999157414,
+  "generation_time": 4.615716600004816,
+  "response": "# What Distinguishes a Good Idea That Sounds Bad from a Genuinely Bad One\n\nBased on research from YC founders and Paul Graham, here are the key distinguishing qualities:\n\n## The Core Insight: Peter Thiel's Venn Diagram\n\nAccording to **black-swan-farming.md**, Peter Thiel illustrated this perfectly with a Venn diagram showing two intersecting circles: \"seems like a bad idea\" and \"is a good idea.\" The intersection represents the startup sweet spot. Crucially, **\"the vast majority of ideas that seem bad are bad\"**\u2014so sounding bad alone isn't enough.\n\n## Key Distinguishing Factors:\n\n**1. The Market Inefficiency Factor**\nFrom **sam-altman-on-how-to-pick-which-startup-to-work-at.md**, ideas that sound bad but are good exploit a structural difference between startups and large companies. Big companies require multiple layers of approval, and \"one 'no' kills the entire idea.\" If an idea sounds bad, someone will rationally reject it in that chain. Startups can execute on these ideas precisely because they can move fast without institutional resistance.\n\n**2. Non-Obviousness**\nPer **black-swan-farming.md**: \"If a good idea were obviously good, someone else would already have done it.\" Good ideas that sound bad are typically those where the advantage isn't immediately apparent\u2014requiring founder insight that others lack.\n\n**3. The Founder's Understanding**\nThe critical difference is whether **the founder genuinely understands why the idea is good**, versus simply proposing something contrarian. A truly good idea that sounds bad has a coherent logic beneath the surface skepticism.\n\nThe distinction ultimately lies in **structural competitive advantage and deep founder insight**, not mere contrarianism."
+}

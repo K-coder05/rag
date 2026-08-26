@@ -1,5 +1,5 @@
 ---
-title: Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”
+title: 'Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”'
 source: https://www.ycombinator.com/library/VS-alexandr-wang-this-is-a-once-in-a-civilization-opportunity
 ---
 

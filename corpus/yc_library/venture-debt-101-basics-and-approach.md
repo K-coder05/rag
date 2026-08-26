@@ -1,5 +1,5 @@
 ---
-title: Venture Debt 101: Basics and Approach
+title: 'Venture Debt 101: Basics and Approach'
 source: https://www.ycombinator.com/library/CH-venture-debt-101-basics-and-approach
 ---
 

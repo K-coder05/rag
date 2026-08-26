@@ -1,5 +1,6 @@
 ---
-title: How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand In Just 2 Years
+title: How Nothing Founder Carl Pei Built A Multi-Million Dollar Smartphone Brand
+  In Just 2 Years
 source: https://www.ycombinator.com/library/LO-how-nothing-founder-carl-pei-built-a-multi-million-dollar-smartphone-brand-in-just-2-years
 ---
 

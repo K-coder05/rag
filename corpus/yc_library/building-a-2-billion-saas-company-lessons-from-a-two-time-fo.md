@@ -1,5 +1,5 @@
 ---
-title: Building A $2 Billion SaaS Company: Lessons From A Two Time Founder
+title: 'Building A $2 Billion SaaS Company: Lessons From A Two Time Founder'
 source: https://www.ycombinator.com/library/M1-building-a-2-billion-saas-company-lessons-from-a-two-time-founder
 ---
 

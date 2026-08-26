@@ -1,8 +1,14 @@
-from main import retrieve, generate
+import main
+from main import retrieve_context, generate
 import time
 import pathlib
 import json
 import datetime
+
+STRATEGIES = [
+	{"name": "baseline", "namespace": "startup-library"},
+	{"name": "v2", "namespace": "startup-library-v2"},
+]
 
 test_cases = []
 test = {}
@@ -55,34 +61,39 @@ test["query"] = "How do I configure an Nginx reverse proxy with SSL termination 
 test["category"] = "out-of-scope"
 test_cases.append(test)
 
-path = pathlib.Path("transcripts")
-path.mkdir(parents=True, exist_ok=True)
+for strategy in STRATEGIES:
+	main.NAMESPACE = strategy["namespace"]
+	main.load_bm25_corpus.cache_clear()
 
-for test in test_cases:
-	query = test["query"]
-	category = test["category"]
+	out_dir = pathlib.Path("transcripts") / strategy["name"]
+	out_dir.mkdir(parents=True, exist_ok=True)
 
-	before_retrieval = time.perf_counter()
-	records = retrieve(query=query)
-	after_retrieval = time.perf_counter()
-	chunks = []
-	for record in records:
-		chunks.append(vars(record))
-	retrieval_time = after_retrieval - before_retrieval
+	for test in test_cases:
+		query = test["query"]
+		category = test["category"]
 
-	before_generation= time.perf_counter()
-	response = generate(query=query, records=records)
-	after_generation = time.perf_counter()
-	generation_time = after_generation - before_generation
+		before_retrieval = time.perf_counter()
+		records = retrieve_context(query=query)
+		after_retrieval = time.perf_counter()
+		chunks = []
+		for record in records:
+			chunks.append(vars(record))
+		retrieval_time = after_retrieval - before_retrieval
 
-	filename = path / (datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".json")
-	transcript = {
-		"query": query,
-		"category": category,
-		"chunks": chunks,
-		"retrieval_time": retrieval_time,
-		"generation_time": generation_time,
-		"response": response,
-	}
-	with open(file=filename, mode="w", encoding="utf-8") as fp:
-		json.dump(transcript, fp, indent=2)
+		before_generation= time.perf_counter()
+		response = generate(query=query, records=records)
+		after_generation = time.perf_counter()
+		generation_time = after_generation - before_generation
+
+		filename = out_dir / (datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".json")
+		transcript = {
+			"strategy": strategy["name"],
+			"query": query,
+			"category": category,
+			"chunks": chunks,
+			"retrieval_time": retrieval_time,
+			"generation_time": generation_time,
+			"response": response,
+		}
+		with open(file=filename, mode="w", encoding="utf-8") as fp:
+			json.dump(transcript, fp, indent=2)

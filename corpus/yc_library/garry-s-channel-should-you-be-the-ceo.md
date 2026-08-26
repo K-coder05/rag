@@ -1,5 +1,5 @@
 ---
-title: Garry's Channel: Should you be the CEO?
+title: 'Garry''s Channel: Should you be the CEO?'
 source: https://www.ycombinator.com/library/Jq-garry-s-channel-should-you-be-the-ceo
 ---
 

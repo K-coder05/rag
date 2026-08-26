@@ -1,5 +1,5 @@
 ---
-title: Garry's Channel: YOU can beat Google the way Amazon does. Here’s how.
+title: 'Garry''s Channel: YOU can beat Google the way Amazon does. Here’s how.'
 source: https://www.ycombinator.com/library/Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: How To Build The Future: Sam Altman
+title: 'How To Build The Future: Sam Altman'
 source: https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman
 ---
 

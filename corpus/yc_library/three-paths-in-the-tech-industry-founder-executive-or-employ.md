@@ -1,5 +1,5 @@
 ---
-title: Three paths in the tech industry: founder, executive, or employee
+title: 'Three paths in the tech industry: founder, executive, or employee'
 source: https://www.ycombinator.com/library/4h-three-paths-in-the-tech-industry-founder-executive-or-employee
 ---
 

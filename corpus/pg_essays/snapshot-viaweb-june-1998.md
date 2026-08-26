@@ -1,5 +1,5 @@
 ---
-title: Snapshot: Viaweb, June 1998
+title: 'Snapshot: Viaweb, June 1998'
 source: https://paulgraham.com/vw.html
 ---
 

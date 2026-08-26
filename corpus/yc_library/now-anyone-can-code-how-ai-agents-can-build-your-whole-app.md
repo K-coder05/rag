@@ -1,5 +1,5 @@
 ---
-title: Now Anyone Can Code: How AI Agents Can Build Your Whole App
+title: 'Now Anyone Can Code: How AI Agents Can Build Your Whole App'
 source: https://www.ycombinator.com/library/Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app
 ---
 

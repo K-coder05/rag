@@ -1,0 +1,28 @@
+{
+  "strategy": "baseline",
+  "query": "What does Paul Graham mean by 'Do Things that Don't Scale'?",
+  "category": "easy",
+  "chunks": [
+    {
+      "id": "32fc546deaf0317644330a1d826f7ea76cb5458834e6927d961565683ad90885",
+      "score": 0.01639344262295082,
+      "text": "**1.** [Do Things That Don\u2019t Scale](http://paulgraham.com/ds.html) by Paul Graham [\u21a9](#footnoteid1)  \n**2.** [Don\u2019t Talk to Corp Dev](http://www.paulgraham.com/corpdev.html) by Paul Graham [\u21a9](#footnoteid3)  \n**3.** [How Not To Fail](https://blog.ycombinator.com/how-not-to-fail/) by Jessica Livingston [\u21a9](#footnoteid4)  \n**4.** [The Post YC Slump](http://blog.samaltman.com/the-post-yc-slump) by Sam Altman [\u21a9](#footnoteid5)  \n**5.** [Users You Don\u2019t Want](http://www.michaelseibel.com/blog/users-you-don-t-want) by Michael Seibel [\u21a9](#footnoteid6)  \n**6.** [The Real Product Market Fit](http://www.michaelseibel.com/blog/the-real-product-market-fit) by Michael Seibel [\u21a9](#footnoteid8)  \n**7.** [Unit Economics](http://blog.samaltman.com/unit-economics) by Sam Altman [\u21a9](#footnoteid9)  \n**8.** [Startup Priorities](http://blog.geoffralston.com/startup-priorities) by Geoff Ralston [\u21a9](#footnoteid10)",
+      "source": "corpus\\yc_library\\yc-s-essential-startup-advice.md"
+    },
+    {
+      "id": "092e09da621362c0515fab1650c29fd65f0ded9d7c6ac71478529f0e0418a009",
+      "score": 0.01639344262295082,
+      "text": "---\ntitle: Do Things that Don't Scale\nsource: https://paulgraham.com/ds.html\n---  \nJuly 2013  \nOne of the most common types of advice we give at Y Combinator is\nto do things that don't scale. A lot of would-be founders believe\nthat startups either take off or don't. You build something, make\nit available, and if you've made a better mousetrap, people beat a\npath to your door as promised. Or they don't, in which case the\nmarket must not exist.\n[[1](#f1n)]  \nActually startups take off because the founders make them take off.\nThere may be a handful that just grew by themselves, but usually\nit takes some sort of push to get them going. A good metaphor would\nbe the cranks that car engines had before they got electric starters.\nOnce the engine was going, it would keep going, but there was a\nseparate and laborious process to get it going.  \n**Recruit**  \nThe most common unscalable thing founders have to do at the start\nis to recruit users manually. Nearly all startups have to. You",
+      "source": "corpus\\pg_essays\\do-things-that-don-t-scale.md"
+    },
+    {
+      "id": "c932c25023e0bda99a0599b78736ae7ab6373c61129a4193b19d55f03e2fa3b8",
+      "score": 0.016129032258064516,
+      "text": "---\ntitle: Dalton & Michael: What does it really mean to do things that don't scale?\nsource: https://www.ycombinator.com/library/If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale\n---  \nDalton Caldwell and Michael Seibel talk about Paul Graham's essay \"Do Things That Don't Scale\" and what it really means for founders",
+      "source": "corpus\\yc_library\\dalton-michael-what-does-it-really-mean-to-do-things-that-do.md"
+    }
+  ],
+  "retrieval_time": 146.03149259999918,
+  "generation_time": 4.837983199991868,
+  "response": "# What Paul Graham Means by \"Do Things That Don't Scale\"\n\nBased on the source corpus, Paul Graham's core concept is this: **startups don't succeed automatically\u2014founders must actively push them forward through manual, labor-intensive efforts that won't scale.**\n\n## The Key Insight\n\nAccording to Graham's essay, many aspiring founders mistakenly believe that if they build a better product, customers will naturally come. In reality, startups require deliberate, hands-on work to gain initial traction. Graham uses a helpful metaphor: like the manual cranks used to start car engines before electric starters, there's a separate and laborious process needed to \"get the engine going\" before momentum takes over.\n\n## Practical Application: Recruiting Users\n\nThe most common unscalable activity Graham identifies is **manually recruiting users**. Nearly all startups must do this in their early stages\u2014personally reaching out to potential customers, understanding their needs, and persuading them to try your product. This work doesn't scale because it requires direct founder involvement, but it's essential to validate product-market fit.\n\n## Resources for Deeper Understanding\n\nFor a comprehensive exploration of this concept, I recommend:\n\n1. **[Do Things That Don't Scale](http://paulgraham.com/ds.html)** - Paul Graham's original essay (July 2013)\n2. **[Dalton & Michael: What does it really mean to do things that don't scale?](https://www.ycombinator.com/library/If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale)** - A practical breakdown by YC leaders Dalton Caldwell and Michael Seibel\n\nThe essence: **embrace the manual, unscalable work early on\u2014it's how you build the momentum to eventually scale.**"
+}

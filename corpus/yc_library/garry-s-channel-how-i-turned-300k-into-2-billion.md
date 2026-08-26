@@ -1,5 +1,5 @@
 ---
-title: Garry's Channel: How I turned $300k into $2 billion
+title: 'Garry''s Channel: How I turned $300k into $2 billion'
 source: https://www.ycombinator.com/library/Jf-garry-s-channel-how-i-turned-300k-into-2-billion
 ---
 

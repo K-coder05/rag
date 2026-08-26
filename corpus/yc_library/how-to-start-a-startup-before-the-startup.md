@@ -1,5 +1,5 @@
 ---
-title: How to Start a Startup: Before the startup
+title: 'How to Start a Startup: Before the startup'
 source: https://www.ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup
 ---
 

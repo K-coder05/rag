@@ -1,5 +1,5 @@
 ---
-title: How to Start a Startup: Building company culture, Part I
+title: 'How to Start a Startup: Building company culture, Part I'
 source: https://www.ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i
 ---
 

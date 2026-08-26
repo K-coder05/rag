@@ -1,5 +1,5 @@
 ---
-title: Dot Plots: How to Actually See What Your Users Are Doing
+title: 'Dot Plots: How to Actually See What Your Users Are Doing'
 source: https://www.ycombinator.com/library/Sn-dot-plots-how-to-actually-see-what-your-users-are-doing
 ---
 

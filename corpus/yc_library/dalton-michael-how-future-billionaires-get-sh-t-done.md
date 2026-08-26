@@ -1,5 +1,5 @@
 ---
-title: Dalton & Michael: How future billionaires get sh*t done
+title: 'Dalton & Michael: How future billionaires get sh*t done'
 source: https://www.ycombinator.com/library/Ik-dalton-michael-how-future-billionaires-get-sh-t-done
 ---
 

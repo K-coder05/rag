@@ -1,5 +1,5 @@
 ---
-title: Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers
+title: 'Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers'
 source: https://www.ycombinator.com/library/Pa-tokenmaxxing-how-top-builders-use-ai-to-do-the-work-of-400-engineers
 ---
 

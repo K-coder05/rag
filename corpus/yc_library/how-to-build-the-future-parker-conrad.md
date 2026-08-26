@@ -1,5 +1,5 @@
 ---
-title: How To Build The Future: Parker Conrad
+title: 'How To Build The Future: Parker Conrad'
 source: https://www.ycombinator.com/library/M2-how-to-build-the-future-parker-conrad
 ---
 

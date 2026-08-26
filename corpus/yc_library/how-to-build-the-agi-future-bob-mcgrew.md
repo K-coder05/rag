@@ -1,5 +1,5 @@
 ---
-title: How To Build The AGI Future: Bob McGrew
+title: 'How To Build The AGI Future: Bob McGrew'
 source: https://www.ycombinator.com/library/M6-how-to-build-the-agi-future-bob-mcgrew
 ---
 

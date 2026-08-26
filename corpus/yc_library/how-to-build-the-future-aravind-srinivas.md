@@ -1,5 +1,5 @@
 ---
-title: How To Build The Future: Aravind Srinivas
+title: 'How To Build The Future: Aravind Srinivas'
 source: https://www.ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas
 ---
 

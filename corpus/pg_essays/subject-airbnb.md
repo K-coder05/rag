@@ -1,5 +1,5 @@
 ---
-title: Subject: Airbnb
+title: 'Subject: Airbnb'
 source: https://paulgraham.com/airbnb.html
 ---
 

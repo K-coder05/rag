@@ -1,5 +1,5 @@
 ---
-title: Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work
+title: 'Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work'
 source: https://www.ycombinator.com/library/WV-waymo-co-ceo-dmitri-dolgov-the-demo-is-only-1-of-the-work
 ---
 

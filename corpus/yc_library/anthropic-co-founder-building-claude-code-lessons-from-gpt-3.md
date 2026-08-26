@@ -1,5 +1,6 @@
 ---
-title: Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System Design
+title: 'Anthropic Co-founder: Building Claude Code, Lessons From GPT-3 & LLM System
+  Design'
 source: https://www.ycombinator.com/library/Mp-anthropic-co-founder-building-claude-code-lessons-from-gpt-3-llm-system-design
 ---
 

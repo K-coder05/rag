@@ -1,27 +1,4 @@
 """
-scrape_yc_library.py
-
-Collects articles from the YC Startup Library for the RAG sprint corpus.
-
-Two things make this harder than the PG essay scrape, and this script exists
-specifically to handle them:
-
-1. /library pages are client-rendered (Next.js). A plain `requests.get()` on
-   an individual article only returns metadata (title, OG tags) -- the body
-   text isn't in the initial HTML. This script uses Playwright to actually
-   render each page in a headless browser before extracting text.
-
-2. robots.txt disallows crawling the *filtered/paginated listing* views
-   (`/library?...`), with a carve-out for `/library?categories=*&*`. It does
-   NOT disallow individual article pages (`/library/<id>-<slug>`, no query
-   string) or the sitemap. So instead of paginating the listing UI at all,
-   this script reads the full article list from the public sitemap:
-   https://www.ycombinator.com/library/sitemap.xml -- one request instead of
-   dozens of paginated/filtered ones.
-
-Some library entries are video/podcast episodes with little to no on-page
-transcript. This script renders each page, checks the extracted word count,
-and skips (and logs) anything too thin to be useful as a RAG document.
 
 Usage:
     pip install requests playwright beautifulsoup4 markdownify
@@ -33,6 +10,7 @@ import csv
 import time
 import pathlib
 import requests
+import yaml
 from bs4 import BeautifulSoup, NavigableString
 from markdownify import markdownify as html_to_markdown
 from playwright.sync_api import sync_playwright
@@ -126,7 +104,10 @@ def main():
 
                 slug = re.sub(r"[^a-zA-Z0-9]+", "-", title).strip("-").lower()[:60] or f"doc-{i}"
                 fname = OUT_DIR / f"{slug}.md"
-                fname.write_text(f"---\ntitle: {title}\nsource: {url}\n---\n\n{text}", encoding="utf-8")
+                # yaml.safe_dump escapes titles containing colons, quotes, etc. --
+                # an unescaped f-string here breaks frontmatter.load() downstream.
+                fm = yaml.safe_dump({"title": title, "source": url}, allow_unicode=True, sort_keys=False)
+                fname.write_text(f"---\n{fm}---\n\n{text}", encoding="utf-8")
 
                 manifest.append({"title": title, "url": url, "file": str(fname), "words": word_count})
                 print(f"[{i}/{len(urls)}] saved: {title} ({word_count}w)")

@@ -1,5 +1,5 @@
 ---
-title: Opencode CEO: Getting Blocked, 20X Growth in 6 Months, Building the Open Harness
+title: 'Opencode CEO: Getting Blocked, 20X Growth in 6 Months, Building the Open Harness'
 source: https://www.ycombinator.com/library/TJ-opencode-ceo-getting-blocked-20x-growth-in-6-months-building-the-open-harness
 ---
 

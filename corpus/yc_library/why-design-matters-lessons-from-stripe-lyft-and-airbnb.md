@@ -1,5 +1,5 @@
 ---
-title: Why Design Matters: Lessons from Stripe, Lyft and Airbnb
+title: 'Why Design Matters: Lessons from Stripe, Lyft and Airbnb'
 source: https://www.ycombinator.com/library/Lj-why-design-matters-lessons-from-stripe-lyft-and-airbnb
 ---
 

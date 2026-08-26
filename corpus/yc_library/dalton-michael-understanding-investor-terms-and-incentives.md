@@ -1,5 +1,5 @@
 ---
-title: Dalton & Michael: Understanding investor terms and incentives
+title: 'Dalton & Michael: Understanding investor terms and incentives'
 source: https://www.ycombinator.com/library/DX-dalton-michael-understanding-investor-terms-and-incentives
 ---
 

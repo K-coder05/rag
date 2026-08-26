@@ -1,5 +1,5 @@
 ---
-title: Dalton & Michael: Why you should leave your FAANG job
+title: 'Dalton & Michael: Why you should leave your FAANG job'
 source: https://www.ycombinator.com/library/Ih-dalton-michael-why-you-should-leave-your-faang-job
 ---
 

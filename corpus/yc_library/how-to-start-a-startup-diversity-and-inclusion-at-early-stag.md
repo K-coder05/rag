@@ -1,5 +1,5 @@
 ---
-title: How to Start a Startup: Diversity and inclusion at early stage startups
+title: 'How to Start a Startup: Diversity and inclusion at early stage startups'
 source: https://www.ycombinator.com/library/JS-how-to-start-a-startup-diversity-and-inclusion-at-early-stage-startups
 ---
 

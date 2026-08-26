@@ -1,5 +1,5 @@
 ---
-title: Transformers Explained: The Discovery That Changed AI Forever
+title: 'Transformers Explained: The Discovery That Changed AI Forever'
 source: https://www.ycombinator.com/library/N3-transformers-explained-the-discovery-that-changed-ai-forever
 ---
 

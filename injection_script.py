@@ -74,7 +74,7 @@ def main():
 	markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers_to_split_on)
 
 	final_chunks = []
-	text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+	text_splitter = RecursiveCharacterTextSplitter(chunk_size=1250, chunk_overlap=250)
 
 	for doc in documents:
 		header_splits = markdown_splitter.split_text(doc.page_content)
@@ -111,7 +111,7 @@ def main():
 
 	batch_size = 100
 	for start in range(0, len(records), batch_size):
-		index.upsert(vectors=records[start:start + batch_size], namespace="startup-library")
+		index.upsert(vectors=records[start:start + batch_size], namespace="startup-library-v2")
 
 	print(f"Embedded and upserted {len(records)} chunks into '{INDEX_NAME}'.")
 
