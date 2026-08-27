@@ -7,8 +7,10 @@ import frontmatter
 from pinecone import Pinecone
 from rank_bm25 import BM25Okapi
 
+from google.genai.errors import ClientError
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from anthropic import Anthropic
+from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
 
 from tools import tools
 
@@ -76,9 +78,24 @@ def load_bm25_corpus():
 	return ranker, documents, doc_lookup
 
 
+def _is_rate_limit_error(exc: BaseException) -> bool:
+	cause = exc.__cause__
+	return isinstance(cause, ClientError) and cause.code == 429
+
+
+@retry(
+	retry=retry_if_exception(_is_rate_limit_error),
+	wait=wait_exponential(multiplier=2, min=5, max=120),
+	stop=stop_after_attempt(8),
+	reraise=True,
+)
+def _embed_query(query: str):
+	return embeddings_model.embed_query(query)
+
+
 def retrieve_context(query: str, top_k: int = 3) -> list[Record]:
 	# standard vector search
-	query_vector = embeddings_model.embed_query(query)
+	query_vector = _embed_query(query)
 	results = index.query(
 		vector=query_vector,
 		top_k=top_k,

@@ -4,8 +4,6 @@ A retrieval-augmented agent over Paul Graham's essays and the YC Startup Library
 
 ## Demo
 
-<!-- TODO: add a screenshot or GIF of the Streamlit UI (app.py) in action here -->
-
 ## Architecture Design
 
 ### Ingestion (`injection_script.py`)

@@ -110,6 +110,8 @@ if query:
                     output = tool_functions[block.name](**block.input)
                     is_error = False
                 except Exception as e:
+                    with status:
+                        st.exception(e)
                     output = str(e)
                     is_error = True
 
