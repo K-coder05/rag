@@ -1,0 +1,17 @@
+anthropic
+beautifulsoup4
+google-genai
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+markdownify
+mcp
+pinecone
+playwright
+python-dotenv
+python-frontmatter
+pyyaml
+rank-bm25
+requests
+streamlit
+tenacity

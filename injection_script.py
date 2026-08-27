@@ -74,6 +74,7 @@ def main():
 	markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers_to_split_on)
 
 	final_chunks = []
+	# baseline is 1000 size, 200 overlap; v2 is 1250 size, 250 overlap
 	text_splitter = RecursiveCharacterTextSplitter(chunk_size=1250, chunk_overlap=250)
 
 	for doc in documents:

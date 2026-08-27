@@ -136,38 +136,17 @@ def retrieve_context(query: str, top_k: int = 3) -> list[Record]:
 
 	return final_records
 
+def format_records(records: list[Record]) -> str:
+	result = ""
+	for record in records:
+		result += f"From source {record.source}: {record.text}\n\n"
 
-def generate(query, records: list[Record]) -> str:
-	prompt = f"""
-		You are an experienced startup founder that researched the field of startups for years.
-		Respond to this question: '{query}' by citing these top relevant sources you have found.
-	"""
-
-	for i in range(min(5, len(records))):
-		prompt += f"From source {records[i].source}: {records[i].text}\n\n"
-
-	response = client.messages.create(
-		model="claude-haiku-4-5",
-		max_tokens=2000,
-		system="only answer from context",
-		messages=[{"role": "user", "content": prompt}]
-	)
-
-	res = ""
-	for block in response.content:
-		if block.type == "text":
-			res += block.text
-
-	return res
+	return result
 
 # tools for model to choose from
 def search_essays(query: str, top_k: int = 3) -> str:
 	retrieved_records = retrieve_context(query=query, top_k=top_k)
-	result = ""
-	for record in retrieved_records:
-		result += f"From source {record.source}: {record.text}\n\n"
-
-	return result
+	return format_records(retrieved_records)
 
 @functools.lru_cache(maxsize=1)
 def load_titles() -> tuple[str, ...]:
@@ -202,7 +181,8 @@ def ask(query: str, max_iterations: int = 5) -> str:
 			model="claude-haiku-4-5",
 			max_tokens=2000,
 			tools=tools,
-			messages=messages
+			messages=messages,
+			system="answer only from context"
 		)
 
 		if response.stop_reason != "tool_use":
