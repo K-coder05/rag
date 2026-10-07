@@ -3,7 +3,7 @@
 A retrieval-augmented agent over Paul Graham's essays and the YC Startup Library. Given a question, it decides whether to search the corpus or list browsable topics, retrieves context with a hybrid dense + BM25 pipeline, and answers strictly from what it retrieves. Built to compare RAG design choices (chunking, one-pass retrieval vs. an agentic tool-calling loop) with a small hand-written eval set scored LLM-as-judge style.
 
 ## Demo
-<img width="2080" height="1140" alt="Recording 2026-10-07 at 15 23 05" src="https://github.com/user-attachments/assets/1766db48-e144-4580-ac3e-6f2f1551dd4d" />
+<img width="1992" height="1096" alt="Convert to GIF project - October 07, 2026 at 15 33 17 (2)" src="https://github.com/user-attachments/assets/4554829f-76cb-4a23-9de4-eceb8ac02d06" />
 
 ## Architecture Design
 
