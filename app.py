@@ -1,6 +1,6 @@
 import streamlit as st
 
-from main import client, tools, retrieve_context, list_topics, format_records
+from main import client, tools, retrieve_context, list_topics, format_records, load_bm25_corpus, load_titles
 
 MODEL = "claude-haiku-4-5"
 MAX_ITERATIONS = 5
@@ -11,6 +11,18 @@ SYSTEM_PROMPT = (
 
 st.set_page_config(page_title="Startup Library", page_icon="📚")
 st.title("Startup Library Assistant")
+
+
+@st.cache_resource(show_spinner="Loading search index...")
+def warm_up():
+    # Runs once per server process, not per session/rerun. Importing main above
+    # already created the Gemini, Pinecone and Anthropic clients; this builds the
+    # BM25 index and topic list so the first question doesn't pay for them.
+    load_bm25_corpus()
+    load_titles()
+
+
+warm_up()
 
 if "history" not in st.session_state:
     st.session_state.history = []

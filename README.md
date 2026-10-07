@@ -51,6 +51,7 @@ Prerequisites: Python 3.11+, an Anthropic API key, a Google AI (Gemini) API key,
 - run "pip install -r requirements.txt" in your terminal
 - add the necessary API keys (see .env.example / table below)
 - run scraper and injection Python files (run "python ...") to build the corpus and populate the Pinecone index
+  - ingestion also writes `chunks/<namespace>.json`, which `main.py` loads at startup to build the BM25 index (no Pinecone round-trips); for a namespace ingested before this file existed, run "python injection_script.py --export-chunks startup-library startup-library-v2" once and commit the output
 - run "streamlit run app.py" in your terminal
   - or use the CLI directly: "python main.py"
 

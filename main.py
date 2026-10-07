@@ -1,4 +1,5 @@
 import os
+import json
 import functools
 from dotenv import load_dotenv
 import pathlib
@@ -16,6 +17,7 @@ from tools import tools
 
 CORPUS_DIRS = ("corpus/pg_essays", "corpus/yc_library")
 NAMESPACE = "startup-library"
+CHUNKS_DIR = pathlib.Path(__file__).parent / "chunks"
 CONSTANT_K = 60
 
 
@@ -45,34 +47,50 @@ class Record:
 def tokenize(text: str) -> list[str]:
 	return text.lower().split()
 
-@functools.lru_cache(maxsize=1)
-def load_bm25_corpus():
+def chunks_path(namespace: str) -> pathlib.Path:
+	return CHUNKS_DIR / f"{namespace}.json"
+
+def export_chunks_from_pinecone(namespace: str) -> list[dict]:
+	# Slow (pages every ID, fetches full vectors just to read metadata) -- only used
+	# once to build the local chunks file; normal startup reads the file instead.
 	IDs = []
-	pages = index.list(namespace=NAMESPACE)
-	for page in pages:
+	for page in index.list(namespace=namespace):
 		for vector in page.vectors:
 			IDs.append(vector.id)
 
-	fetches = {}
+	chunks = []
 	batch_size = 100
 	for start in range(0, len(IDs), batch_size):
-		fetch = index.fetch(ids=IDs[start:start+batch_size], namespace=NAMESPACE)
-		fetches.update(fetch.vectors)
+		fetch = index.fetch(ids=IDs[start:start+batch_size], namespace=namespace)
+		for vector in fetch.vectors.values():
+			if vector.metadata:
+				chunks.append({
+					"id" : vector.id,
+					"source" : vector.metadata["source"],
+					"text" : vector.metadata["text"]
+				})
 
-	documents = []
-	texts = []
-	doc_lookup = {}
-	for vector in fetches.values():
-		if vector.metadata:
-			texts.append(tokenize(vector.metadata["text"]))
-			document = {
-				"id" : vector.id,
-				"source" : vector.metadata["source"],
-				"text" : vector.metadata["text"]
-			}
+	chunks.sort(key=lambda chunk: chunk["id"])
+	save_chunks(namespace, chunks)
+	return chunks
 
-			documents.append(document)
-			doc_lookup[document["id"]] = {"text" : document["text"], "source" : document["source"]}
+def save_chunks(namespace: str, chunks: list[dict]) -> None:
+	CHUNKS_DIR.mkdir(exist_ok=True)
+	with open(chunks_path(namespace), "w", encoding="utf-8") as fp:
+		json.dump(chunks, fp, ensure_ascii=False)
+
+@functools.lru_cache(maxsize=1)
+def load_bm25_corpus():
+	path = chunks_path(NAMESPACE)
+	if path.exists():
+		with open(path, encoding="utf-8") as fp:
+			documents = json.load(fp)
+	else:
+		print(f"{path} not found -- exporting chunks from Pinecone (one-time, slow)")
+		documents = export_chunks_from_pinecone(NAMESPACE)
+
+	texts = [tokenize(document["text"]) for document in documents]
+	doc_lookup = {document["id"] : {"text" : document["text"], "source" : document["source"]} for document in documents}
 
 	ranker = BM25Okapi(corpus=texts, tokenizer=None, k1=1.5, b=0.65, epsilon=0.25)
 	return ranker, documents, doc_lookup
@@ -142,10 +160,14 @@ def retrieve_context(query: str, top_k: int = 3) -> list[Record]:
 
 	final_ids = sorted(final_scores, key=lambda id: final_scores[id], reverse=True)[:top_k]
 
+	# dense hits carry their own text, in case the local chunks file is stale
+	dense_lookup = {record.id : {"text" : record.text, "source" : record.source} for record in records}
+
 	final_records = []
 	for id in final_ids:
-		text = doc_lookup[id]["text"]
-		source = doc_lookup[id]["source"]
+		doc = doc_lookup.get(id) or dense_lookup[id]
+		text = doc["text"]
+		source = doc["source"]
 		score = final_scores[id]
 
 		record = Record(id=id, score=score, text=text, source=source)
@@ -235,6 +257,7 @@ def ask(query: str, max_iterations: int = 5) -> str:
 	return "Sorry, I couldn't finish reasoning about this in time."
 
 if __name__ == "__main__":
+	load_bm25_corpus()
 	try:
 		while True:
 			query = input("Ask away ('quit' or 'exit' to leave): ")

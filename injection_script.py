@@ -1,5 +1,8 @@
 import hashlib
+import json
 import os
+import pathlib
+import sys
 import time
 
 from google.genai.errors import ClientError
@@ -14,6 +17,8 @@ load_dotenv()
 
 CORPUS_DIRS = ("corpus/pg_essays", "corpus/yc_library")
 INDEX_NAME = os.getenv("PINECONE_INDEX_NAME", "startup-library")
+NAMESPACE = os.getenv("PINECONE_NAMESPACE", "startup-library-v2")
+CHUNKS_DIR = pathlib.Path(__file__).parent / "chunks"
 EMBEDDING_DIMENSION = 3072
 EMBED_BATCH_SIZE = 100
 EMBED_BATCH_DELAY_SECONDS = float(os.getenv("EMBED_BATCH_DELAY_SECONDS", "2"))
@@ -112,10 +117,24 @@ def main():
 
 	batch_size = 100
 	for start in range(0, len(records), batch_size):
-		index.upsert(vectors=records[start:start + batch_size], namespace="startup-library-v2")
+		index.upsert(vectors=records[start:start + batch_size], namespace=NAMESPACE)
 
-	print(f"Embedded and upserted {len(records)} chunks into '{INDEX_NAME}'.")
+	# local copy of the chunk texts so main.py can build BM25 without hitting Pinecone
+	# (keyed by id since duplicate chunks collapse to one vector in Pinecone too)
+	unique_chunks = {record["id"]: {"id": record["id"], **record["metadata"]} for record in records}
+	chunks = sorted(unique_chunks.values(), key=lambda chunk: chunk["id"])
+	CHUNKS_DIR.mkdir(exist_ok=True)
+	with open(CHUNKS_DIR / f"{NAMESPACE}.json", "w", encoding="utf-8") as fp:
+		json.dump(chunks, fp, ensure_ascii=False)
+
+	print(f"Embedded and upserted {len(records)} chunks into '{INDEX_NAME}/{NAMESPACE}'.")
 
 
 if __name__ == "__main__":
-	main()
+	if sys.argv[1:2] == ["--export-chunks"]:
+		# one-time dump of already-ingested namespaces: python injection_script.py --export-chunks ns1 ns2
+		from main import export_chunks_from_pinecone
+		for namespace in sys.argv[2:] or [NAMESPACE]:
+			print(f"Exported {len(export_chunks_from_pinecone(namespace))} chunks from '{namespace}'.")
+	else:
+		main()
