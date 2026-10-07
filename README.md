@@ -33,6 +33,8 @@ A retrieval-augmented agent over Paul Graham's essays and the YC Startup Library
 |---|---|
 | `main.py` | Retrieval + generation pipeline and the ReAct agent loop; CLI entry point |
 | `app.py` | Streamlit chat UI on top of the same agent loop — streamed answers, tool-call trace, sources panel |
+| `examples.py` | Example questions shown on the empty chat; `python examples.py` regenerates their cached answers |
+| `example_answers.json` | Pre-computed answers for the example questions, so a first click answers instantly |
 | `injection_script.py` | Chunks the corpus, embeds it, upserts into Pinecone |
 | `check_embeddings.py` | Manual sanity check of retrieval quality against the index |
 | `tools.py` | Anthropic tool schema definitions used by the agent |

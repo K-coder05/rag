@@ -1,0 +1,108 @@
+{
+  "How do I get startup ideas?": {
+    "role": "assistant",
+    "content": "Based on the essay content, here are the key principles for getting startup ideas:\n\n## The Core Principle: Don't Try to Think of Ideas\n\nThe fundamental insight is that **the way to get startup ideas is NOT to try to think of startup ideas**. Trying too hard leads to ideas that sound plausible but aren't actually good. Instead, focus on finding real problems.\n\n## How to Actually Get Ideas\n\n**1. Look for Problems You Have Yourself**\nThe very best startup ideas share three characteristics:\n- Something the founders themselves want\n- Something they can build themselves\n- Something few others realize is worth doing\n\nThis ensures the problem actually exists—a common mistake startups make is solving problems no one has.\n\n**2. Talk to Others About Their Problems**\n- Engage people in conversation about gaps they find in the world\n- Ask what's missing, what they wish they could do, what's tedious or annoying\n- Let conversations flow naturally; don't force the search for ideas\n- You might notice problems people don't consciously realize they have\n\n**3. Turn Your Brain Into an Idea Generator**\nInstead of conscious effort, develop the type of brain that generates ideas unconsciously and organically. Many successful companies started as side projects (Yahoo, Google, Facebook, Apple) with no intention of becoming companies initially.\n\n## Important Note on First Impressions\n\nThe best startup ideas often sound lame or bad at first (Apple, Facebook, Airbnb). Don't reject an idea just because it doesn't immediately sound impressive—that's what prevents great ideas from being discovered.",
+    "tool_calls": [
+      {
+        "name": "search_essays",
+        "input": {
+          "query": "how to get startup ideas",
+          "top_k": 5
+        },
+        "reason": "I'll search for guidance on how to generate and develop startup ideas."
+      }
+    ],
+    "sources": [
+      {
+        "id": "de61f338a525dc9fb2ca7595f8325de5b6bdf5e95d32d19c556b3f04c5dcd009",
+        "score": 0.032018442622950824,
+        "text": "---\ntitle: How to Get Startup Ideas\nsource: https://www.ycombinator.com/library/8z-how-to-get-startup-ideas\n---  \n*The original version of this essay is available at* [*http://www.paulgraham.com/startupideas.html*](http://www.paulgraham.com/startupideas.html)  \nNovember 2012\nThe way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.\nThe very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing. Microsoft, Apple, Yahoo, Google, and Facebook all began this way.",
+        "source": "corpus\\yc_library\\how-to-get-startup-ideas.md"
+      },
+      {
+        "id": "c1e5c38b414e7d19f1dea09d8246d66777950f80420d90e28476661ac99fa58a",
+        "score": 0.03177805800756621,
+        "text": "The way to get startup ideas is not to try to think of startup ideas. I've written a whole essay on this and I'm not gonna repeat the whole thing here. But the short version is that if you make a conscious effort to try and think of startup ideas, you will think of ideas that are not only bad, but bad and plausible sounding. Meaning you and everybody else will be fooled by them, and you'll waste a lot of time before realizing they're no good.  \nThe way to come up with good startup ideas is to take a step back. Instead of trying to make a conscious effort to think of startup ideas, turn your brain into the type that has startup ideas unconsciously. In fact, so unconsciously that you don't even realize at first that they're startup ideas. This is not only possible—Yahoo, Google, Facebook, and Apple all got started this way. None of these companies were even supposed to be companies at first. They were all just side projects.",
+        "source": "corpus\\yc_library\\how-to-start-a-startup-before-the-startup.md"
+      },
+      {
+        "id": "248daa9769cbc470705f48f5b6363989e2a620ec3740a7a589dd08b59ab3fced",
+        "score": 0.016129032258064516,
+        "text": "The next best thing to an unmet need of your own is an unmet need of someone else. Try talking to everyone you can about the gaps they find in the world. What's missing? What would they like to do that they can't? What's tedious or annoying, particularly in their work? Let the conversation get general; don't be trying too hard to find startup ideas. You're just looking for something to spark a thought. Maybe you'll notice a problem they didn't consciously realize they had, because you know how to solve it.",
+        "source": "corpus\\yc_library\\how-to-get-startup-ideas.md"
+      },
+      {
+        "id": "37bda0932239bf2e86d481e7130ee3b63a7ee12d80e91504e0021c0a5aedebc4",
+        "score": 0.016129032258064516,
+        "text": "---\ntitle: How to Get Startup Ideas\nsource: https://paulgraham.com/startupideas.html\n---  \nNovember 2012  \nThe way to get startup ideas is not to try to think of startup\nideas. It's to look for problems, preferably problems you have\nyourself.  \nThe very best startup ideas tend to have three things in common:\nthey're something the founders themselves want, that they themselves\ncan build, and that few others realize are worth doing. Microsoft,\nApple, Yahoo, Google, and Facebook all began this way.  \n**Problems**  \nWhy is it so important to work on a problem you have? Among other\nthings, it ensures the problem really exists. It sounds obvious\nto say you should only work on problems that exist. And yet by far\nthe most common mistake startups make is to solve problems no one\nhas.  \nI made it myself. In 1995 I started a company to put art galleries\nonline. But galleries didn't want to be online. It's not how the\nart business works. So why did I spend 6 months working on this",
+        "source": "corpus\\pg_essays\\how-to-get-startup-ideas.md"
+      },
+      {
+        "id": "1bd95f621121da22ff73e93684db2ac174c809ce5ab4a6c8728536a5fc39f04a",
+        "score": 0.015873015873015872,
+        "text": "because there are a lot of counterintuitive things about startups.\nBut the way to get the very best startup ideas is not to look for\nstartup ideas. If you're consciously looking for startup ideas, it\nwill make you too conservative. You'll lop off the outliers. Because\nthe very best startup ideas tend to sound so lame, at first, that\nyou'd reject them if you were consciously looking for startup ideas.\nThat's what has prevented them from being discovered.  \nImagine what a bad idea Apple or Facebook or Airbnb seemed at first.\nHow many people are going to want their own computers? How is a\ncompany going to make money from undergrads stalking one another\nonline? Who's going to pay to sleep on an airbed on someone's floor?\nWe know how these ideas turned out, so it's easy to rewrite history,\nbut I remember very well how bad Facebook and Airbnb sounded at\nfirst. We *funded* Airbnb, and we thought the idea was bad. The\nreason we funded them was just that we liked the",
+        "source": "corpus\\pg_essays\\how-to-earn-a-billion-dollars.md"
+      }
+    ]
+  },
+  "What does PG say about fundraising?": {
+    "role": "assistant",
+    "content": "Based on PG's essay \"How to Raise Money,\" here are his key points about fundraising:\n\n**Fundraising is Not the Main Goal**\n- The real test is revenue, not fundraising success. Being proud of how well you fundraised is like being proud of your college grades—it misses the point.\n- Fundraising is just a means to an end, not the end itself.\n\n**Priority Order for Phase 2 Fundraising**\nPG emphasizes the priorities should be:\n1. **Get the money you need** - so you can get back to focusing on your company's success\n2. **Good investors** - having the right partners matters\n3. **Valuation** - this should be at best third priority (not the main focus)\n\n**Valuation Isn't Everything**\n- Competing solely to raise money at the highest valuation is \"stupid\"\n- Even highly successful companies like Dropbox and Airbnb raised at relatively modest valuations ($4 million and $2.6 million pre-money at Y Combinator, respectively), yet became tremendously successful\n- If you can raise money at all, you're probably raising it at good valuations now anyway\n\nThe core message is: focus on building a successful company first. Fundraising is a tool to enable that success, not a measure of it.",
+    "tool_calls": [
+      {
+        "name": "search_essays",
+        "input": {
+          "query": "PG fundraising",
+          "top_k": 5
+        },
+        "reason": "I'll search the essay content for what PG (Paul Graham) says about fundraising."
+      }
+    ],
+    "sources": [
+      {
+        "id": "62d0cb1318238358fa2cf74686993f45caa737969eaf031c1c5a2ca637234198",
+        "score": 0.01639344262295082,
+        "text": "---\ntitle: How to Raise Money\nsource: https://paulgraham.com/fr.html\n---  \nSeptember 2013  \nMost startups that raise money do it more than once. A typical\ntrajectory might be (1) to get started with a few tens of thousands\nfrom something like Y Combinator or individual angels, then\n(2) raise a few hundred thousand to a few million to build the company,\nand then (3) once the company is clearly succeeding, raise one or\nmore later rounds to accelerate growth.  \nReality can be messier. Some companies raise money twice in phase\n2. Others skip phase 1 and go straight to phase 2. And at YCombinator\nwe get an increasing number of companies that have already\nraised amounts in the hundreds of thousands. But the three phase\npath is at least the one about which individual startups' paths\noscillate.  \nThis essay focuses on phase 2 fundraising. That's the type the\nstartups we fund are doing on Demo Day, and this essay is the advice\nwe give them.  \n**Forces**",
+        "source": "corpus\\pg_essays\\how-to-raise-money.md"
+      },
+      {
+        "id": "0eeac67f07f8fbff8542bd05f31f1a3be322fa1431c7933d9fe1c480f67ad843",
+        "score": 0.01639344262295082,
+        "text": "up competing to raise money at the highest valuation. This is\nstupid, because fundraising is not the test that matters. The real\ntest is revenue. Fundraising is just a means to that end. Being\nproud of how well you did at fundraising is like being proud of\nyour college grades.  \nNot only is fundraising not the test that matters, valuation is not\neven the thing to optimize about fundraising. The number one thing\nyou want from phase 2 fundraising is to get the money you need, so\nyou can get back to focusing on the real test, the success of your\ncompany. Number two is good investors. Valuation is at best third.  \nThe empirical evidence shows just how unimportant it is. Dropbox\nand Airbnb are the most successful companies we've funded so far,\nand they raised money after Y Combinator at premoney valuations of\n$4 million and $2.6 million respectively. Prices are so much higher\nnow that if you can raise money at all you'll probably raise it at",
+        "source": "corpus\\pg_essays\\how-to-raise-money.md"
+      },
+      {
+        "id": "6c1ebdc6fb51cb9c12298370d0b85810f1d58ef72d794d523d5aa66fd04b9962",
+        "score": 0.016129032258064516,
+        "text": "I I I never knew it'd become that big. You know, I remember doing office hours with PG and PG couldn't figure it out and it was like started to stress me out. We were all sweating.  \nHe doesn't know CSS. He knows HTML tags. And he you know, you and you could like put like font properties on it, font you know, but that's about you know, Hacker News was more or less like about what he understood. Yeah, and like for someone that's like a as technical as PG, we thought that he was like, Oh, he would be able to get it. I mean he built hacker news, right? So this was twenty thirteen. Um, what was the market for website builders like then? I think it was pretty competitive by that point.",
+        "source": "corpus\\yc_library\\the-age-of-the-40-year-old-solo-founder-is-here.md"
+      },
+      {
+        "id": "a72154cc953c05dca0cb0ad35b92354f1ff6d30263cd8d5821fef2f0490a0e2a",
+        "score": 0.016129032258064516,
+        "text": "**1.** [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html) by Paul Graham  \n**2.** [How to Raise Money](http://paulgraham.com/fr.html) by Paul Graham  \n**3.** [Taking Advice](https://blog.aaronkharris.com/taking-advice) by Aaron Harris",
+        "source": "corpus\\yc_library\\yc-s-essential-startup-advice.md"
+      },
+      {
+        "id": "f12abdd6be7b35fd3d629ddcbb79f64a38eeb1a53aebbdbf797f852a8b731075",
+        "score": 0.015873015873015872,
+        "text": "---\ntitle: Fundraising Fundamentals (SUS 2018)\nsource: https://www.ycombinator.com/library/7I-fundraising-fundamentals-sus-2018\n---  \nYC Partner Geoff Ralston gives an introduction to the key concepts to keep in mind once you enter a fundraising process.",
+        "source": "corpus\\yc_library\\fundraising-fundamentals-sus-2018.md"
+      }
+    ]
+  },
+  "List essays about founders": {
+    "role": "assistant",
+    "content": "Here are the essays about founders available in the library:\n\n1. Five Founders\n2. What We Look for in Founders\n3. How Universities Should Prepare Founders\n4. Learning from Founders\n5. Why It's Safe for Founders to Be Nice\n6. Enterprise Sales for Founders\n7. 33 AI Startup Founders Debate the Creation of Artificial General Intelligence\n8. Do technical founders need a business co-founder?\n9. Product Advice for Hardware Founders\n\nWould you like me to retrieve the content of any specific essay?",
+    "tool_calls": [
+      {
+        "name": "list_topics",
+        "input": {
+          "query": "founders"
+        },
+        "reason": "I'll search for a list of essays about founders."
+      }
+    ],
+    "sources": []
+  }
+}

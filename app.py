@@ -1,13 +1,9 @@
 import streamlit as st
 
-from main import client, tools, retrieve_context, list_topics, format_records, load_bm25_corpus, load_titles
+from main import client, tools, retrieve_context, list_topics, format_records, load_bm25_corpus, load_titles, MODEL, AGENT_SYSTEM_PROMPT
+from examples import EXAMPLE_QUESTIONS, load_cached_answers, normalize
 
-MODEL = "claude-haiku-4-5"
 MAX_ITERATIONS = 5
-SYSTEM_PROMPT = (
-    "Answer only from context. Before calling a tool, state in one brief "
-    "sentence why you are calling it, then call the tool."
-)
 
 st.set_page_config(page_title="Startup Library", page_icon="📚")
 st.title("Startup Library Assistant")
@@ -23,6 +19,62 @@ def warm_up():
 
 
 warm_up()
+
+
+@st.cache_resource
+def cached_answers():
+    return load_cached_answers()
+
+
+ARCHITECTURE = """
+digraph {
+    rankdir=TB
+    node [shape=box style="rounded,filled" fillcolor="#f0f2f6" fontname="sans-serif" fontsize=11]
+    edge [fontname="sans-serif" fontsize=9]
+    q [label="Question"]
+    agent [label="Claude Haiku agent loop\n(picks a tool each turn, max 5)" fillcolor="#ffe8cc"]
+    dense [label="Dense search\nGemini embeddings + Pinecone"]
+    bm25 [label="Keyword search\nBM25"]
+    rrf [label="Reciprocal Rank Fusion"]
+    topics [label="list_topics\n(title index)"]
+    answer [label="Answer grounded in\nretrieved context" fillcolor="#d3f9d8"]
+    q -> agent
+    agent -> dense [label="search_essays"]
+    agent -> bm25
+    dense -> rrf
+    bm25 -> rrf
+    agent -> topics
+    rrf -> agent [label="top-k chunks"]
+    topics -> agent
+    agent -> answer
+}
+"""
+
+
+def render_sidebar():
+    with st.sidebar:
+        st.header("How it works")
+        st.markdown(
+            "An agent over ~400 Paul Graham essays and YC Startup Library posts. "
+            "Each turn, Claude decides whether to search the corpus or list titles, "
+            "then answers only from what it retrieved."
+        )
+        st.graphviz_chart(ARCHITECTURE, width="stretch")
+
+        st.subheader("Eval results")
+        st.caption("18 hand-written questions (easy, multi-hop, out-of-scope, browsing), LLM-as-judge.")
+        col1, col2 = st.columns(2)
+        col1.metric("Overall score", "0.95", "+0.11 vs one-pass RAG")
+        col2.metric("Faithfulness", "1.00")
+        col1.metric("Context recall", "0.97")
+        col2.metric("Tool choice", "100%")
+        st.caption(
+            "Agent loop vs. single-pass RAG baseline (0.84), 1000-token chunks with 150 overlap. "
+            "[Full results](https://docs.google.com/spreadsheets/d/1hyEVvpAo-MYJM3A43c-CUo1Hd3xRI01FvHSbk6QdTOs/edit?gid=0#gid=0)"
+        )
+
+
+render_sidebar()
 
 if "history" not in st.session_state:
     st.session_state.history = []
@@ -63,13 +115,31 @@ def render_message(entry):
 for entry in st.session_state.history:
     render_message(entry)
 
-query = st.chat_input("Ask about startups, fundraising, YC...")
+clicked_example = None
+if not st.session_state.history:
+    examples_area = st.empty()
+    with examples_area.container():
+        st.markdown("**Not sure what to ask? Try one of these:**")
+        for i, (col, question) in enumerate(zip(st.columns(len(EXAMPLE_QUESTIONS)), EXAMPLE_QUESTIONS)):
+            if col.button(question, key=f"example_{i}", width="stretch"):
+                clicked_example = question
+
+query = st.chat_input("Ask about startups, fundraising, YC...") or clicked_example
+cached = cached_answers().get(normalize(query)) if query else None
 
 if query:
-    st.session_state.history.append({"role": "user", "content": query})
-    with st.chat_message("user"):
-        st.markdown(query)
+    if not st.session_state.history:
+        examples_area.empty()
+    entry = {"role": "user", "content": query}
+    st.session_state.history.append(entry)
+    render_message(entry)
 
+if cached:
+    # pre-computed with `python examples.py`, so example questions answer instantly
+    render_message(cached)
+    st.session_state.history.append(cached)
+
+elif query:
     messages = [{"role": "user", "content": query}]
     tool_trace = []
     sources = []
@@ -93,7 +163,7 @@ if query:
                     max_tokens=2000,
                     tools=tools,
                     messages=messages,
-                    system=SYSTEM_PROMPT,
+                    system=AGENT_SYSTEM_PROMPT,
                 ) as stream:
                     for delta in stream.text_stream:
                         yield delta

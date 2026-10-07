@@ -20,6 +20,13 @@ NAMESPACE = "startup-library"
 CHUNKS_DIR = pathlib.Path(__file__).parent / "chunks"
 CONSTANT_K = 60
 
+MODEL = "claude-haiku-4-5"
+# system prompt for the Streamlit app, which shows the stated reason next to each tool call
+AGENT_SYSTEM_PROMPT = (
+	"Answer only from context. Before calling a tool, state in one brief "
+	"sentence why you are calling it, then call the tool."
+)
+
 
 # load environment variables
 load_dotenv()
@@ -203,7 +210,7 @@ def list_topics(query: str = "") -> str:
 	result = ""
 	for title in load_titles():
 		if not query or query.lower() in title.lower():
-			result += title
+			result += title + "\n"
 
 	return result
 
